@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-setup/playgrounds/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/software-setup/playgrounds/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 You can install [Playgrounds on macOS](https://apps.apple.com/ca/app/swift-playgrounds/id1496833156?mt=12), or install it on an iPad.
