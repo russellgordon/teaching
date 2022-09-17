@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/portfolios-and-achievement/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[[Current Courses/Grade 10 Introduction to Computer Studies/Daily Updates/Section 1/Home|🏡 Back to Home]]
 # Portfolios and Achievement
 In the Computer Studies program at Lakefield College School *students are creators*.
 
