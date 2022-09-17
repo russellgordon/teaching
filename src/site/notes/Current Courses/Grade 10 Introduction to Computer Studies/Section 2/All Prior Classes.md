@@ -14,10 +14,6 @@
 </div>
 
 
----
-dg-publish: true
-dg-home-link: false
----
 ### Thread 1, Day 1
 #### Agenda
 1. LCAT
