@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/learning-goals/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[[Current Courses/Grade 10 Introduction to Computer Studies/Home|🏡 Back to Home]]
+[[Current Courses/Grade 10 Introduction to Computer Studies/Daily Updates/Section 1/Home|🏡 Back to Home]]
 # Learning Goals
 For all learning goals, we will engage in further discussion.
 
