@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-1/home/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-# Grade 10 Introduction to Computer Studies
+# Grade 10 Introduction to Computer Studies - Section 1
 ## Most Recent Class
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -17,7 +17,7 @@
 ### Thread 1, Day 1
 #### Agenda
 1. LCAT
-	* Please complete your daily LCAT check prior to coming to class.
+	* Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
 2. Tying Shoelaces Exercise
 	* Takeaways:
 		* Computers take instructions literally. Very literally.
@@ -59,9 +59,7 @@ Monday|12:30 PM to 1 PM|Room 36
 Thursday|1:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
-*Have a question?*
-**Don't hesitate.**
-Come on by! 
+If you have a question, **don't hesitate**, come on by! 
 
 </div></div>
 
@@ -76,9 +74,7 @@ Come on by!
 
 
 # Key Links
-* [Spaces](https://ca.spacesedu.com/)
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement|Portfolios and Achievement]]
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals|Learning Goals]]
-* [LCAT Health Check](https://lcat.lcs.on.ca)
+[Spaces](https://ca.spacesedu.com/) | [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement|Portfolios and Achievement]] | [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals|Learning Goals]] | [LCAT Health Check](https://lcat.lcs.on.ca)
+-|-|-|-
 
 </div></div>
