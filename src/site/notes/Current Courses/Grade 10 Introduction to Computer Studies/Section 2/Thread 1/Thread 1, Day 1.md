@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-1/thread-1-day-1/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-### Thread 1, Day 1
+### Thread 1, Day 1 - Monday, September 12, 2022
 #### Agenda
 1. LCAT
 	* Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
