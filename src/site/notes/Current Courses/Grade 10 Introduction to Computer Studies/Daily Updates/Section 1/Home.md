@@ -39,6 +39,7 @@
 </div>
 
 
+# Grove Time
 Day|Time|Location
 -|-|-
 Monday|12:30 PM to 1 PM|Room 36
@@ -58,6 +59,7 @@ Thursday|1:30 PM to 2 PM|Room 36
 </div>
 
 
+# Key Links
 * [Spaces](https://ca.spacesedu.com/)
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios and Achievement|Portfolios and Achievement]]
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals|Learning Goals]]
