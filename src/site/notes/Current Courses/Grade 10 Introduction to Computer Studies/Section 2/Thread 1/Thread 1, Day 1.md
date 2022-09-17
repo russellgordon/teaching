@@ -2,10 +2,6 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-1/thread-1-day-1/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
----
-dg-publish: true
-dg-home-link: false
----
 ### Thread 1, Day 1
 #### Agenda
 1. LCAT
