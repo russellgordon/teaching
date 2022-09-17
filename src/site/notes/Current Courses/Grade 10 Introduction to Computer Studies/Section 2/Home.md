@@ -47,7 +47,7 @@
 	* Create subject folders for all your courses on your Desktop.
 	* Consider [creating hot corners](https://support.apple.com/en-ca/guide/mac-help/mchlp3000/mac) for key actions on your Mac.
 #### To-do items
-* Be sure you've completed your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new) and posted it in the private portfolio space [on Spaces](https://ca.spacesedu.com/).
+- [ ] Be sure you've completed your [Name Coach profile](https://www.name-coach.com/events/name-profile/registrations/new) and posted it in the private portfolio space [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
