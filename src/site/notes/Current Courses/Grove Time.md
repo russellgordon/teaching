@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grove-time/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
+# Grove Time
 Day|Time|Location
 -|-|-
 Monday|12:30 PM to 1 PM|Room 36
