@@ -60,25 +60,7 @@ Monday|12:30 PM to 1 PM|Room 36
 Thursday|1:30 PM to 2 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
-If you have a question, **don't hesitate**, come on by! 
+If you have a question, **don't hesitate**, come on by!
 
 </div></div>
 
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-
-
-</div>
-
-
-## Key Links
-* [Spaces](https://ca.spacesedu.com/)
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Portfolios and Achievement|Portfolios and Achievement]]
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals|Learning Goals]] 
-* [LCAT Health Check](https://lcat.lcs.on.ca)
-
-
-</div></div>
