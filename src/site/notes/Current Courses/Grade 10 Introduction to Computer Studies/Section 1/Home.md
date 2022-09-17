@@ -75,10 +75,11 @@ If you have a question, **don't hesitate**, come on by!
 </div>
 
 
+* [LCAT Health Check](https://lcat.lcs.on.ca)
 * [Spaces](https://ca.spacesedu.com/)
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement|Portfolios and Achievement]]
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals|Learning Goals]] 
-* [LCAT Health Check](https://lcat.lcs.on.ca)
-
+* [[ICS2O - Student Outline - 2022-23.pdf|Student Course Outline]]
+* [[ICS2OCourseofStudy2022-23.pdf|Ministry of Education Course of Study]]
 
 </div></div>
