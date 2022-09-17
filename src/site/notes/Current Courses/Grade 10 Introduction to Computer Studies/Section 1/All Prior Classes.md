@@ -14,7 +14,7 @@
 </div>
 
 
-### Thread 1, Day 1
+### Thread 1, Day 1 - Monday, September 12, 2022
 #### Agenda
 1. LCAT
 	* Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
