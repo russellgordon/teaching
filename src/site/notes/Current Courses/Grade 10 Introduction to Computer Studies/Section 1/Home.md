@@ -43,6 +43,7 @@
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes|all prior classes]] here.
+## Grove Time
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -53,7 +54,6 @@ You can see details of [[Current Courses/Grade 10 Introduction to Computer Studi
 </div>
 
 
-## Grove Time
 Day|Time|Location
 -|-|-
 Monday|12:30 PM to 1 PM|Room 36
@@ -64,6 +64,7 @@ If you have a question, **don't hesitate**, come on by!
 
 </div></div>
 
+## Key Links
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
@@ -74,7 +75,6 @@ If you have a question, **don't hesitate**, come on by!
 </div>
 
 
-## Key Links
 * [Spaces](https://ca.spacesedu.com/)
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement|Portfolios and Achievement]]
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals|Learning Goals]] 
