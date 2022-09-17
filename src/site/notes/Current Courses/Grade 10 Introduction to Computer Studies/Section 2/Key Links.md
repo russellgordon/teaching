@@ -6,5 +6,5 @@
 * [Spaces](https://ca.spacesedu.com/)
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Portfolios and Achievement|Portfolios and Achievement]]
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals|Learning Goals]] 
-* [[ICS2O - Student Outline - 2022-23.pdf|Student Course Outline]]
-* [[ICS2OCourseofStudy2022-23.pdf|Ministry of Education Course of Study]]
+* [Student Course Outline](https://tinyurl.com/lcscs22-g10-so)
+* [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g10-mcs)
