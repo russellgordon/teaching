@@ -5,4 +5,4 @@
 # Teaching and Learning
 Welcome to the public home for Mr. Gordon's notes about teaching and learning.
 ## Key Links
-* [[Software Setup/Software Setup|Software Setup]]
+* [[Software Setup/Introduction|Software Setup]]
