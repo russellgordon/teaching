@@ -17,7 +17,7 @@
 ### Thread 1, Day 1
 #### Agenda
 1. LCAT
-	* Please complete your daily LCAT check prior to coming to class.
+	* Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
 2. Tying Shoelaces Exercise
 	* Takeaways:
 		* Computers take instructions literally. Very literally.
