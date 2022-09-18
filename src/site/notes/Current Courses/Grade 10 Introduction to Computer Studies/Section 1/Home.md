@@ -42,9 +42,9 @@
 </div></div>
 
 ## All Prior Classes
+___
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes|all prior classes]] here.
-<hr/>
-
+___
 ## Grove Time
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
