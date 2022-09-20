@@ -34,7 +34,7 @@
 	- Here is a [[Media/Add the Sketches Template to Playgrounds|short animation showing how to add the Sketches Template]] to the Playgrounds app.
 #### To-do items
 *Before our next class, please...*
-- [ ] Install the Playgrounds app, if not compelted already
+- [ ] Install the Playgrounds app, if not completed already
 - [ ] Download the Shapes template and add to the Playgrounds app
 
 </div></div>
