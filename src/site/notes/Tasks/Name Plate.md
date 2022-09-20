@@ -29,4 +29,4 @@ Make a post on [Spaces](https://ca.spacesedu.ca) in your private portfolio space
 - [ ] share a screenshot of your work on this task
 - [ ] briefly respond to the prompts above
 ## Learning goals
-Successful completion of this task is great initial evidence for learning goals [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1|Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1]] and [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2|Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2]].
+Successful completion of this task is great initial evidence for learning goals [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1|1]] and [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2|2]].
