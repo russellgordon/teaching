@@ -17,7 +17,7 @@ Draw a regular triangle, a square, and a regular pentagon in a sketch. Separate 
 1. What problems did you encounter when completing this task? How did you and your partner resolve them?
 2. How did your code differ from code written by another group? Did you learn anything new by comparing your code to someone else's?
 
-Make a post on [Spaces](https://ca.spacesedu.ca) in your private portfolio space to:
+Make a post on [Spaces](https://ca.spacesedu.com) in your private portfolio space to:
 - [ ] share a screenshot of your group's work on this task
 - [ ] briefly respond to the prompts above
 ## Learning goals
