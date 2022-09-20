@@ -49,7 +49,7 @@ turtle.forward(distance: 100)
 turtle.left(angleInDegrees: 120)
 }
 
-    // Create seperation before drawing next shape
+    // Create separation before drawing next shape
 turtle.penUp()
         turtle.forward(distance: 200)
 ```
@@ -61,7 +61,7 @@ for _ in 1...3 {
     turtle.left(angleInDegrees: 120)
 }
 
-// Create seperation before drawing next shape
+// Create separation before drawing next shape
 turtle.penUp()
 turtle.forward(distance: 200)
 ```
