@@ -24,6 +24,7 @@ Note how after a while, shorthand is used to describe turtle movements. This is 
 1. How long did it take you to draw out a plan?
 2. How often did you refer to your plan while coding?
 3. How might a plan be useful for debugging a logical error?
+
 Make a post on [Spaces](https://ca.spacesedu.ca) in your private portfolio space to:
 - [ ] share a screenshot of your work on this task
 - [ ] briefly respond to the prompts above
