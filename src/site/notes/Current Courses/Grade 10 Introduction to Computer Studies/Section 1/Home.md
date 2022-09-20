@@ -23,7 +23,7 @@
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Be sure you've completed all the expectations of the [[Tasks/Shapes|Shapes]] task.
+- [ ] Be sure you've completed all the expectations of the [[Tasks/Shapes|Shapes task]] .
 
 ==No need to work on the Name Plate task for homework.==
 
