@@ -14,6 +14,28 @@
 </div>
 
 
+### Thread 1, Day 3 - Tuesday, September 20, 2022
+#### Agenda
+1. Finish the [[Tasks/Shapes|Shapes task]] with your partner from last class.
+	- Pay close attention to the success criteria.
+	- Be sure to respond to the reflection questions on Spaces.
+#### To-do items
+*Before our next class, please...*
+
+- [ ] Be sure you've completed all the expectations of the [[Tasks/Shapes|Shapes task]] .
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 2 - Monday, September 19, 2022
 #### Agenda
 1. Hardcover graph paper notebooks.
