@@ -9,41 +9,51 @@ Exemplars of suitable evidence for each learning goal will be shared as the cour
 
 ## 1
 
-I can make a plan for achieving a goal with code.<br/><small>B2</small>
+I can make a plan for achieving a goal with code.
+[[Curriculum/Introduction to Computer Studies, Grade 10#B2|B2]]
 
 ## 2
 
-I can identify and correct both logical errors and syntax errors in my code.<br/><small>B2, B3</small>
+I can identify and correct both logical errors and syntax errors in my code.
+[[Curriculum/Introduction to Computer Studies, Grade 10#B2|B2]], [[Curriculum/Introduction to Computer Studies, Grade 10#B3|B3]]
 
 ## 3
 
-I can apply the concepts of sequence, selection, and iteration in code to obtain desired results.<br/><small>B1</small>
+I can apply the concepts of sequence, selection, and iteration in code to obtain desired results.
+[[Curriculum/Introduction to Computer Studies, Grade 10#B1|B1]]
 
 ## 4
 
-I know how to use simple data types and when to use variables or constants in my programs.<br/><small>B1, B2</small>
+I know how to use simple data types and when to use variables or constants in my programs.
+[[Curriculum/Introduction to Computer Studies, Grade 10#B1|B1]], [[Curriculum/Introduction to Computer Studies, Grade 10#B2|B2]]
 
 ## 5
 
-I am proficient at using my computer to organize local files and can use source control to organize and describe improvements made in my programs.<br/><small>A3, B3</small>
+I am proficient at using my computer to organize local files and can use source control to organize and describe improvements made in my programs.
+[[Curriculum/Introduction to Computer Studies, Grade 10#A3|A3]], [[Curriculum/Introduction to Computer Studies, Grade 10#B3|B3]]
 
 ## 6
 
-I have an understanding of how to maintain the security and manage the performance of a computing device.<br/><small>A5</small>
+I have an understanding of how to maintain the security and manage the performance of a computing device.
+[[Curriculum/Introduction to Computer Studies, Grade 10#A5|A5]]
 
 ## 7
 
-I can comment upon the impact of computing and software on civil society, including ethical considerations.<br/><small>C1, C3</small>
+I can comment upon the impact of computing and software on civil society, including ethical considerations.
+[[Curriculum/Introduction to Computer Studies, Grade 10#C1|C1]], [[Curriculum/Introduction to Computer Studies, Grade 10#C3|C3]]
 
 ## 8
 
-I can identify computer components and make recommendations for hardware purchases based upon a user’s requirements and a manufacturer’s commitment to environmental sustainability.<br/><small>A1, C2</small>
+I can identify computer components and make recommendations for hardware purchases based upon a user’s requirements and a manufacturer’s commitment to environmental sustainability.
+[[Curriculum/Introduction to Computer Studies, Grade 10#A1|A1]], [[Curriculum/Introduction to Computer Studies, Grade 10#C2|C2]]
 
 ## 9
 
-I have an understanding of home networking and can make recommendations on the software best suited to completing a given task.<br/><small>A2, A4</small>
+I have an understanding of home networking and can make recommendations on the software best suited to completing a given task.
+[[Curriculum/Introduction to Computer Studies, Grade 10#A2|A2]], [[Curriculum/Introduction to Computer Studies, Grade 10#A4|A4]]
 
 ## 10
 
-I can maintain a public-facing portfolio of my work in this class to facilitate applications to post-secondary programs of study and summer employment.<br/><small>C4</small>
+I can maintain a public-facing portfolio of my work in this class to facilitate applications to post-secondary programs of study and summer employment.
+[[Curriculum/Introduction to Computer Studies, Grade 10#C4|C4]]
 
