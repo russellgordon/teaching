@@ -7,11 +7,11 @@
 Draw a regular triangle, a square, and a regular pentagon in a sketch. Separate shapes so that there is some space between them.
 ## What you'll need to begin
 - The [[Software Setup/Playgrounds|Playgrounds]] app installed on your computer
-- The [Sketches Template](https://www.icloud.com/iclouddrive/05byqMOJr5k8w6zM3ehUHTv1Q#Sketches_Template) downloaded and [[Add the Sketches Template to Playgrounds.gif|correctly added to the Playgrounds app]]
+- The [Sketches Template](https://www.icloud.com/iclouddrive/05byqMOJr5k8w6zM3ehUHTv1Q#Sketches_Template) downloaded and [[Media/Add the Sketches Template to Playgrounds|correctly added to the Playgrounds app]]
 - A partner to engage in the *Driver-Navigator* paired programming model.
 
 ## Success criteria
-- [ ] a regular triangle, square, and pentagon are drawn
+- [ ] a regular triangle, square, and pentagon are drawn, separated by some empty space
 - [ ] code includes [[Style/Well Formatted Code#Use Comments to Describe Intent|concise comments that describe intent]]
 - [ ] code is [[Style/Well Formatted Code#Indent Code Consistently|correctly indented]]
 
