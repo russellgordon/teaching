@@ -39,6 +39,7 @@ turtle.forward(distance: 100)
 turtle.left(angleInDegrees: 120)
 ```
 The first example describes intent.
+
 The second example uses too many comments and describes the code rather than what the code is meant to do.
 ## Indent Code Consistently
 Code blocks should be consistently indented.
