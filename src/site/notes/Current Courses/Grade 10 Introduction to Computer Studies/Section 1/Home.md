@@ -4,6 +4,16 @@
 
 # Grade 10 Introduction to Computer Studies - Section 1
 ## Most Recent Class
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 5 - Thursday, September 22, 2022
 #### Agenda
 1. [Keyboard shortcuts in Playgrounds](https://www.russellgordon.ca/tutorials/keyboard-shortcuts-in-playgrounds/) allow you to work more efficiently.
@@ -22,7 +32,16 @@
 	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
 5. Introduce [[Tasks/Campus Line Drawing|Campus Line Drawing]] task
 	- Complete a walk around campus to find suitable locations.
+6. Working time
+	- If needed, finish up the [[Tasks/Name Plate|Name Plate]] task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+ 
+#### To-do items
+*Before our next class, please...*
 
+- [ ] Make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Remember to make your post [on Spaces](https://ca.spacesedu.com/) to respond to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+
+</div></div>
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes|all prior classes]] here.
