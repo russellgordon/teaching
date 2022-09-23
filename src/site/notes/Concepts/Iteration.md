@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/iteration/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concepts/iteration/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Iteration
