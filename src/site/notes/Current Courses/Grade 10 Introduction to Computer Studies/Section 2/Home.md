@@ -4,6 +4,16 @@
 
 # Grade 10 Introduction to Computer Studies - Section 2
 ## Most Recent Class
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 5 - Friday, September 23, 2022
 #### Agenda
 1. [Spaces](https://ca.spacesedu.com/)
@@ -24,6 +34,25 @@
 	- A computer is very good at repeatedly doing the same thing.
 	- We can use a loop to describe what instructions should be repeated.
 	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
+6. Introduce [[Tasks/Campus Line Drawing|Campus Line Drawing]] task
+	- Complete a walk around campus to find suitable locations.
+6. Working time in class
+	- If needed:
+		- [ ] polish your Spaces posts
+		- [ ] finish up the [[Tasks/Name Plate|Name Plate]] task
+	- Or:
+		- [ ] begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+ 
+#### To-do items
+*Before our next class, please...*
+
+- [ ] If requested in my replies to your [Spaces](https://ca.spacesedu.com/) posts, please provide additional information.
+- [ ] Make some progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- ==NOTE==: You will also have class time over the next several periods to work on this task.
+	- [ ] For the Campus Line Drawing task, please be sure to make a post [on Spaces](https://ca.spacesedu.com/) at the end of each class (or at the end of Study time in the evening)
+		- Here are the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+
+</div></div>
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes|all prior classes]] here.
