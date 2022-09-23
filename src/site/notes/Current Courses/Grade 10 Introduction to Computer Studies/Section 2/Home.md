@@ -18,6 +18,13 @@
 	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
 		- Often during this process, you will realize the source of the problem you are having.
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
+4. [[Concepts/Sequence|Sequence]]
+	- Does sequence of statements matter? Yes.
+5. [[Concepts/Iteration|Iteration]]
+	- A computer is very good at repeatedly doing the same thing.
+	- We can use a loop to describe what instructions should be repeated.
+	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
+
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes|all prior classes]] here.
 ___
