@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/sequence/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concepts/sequence/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
 # Sequence
