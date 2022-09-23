@@ -10,6 +10,8 @@
 	- Please take a moment to read your replies from me.
 	- If I've requested some additional info, please complete those short tasks later on, during Study time.
 		- Requests for more information come from a place of wanting your portfolio to be in the best shape it can be to show your eventual mastery of our [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals|course learning goals]]. 👍🏼
+2. [Keyboard shortcuts in Playgrounds](https://www.russellgordon.ca/tutorials/keyboard-shortcuts-in-playgrounds/) allow you to work more efficiently.
+	- Bookmark that page for future reference.
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes|all prior classes]] here.
 ___
