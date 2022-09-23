@@ -12,6 +12,12 @@
 		- Requests for more information come from a place of wanting your portfolio to be in the best shape it can be to show your eventual mastery of our [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals|course learning goals]]. 👍🏼
 2. [Keyboard shortcuts in Playgrounds](https://www.russellgordon.ca/tutorials/keyboard-shortcuts-in-playgrounds/) allow you to work more efficiently.
 	- Bookmark that page for future reference.
+3. [Rubber Duck Debugging](https://rubberduckdebugging.com)
+	- Programming can be hard, both for beginners and experienced software developers.
+	- If you are running into syntax errors or logical errors and perhaps getting frustrated: that is normal!
+	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
+		- Often during this process, you will realize the source of the problem you are having.
+	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes|all prior classes]] here.
 ___
