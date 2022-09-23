@@ -38,8 +38,10 @@
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
-- [ ] Remember to make your post [on Spaces](https://ca.spacesedu.com/) to respond to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Make some progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- ==NOTE==: You will also have class time over the next several periods to work on this task.
+	- [ ] For the Campus Line Drawing task, please be sure to make a post [on Spaces](https://ca.spacesedu.com/) at the end of each class (or at the end of Study time in the evening)
+		- Here are the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 
 </div></div>
 
