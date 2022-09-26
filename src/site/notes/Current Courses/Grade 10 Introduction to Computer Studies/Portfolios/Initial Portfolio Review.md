@@ -15,11 +15,11 @@ For this portfolio review, only these levels will be used. No numeric grade will
 The overall purpose of your portfolio is to provide evidence of mastery of the [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals|course learning goals]].
 
 To *meet* expectations, be sure you have:
-- [ ] met the success criteria for all tasks to date
+- [ ] met the success criteria for [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Introduction|all tasks to date]]
 	- [ ] documented this by adding screenshots, photos, or videos to your portfolio
 - [ ] responded fully to reflection prompts
 
-If you do not have evidence in your portfolio of having met the success criteria for all tasks, you are *approaching* expectations.
+If you do not have evidence in your portfolio of having met the success criteria for [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Introduction|all tasks]], you are *approaching* expectations.
 
 If you have evidence in your portfolio that suggests further mastery of a [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals|course learning goal]], but which was not explicitly spelled out in the success criteria for a task, you may be *exceeding* expectations.
 
