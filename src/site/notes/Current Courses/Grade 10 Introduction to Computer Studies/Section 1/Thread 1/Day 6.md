@@ -5,7 +5,7 @@
 ### Thread 1, Day 6 - Monday, September 26, 2022
 #### Agenda
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|Initial Portfolio Review]]
-	- In our final class this week (Thursday) you will meet individually with Mr. Gordon to propose a level of achievement.
+	- In our final class this week (Saturday) you will meet individually with Mr. Gordon to propose a level of achievement.
 2. [[Concepts/Iteration#Applying iteration|Applying Iteration]]
 	- When using loops to make part of a drawing:
 		a. carefully isolate the actions to be repeated
