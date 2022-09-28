@@ -16,4 +16,4 @@
 	- Be sure to include a screenshot or photo of your progress.
 
 > [!TIP]
-> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place **tomorrow**. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]]. Write your post on Spaces to propose your current level of achievement.
+> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place **tomorrow**. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]]. Write your post [on Spaces](https://ca.spacesedu.com/) to propose your current level of achievement.
