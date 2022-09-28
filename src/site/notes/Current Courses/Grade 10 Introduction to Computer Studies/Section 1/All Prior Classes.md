@@ -14,10 +14,39 @@
 </div>
 
 
+### Thread 1, Day 7 - Tuesday, September 27, 2022
+#### Agenda
+1. Working time
+	- You have the remainder of class time today to make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+ 
+#### To-do items
+*Before our next class, please...*
+
+- [ ] Make a "update" post for the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+	- Be sure to include a screenshot or photo of your progress.
+
+> [!NOTE]
+> Tomorrow is the final working period for the [[Tasks/Campus Line Drawing|this task]]. As needed, you may wish to make more progress this evening.
+
+> [!TIP]
+> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place on Thursday. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]].
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 6 - Monday, September 26, 2022
 #### Agenda
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|Initial Portfolio Review]]
-	- In our final class this week (Saturday) you will meet individually with Mr. Gordon to propose a level of achievement.
+	- In our final class this week (Thursday) you will meet individually with Mr. Gordon to propose a level of achievement.
 2. [[Concepts/Iteration#Applying iteration|Applying Iteration]]
 	- When using loops to make part of a drawing:
 		a. carefully isolate the actions to be repeated
