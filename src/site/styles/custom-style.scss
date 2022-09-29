@@ -16,7 +16,7 @@ body {
     img {
         margin-top: 20px;
     }
-    .external-link !important {
-        background-image: none;
+    .external-link {
+        background-image: none !important;
     }
 }
