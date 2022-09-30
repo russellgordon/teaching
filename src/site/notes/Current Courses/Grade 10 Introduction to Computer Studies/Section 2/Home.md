@@ -16,8 +16,15 @@
 
 ### Thread 1, Day 8 - Friday, September 30, 2022
 #### Agenda
-1. Working time
-	- You have the entire class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+1. [Night Eye](https://nighteye.app/)
+	- Another "dark mode" extension for desktop and mobile web browsers and operating systems.
+	- Not quite as nice as [Noir](https://getnoir.app/) in my personal experience – but Night Eye is free.
+	- It is available for a wide variety of platforms (see the ["Install" link at the top of their website](https://nighteye.app/)).
+2. Process over product
+	- Documenting the evolution of your work in steps will be helpful later this year when you are asked to describe your growth as a student in this course.
+	- If you haven't yet, please be sure to make a [post on Spaces](https://ca.spacesedu.com/) to share your progress since our last class.
+3. Working time
+	- You have the rest of this class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 
 #### To-do items
 *Before our next class, please...*
