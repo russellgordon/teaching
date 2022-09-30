@@ -8,7 +8,7 @@
 	- Students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|review portfolios]].
 2. Working time
 	- While portfolio reviews occur, make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
-	- Aim to go exceed expectations by added elements like clouds or trees to your drawing.
+	- Aim to  exceed expectations by adding elements like clouds, trees, or other enhancements to your drawing.
 3. [[Concepts/Random Numbers|Using Random Numbers]]
 	- Random numbers can be used to create some element of variation in your drawing.
 	- This example from the end of class shows how random numbers could be used to create a grass-like form.
