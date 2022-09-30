@@ -5,7 +5,7 @@
 ### Thread 1, Day 7 - Tuesday, September 27, 2022
 #### Agenda
 1. Working time
-	- You have the remainder of class time today to make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the entire class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
