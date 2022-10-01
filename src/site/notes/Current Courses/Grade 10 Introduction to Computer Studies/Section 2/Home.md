@@ -14,26 +14,23 @@
 </div>
 
 
-### Thread 1, Day 8 - Friday, September 30, 2022
+### Thread 1, Day 9 - Saturday, October 1, 2022 🍂
 #### Agenda
-1. [Night Eye](https://nighteye.app/)
-	- Another "dark mode" extension for desktop and mobile web browsers and operating systems.
-	- Not quite as nice as [Noir](https://getnoir.app/) in my personal experience – but Night Eye is free.
-	- It is available for a wide variety of platforms (see the ["Install" link at the top of their website](https://nighteye.app/)).
-2. Process over product
-	- Documenting the evolution of your work in steps will be helpful later this year when you are asked to describe your growth as a student in this course.
-	- If you haven't yet, please be sure to make a [post on Spaces](https://ca.spacesedu.com/) to share your progress since our last class.
+1. [[Concepts/Random Numbers|Using Random Numbers]]
+	- Random numbers can be used to create some element of variation in your drawing.
+	- This example from the end of class shows how random numbers could be used to create a grass-like form.
+2. Portfolio Reviews
+	- Students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|review portfolios]].
 3. Working time
-	- You have the rest of this class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
-
+	- While portfolio reviews occur, make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- Aim to  exceed expectations by adding elements like clouds, trees, or other enhancements to your drawing.
+ 
 #### To-do items
-*Before our next class, please...*
+*Before our next class on Monday, please...*
 
-- [ ] Make a "update" post for the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
-	- Be sure to include a screenshot or photo of your progress.
-
-> [!TIP]
-> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place **tomorrow**. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]]. Write your post [on Spaces](https://ca.spacesedu.com/) to propose your current level of achievement.
+- [ ] Aim to complete your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+	- Be sure to include screenshot(s) or photo(s) of your progress, including the code.
 
 </div></div>
 
