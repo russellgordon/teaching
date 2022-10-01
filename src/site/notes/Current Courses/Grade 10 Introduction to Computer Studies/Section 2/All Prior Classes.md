@@ -14,6 +14,36 @@
 </div>
 
 
+### Thread 1, Day 9 - Saturday, October 1, 2022 🍂
+#### Agenda
+1. [[Concepts/Random Numbers|Using Random Numbers]]
+	- Random numbers can be used to create some element of variation in your drawing.
+	- This example from the end of class shows how random numbers could be used to create a grass-like form.
+2. Portfolio Reviews
+	- Students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|review portfolios]].
+3. Working time
+	- While portfolio reviews occur, make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- Aim to  exceed expectations by adding elements like clouds, trees, or other enhancements to your drawing.
+ 
+#### To-do items
+*Before our next class on Monday, please...*
+
+- [ ] Aim to complete your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+	- Be sure to include screenshot(s) or photo(s) of your progress, including the code.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 8 - Friday, September 30, 2022
 #### Agenda
 1. [Night Eye](https://nighteye.app/)
