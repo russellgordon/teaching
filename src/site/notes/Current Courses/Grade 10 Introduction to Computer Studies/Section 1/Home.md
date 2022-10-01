@@ -30,7 +30,7 @@
 
 - [ ] Aim to complete your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 - [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
-	- Be sure to include screenshot(s) or photo(s) of your progress, including the code.
+	- [ ] Be sure to include screenshot(s) or photo(s) of your progress, including the code.
 
 </div></div>
 
