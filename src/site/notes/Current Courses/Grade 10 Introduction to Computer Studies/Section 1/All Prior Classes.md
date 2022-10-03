@@ -14,6 +14,23 @@
 </div>
 
 
+### Thread 1, Day 10 - Monday, October 3, 2022
+#### Agenda
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3)
+	- Please download this new version, which allows for line by line debugging and some other useful features.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 9 - Thursday, September 29, 2022
 #### Agenda
 1. Portfolio Reviews
