@@ -18,7 +18,7 @@
 4. Introduce [paired programming models](https://www.drovio.com/blog/the-different-styles-of-pair-programming/).
 	- We will use the *Driver-Navigator* pattern most often.
 5. Install the [[Software Setup/Playgrounds|Playgrounds app]].
-6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3).
+6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4).
 	- Here is a [[Media/Add the Sketches Template to Playgrounds|short animation showing how to add the Sketches Template]] to the Playgrounds app.
 #### To-do items
 *Before our next class, please...*
