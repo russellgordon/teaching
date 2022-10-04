@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 10 - Monday, October 3, 2022
 #### Agenda
-1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3)
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4)
 	- Please download this new version, which allows for line by line debugging and some other useful features.
 2. Using Functions with Parameters
 	- Today's lesson about how to use functions to make regular polygons could have been clearer.
