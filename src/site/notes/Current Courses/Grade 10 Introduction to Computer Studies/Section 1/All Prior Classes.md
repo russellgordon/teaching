@@ -14,9 +14,31 @@
 </div>
 
 
+### Thread 1, Day 11 - Tuesday, October 4, 2022
+#### Agenda
+1. Start the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+	- This is the final task for this thread of the course.
+	- Apply the feedback you received on earlier tasks to show mastery of learning goals on this task.
+	
+#### To-do items
+*By the start of our class tomorrow – Wednesday – be sure to...*
+- [ ] Finish the plan for your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 10 - Monday, October 3, 2022
 #### Agenda
-1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3)
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4)
 	- Please download this new version, which allows for line by line debugging and some other useful features.
 2. Using Functions with Parameters
 	- Today's lesson about how to use functions to make regular polygons could have been clearer.
@@ -280,7 +302,7 @@ You will have all of tomorrow's class to work on that task.
 4. Introduce [paired programming models](https://www.drovio.com/blog/the-different-styles-of-pair-programming/).
 	- We will use the *Driver-Navigator* pattern most often.
 5. Install the [[Software Setup/Playgrounds|Playgrounds app]].
-6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3).
+6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4).
 	- Here is a [[Media/Add the Sketches Template to Playgrounds|short animation showing how to add the Sketches Template]] to the Playgrounds app.
 #### To-do items
 *Before our next class, please...*
