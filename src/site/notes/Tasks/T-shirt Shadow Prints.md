@@ -42,4 +42,4 @@ For each class that you work on this task, please post a screenshot of your prog
 1. What did I learn or make progress upon today?
 2. What do I have questions about / what am I struggling with?
 ## Learning goals
-Successful completion of this task is great evidence of mastery for these learning goals [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1|1]], [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2|2]], and [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#3|3]].
+Successful completion of this task is great evidence of mastery for learning goals [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1|1]], [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2|2]], and [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#3|3]].
