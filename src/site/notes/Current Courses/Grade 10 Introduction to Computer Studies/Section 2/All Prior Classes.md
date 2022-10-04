@@ -14,9 +14,31 @@
 </div>
 
 
+### Thread 1, Day 11 - Tuesday, October 4, 2022
+#### Agenda
+1. Start the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+	- This is the final task for this thread of the course.
+	- Apply the feedback you received on earlier tasks to show mastery of learning goals on this task.
+	
+#### To-do items
+*By the start of our class next Tuesday – be sure to, at least...*
+- [ ] Finish the plan for your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 10 - Monday, October 3, 2022
 #### Agenda
-1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3)
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4)
 	- Please download this new version, which allows for line by line debugging and some other useful features.
 2. Using Functions with Parameters
 	- Functions are used to "teach the computer a new trick".
@@ -28,6 +50,36 @@
 *Before tomorrow's class, please...*
 - [ ] As a first priority, finish your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task if it is not complete – with an update [on Spaces](https://ca.spacesedu.com/) when you are done, responding to the provided [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 - [ ] Otherwise, spend some time creating a few [Spirograph-like](https://duckduckgo.com/?q=spirograph+art) forms.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+### Thread 1, Day 9 - Saturday, October 1, 2022 🍂
+#### Agenda
+1. [[Concepts/Random Numbers|Using Random Numbers]]
+	- Random numbers can be used to create some element of variation in your drawing.
+	- This example shows how random numbers could be used to create a grass-like form.
+2. Portfolio Reviews
+	- Students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|review portfolios]].
+3. Working time
+	- While portfolio reviews occur, make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- Aim to  exceed expectations by adding elements like clouds, trees, or other enhancements to your drawing.
+ 
+#### To-do items
+*Before our next class on Monday, please...*
+
+- [ ] Aim to complete your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+	- [ ] Be sure to include screenshot(s) or photo(s) of your progress, including the code.
 
 </div></div>
 
@@ -257,7 +309,7 @@
 4. Introduce [paired programming models](https://www.drovio.com/blog/the-different-styles-of-pair-programming/).
 	- We will use the *Driver-Navigator* pattern most often.
 5. Install the [[Software Setup/Playgrounds|Playgrounds app]].
-6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/09fjCvm9wh-Aw8LzAYDz4zcdw#Turtle_Sketches_Template_v3).
+6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4).
 	- Here is a [[Media/Add the Sketches Template to Playgrounds|short animation showing how to add the Sketches Template]] to the Playgrounds app.
 #### To-do items
 *Before our next class, please...*
