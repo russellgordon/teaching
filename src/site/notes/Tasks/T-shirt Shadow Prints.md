@@ -13,7 +13,7 @@ Create a design that when inverted, will look appealing when [printed with sunli
 - [ ] An image to reproduce, possibilities include:
 	- [optical illusion art](https://duckduckgo.com/?q=optical+illusion+art+using+straight+lines)
 	- [line art to create a sense of perspective](https://duckduckgo.com/?q=line+art+perspective)
-	Alternatively, you can create an image of your own design, if you are confident this will not be too time-consuming.
+Alternatively, you can create an image of your own design, if you are confident this will not be too time-consuming.
 ## Success criteria
 - [ ] a hand-drawn plan is made that:
 	- [ ] includes a scale
