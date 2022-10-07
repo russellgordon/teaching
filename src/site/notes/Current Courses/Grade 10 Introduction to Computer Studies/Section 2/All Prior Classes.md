@@ -44,7 +44,7 @@
 
 ### Thread 1, Day 10 - Monday, October 3, 2022
 #### Agenda
-1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4)
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1)
 	- Please download this new version, which allows for line by line debugging and some other useful features.
 2. Using Functions with Parameters
 	- Functions are used to "teach the computer a new trick".
@@ -315,7 +315,7 @@
 4. Introduce [paired programming models](https://www.drovio.com/blog/the-different-styles-of-pair-programming/).
 	- We will use the *Driver-Navigator* pattern most often.
 5. Install the [[Software Setup/Playgrounds|Playgrounds app]].
-6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4).
+6. Download the [Sketches Template](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1).
 	- Here is a [[Media/Add the Sketches Template to Playgrounds|short animation showing how to add the Sketches Template]] to the Playgrounds app.
 #### To-do items
 *Before our next class, please...*
