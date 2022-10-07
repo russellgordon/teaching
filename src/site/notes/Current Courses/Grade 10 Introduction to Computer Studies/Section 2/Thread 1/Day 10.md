@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 10 - Monday, October 3, 2022
 #### Agenda
-1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4)
+1. [Updated Sketches Playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1)
 	- Please download this new version, which allows for line by line debugging and some other useful features.
 2. Using Functions with Parameters
 	- Functions are used to "teach the computer a new trick".
