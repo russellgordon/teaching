@@ -7,7 +7,7 @@
 Create a design that when inverted, will look appealing when [printed with sunlight-activated dye on a T-shirt](http://www.inkodye.com/guides/photo).
 ## What you'll need to begin
 - [ ] The [[Software Setup/Playgrounds|Playgrounds]] app installed on your computer
-- [ ] A copy of [version 4.0 of the Sketches playground](https://www.icloud.com/iclouddrive/085PBmhbvxDWNyfIntg--NrYQ#Turtle_Sketches_Template_v4), added to the Playgrounds app [[Media/Adding the New Sketches Template to Playgrounds|by drag and drop]]
+- [ ] A copy of [version 4.0 of the Sketches playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1), added to the Playgrounds app [[Media/Adding the New Sketches Template to Playgrounds|by drag and drop]]
 - [ ] Your black, hardcover, graph paper notebook
 - [ ] Writing instruments, including a ruler or straight edge
 - [ ] An image to reproduce, possibilities include:
