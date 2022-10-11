@@ -10,7 +10,11 @@
 > [!IMPORTANT]
 > Please double check that you are handing in the correct file by first running the playground file before handing it in.
 
-2. Continue the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+2. Filling Shapes
+	- The [latest version of the Turtle Sketches playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1), version 4.1, allows for shapes to be filled.
+	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
+
+3. Continue the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	- Ideally, at the start of today's class, your [[Tasks/T-shirt Shadow Prints#Exemplar|plan]] is complete and you have shared that progress [on Spaces](https://ca.spacesedu.com/)
 		- If not, finish and share your plan as your first priority.
 	- Once your plan is complete, begin coding your design.
@@ -18,10 +22,6 @@
 > [!TIP]
 > • Remember, you need [high contrast](http://www.inkodye.com/guides/photo) in your design – black, white, and maybe one shade of grey.
 > • Do not use color.
-
-3. Filling Shapes
-	- The [latest version of the Turtle Sketches playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1), version 4.1, allows for shapes to be filled.
-	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 	
 #### To-do items
 - [ ] Make significant progress on your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
