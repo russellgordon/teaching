@@ -16,7 +16,12 @@
 
 ### Thread 1, Day 13 - Wednesday, October 12, 2022
 #### Agenda
-1. Continue working on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+1. Please ==read the comments== provided to your posts [on Spaces](https://ca.spacesedu.com/).
+	- If you did not provide any updates yesterday, please do that *first* today before continuing to write more code.
+	- As always, reply to these two prompts:
+		i. What did I learn or make progress upon today?
+		ii. What do I have questions about / what am I struggling with?
+2. Then, continue working on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
 	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 	
