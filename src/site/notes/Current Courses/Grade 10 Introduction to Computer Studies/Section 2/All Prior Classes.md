@@ -14,6 +14,31 @@
 </div>
 
 
+### Thread 1, Day 13 - Wednesday, October 12, 2022
+#### Agenda
+1. Continue working on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
+	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
+	
+#### To-do items
+- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[T-shirt Shadow Prints task|T-shirt Shadow Prints task]] using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
+	- Use the same drag and drop process you used to hand in your Campus Line Drawing.
+	
+> [!IMPORTANT]
+> Please double check that you are handing in the correct file by first running the playground file before handing it in.	
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 12 - Tuesday, October 11, 2022
 #### Agenda
 1. Please hand in the final version of your Campus Line Drawing playground to [this form](https://docs.google.com/forms/d/e/1FAIpQLSfgvy6K9Y1TzBLw6J2OqjClI39Vj5f-x6wlil2kqE9wH1tVKQ/viewform).
