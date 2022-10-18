@@ -8,7 +8,9 @@
 #### Agenda
 1. LCAT
 	- Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
+
 *More to come...*
+
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
 ___
