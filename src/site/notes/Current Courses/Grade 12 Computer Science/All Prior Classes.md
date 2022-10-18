@@ -36,12 +36,17 @@
 > [!TIP]
 > Do not install Xcode via the App Store, as using this method means that it will automatically get upgraded when a new version is released (which is not always ideal). ^12b1aa
 6. Sorting Algorithms
-	- In random groups, we will discuss methods for sorting a list of numbers.
+	- With your group members, identify a method for sorting a list of numbers.
+	- Be clear about the steps of your algorithm.
+	- Remember basic concepts: sequence, selection (comparison), and iteration (loops).
+		- Describe your algorithm using these building blocks.
+	- Post a video in the class space [on Spaces](https://ca.spacesedu.com/) that clearly explains how your algorithm works.
+		- Include an example where an unsorted list is sorted by following the steps of your algorithm.
 
 #### To-do items
 - [ ] Update your operating system, if needed; see notes above.
 - [ ] Install Xcode; see notes above.
 - [ ] Purchase required books; see the [course outline](https://tinyurl.com/lcscs22-g12-so).
-- [ ] With your group, make a video where you clearly explain your sorting algorithm, and share it on the [[Current Courses/Grade 12 Computer Science/Thread 1/Day 1#^7048ea|class space]] on [Spaces](https://ca.spacesedu.com/).
+
 
 </div></div>
