@@ -3,7 +3,9 @@
 ---
 
 # Tasks
-In thread 1 of Grade 10 Introduction to Computer Studies, we have completed the following tasks, so far:
-* [[Tasks/Shapes|Shapes]]
-* [[Tasks/Name Plate|Name Plate]]
-* [[Tasks/Campus Line Drawing|Campus Line Drawing]]
+We have completed the following tasks in Grade 10 Introduction to Computer Studies...
+## Thread 1
+- [[Tasks/Shapes|Shapes]]
+- [[Tasks/Name Plate|Name Plate]]
+- [[Tasks/Campus Line Drawing|Campus Line Drawing]]
+- [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]]
