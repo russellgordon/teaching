@@ -20,13 +20,3 @@ Here is an example of a plan for drawing letters with consistent spacing:
 Note how after a while, shorthand is used to describe turtle movements. This is a good strategy for making a useful plan without taking a lot of time.
 > [!TIP]
 > Before moving on to draw the next letter in your name, ensure that the turtle finishes drawing a letter in the same **position** and **heading** that it started in. You will see a little later on why this is a useful approach.
-## Reflection prompts
-1. How long did it take you to draw out a plan?
-2. How often did you refer to your plan while coding?
-3. How might a plan be useful for debugging a logical error?
-
-Make a post on [Spaces](https://ca.spacesedu.com) in your private portfolio space to:
-- [ ] share a screenshot of your work on this task
-- [ ] briefly respond to the prompts above
-## Learning goals
-Successful completion of this task is great initial evidence for learning goals [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#1|1]] and [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals#2|2]].
