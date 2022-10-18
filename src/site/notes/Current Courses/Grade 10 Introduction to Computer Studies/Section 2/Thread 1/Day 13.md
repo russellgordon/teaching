@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 13 - Wednesday, October 12, 2022
 #### Agenda
-1. Please ==read the comments== provided to your posts [on Spaces](https://ca.spacesedu.com/).
+1. Please ==read the replies== made to your recent posts [on Spaces](https://ca.spacesedu.com/).
 	- If you did not provide any updates yesterday, please do that *first* today before continuing to write more code.
 	- As always, reply to these two prompts:
 		i. What did I learn or make progress upon today?
