@@ -6,6 +6,18 @@
 ## Most Recent Class
 ### Thread 1, Day 1 - Tuesday, October 18, 2022
 #### Agenda
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
+### Thread 1, Day 1 - Tuesday, October 18, 2022
+#### Agenda
 1. LCAT
 	- Please complete your [daily LCAT check](https://lcat.lcs.on.ca) prior to coming to class.
 2. [Course Outline](https://tinyurl.com/lcscs22-g12-so)
@@ -26,6 +38,21 @@
 > [!TIP]
 > Do not install Xcode via the App Store, as using this method means that it will automatically get upgraded when a new version is released (which is not always ideal).
 6. Sorting Algorithms
+	- With your group members, identify a method for sorting a list of numbers.
+	- Be clear about the steps of your algorithm.
+	- Remember basic concepts: sequence, selection (comparison), and iteration (loops).
+		- Describe your algorithm using these building blocks.
+	- Post a video in the class space [on Spaces](https://ca.spacesedu.com/) that clearly explains how your algorithm works.
+		- Include an example where an unsorted list is sorted by following the steps of your algorithm.
+		- Identify the members of your group.
+
+#### To-do items
+- [ ] Update your operating system, if needed; see notes above.
+- [ ] Install Xcode; see notes above.
+- [ ] Purchase required books; see the [course outline](https://tinyurl.com/lcscs22-g12-so).
+
+
+</div></div>
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
