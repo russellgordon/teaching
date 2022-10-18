@@ -4,8 +4,6 @@
 
 # Grade 12 Computer Science
 ## Most Recent Class
-### Thread 1, Day 1 - Tuesday, October 18, 2022
-#### Agenda
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
