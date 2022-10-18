@@ -87,11 +87,11 @@ If you have a question, **don't hesitate**, come on by!
 </div>
 
 
-* [LCAT Health Check](https://lcat.lcs.on.ca)
-* [Spaces](https://ca.spacesedu.com/)
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement|Portfolios and Achievement]]
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals|Learning Goals]] 
-* [Student Course Outline](https://tinyurl.com/lcscs22-g10-so)
-* [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g10-mcs)
+- [LCAT Health Check](https://lcat.lcs.on.ca)
+- [Spaces](https://ca.spacesedu.com/)
+- [Portfolios and Achievement](https://www.russellgordon.ca/cs/learning-goals/introduction/)
+- [Learning Goals](https://www.russellgordon.ca/cs/learning-goals/learning-goals-for-grade-12/)
+- [Student Course Outline](https://tinyurl.com/lcscs22-g12-so)
+- [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g12-mcs)
 
 </div></div>
