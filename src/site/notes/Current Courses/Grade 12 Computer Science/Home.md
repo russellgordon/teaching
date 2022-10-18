@@ -23,8 +23,9 @@
 	- You can download the [current version, 14.0.1, here](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_14.0.1/Xcode_14.0.1.xip).
 	- This will require logging in with your Apple Developer ID that was set up last year.
 	- You may not have set up your Apple Developer ID last year; if you have not, please do so now using your LCS email address.
-
-*More to come...*
+> [!TIP]
+> Do not install Xcode via the App Store, as using this method means that it will automatically get upgraded when a new version is released (which is not always ideal).
+6. Sorting Algorithms
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
