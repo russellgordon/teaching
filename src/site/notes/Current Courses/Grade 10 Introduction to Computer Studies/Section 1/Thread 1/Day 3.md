@@ -7,7 +7,7 @@
 1. Finish the [[Tasks/Shapes|Shapes task]] with your partner from last class.
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
-2. Begin the [[Tasks/Name Plate - ICS2O|Name Plate task]].
+2. Begin the [[Tasks/Name Plate|Name Plate task]].
 #### To-do items
 *Before our next class, please...*
 
