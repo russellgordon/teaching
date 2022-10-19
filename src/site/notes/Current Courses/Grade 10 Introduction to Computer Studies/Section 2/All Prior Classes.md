@@ -291,7 +291,7 @@
 6. Working time in class
 	- If needed:
 		- [ ] polish your Spaces posts
-		- [ ] finish up the [[Tasks/Name Plate - ICS2O|Name Plate - ICS2O]] task
+		- [ ] finish up the [[Tasks/Name Plate - ICS2O|Name Plate]] task
 	- Or:
 		- [ ] begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
