@@ -19,4 +19,4 @@
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Be sure you've completed all the expectations of the [[Tasks/Name Plate|Name Plate task]] .
+- [ ] Be sure you've completed all the expectations of the [[Tasks/Name Plate|Name Plate task]].
