@@ -30,7 +30,7 @@
 3. Make progress on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	
 #### To-do items
-- [ ] Finish the [[T-shirt Shadow Prints task|T-shirt Shadow Prints task]] and [hand it in using this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
+- [ ] Finish the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints task]] and [hand it in using this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
 	- Please [hand in your T-Shirt Shadow Prints playground to this form](), using the same drag and drop process you used to hand in your Campus Line Drawing.
 	- Designs must be handed in by 10 PM on Wednesday evening.
 	
