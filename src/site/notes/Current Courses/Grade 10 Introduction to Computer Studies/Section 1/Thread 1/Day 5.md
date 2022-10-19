@@ -21,7 +21,7 @@
 5. Introduce [[Tasks/Campus Line Drawing|Campus Line Drawing]] task
 	- Complete a walk around campus to find suitable locations.
 6. Working time
-- If needed, finish up the [[Tasks/Name Plate - ICS2O|Name Plate - ICS2O]] task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- If needed, finish up the [[Tasks/Name Plate - ICS2O|Name Plate]] task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
