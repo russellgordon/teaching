@@ -24,7 +24,7 @@
 	- Please have your black hardcover notebook out while you watch *Programming with Purpose* with the class.
 		- As you watch, write down any quotes that speak to you.
 		- When you are finished watching, summarize a bit – what is *one* takeaway that you have from this video?
-2. Continue working on the [[Tasks/Name Plate|Name Plate]] task.
+2. Continue working on the [[Tasks/Name Plate - ICS3U - Section 1|Name Plate - ICS3U - Section 1]] task.
 	- Here is a [short code excerpt](https://gist.githubusercontent.com/russellgordon/88855e828bf8d44be5dac769f5bfc0a2/raw/dbea4fbe4e97679b754d80f049ff3373bbc557e5/main.swift) that illustrates a few techniques you may find useful.
 		- To try this code out, you could [[Media/Trying Out a Code Example|duplicate your existing playground, then copy and paste in this code]].
 	- Remember, you can [[Media/Stepping Through Your Code|step through your code]] to see what line of code produces what visual result.
@@ -66,7 +66,7 @@
 3. Install the [[Software Setup/Playgrounds|Playgrounds app]].
 4. Download the [Sketches Template](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1).
 	- Here is a [[Media/Installing Turtle Sketches Template|short animation showing how to add the Sketches Template]] to the Playgrounds app.
-5. Start the [[Tasks/Name Plate|Name Plate]] task. 
+5. Start the [[Tasks/Name Plate - ICS3U - Section 1|Name Plate - ICS3U - Section 1]] task. 
 #### To-do items
 - [ ] Optionally, make further progress on completing the Name Plate task.
 	- You will have some time in class tomorrow to work on this task.
