@@ -17,7 +17,7 @@
 		- To try this code out, you could [[Media/Trying Out a Code Example|duplicate your existing playground, then copy and paste in this code]].
 	- Remember, you can [[Media/Stepping Through Your Code|step through your code]] to see what line of code produces what visual result.
 	- Sometimes we encounter a *logical error*, which is when the computer does not do what we intended.
-			- We can ["debug" the problem](https://www.youtube.com/embed/SlN1GmxSXkc) by checking the position of the turtle using the `drawSelf()` command.
+		- We can ["debug" the problem](https://www.youtube.com/embed/SlN1GmxSXkc) by checking the position of the turtle using the `drawSelf()` command.
 	- You can get nicer colours by [[Media/Using the Colour Well|using the colour well]].
 	- Aim to complete the Name Plate task today. 💪🏼
 		- If you are already finished drawing your name, could you enhance it?
