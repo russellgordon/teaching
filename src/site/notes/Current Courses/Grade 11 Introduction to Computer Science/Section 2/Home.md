@@ -26,7 +26,7 @@
 > [!NOTE]
 > Depending on what version of macOS you currently have installed on your computer, you *may* need to upgrade macOS (and then the Playgrounds app again) before you can try out this playground.
 > If that is the case for your computer, please work with a friend today on their computer, and I will help you with your computer in our next class.
-4. Start the [[Tasks/Name Plate|Name Plate]] task. 
+4. Start the [[Tasks/Name Plate - ICS3U - Section 2|Name Plate]] task. 
 	- This is a warmup task to "get your feet wet" with programming – we will soon move on to writing more sophisticated programs.
 	- Here is a [short code excerpt](https://gist.githubusercontent.com/russellgordon/88855e828bf8d44be5dac769f5bfc0a2/raw/dbea4fbe4e97679b754d80f049ff3373bbc557e5/main.swift) that illustrates a few techniques you may find useful.
 		- To try this code out, you could [[Media/Trying Out a Code Example|duplicate your existing playground, then copy and paste in this code]].
