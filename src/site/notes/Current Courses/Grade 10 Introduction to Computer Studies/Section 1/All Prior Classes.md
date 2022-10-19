@@ -279,7 +279,7 @@
 5. Introduce [[Tasks/Campus Line Drawing|Campus Line Drawing]] task
 	- Complete a walk around campus to find suitable locations.
 6. Working time
-- If needed, finish up the [[Tasks/Name Plate|Name Plate]] task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- If needed, finish up the [[Tasks/Name Plate - ICS2O|Name Plate - ICS2O]] task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
@@ -303,10 +303,10 @@
 
 ### Thread 1, Day 4 - Wednesday, September 21, 2022
 #### Agenda
-1. Finish the [[Tasks/Name Plate|Name Plate task]].
+1. Finish the [[Tasks/Name Plate - ICS2O|Name Plate task]].
 	- Be certain you made a plan.
 		- Share a photo of your plan [on Spaces](https://ca.spacesedu.com/).
-		- Review the [[Tasks/Name Plate#Exemplar|exemplar]] for a plan carefully.
+		- Review the [[Tasks/Name Plate - ICS2O#Exemplar|exemplar]] for a plan carefully.
 	- Be sure to respond to the reflection questions on Spaces.
 2. Optionally, to enhance your portfolio of work, make additions to your name plate sketch.
 	- Consider adding small line drawing(s) of something that connects to your interests.
@@ -318,7 +318,7 @@
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Be sure you've completed all the expectations of the [[Tasks/Name Plate|Name Plate task]] .
+- [ ] Be sure you've completed all the expectations of the [[Tasks/Name Plate - ICS2O|Name Plate task]] .
 
 </div></div>
 
@@ -337,7 +337,7 @@
 1. Finish the [[Tasks/Shapes|Shapes task]] with your partner from last class.
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
-2. Begin the [[Tasks/Name Plate|Name Plate task]].
+2. Begin the [[Tasks/Name Plate - ICS2O|Name Plate task]].
 #### To-do items
 *Before our next class, please...*
 
