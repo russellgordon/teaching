@@ -7,6 +7,8 @@
 ### Thread 1, Day 2 - Thursday, October 20, 2022
 #### Agenda
 1. Introduction to Search Algorithms
+		- [Linear search](https://www.youtube.com/watch?v=TwsgCHYmbbA&t=6s) works on an unsorted list (also known as an *array*).
+		- [Binary search](https://www.youtube.com/watch?v=T98PIp4omUA&t=6s) requires a sorted array, but is much faster at finding the desired value.
 
 *More to come as our class unfolds today...*
 
