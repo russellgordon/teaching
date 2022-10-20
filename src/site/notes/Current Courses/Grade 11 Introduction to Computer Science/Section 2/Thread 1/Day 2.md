@@ -34,5 +34,5 @@
 			- Add a drawing of one of your favourite things or something that speaks to your personality?
 	
 #### To-do items
-- [ ] Optionally, make further progress on completing the Name Plate task.
-	- You will have some time in class tomorrow to work on this task.
+*Before our next class...*
+- [ ] Complete the [[Tasks/Name Plate - ICS3U - Section 1|Name Plate]] task.
