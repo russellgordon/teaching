@@ -31,13 +31,17 @@
 		- there will be $n$ passes through the array
 		- therefore there will be *exactly* $(n-1)(n)$ comparisons, or *roughly* $(n)(n)=n^2$ comparisons overall
 			- for example, if the array has $10$ elements, then...
-			   $n = 10$
-			   and there are roughly...
-			   $(n)(n) = (10)(10) = 100$
-			   comparisons that have occurred.
+			   $\space\space\space\space\space n = 10$
+			   ...that means there are *exactly*...
+				$\space\space\space\space\space(n - 1)(n) = (9)(10) = 90$
+			   ...and there are *roughly*...
+				$\space\space\space\space\space(n)(n) = (10)(10) = 100$
+			   ...comparisons that have occurred.
 4. Improving Bubble Sort
 	- Review the code we wrote together earlier.
-		- Make at least one optimization to improve the efficiency of the algorithm in some of the input situations described above.
+		- Try running the program several times to get a sense of when swaps occur as more passes are completed.
+		- Make at least one optimization to improve the efficiency of the algorithm.
+			- This means reducing the number of comparisons required.
 		- This [visualization of the Bubble Sort algorithm](https://visualgo.net/en/sorting?slide=7) may be useful.
 		- Be sure to commit your work as you go.
 		
