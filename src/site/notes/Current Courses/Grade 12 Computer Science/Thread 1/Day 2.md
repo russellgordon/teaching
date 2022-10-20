@@ -33,7 +33,7 @@
 		- Be sure to commit your work as you go.
 		- You may work with a partner but be sure that you understand the changes being made.
 		
-> [! Extension]
+> [!Extension]
 > Add a basic menu that makes it possible for the user to select between the various array starting conditions described above. After the array is sorted, report on the number of comparisons made compared to the number of elements in the array.
 
 #### To-do items
