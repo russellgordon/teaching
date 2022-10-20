@@ -11,8 +11,11 @@
 		- [Binary search](https://www.youtube.com/watch?v=T98PIp4omUA&t=6s) requires a sorted array, but is much faster at finding the desired value.
 2. Evaluating our In-House Sort Algorithms
 	- Review the algorithms we developed in our prior class.
+	- A relatively straightforward sort algorithm is called the *bubble sort*...
+3. Understanding Bubble Sort
+	- To understand the efficiency of the bubble sort algorithm, we will implement it together.
+		- Please create a new command-line project in Xcode named `BubbleSortImplementation` and then create a source control remote on GitHub.
 
-*More to come as our class unfolds today...*
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
