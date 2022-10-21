@@ -4,5 +4,5 @@
 
 # Concepts
 * [[Concepts/Sequence|Sequence]]
-* [[Concepts/Iteration|Iteration]]
-* [[Concepts/Functions|Functions]]
+* [[Concepts/Iteration|Concepts/Iteration]]
+* [[Concepts/Sequence|Sequence]]
