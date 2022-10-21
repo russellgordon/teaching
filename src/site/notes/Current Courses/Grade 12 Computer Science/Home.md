@@ -13,6 +13,12 @@
 	- [ ] Submit the join code that is written on the whiteboard in our classroom.
 	- [ ] Verify that the course information that comes up is correct.
 	- [ ] If necessary, fill out the registration information (school you attend, et cetera).
+2.  Consolidation: Improving Bubble Sort
+	- What change is required to get the *best-case* efficiency to $n - 1$ comparisons?
+		- Under what starting conditions for the input array would this occur?
+	- What change is required to get the worst-case efficiency to roughly $\frac{n^2}{2}$ comparisons?
+		- Under what starting conditions for the input array would this occur?
+
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
 ___
