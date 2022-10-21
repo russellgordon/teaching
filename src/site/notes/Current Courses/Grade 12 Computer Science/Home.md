@@ -4,6 +4,16 @@
 
 # Grade 12 Computer Science
 ## Most Recent Class
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 3 - Thursday, October 20, 2022
 #### Agenda
 1. Joining our AP Class Section
@@ -18,6 +28,28 @@
 		- Under what starting conditions for the input array would this occur?
 	- What change is required to get the worst-case efficiency to roughly $\frac{n^2}{2}$ comparisons?
 		- Under what starting conditions for the input array would this occur?
+3. Time Complexity
+	- Introduction to the concept of [time complexity for algorithms](https://www.youtube.com/watch?v=YoZPTyGL2IQ&t=6s).
+4. Measuring Real-World Bubble Sort Efficiency
+	- We will now many a modification to measure the time a given sort takes.
+	- Modify your program to:
+		a. Test a variety of possible conditions for the input array 
+		b. Allow for consecutive tests to be measured and an average time for those sort operations.
+	- As input, conditions might be:
+		- elements are completely random
+		- elements are *almost* sorted (most, but not all, elements in order from lowest to highest)
+		- elements are *already* sorted (elements in order from lowest to highest)
+		- backwards (elements are in order highest to lowest)	
+	> [!Extension]
+	> After an array is sorted, report on the number of comparisons made compared to the number of elements in the array.
+
+#### To-do items
+*Prior to our next class...*
+- [ ] Complete item #4 above to measure the real-world efficiency of the Bubble Sort algorithm.
+
+
+</div></div>
+
 
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
