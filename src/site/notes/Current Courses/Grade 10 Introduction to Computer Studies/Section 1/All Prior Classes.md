@@ -272,7 +272,7 @@
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
 3. [[Concepts/Sequence|Sequence]]
 	- Does sequence of statements matter? Yes.
-4. [[Concepts/Iteration|Iteration]]
+4. [[Concepts/Iteration|Concepts/Iteration]]
 	- A computer is very good at repeatedly doing the same thing.
 	- We can use a loop to describe what instructions should be repeated.
 	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
