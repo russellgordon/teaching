@@ -4,6 +4,16 @@
 
 # Grade 11 Introduction to Computer Science - Section 1
 ## Most Recent Class
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+<div class="markdown-embed-title">
+
+
+
+</div>
+
+
 ### Thread 1, Day 3 - Friday, October 21, 2022
 #### Agenda
 1. Join [our class on Spaces](https://ca.spacesedu.com/class/CA-C0TBjCn3).
@@ -17,6 +27,26 @@
 	- Then, respond to the two standard reflection prompts:
 		i. What did I learn or make progress upon today?
 		ii. What do I have questions about / what am I struggling with
+3. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Functions|Introduction to Functions]]
+	- A *function* is a way to *encapsulate* (bundle up) a series of steps that we may want to use again.
+		- It can be useful to "return home" between drawing different parts of a sketch with the turtle.
+			- This tutorial explains [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Functions|how to use a function]] to do that.
+4. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Iteration|Introduction to Iteration]]
+	- A *loop* is a way to repeat a set of instructions many times.
+	- The computer will *iterate* over a set of instructions.
+	- With each iteration of the loop, instructions will be run again.
+5. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Random Numbers|Random Numbers]]
+	- Random numbers can be used to change the appearance or location of part of a sketch.
+6. Make enhancements to your Name Plate sketch.
+	- Use some of the concepts we have just explored.
+	
+#### To-do items
+*Before our next class...*
+- [ ] Complete your enhancements to [[Tasks/Name Plate - ICS3U - Section 1|Name Plate]] task.
+- [ ] Please share your progress on [Spaces](https://ca.spacesedu.com/).
+
+</div></div>
+
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/All Prior Classes|all prior classes]] here.
 ___
