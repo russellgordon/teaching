@@ -26,26 +26,26 @@
 2.  Consolidation: Improving Bubble Sort
 	- What change is required to get the *best-case* efficiency to $n - 1$ comparisons?
 		- Under what starting conditions for the input array would this occur?
-	- What change is required to get the worst-case efficiency to roughly $\frac{n^2}{2}$ comparisons?
-		- Under what starting conditions for the input array would this occur?
 3. Time Complexity
 	- Introduction to the concept of [time complexity for algorithms](https://www.youtube.com/watch?v=YoZPTyGL2IQ&t=6s).
 4. Measuring Real-World Bubble Sort Efficiency
-	- We will now many a modification to measure the time a given sort takes.
-	- Modify your program to:
-		a. Test a variety of possible conditions for the input array 
-		b. Allow for consecutive tests to be measured and an average time for those sort operations.
-	- As input, conditions might be:
-		- elements are completely random
-		- elements are *almost* sorted (most, but not all, elements in order from lowest to highest)
-		- elements are *already* sorted (elements in order from lowest to highest)
-		- backwards (elements are in order highest to lowest)	
-	> [!Extension]
-	> After an array is sorted, report on the number of comparisons made compared to the number of elements in the array.
+	- We will now make a modification to measure the time a given sort takes.
+	- Further modify your program to:
+		a. Test a variety of possible conditions for the input array:
+			- Already sorted
+			- Almost sorted
+			- Reversed
+			- Random			
+		b. Allow for consecutive trials to occur then report an average time for all trials that occurred.
+		c. Allow for arrays of different sizes to be tested, e.g.: $n=10$, $n=100$, $n=1000$ *et cetera*
 
 #### To-do items
 *Prior to our next class...*
+- [ ] Optionally... further improve the Bubble Sort algorithm.
+			- What change is required to get the worst-case efficiency to be roughly $\frac{n^2}{2}$ comparisons?
+			- Under what starting conditions for the input array would this occur?
 - [ ] Complete item #4 above to measure the real-world efficiency of the Bubble Sort algorithm.
+
 
 
 </div></div>
