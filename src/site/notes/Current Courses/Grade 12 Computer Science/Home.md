@@ -20,6 +20,8 @@
 			- In other words – fill in the spreadsheet.
 			- It's best to run trials overnight, when you are not using your computer for other tasks.
 		- We will compare notes at the end of this module, and complete a problem set to consolidate your understanding of the performance characteristics of these algorithms.
+4. AP Create Task
+	- We will spend the rest of today's class [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|reviewing requirements for the AP Create Task]].
 		
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 12 Computer Science/All Prior Classes|all prior classes]] here.
