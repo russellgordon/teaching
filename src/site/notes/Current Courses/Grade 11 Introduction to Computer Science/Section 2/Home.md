@@ -36,7 +36,7 @@
 3. Download Xcode
 	- You can download the [current version, 14.0.1, here](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_14.0.1/Xcode_14.0.1.xip).
 	- This will require logging in with your Apple Developer ID that we just set up.
-	- When the download finshes, you will have a `.xip` file in your Downloads folder.
+	- When the download finishes, you will have a `.xip` file in your Downloads folder.
 		- Double-click the `.xip` file to decompress it.
 		> [!Tip]
 		> It's a very large file – decompressing the `.xip` will take some time.
