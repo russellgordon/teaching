@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/all-prior-classes/","dgHomeLink":false,"dgPassFrontmatter":false}
 ---
 
-[[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Home|🏡 Back to Home]]
+[[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Home|🏡 Back to Home]]
 # All Prior Classes
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
