@@ -28,7 +28,7 @@
 *Prior to our next class...*
 - [ ] Use the video shared above to be sure you understand what we looked at today in class.
 
-> [! Note]
+> [!NOTE]
 > Part 2 of the video (to finish building the app) will be shared in tomorrow's class.
 > We will then work to examine how this app meets the AP Create Task requirements.
 
