@@ -23,7 +23,7 @@
 		- [Part 2](https://www.youtube.com/watch?v=rTGa2xtUVHk) in the video series takes you through everything up to, but not including, writing the list filtering feature.
 		> [!TIP]
 		> If you'd like to begin with the second video, and have the very same source code that the second video starts with, you can [download that source code here](https://github.com/lcs-rgordon/ColourSelectorFall2022Video/archive/08e13e84773912bdbcd42130189d01c678ac8fee.zip).
-		- The Part 3 video is much shorter and explains how to filter the list.
+		- The [Part 3 video](https://www.youtube.com/watch?v=u_BpXOvstO4) is much shorter and explains how to filter the list.
 2. Connecting Colour Selector to the AP Create Task
 	- As a group, we will:
 		- look at how the app meets the requirements of the AP Create Task
