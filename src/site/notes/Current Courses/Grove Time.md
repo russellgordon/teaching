@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grove-time/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grove-time/","dgHomeLink":false}
 ---
 
 Day|Time|Location
