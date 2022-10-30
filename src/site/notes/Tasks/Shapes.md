@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/shapes/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tasks/shapes/","dgHomeLink":false}
 ---
 
 # Shapes
