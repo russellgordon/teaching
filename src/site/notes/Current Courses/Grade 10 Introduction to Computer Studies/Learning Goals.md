@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/learning-goals/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/learning-goals/","dgHomeLink":false}
 ---
 
 # Learning Goals
