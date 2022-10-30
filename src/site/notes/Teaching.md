@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/teaching/","tags":"gardenEntry","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/teaching/","tags":"gardenEntry"}
 ---
 
 # Teaching and Learning
