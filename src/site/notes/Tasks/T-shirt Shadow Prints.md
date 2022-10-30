@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/t-shirt-shadow-prints/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tasks/t-shirt-shadow-prints/","dgHomeLink":false}
 ---
 
 # T-Shirt Shadow Prints
