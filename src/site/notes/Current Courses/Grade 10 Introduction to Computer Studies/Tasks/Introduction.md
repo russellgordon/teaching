@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/tasks/introduction/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/tasks/introduction/","dgHomeLink":false}
 ---
 
 # Tasks
