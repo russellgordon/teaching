@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/thread-1/day-1/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/thread-1/day-1/","dgHomeLink":false}
 ---
 
 ### Thread 1, Day 1 - Tuesday, October 18, 2022
