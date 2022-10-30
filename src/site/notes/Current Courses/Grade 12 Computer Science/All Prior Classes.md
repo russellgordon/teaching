@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/all-prior-classes/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/all-prior-classes/","dgHomeLink":false}
 ---
 
 [[Current Courses/Grade 12 Computer Science/Home|🏡 Back to Home]]
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 6 - Friday, October 28, 2022
@@ -40,11 +36,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 5 - Thursday, October 27, 2022
@@ -71,11 +63,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 4 - Tuesday, October 25, 2022
@@ -111,11 +99,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 3 - Friday, October 21, 2022
@@ -157,11 +141,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 2 - Thursday, October 20, 2022
@@ -205,11 +185,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 1 - Tuesday, October 18, 2022
