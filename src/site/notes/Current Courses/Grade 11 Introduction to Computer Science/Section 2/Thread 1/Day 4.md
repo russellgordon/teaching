@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/thread-1/day-4/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/thread-1/day-4/","dgHomeLink":false}
 ---
 
 ### Thread 1, Day 4 - Monday, October 24, 2022
