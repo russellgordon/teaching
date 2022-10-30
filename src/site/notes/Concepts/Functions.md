@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/functions/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concepts/functions/","dgHomeLink":false}
 ---
 
 # Functions
