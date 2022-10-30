@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/curriculum/introduction-to-computer-studies-grade-10/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/curriculum/introduction-to-computer-studies-grade-10/","dgHomeLink":false}
 ---
 
 # Introduction to Computer Studies, Grade 10
