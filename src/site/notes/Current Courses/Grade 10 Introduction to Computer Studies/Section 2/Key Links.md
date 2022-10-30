@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/key-links/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/key-links/","dgHomeLink":false}
 ---
 
 * [LCAT Health Check](https://lcat.lcs.on.ca)
