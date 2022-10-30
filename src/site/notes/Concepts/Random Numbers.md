@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/random-numbers/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concepts/random-numbers/","dgHomeLink":false}
 ---
 
 # Random Numbers
