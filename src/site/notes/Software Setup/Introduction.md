@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-setup/introduction/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/software-setup/introduction/"}
 ---
 
 # Software Setup
