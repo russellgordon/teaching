@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concepts/introduction/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/concepts/introduction/"}
 ---
 
 # Concepts
