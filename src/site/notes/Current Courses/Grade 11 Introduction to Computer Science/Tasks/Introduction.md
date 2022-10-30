@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/introduction/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/introduction/","dgHomeLink":false}
 ---
 
 # Tasks
