@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/home/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/home/","dgHomeLink":false}
 ---
 
 # Grade 11 Introduction to Computer Science - Section 2
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 7 - Friday, October 28, 2022
@@ -42,11 +38,7 @@ ___
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Day|Time|Location
@@ -63,11 +55,7 @@ If you have a question, **don't hesitate**, come on by!
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 - [LCAT Health Check](https://lcat.lcs.on.ca)
