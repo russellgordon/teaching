@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-1/day-5/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-1/day-5/","dgHomeLink":false}
 ---
 
 ### Thread 1, Day 5 - Friday, September 23, 2022
