@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/key-links/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/key-links/","dgHomeLink":false}
 ---
 
 - [LCAT Health Check](https://lcat.lcs.on.ca)
