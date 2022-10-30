@@ -6,7 +6,7 @@
 # All Prior Classes
 
 ## Table of Contents
-[[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Thread 1/Day 13|#Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Thread 1/Day 13]]
+[[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1/Day 13/Thread 1, Day 13 - Wednesday, October 12, 2022|Thread 1, Day 13 - Wednesday, October 12, 2022]]
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
