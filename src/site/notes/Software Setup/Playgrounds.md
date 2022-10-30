@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/software-setup/playgrounds/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/software-setup/playgrounds/","dgHomeLink":false}
 ---
 
 # Playgrounds
