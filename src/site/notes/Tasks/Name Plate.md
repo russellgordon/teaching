@@ -1,15 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/name-plate/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tasks/name-plate/","dgHomeLink":false}
 ---
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 # Name Plate
