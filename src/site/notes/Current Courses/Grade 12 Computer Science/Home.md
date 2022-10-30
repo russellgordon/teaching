@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/home/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/home/","dgHomeLink":false}
 ---
 
 # Grade 12 Computer Science
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 6 - Friday, October 28, 2022
@@ -45,11 +41,7 @@ ___
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Day|Time|Location
@@ -66,11 +58,7 @@ If you have a question, **don't hesitate**, come on by!
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 - [LCAT Health Check](https://lcat.lcs.on.ca)
