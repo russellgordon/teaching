@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/portfolios/initial-portfolio-review/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/portfolios/initial-portfolio-review/","dgHomeLink":false}
 ---
 
 # Initial Portfolio Review
