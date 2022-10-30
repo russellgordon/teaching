@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-1/day-13/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-1/day-13/","dgHomeLink":false}
 ---
 
 ### Thread 1, Day 13 - Tuesday, October 11, 2022
