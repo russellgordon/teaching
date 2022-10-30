@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/all-prior-classes/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/all-prior-classes/","dgHomeLink":false}
 ---
 
 [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Home|🏡 Back to Home]]
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 13 - Wednesday, October 12, 2022
@@ -37,11 +33,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 12 - Tuesday, October 11, 2022
@@ -77,11 +69,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 11 - Tuesday, October 4, 2022
@@ -105,11 +93,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 10 - Monday, October 3, 2022
@@ -132,11 +116,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 9 - Saturday, October 1, 2022 🍂
@@ -162,11 +142,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 8 - Friday, September 30, 2022
@@ -195,11 +171,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 7 - Tuesday, September 27, 2022
@@ -224,11 +196,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 6 - Monday, September 26, 2022
@@ -259,11 +227,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 5 - Friday, September 23, 2022
@@ -309,11 +273,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 4 - Wednesday, September 21, 2022
@@ -340,11 +300,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 3 - Tuesday, September 20, 2022
@@ -362,11 +318,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 2 - Monday, September 19, 2022
@@ -397,11 +349,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 1 - Monday, September 12, 2022
