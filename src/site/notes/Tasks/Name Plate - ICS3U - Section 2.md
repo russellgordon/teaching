@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tasks/name-plate-ics-3-u-section-2/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/tasks/name-plate-ics-3-u-section-2/","dgHomeLink":false}
 ---
 
 # Name Plate
