@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-1/home/","dgHomeLink":false,"dgPassFrontmatter":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-1/home/","dgHomeLink":false}
 ---
 
 # Grade 10 Introduction to Computer Studies - Section 1
@@ -7,11 +7,7 @@
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 ### Thread 1, Day 13 - Tuesday, October 11, 2022
@@ -47,11 +43,7 @@ ___
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 Day|Time|Location
@@ -68,11 +60,7 @@ If you have a question, **don't hesitate**, come on by!
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
-<div class="markdown-embed-title">
 
-
-
-</div>
 
 
 * [LCAT Health Check](https://lcat.lcs.on.ca)
