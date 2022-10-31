@@ -23,8 +23,6 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
 
----
-
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
