@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 7 - Friday, October 28, 2022
 #### Agenda
-1. [Portfolio: Providing evidence for learning goals](https://www.icloud.com/iclouddrive/0cbvXVtmJ0D2ieDDvH5FVHGGg#2_-_Portfolio_-_Providing_evidence_for_learning_goals)
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Snippets/Providing Evidence in Your Portfolio|Portfolio: Providing evidence for learning goals]]
 2. [Discussion: Grouping Related Info with Structures](https://www.icloud.com/iclouddrive/0c3lUIjNqbjj8K8bGm2SN5eiQ#2a_-_Discussion_-_Grouping_Related_Info_with_Structures)
 	- Key takeaways:
 		- Use `CapitalCase` when naming structures.
