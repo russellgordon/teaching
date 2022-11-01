@@ -5,6 +5,7 @@
 # AP Create Task 
 
 ## Introduction
+
 Before reading any further, please watch (or re-watch) this [53 second video demo of the "Multiplication Maestro" app](https://www.russellgordon.ca/lcs/2021-22/MultiplicationMaestro/).
 
 That exemplar will look familiar!
@@ -19,50 +20,52 @@ It's generally easiest to understand what you need to do within the context of a
 
 Multiplication Maestro is an MVP (minimum viable product) for the AP Create Task.
 
-1.  Watch the [53 second video demo of Multiplication Maestro](https://www.russellgordon.ca/lcs/2021-22/MultiplicationMaestro/).
-2.  Familiarize yourself with the source code [by reviewing commits step by step](https://www.russellgordon.ca/lcs/2021-22/MultiplicationMaestro/commits/).
+1. Watch the [53 second video demo of Multiplication Maestro](https://www.russellgordon.ca/lcs/2021-22/MultiplicationMaestro/).
+2. Familiarize yourself with the source code [by reviewing commits step by step](https://www.russellgordon.ca/lcs/2021-22/MultiplicationMaestro/commits/).
 	-  Here is the [list of commits for Multiplication Maestro](https://github.com/lcs-rgordon/MultiplicationMaestro/commits/main).
     -  Green segments reflect code that was added in a given commit.
     -  Red segments reflect code that was removed.
-4.  [Clone the exemplar project](https://github.com/lcs-rgordon/MultiplicationMaestro) and try it out.
-    -   Note the following:
-        1.  Code is written to be as simple to understand as possible.  
-            -   You can likely think of better ways to organize the code...
-        2.  Results are filtered [using an approach that is](https://github.com/lcs-rgordon/MultiplicationMaestro/blob/8d20826a2c5db8e0ea06a941d9438384ca65891b/MultiplicationMaestro/Views/ContentView.swift#L219-L246):
-            -   designed to meet AP Create Task requirements
-            -   not the way you would filter a list "in real life" when writing an app using Swift and SwiftUI
-5.  Watch [this video that explains Create Task requirements and how the exemplar meets them](https://www.yout-ube.com/watch?v=xNn6gU_gvRo).
-    -   For the exemplar, here is: 
-        -   The [complete program code](https://www.icloud.com/iclouddrive/0caLxNLonU8msw2Q5Dr1athww#ap-create-task-program-code) as a PDF file
-        -   The [1-minute video](https://drive.google.com/file/d/18REb5dUpQzt7bMegkwxZNVyBzAqMWAgR/view)
-        -   The [written responses](https://www.icloud.com/iclouddrive/0107uS_9h56RXKh3zNkoR3qfw#Written_Responses_-_With_Program_Code)
+4. [Clone the exemplar project](https://github.com/lcs-rgordon/MultiplicationMaestro) and try it out.
+    - Note the following:
+        1. Code is written to be as simple to understand as possible. 
+            - You can likely think of better ways to organize the code...
+        2. Results are filtered [using an approach that is](https://github.com/lcs-rgordon/MultiplicationMaestro/blob/8d20826a2c5db8e0ea06a941d9438384ca65891b/MultiplicationMaestro/Views/ContentView.swift#L219-L246):
+            - designed to meet AP Create Task requirements
+            - not the way you would filter a list "in real life" when writing an app using Swift and SwiftUI
+5. Watch [this video that explains Create Task requirements and how the exemplar meets them](https://www.yout-ube.com/watch?v=xNn6gU_gvRo).
+    - For the exemplar, here is: 
+        - The [complete program code](https://www.icloud.com/iclouddrive/0caLxNLonU8msw2Q5Dr1athww#ap-create-task-program-code) as a PDF file
+        - The [1-minute video](https://drive.google.com/file/d/18REb5dUpQzt7bMegkwxZNVyBzAqMWAgR/view)
+        - The [written responses](https://www.icloud.com/iclouddrive/0107uS_9h56RXKh3zNkoR3qfw#Written_Responses_-_With_Program_Code)
 
 ## Requirements
 
-1.  Read this one-page summary of [AP Create Task general requirements](https://www.icloud.com/iclouddrive/01Zqqx5pFbNV7Euzk__rnjbQg#AP_Create_Task_-_General_Requirements).
-2.  Review the [detailed AP Create Task requirements](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements).
-3.  Understand the [AP Create Task rubric](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_).
-    -   These are the guidelines that the College Board evaluator will use to score your work.
-    -   To better understand requirements, watch [this video that compares the exemplar to the rubric](https://www.yout-ube.com/watch?v=xNn6gU_gvRo).
+1. Read this one-page summary of [AP Create Task general requirements](https://www.icloud.com/iclouddrive/01Zqqx5pFbNV7Euzk__rnjbQg#AP_Create_Task_-_General_Requirements).
+2. Review the [detailed AP Create Task requirements](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements).
+3. Understand the [AP Create Task rubric](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_).
+    - These are the guidelines that the College Board evaluator will use to score your work.
+    - To better understand requirements, watch [this video that compares the exemplar to the rubric](https://www.yout-ube.com/watch?v=xNn6gU_gvRo).
 
 ## Getting Started
-1.  Make a plan for your project.
-    -   While not formally required, paper prototypes may help organize your thoughts.
-2.  Author your program code – _source control must be used_.
-    -   Create your project in Xcode.
-    -   Create a remote.
-    -   Commit and push your code regularly, using [descriptive commit messages](https://github.com/lcs-rgordon/MultiplicationMaestro/commits/main).
-3.  Test your code thoroughly and be certain to leave enough time to:
-    1.  Print your code to PDF.
-        -   Be sure your name is removed from all source code files.
-        -   Here is [how to set up your computer to print source code to PDF](https://www.yout-ube.com/watch?v=NGruqc_MYtg), with line numbers and syntax highlighting.
-            -   Unfortunately it is not possible to do this directly from Xcode.
-        -   Here is how to [combine all PDF files into a single PDF file](https://www.yout-ube.com/watch?v=NOVQB4tpMAU).
-            -   This is a requirement for submitting your work to the College Board.
-    2.  Record your [1-minute video](https://www.icloud.com/iclouddrive/04cejOeuaYZF5GyiI79x0JnEA#AP_Create_Task_-_Video).
-        -   Here is [how to "make small text large"](https://www.russellgordon.ca/tips/embiggen-text-like-a-pro/) if you wish to use this effect in your video.
-    3.  Author your written responses to the [required questions](https://www.icloud.com/iclouddrive/088PneqzsLiNHeOKoFp_0eBiA#AP_Create_Task_-_Written_Responses).
-4.  When you are all finished, [submit your work to the College Board](https://digitalportfolio.collegeboard.org/).
+1. Make a plan for your project.
+    - While not formally required, paper prototypes may help organize your thoughts.
+2. Author your program code – _source control must be used_.
+    - Create your project in Xcode.
+    - Create a remote.
+    - Commit and push your code regularly, using [descriptive commit messages](https://github.com/lcs-rgordon/MultiplicationMaestro/commits/main).
+3. Test your code thoroughly and be certain to leave enough time to:
+    1. Print your code to PDF.
+        - Be sure your name is removed from all source code files.
+        - Here is [how to set up your computer to print source code to PDF](https://www.yout-ube.com/watch?v=NGruqc_MYtg), with line numbers *and* syntax highlighting.
+            - Unfortunately it is not possible to do this directly from Xcode.
+        - Here is how to [combine all PDF files into a single PDF file](https://www.yout-ube.com/watch?v=NOVQB4tpMAU).
+            - This is a requirement for submitting your work to the College Board.
+    2. Record your [1-minute video](https://www.icloud.com/iclouddrive/04cejOeuaYZF5GyiI79x0JnEA#AP_Create_Task_-_Video).
+        - Here is [how to "make small text large"](https://www.russellgordon.ca/tips/embiggen-text-like-a-pro/) if you wish to use this effect in your video.
+        - The easiest way to record a video is to press `Command-R` when your app is running in the Simulator.
+    3. Author your written responses to the [required questions](https://www.icloud.com/iclouddrive/088PneqzsLiNHeOKoFp_0eBiA#AP_Create_Task_-_Written_Responses).
+	    - Be sure that code screenshots are legible – code cannot be so tiny that it becomes nearly impossible to read without a magnifying glass.
+4. When you are all finished, [submit your work to the College Board](https://digitalportfolio.collegeboard.org/).
 
 ## To Do
 
