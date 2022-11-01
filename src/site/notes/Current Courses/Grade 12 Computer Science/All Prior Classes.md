@@ -9,12 +9,40 @@
 
 ### Thread 1
 
+[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Tuesday, November 1, 2022|Day 7 - Tuesday, November 1, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 6 - Friday, October 28, 2022|Day 6 - Friday, October 28, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 5 - Thursday, October 27, 2022|Day 5 - Thursday, October 27, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 4 - Tuesday, October 25, 2022|Day 4 - Tuesday, October 25, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 7 - Tuesday, November 1, 2022
+#### Agenda
+1. Scoring AP Create Task Written Responses
+	- [Score your partner's responses](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_) for the Colour Selector app.
+	- When your partner has finished doing the same for yours, compare notes.
+	- We will then discuss any clarifying questions from the whole class.
+2. AP Create Task: Working Period
+	- The remainder of class time is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+#### To-do items
+*Prior to our next class...*
+- [ ] Work on completing the [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+- [ ] Be certain to make a brief post on Spaces to share your progress.
+	      
+> [!NOTE]
+> • The firm due date for the AP Create Task is next Wednesday, November 9.
+> • It is expected that steady progress will be demonstrated between now and the due date.
+> • If you are not certain where to start – please just ask – Mr. Gordon can help you to prioritize.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
