@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/thread-1/day-9/","dgHomeLink":false}
 ---
 
-### Thread 1, Day 9 - Monday, October 31, 2022
+### Thread 1, Day 9 - Tuesday, November 1, 202
 #### Agenda
 1. Full class recap
 	- Starting a new project
