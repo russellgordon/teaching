@@ -16,7 +16,8 @@
 	- [Score your partner's responses](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_) for the Colour Selector app.
 	- When your partner has finished doing the same for yours, compare notes.
 	- We will then discuss any clarifying questions from the whole class.
-2. AP Create Task: Working Period
+2. If you did not yet author written responses against Colour Selector, or did not finish the app, please [use my source code from the videos](https://github.com/lcs-rgordon/ColourSelectorFall2022Video) and then [author the necessary responses](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements).
+3. AP Create Task: Working Period
 	- The remainder of class time is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
 #### To-do items
 *Prior to our next class...*
