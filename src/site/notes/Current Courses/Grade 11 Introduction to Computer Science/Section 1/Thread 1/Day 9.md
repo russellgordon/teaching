@@ -2,13 +2,21 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/thread-1/day-9/","dgHomeLink":false}
 ---
 
-### Thread 1, Day 9 - Tuesday, November 1, 202
+### Thread 1, Day 9 - Tuesday, November 1, 2022
 #### Agenda
 1. Full class recap
 	- Starting a new project
 	- Computed properties vs. stored properties
 	- Requirements of the `View` protocol
 	- How to describe more interesting layouts for a user interface
+
+	> [!TIP]
+	> ∙ If desired, you can [download a Zip file of the recap code from class here](https://github.com/lcs-rgordon/NameBadge/archive/fcbc0cb0849d50761fcea4605072e07ec22c9853.zip).
+	> ∙ You can see the [history of commits for the recap code](https://github.com/lcs-rgordon/NameBadge/commits/fcbc0cb0849d50761fcea4605072e07ec22c9853) here.
+
+	> [!NOTE]
+	> Here is the [Xcode Keyboard Shortcuts poster](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf) I mentioned in class.
+
 2. [Project Organization](https://www.icloud.com/iclouddrive/03exCcLog2jkWcR0rpDKcga6w#Day_9a_-_Project_Organization)
 	- Using groups in Xcode
 3. [Scrolling](https://www.icloud.com/iclouddrive/0c77u1tVdTO30hB3oVHDICsbA#Day_9b_-_Scrolling)
@@ -33,7 +41,8 @@
 		- a title
 		- one image
 		- one or more paragraphs of text
-	
+	- Here is [[Media/Favourite Things|an animation showing what you are aiming for]].
+		
 > [!NOTE]
 > • Your first portfolio review will occur in our next class on Friday, November 4. 
 > • See notes about how to prepare in the calendar entry for this on Edsby.
