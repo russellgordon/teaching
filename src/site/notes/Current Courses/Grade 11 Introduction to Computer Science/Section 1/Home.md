@@ -41,6 +41,10 @@
 		- a title
 		- one image
 		- one or more paragraphs of text
+	
+> [!NOTE]
+> • Your first portfolio review will occur in our next class on Friday, November 4. 
+> • See notes about how to prepare in the calendar entry for this on Edsby.
 
 </div></div>
 
