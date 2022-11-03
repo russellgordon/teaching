@@ -25,6 +25,9 @@ To *meet* expectations, be sure you have:
 	- [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Thread 1/Day 6|Day 6]]: write structure(s) to represent hockey cards
 	- Days [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Thread 1/Day 7|7]], [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Thread 1/Day 8|8]], and [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Thread 1/Day 9|9]]: Essentially, get your Favourite Things app [[Media/Favourite Things|to the point where it looks like this]] (with, of course, your own unique list of your favourite things)
 
+> [!IMPORTANT]
+> Whatever you have done must be clearly documented in your portfolio, with supporting screenshots *and* text summarizing what you are showing and what you learned.
+
 ## Approaching Expectations
 
 If you are missing evidence in your portfolio for the tasks noted above, you are *approaching* expectations.
@@ -37,9 +40,6 @@ If you have evidence in your portfolio that suggests further mastery of a [[Curr
 - You might have experimented with creating user interfaces with SwiftUI in another project.
 
 How a given student exceeds expectations will vary and is not limited to the examples provided above.
-
-> [!IMPORTANT]
-> Whatever you have done must be clearly documented in your portfolio, with supporting screenshots *and* text summarizing what you are showing and what you learned.
 
 ## What to do
 ==No later than the night before your meeting with Mr. Gordon==, please:
