@@ -75,9 +75,8 @@ Multiplication Maestro is an MVP (minimum viable product) for the AP Create Task
 	      
 4. When you are all finished, [submit your work to the College Board](https://digitalportfolio.collegeboard.org/).
 
-## To Do
+## Final Notes
 
-- [ ] If you wish, use the resources above to begin thinking about the AP Create Task.
-- [ ] All class periods after today leading up to the firm deadline of ==Wednesday November 9== will be working periods for you to complete this task.
-    - [ ] If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
-- [ ] Each day, at the end of class time, make a [brief post on Spaces](https://ca.spacesedu.com/) to share an update on your progress and to ask clarifying questions.
+- All class periods after today leading up to the firm deadline of ==Wednesday November 9== will be working periods for you to complete this task.
+- If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
+- Each day, at the end of class time, make a [brief post on Spaces](https://ca.spacesedu.com/) to share an update on your progress and to ask clarifying questions.
