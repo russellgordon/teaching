@@ -17,6 +17,13 @@
 	- Computed properties vs. stored properties
 	- Requirements of the `View` protocol
 	- How to describe more interesting layouts for a user interface
+	  
+	> [!TIP]
+	> If you missed the recap in class today, here is [a video from when we discussed these topics](https://youtu.be/rnfnoh-s_Jg).
+
+	> [!NOTE]
+	> Here is the [Xcode Keyboard Shortcuts poster](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf) I mentioned in class.
+
 2. [Project Organization](https://www.icloud.com/iclouddrive/03exCcLog2jkWcR0rpDKcga6w#Day_9a_-_Project_Organization)
 	- Using groups in Xcode
 3. [Scrolling](https://www.icloud.com/iclouddrive/0c77u1tVdTO30hB3oVHDICsbA#Day_9b_-_Scrolling)
