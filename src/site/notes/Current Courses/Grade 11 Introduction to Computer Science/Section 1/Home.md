@@ -19,8 +19,7 @@
 	- How to describe more interesting layouts for a user interface
 
 	> [!TIP]
-	> ∙ If desired, you can [download a Zip file of the recap code from class here](https://github.com/lcs-rgordon/NameBadge/archive/fcbc0cb0849d50761fcea4605072e07ec22c9853.zip).
-	> ∙ You can see the [history of commits for the recap code](https://github.com/lcs-rgordon/NameBadge/commits/fcbc0cb0849d50761fcea4605072e07ec22c9853) here.
+	> If you missed the recap in class, here is [a video from when I reviewed these topics](https://youtu.be/rnfnoh-s_Jg) with my other section of Grade 11 Intro to Computer Science.
 
 	> [!NOTE]
 	> Here is the [Xcode Keyboard Shortcuts poster](https://swifteducation.github.io/assets/pdfs/XcodeKeyboardShortcuts.pdf) I mentioned in class.
