@@ -45,4 +45,4 @@
 		
 > [!NOTE]
 > • Your first portfolio review will occur in our next class on Friday, November 4. 
-> • See notes about how to prepare in the calendar entry for this on Edsby.
+> • Here is how to [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Portfolios/Initial Portfolio Review|prepare for your portfolio review]].
