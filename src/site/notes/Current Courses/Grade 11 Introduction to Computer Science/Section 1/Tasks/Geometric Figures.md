@@ -26,6 +26,7 @@ Write a structure that models a geometric figure.
 - [ ] playground has:
 	- [ ] the structure definition, as described above
 	- [ ] at least two *instances* of the structure, showing that stored and computed properties work correctly
+- [ ] you have used source control well by [committing and pushing your work](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf) at regular intervals
 ## Exemplar
 This is a partially completed task – the implementation details for the rectangle are deliberately hidden:
 
