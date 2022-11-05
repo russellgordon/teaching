@@ -56,7 +56,7 @@ goToHome()
 ```
 ___
 Here is the complete program described in this example:
-```swift nums {3}
+```swift
 // Create a turtle to draw things for you
 // NOTE: Be sure to keep this line of code at the top of your program.
 var turtle = Tortoise()
