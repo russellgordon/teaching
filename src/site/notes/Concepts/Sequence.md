@@ -5,7 +5,7 @@
 # Sequence
 ## What is sequence?
 Consider the following code. Would this draw a square?
-```swift
+```swift nums {1}
 // Create a turtle to draw things for you
 var turtle = Tortoise()
 
