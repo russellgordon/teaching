@@ -5,10 +5,9 @@
 # Sequence
 ## What is sequence?
 Consider the following code. Would this draw a square?
-```swift HL:"2"
+```swift
 // Create a turtle to draw things for you
 var turtle = Tortoise()
-
 
 // Draw... something
 turtle.left(angleInDegrees: 90)
