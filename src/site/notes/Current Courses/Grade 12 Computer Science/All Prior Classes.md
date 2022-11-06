@@ -9,6 +9,7 @@
 
 ### Thread 1
 
+[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 10 - Friday, November 4, 2022|Day 10 - Friday, November 4, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 9 - Thursday, November 3, 2022|Day 9 - Thursday, November 3, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 8 - Wednesday, November 2, 2022|Day 8 - Wednesday, November 2, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Tuesday, November 1, 2022|Day 7 - Tuesday, November 1, 2022]]
@@ -18,6 +19,33 @@
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 10 - Friday, November 4, 2022
+#### Agenda
+1. AP Create Task: Working Period
+	- This class is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+	- Each student will be called up to see Mr. Gordon for a brief in-person check in on their progress.
+
+#### To-do items
+*This weekend...*
+- [ ] Complete the bulk of the work for your [[AP Create Task|AP Create Task]].
+	- This will give you time in class on Tuesday to review your written responses one last time.
+	- We will use class time on Wednesday to hand in work on the College Board Digital Portfolio website.
+- [ ] Be certain to make a brief post on Spaces to share your progress.
+	      
+> [!NOTE]
+> • The firm due date for the AP Create Task is next Wednesday, November 9.
+> • It is expected that steady progress will be demonstrated between now and the due date.
+
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
