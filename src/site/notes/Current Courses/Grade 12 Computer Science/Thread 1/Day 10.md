@@ -10,7 +10,7 @@
 
 #### To-do items
 *This weekend...*
-- [ ] Complete the bulk of the work for your [[AP Create Task|AP Create Task]].
+- [ ] Complete the bulk of the work for your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
 	- This will give you time in class on Tuesday to review your written responses one last time.
 	- We will use class time on Wednesday to hand in work on the College Board Digital Portfolio website.
 - [ ] Be certain to make a brief post on Spaces to share your progress.
