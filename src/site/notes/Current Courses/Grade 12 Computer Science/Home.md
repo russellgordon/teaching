@@ -10,17 +10,17 @@
 
 
 
-### Thread 1, Day 9 - Thursday, November 3, 2022
+### Thread 1, Day 10 - Friday, November 4, 2022
 #### Agenda
 1. AP Create Task: Working Period
 	- This class is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
-
-> [!NOTE]
-> Please be sure you've reviewed ==[Mr. Gordon's additional set of written responses for Colour Selector](https://www.icloud.com/iclouddrive/071RgpqekOwKSdJCmS8ZdrDsA#Written_Responses_-_Colour_Selector_-_with_full_program_code)== which form another exemplar for the AP Create Task.
+	- Each student will be called up to see Mr. Gordon for a brief in-person check in on their progress.
 
 #### To-do items
-*Prior to our next class...*
-- [ ] Spend some time working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+*This weekend...*
+- [ ] Complete the bulk of the work for your [[AP Create Task|AP Create Task]].
+	- This will give you time in class on Tuesday to review your written responses one last time.
+	- We will use class time on Wednesday to hand in work on the College Board Digital Portfolio website.
 - [ ] Be certain to make a brief post on Spaces to share your progress.
 	      
 > [!NOTE]
