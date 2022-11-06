@@ -83,15 +83,17 @@ Multiplication Maestro is an MVP (minimum viable product) for the AP Create Task
 - If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
 - Each day, at the end of class time, make a [brief post on Spaces](https://ca.spacesedu.com/) to share an update on your progress and to ask clarifying questions.
 
-## Addendum: Second Exemplar – Colour Selector
+## Addendum
 
-From a series of review classes in the first module of this course, students:
+### Second Exemplar: Colour Selector
+
+In our review classes earlier in this module, you:
 - built the Colour Selector app by following this series of videos:
 	- [Part 1](https://youtu.be/Tdz4QSbvSYU) - 42 minutes
 	- [Part 2](https://youtu.be/rTGa2xtUVHk) - 1 hour, 2 minutes
 	- [Part 3](https://youtu.be/u_BpXOvstO4) - 33 minutes
-- authored their own written responses [using the Create Task requirements](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements)
-- peer-evaluated responses from another student in class using the [College Board's rubric](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_)
+- authored your own written responses [using the Create Task requirements](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements)
+- peer-evaluated responses from another student using the [College Board's rubric](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_)
 
 Following that exercise, Mr. Gordon then:
 
