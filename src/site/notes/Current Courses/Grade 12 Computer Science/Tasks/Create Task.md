@@ -68,10 +68,12 @@ Multiplication Maestro is an MVP (minimum viable product) for the AP Create Task
         - Here is [how to "make small text large"](https://www.russellgordon.ca/tips/embiggen-text-like-a-pro/) if you wish to use this effect in your video.
           
         > [!NOTE]
-        > It is not required to show text captions within your video, although it is encouraged *if you have the time* as it makes the College Board evaluator's job easier.
+        > It is not required to show text captions within your video, although it is encouraged *if you have the time* as it makes the College Board evaluator's job easier. If you choose to do this, [use Quicktime Player](https://support.apple.com/en-ca/guide/quicktime-player/qtp97b08e666/10.5/mac/12.0) to record your video.
         
     3. Author your written responses to the [required questions](https://www.icloud.com/iclouddrive/088PneqzsLiNHeOKoFp_0eBiA#AP_Create_Task_-_Written_Responses).
 	    - Be sure that code screenshots are legible – code cannot be so tiny that it becomes nearly impossible to read without a magnifying glass.
+	    - ==It is recommended that you take screenshots for your written responses from the PDF you created using BBEdit, so that line numbers match up with the PDF file you are providing with your full program code.==
+		    - If you instead take code screenshots from Xcode directly, line numbers will not match up with your full program code PDF, which could be confusing for the College Board evaluator who reviews your submission.
 	      
 4. When you are all finished, [submit your work to the College Board](https://digitalportfolio.collegeboard.org/).
 
@@ -80,3 +82,18 @@ Multiplication Maestro is an MVP (minimum viable product) for the AP Create Task
 - All class periods after today leading up to the firm deadline of ==Wednesday November 9== will be working periods for you to complete this task.
 - If you finish all or part of your AP Create Task in advance of our next module, you may use our class time in any way that you see fit, but you must be present in class, and of course, respectful of your peers' need to focus on completing their own work.
 - Each day, at the end of class time, make a [brief post on Spaces](https://ca.spacesedu.com/) to share an update on your progress and to ask clarifying questions.
+
+## Addendum: Second Exemplar – Colour Selector
+
+From a series of review classes in the first module of this course, students:
+- built the Colour Selector app by following this series of videos:
+	- [Part 1](https://youtu.be/Tdz4QSbvSYU) - 42 minutes
+	- [Part 2](https://youtu.be/rTGa2xtUVHk) - 1 hour, 2 minutes
+	- [Part 3](https://youtu.be/u_BpXOvstO4) - 33 minutes
+- authored their own written responses [using the Create Task requirements](https://www.icloud.com/iclouddrive/0sTIjatjDQDaHmoI_k-dNcnUQ#AP_Create_Task_-_Submission_Requirements)
+- peer-evaluated responses from another student in class using the [College Board's rubric](https://www.icloud.com/iclouddrive/0fbCsLsJ4x9e7HcCt46Gt13Lg#AP_Create_Task_-_Scoring_Guidelines_)
+
+Following that exercise, Mr. Gordon then:
+
+- provided his [own set of written responses](https://www.icloud.com/iclouddrive/071RgpqekOwKSdJCmS8ZdrDsA#Written_Responses_-_Colour_Selector_-_with_full_program_code) for Colour Selector.
+- offered the [complete source code for Colour Selector](https://github.com/lcs-rgordon/ColourSelectorFall2022Video) for further review, if desired.
