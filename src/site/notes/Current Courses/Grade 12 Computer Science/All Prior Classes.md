@@ -9,6 +9,7 @@
 
 ### Thread 1
 
+[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 12 - Wednesday, November 9, 2022|Wednesday, November 9, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 11 - Tuesday, November 8, 2022|Tuesday, November 8, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 10 - Friday, November 4, 2022|Day 10 - Friday, November 4, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 9 - Thursday, November 3, 2022|Day 9 - Thursday, November 3, 2022]]
@@ -20,6 +21,23 @@
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 1, Day 12 - Wednesday, November 9, 2022
+#### Agenda
+1. AP Create Task: Working Period
+	- Before the end of today's class you will hand in your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]] with guidance from Mr. Gordon.
+
+#### To-do items
+
+Since your AP Create Task is now complete please relax and enjoy your November long weekend! 😴
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
