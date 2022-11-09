@@ -5,7 +5,7 @@
 ### Thread 1, Day 12 - Wednesday, November 9, 2022
 #### Agenda
 1. AP Create Task: Working Period
-	- Before the end of today's class you will hand in your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]] with guidance from Mr. Gordon.
+		- Please hand in your work to the [College Board Digital Portfolio website](http://digitalportfolio.collegeboard.org/), as explained today in class.
 
 #### To-do items
 
