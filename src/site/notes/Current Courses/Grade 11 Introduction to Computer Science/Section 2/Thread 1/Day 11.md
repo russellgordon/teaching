@@ -3,7 +3,7 @@
 ---
 
 ### Thread 1, Day 11 - Saturday, November 5, 2022
-
+#### Agenda
 1. Reference Book: SwiftUI Views Quick Start
 	- Many programmers refer to *reference books* as they learn
 	- Mark Moeykens is a talented author of technical reference books, who runs [Big Mountain Studio](https://www.bigmountainstudio.com)
