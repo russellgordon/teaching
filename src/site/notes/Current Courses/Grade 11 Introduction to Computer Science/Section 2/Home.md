@@ -11,7 +11,7 @@
 
 
 ### Thread 1, Day 13 - Wednesday, November 9, 2022
-
+#### Agenda
 1. [SF Symbols App](https://developer.apple.com/sf-symbols/)
 	- Not all software developers have graphic design skills.
 	- Platform owners like Apple want their users to have a consistent experience when using apps written by different people.
