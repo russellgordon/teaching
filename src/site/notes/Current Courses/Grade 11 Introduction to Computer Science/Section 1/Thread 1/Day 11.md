@@ -3,7 +3,7 @@
 ---
 
 ### Thread 1, Day 11 - Monday, November 7, 2022
-
+#### Agenda
 1. [Learning Skills Self-Assessment](https://www.icloud.com/iclouddrive/00b26u1fleLzktdRsJ-nWhS_Q#Learning_Skills_Self-Assessment)
 	- Last week you completed in-person interviews with Mr. Gordon to discuss your achievement to date.
 	- You set goals for improvement over the next two weeks to complete this module.
