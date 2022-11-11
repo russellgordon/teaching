@@ -3,7 +3,7 @@
 ---
 
 ### Thread 1, Day 10 - Friday, November 4, 2022
-
+#### Agenda
 1. Initial Portfolio Reviews
 	- Mr. Gordon will meet privately with each student in the hall to review portfolios.
 	- While that occurs, please complete the other three agenda items for this class.
