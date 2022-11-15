@@ -13,7 +13,7 @@
 		- When completed, take a photo of your self-assessment and please post it [on Spaces](https://ca.spacesedu.com/) in the *private* portfolio space.
 2. [Source Control: Quick reference](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf)
 	- From last week's class, please glue this inside the front cover of your black hardcover notebook.
-3. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Composition of Views Using Custom Structures|SwiftUI: Composition of Views Using Custom Structures]]
+3. [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Composition of Views Using Custom Structures|SwiftUI: Composition of Views Using Custom Structures]]
 	- Remember **D.R.Y.** ?
 		- *Don't repeat yourself.*
 	- We can write our own structures that conform to the `View` protocol.
