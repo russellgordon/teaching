@@ -25,7 +25,7 @@
 4. Exercise: Fibonacci sequence
 	- In a Fibonacci sequence, each number is the sum of the two preceding numbers in the sequence.
 	- The first two terms of a Fibonacci sequence have the values `0` and `1`.
-		- For example, Fibonacci sequence with ten terms would look like this:
+		- For example, a Fibonacci sequence with ten terms would look like this:
 	    `0, 1, 1, 2, 3, 5, 8, 13, 21, 34`
 	- Formally, this can be described as follows:
 	  $F_0 = 0$
