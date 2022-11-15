@@ -9,7 +9,7 @@
 	- Platform owners like Apple want their users to have a consistent experience when using apps written by different people.
 	- One of the ways Apple helps their developers provide that consistent look and feel is by offering a wide variety of built-in images that can be used in apps.
 	- Please [download and install](https://devimages-cdn.apple.com/design/resources/download/SF-Symbols-4.dmg) the SF Symbols app now.
-2. [ Views and Controls App](https://github.com/lcs-rgordon/ViewsAndControls)
+2. [Views and Controls App](https://github.com/lcs-rgordon/ViewsAndControls)
 	- This Xcode project includes examples of how to use many common user interface elements that are present in iOS apps.
 	- Please [go to the repository on GitHub](https://github.com/lcs-rgordon/ViewsAndControls) and then [[Media/Cloning Views and Controls Project|clone a copy to use]] for future reference.
 	- Here is a brief example of [[Media/Using Views and Controls Project|how to use the project to review examples]].
