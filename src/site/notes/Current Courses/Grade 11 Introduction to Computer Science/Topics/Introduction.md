@@ -3,4 +3,4 @@
 ---
 
 # SwiftUI
-- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Composition of Views Using Custom Structures|Composition of Views Using Custom Structures]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Composition of Views Using Custom Structures|Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Composition of Views Using Custom Structures]]
