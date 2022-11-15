@@ -41,7 +41,7 @@
 ### Thread 1, Day 14 - Wednesday, November 16, 2022
 
 > [!NOTE]
-> This post is provided in advance, so that if you choose to, you can continue working ahead as we wrap up the current module of study in this course.
+> This post is provided in advance, so that if you choose to, you can work ahead as we wrap up the current module of study in this course.
 
 #### Agenda
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
