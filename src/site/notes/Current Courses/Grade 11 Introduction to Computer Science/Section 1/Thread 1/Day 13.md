@@ -4,9 +4,6 @@
 
 ### Thread 1, Day 13 - Tuesday, November 15, 2022
 
-> [!NOTE]
-> This post is provided in advance, so that if you choose to, you can work ahead over the November long weekend on the third item of this agenda. You can optionally complete items one and two before starting item three.
-
 #### Agenda
 1. [SF Symbols App](https://developer.apple.com/sf-symbols/)
 	- Not all software developers have graphic design skills.
