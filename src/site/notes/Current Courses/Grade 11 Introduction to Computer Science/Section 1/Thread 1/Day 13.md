@@ -14,7 +14,7 @@
 	- This Xcode project includes examples of how to use many common user interface elements that are present in iOS apps.
 	- Please [go to the repository on GitHub](https://github.com/lcs-rgordon/ViewsAndControls) and then [[Media/Cloning Views and Controls Project|clone a copy to use]] for future reference.
 	- Here is a brief example of [[Media/Using Views and Controls Project|how to use the project to review examples]].
-3. SwiftUI: [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Reproducing the Digital Stopwatch Interface, Part 1|Reproducing the Stopwatch App]]
+3. SwiftUI: [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Reproducing the Digital Stopwatch Interface, Part 1|Reproducing the Stopwatch App]]
 	- In this tutorial, learn how to apply some concepts we've already learned, as well as a few new ones, to build the user interface for a professional app.
 	  
 #### To-do items
