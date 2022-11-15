@@ -8,7 +8,13 @@
 > This post is provided in advance, so that if you choose to, you can work ahead as we wrap up the current module of study in this course.
 
 #### Agenda
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
+1. [Rubber Duck Debugging](https://rubberduckdebugging.com)
+	- Programming can be hard, both for beginners and experienced software developers.
+	- If you are running into syntax errors or logical errors and perhaps getting frustrated: that is normal!
+	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
+		- Often during this process, you will realize the source of the problem you are having.
+	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
 	- Show your understanding of recent lessons by reproducing a user interface of your choice.
 	  
 #### To-do items
