@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 12 - Tuesday, November 8, 2022
 #### Agenda
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Composition of Views Using Custom Structures|SwiftUI: Composition of Views Using Custom Structures]]
+1. [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Composition of Views Using Custom Structures|SwiftUI: Composition of Views Using Custom Structures]]
 	- Remember **D.R.Y.** ?
 		- *Don't repeat yourself.*
 	- We can write our own structures that conform to the `View` protocol.
