@@ -14,7 +14,7 @@
 	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 	
 #### To-do items
-- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[T-shirt Shadow Prints task|T-shirt Shadow Prints task]] using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
+- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
 	- Use the same drag and drop process you used to hand in your Campus Line Drawing.
 	
 > [!IMPORTANT]
