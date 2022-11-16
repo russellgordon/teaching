@@ -3,7 +3,6 @@
 ---
 
 # Grade 11 Introduction to Computer Science - Section 2
-
 ## Most Recent Class
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -38,7 +37,7 @@
 
 
 
-### Thread 1, Day 14 - Wednesday, November 16, 2022
+### Thread 1, Day 14 - Thursday, November 17, 2022
 
 > [!NOTE]
 > This post is provided in advance, so that if you choose to, you can work ahead as we wrap up the current module of study in this course.
@@ -55,7 +54,7 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on the assigned task.
+- [ ] Make progress on the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|assigned task]].
 
 > [!TIP]
 > Firm due date for this task is the end of our class this Friday.
