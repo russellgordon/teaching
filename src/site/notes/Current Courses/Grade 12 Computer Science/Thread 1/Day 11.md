@@ -15,7 +15,7 @@
 
 #### To-do items
 *This evening...*
-- [ ] Finish any remaining work for your [[AP Create Task|AP Create Task]].
+- [ ] Finish any remaining work for your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
 	- We will use class time tomorrow, on Wednesday, to hand in work on the College Board Digital Portfolio website.
 - [ ] Be certain to make a brief post on Spaces to share your progress.
 	      
