@@ -4,9 +4,6 @@
 
 ### Thread 1, Day 14 - Wednesday, November 16, 2022
 
-> [!NOTE]
-> This post is provided in advance, so that if you choose to, you can continue working ahead as we wrap up the current module of study in this course.
-
 #### Agenda
 
 1. [Rubber Duck Debugging](https://rubberduckdebugging.com)
@@ -20,7 +17,7 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on the assigned task.
+- [ ] Make progress on the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|assigned task.]]
 
 > [!TIP]
 > Firm due date for this task is the end of our class this Friday.
