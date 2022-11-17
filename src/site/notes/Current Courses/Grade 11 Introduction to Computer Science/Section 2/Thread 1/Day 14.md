@@ -4,9 +4,6 @@
 
 ### Thread 1, Day 14 - Thursday, November 17, 2022
 
-> [!NOTE]
-> This post is provided in advance, so that if you choose to, you can work ahead as we wrap up the current module of study in this course.
-
 #### Agenda
 1. [Rubber Duck Debugging](https://rubberduckdebugging.com)
 	- Programming can be hard, both for beginners and experienced software developers.
