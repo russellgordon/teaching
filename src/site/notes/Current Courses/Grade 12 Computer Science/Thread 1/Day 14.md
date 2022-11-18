@@ -24,7 +24,7 @@
 	- Create a new structure for each new shape you draw.
 
 > [!TIP]
-> When you create your shapes, do not use fixed co-ordinates. Instead, make use of `rect.height`, `rect.maxY`, and other properties of the `CGRect` that is provided to the `path` function, so that your shape *scale* as the size of the window or device changes.
+> When you create your shapes, do not use fixed co-ordinates. Instead, make use of `rect.height`, `rect.maxY`, and other properties of the `CGRect` that is provided to the `path` function, so that your shapes *scale* as the size of the window or device changes.
 	
 #### To-do items
 
