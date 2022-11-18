@@ -10,25 +10,23 @@
 
 
 
-### Thread 1, Day 14 - Thursday, November 17, 2022
+### Thread 1, Day 15 - Friday, November 18, 2022
 
 #### Agenda
-1. [Rubber Duck Debugging](https://rubberduckdebugging.com)
-	- Programming can be hard, both for beginners and experienced software developers.
-	- If you are running into syntax errors or logical errors and perhaps getting frustrated: that is normal!
-	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
-		- Often during this process, you will realize the source of the problem you are having.
-	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
+
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Portfolios/Thread 1 Portfolio Review|Thread 1 Portfolio Review]]
+	- Prepare for your face-to-face meeting with Mr. Gordon.
 2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
-	- Show your understanding of recent lessons by reproducing a user interface of your choice.
+	- For the remaining time in this period, continue working on the end-of-module task.
 	  
 #### To-do items
-*Before our next class...*
-- [ ] Make progress on the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|assigned task]].
+*This evening, completely optional...*
+- [ ] Continue making improvements to your portfolio on Spaces.
 
-> [!TIP]
-> Firm due date for this task is the end of our class this Friday.
-> All classes between now and then are working periods.
+> [!NOTE]
+> ∙ No additions to your portfolio made after 10 PM this evening will be considered.
+> ∙ Please enjoy the rest of your Quiet Weekend on Saturday and Sunday.
+> ∙ Good luck with your courses in module 3!
 
 </div></div>
 
