@@ -17,12 +17,12 @@
 	- As always, reply to these two prompts:
 		i. What did I learn or make progress upon today?
 		ii. What do I have questions about / what am I struggling with?
-2. Then, continue working on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+2. Then, continue working on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
 	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 	
 #### To-do items
-- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
+- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
 	- Use the same drag and drop process you used to hand in your Campus Line Drawing.
 	
 > [!IMPORTANT]
