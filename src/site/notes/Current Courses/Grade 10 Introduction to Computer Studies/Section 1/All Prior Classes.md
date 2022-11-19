@@ -42,10 +42,10 @@
 	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
 	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 
-3. Make progress on the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+3. Make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	
 #### To-do items
-- [ ] Finish the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints task]] and [hand it in using this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
+- [ ] Finish the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints task]] and [hand it in using this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
 	- Please [hand in your T-Shirt Shadow Prints playground to this form](), using the same drag and drop process you used to hand in your Campus Line Drawing.
 	- Designs must be handed in by 10 PM on Wednesday evening.
 	
@@ -63,8 +63,8 @@
 
 ### Thread 1, Day 12 - Wednesday, October 5, 2022
 #### Agenda
-1. Continue the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
-	- Ideally, at the start of today's class, your [[Tasks/T-shirt Shadow Prints#Exemplar|plan]] is complete and you have shared that progress [on Spaces](https://ca.spacesedu.com/)
+1. Continue the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+	- Ideally, at the start of today's class, your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints#Exemplar|plan]] is complete and you have shared that progress [on Spaces](https://ca.spacesedu.com/)
 		- If not, finish and share your plan as your first priority.
 	- Once your plan is complete, begin coding your design.
 	
@@ -73,7 +73,7 @@
 > • Do not use color.
 	
 #### To-do items
-- [ ] Make significant progress on your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+- [ ] Make significant progress on your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 
 > [!NOTE]
 > • Our next class occurs six days from now, on Tuesday, October 11.
@@ -90,7 +90,7 @@
 
 ### Thread 1, Day 11 - Tuesday, October 4, 2022
 #### Agenda
-1. Start the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+1. Start the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 	- This is the final task for this thread of the course.
 	- Apply the feedback you received on earlier tasks to show mastery of learning goals on this task.
 2. Select a T-shirt size
@@ -102,7 +102,7 @@
 	
 #### To-do items
 *By the start of our class tomorrow – Wednesday – be sure to...*
-- [ ] Finish the plan for your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+- [ ] Finish the plan for your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 
 </div></div>
 
@@ -127,7 +127,7 @@
 
 #### To-do items
 *Before tomorrow's class, please...*
-- [ ] As a first priority, finish your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task if it is not complete – with an update [on Spaces](https://ca.spacesedu.com/) when you are done, responding to the provided [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] As a first priority, finish your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task if it is not complete – with an update [on Spaces](https://ca.spacesedu.com/) when you are done, responding to the provided [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 - [ ] Otherwise, spend some time creating a few [Spirograph-like](https://duckduckgo.com/?q=spirograph+art) forms.
 	- ==NOTE==: You can use squares (as shown in the function above) of various sizes to make some fairly interesting Spirograph-like forms, if you did not get the `polygon` function discussed in class today working.
 
@@ -144,17 +144,17 @@
 1. Portfolio Reviews
 	- Students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|review portfolios]].
 2. Working time
-	- While portfolio reviews occur, make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- While portfolio reviews occur, make progress on your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 	- Aim to  exceed expectations by adding elements like clouds, trees, or other enhancements to your drawing.
-3. [[Concepts/Random Numbers|Using Random Numbers]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Random Numbers|Using Random Numbers]]
 	- Random numbers can be used to create some element of variation in your drawing.
 	- This example from the end of class shows how random numbers could be used to create a grass-like form.
  
 #### To-do items
 *Before our next class on Monday, please...*
 
-- [ ] Aim to complete your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
-- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Aim to complete your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 	- [ ] Be sure to include screenshot(s) or photo(s) of your progress, including the code.
 
 </div></div>
@@ -168,12 +168,12 @@
 ### Thread 1, Day 8 - Wednesday, September 28, 2022
 #### Agenda
 1. Working time
-	- You have the entire class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the entire class to make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make a "update" post for the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Make a "update" post for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 	- Be sure to include a screenshot or photo of your progress.
 
 > [!TIP]
@@ -190,16 +190,16 @@
 ### Thread 1, Day 7 - Tuesday, September 27, 2022
 #### Agenda
 1. Working time
-	- You have the entire class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the entire class to make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make a "update" post for the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Make a "update" post for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 	- Be sure to include a screenshot or photo of your progress.
 
 > [!NOTE]
-> Tomorrow is the final working period for the [[Tasks/Campus Line Drawing|this task]]. As needed, you may wish to make more progress this evening.
+> Tomorrow is the final working period for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|this task]]. As needed, you may wish to make more progress this evening.
 
 > [!TIP]
 > Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place on Thursday. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]].
@@ -216,22 +216,22 @@
 #### Agenda
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|Initial Portfolio Review]]
 	- In our final class this week (Thursday) you will meet individually with Mr. Gordon to propose a level of achievement.
-2. [[Concepts/Iteration#Applying iteration|Applying Iteration]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration#Applying iteration|Applying Iteration]]
 	- When using loops to make part of a drawing:
 		a. carefully isolate the actions to be repeated
 		b. finish drawing where you started
 		c. then move to where you want the next "repeat" of the drawing to occur
-3. [[Concepts/Functions|Using Functions to "Chunk" a Sketch]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Functions|Using Functions to "Chunk" a Sketch]]
 	- Rather than drawing one part of a sketch, then moving directly on to draw the next part, it's helpful to keep each part of a sketch separate from the next.
 	- You can do this by returning to the origin in between drawing each part.
 	- In this way, if you move one block of code around in your program, it doesn't affect the other parts.
 4. Working time
-	- You have the remainder of class time today to make progress on your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the remainder of class time today to make progress on your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
 
-- [ ] For the Campus Line Drawing task, make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] For the Campus Line Drawing task, make a post [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 > [!NOTE]
 > There is no expectation that you work on the plan or code for this task this evening. You will have the next two classes to continue working on this task.
 
@@ -253,24 +253,24 @@
 	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
 		- Often during this process, you will realize the source of the problem you are having.
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
-3. [[Concepts/Sequence|Sequence]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Sequence|Sequence]]
 	- Does sequence of statements matter? Yes.
-4. [[Concepts/Iteration|Concepts/Iteration]]
+4. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration|Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration]]
 	- A computer is very good at repeatedly doing the same thing.
 	- We can use a loop to describe what instructions should be repeated.
 	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
-5. Introduce [[Tasks/Campus Line Drawing|Campus Line Drawing]] task
+5. Introduce [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task
 	- Complete a walk around campus to find suitable locations.
 6. Working time
-- If needed, finish up the [Name Plate](https://teaching.russellgordon.ca/tasks/name-plate/) task or begin the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- If needed, finish up the [Name Plate](https://teaching.russellgordon.ca/tasks/name-plate/) task or begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make some progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- [ ] Make some progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 	- ==NOTE==: You will also have class time over the next several periods to work on this task.
 	- [ ] For the Campus Line Drawing task, please be sure to make a post [on Spaces](https://ca.spacesedu.com/) at the end of each class (or at the end of Study time in the evening)
-		- Here are the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+		- Here are the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 
 </div></div>
 
@@ -309,14 +309,14 @@
 
 ### Thread 1, Day 3 - Tuesday, September 20, 2022
 #### Agenda
-1. Finish the [[Tasks/Shapes|Shapes task]] with your partner from last class.
+1. Finish the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Shapes|Shapes task]] with your partner from last class.
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
 2. Begin the [Name Plate task](https://teaching.russellgordon.ca/tasks/name-plate/).
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Be sure you've completed all the expectations of the [[Tasks/Shapes|Shapes task]] .
+- [ ] Be sure you've completed all the expectations of the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Shapes|Shapes task]] .
 
 ==No need to work on the Name Plate task for homework.==
 
