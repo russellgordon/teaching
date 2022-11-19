@@ -4,4 +4,4 @@
 
 # Software Setup
 * [[Software Setup/Playgrounds|Playgrounds]]
-	* This will be primarily useful for students in Grade 10 Introduction to Computer Studies or for members of Coding Club.
+	* A streamlined environment for programming and learning that works great on iOS and macOS.
