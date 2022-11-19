@@ -7,7 +7,7 @@
 1. Finish the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Shapes|Shapes task]] with your partner from last class.
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
-2. Begin the [Name Plate task](https://teaching.russellgordon.ca/tasks/name-plate/).
+2. Begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]].
 #### To-do items
 *Before our next class, please...*
 
