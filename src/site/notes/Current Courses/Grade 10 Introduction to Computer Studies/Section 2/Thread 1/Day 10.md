@@ -14,5 +14,5 @@
 
 #### To-do items
 *Before tomorrow's class, please...*
-- [ ] As a first priority, finish your [[Tasks/Campus Line Drawing|Campus Line Drawing]] task if it is not complete – with an update [on Spaces](https://ca.spacesedu.com/) when you are done, responding to the provided [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] As a first priority, finish your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task if it is not complete – with an update [on Spaces](https://ca.spacesedu.com/) when you are done, responding to the provided [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 - [ ] Otherwise, spend some time creating a few [Spirograph-like](https://duckduckgo.com/?q=spirograph+art) forms.
