@@ -48,5 +48,5 @@
 *Before our next class...*
 - [ ] As described in item #2 above, if necessary, upgrade your computer's operating system.
 - [ ] As described in item #3 above, please download and install Xcode.
-- [ ] Complete your enhancements to [[Tasks/Name Plate - ICS3U - Section 1|Name Plate]] task.
+- [ ] Complete your enhancements to [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Tasks/Name Plate|Name Plate]] task.
 - [ ] Please share your progress on [Spaces](https://ca.spacesedu.com/).
