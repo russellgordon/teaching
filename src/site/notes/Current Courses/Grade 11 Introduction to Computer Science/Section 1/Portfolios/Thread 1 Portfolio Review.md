@@ -32,7 +32,7 @@ To show that you have excellent learning skills, be sure you have:
 ## How to estimate your current grade
 
 To *meet* expectations, be sure you have:
-- [ ] met the success criteria for the [[Tasks/Name Plate - ICS3U - Section 1|Name Plate]] task and made at least *some* of the improvements that you were given time to complete from days [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 2|2]], [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 3|3]],  [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 4|4]], and [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 6|6]]
+- [ ] met the success criteria for the [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Tasks/Name Plate|Name Plate]] task and made at least *some* of the improvements that you were given time to complete from days [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 2|2]], [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 3|3]],  [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 4|4]], and [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 1/Day 6|6]]
 - [ ] met the success criteria for the [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Tasks/Geometric Figures|Geometric Figures]] task
 - [ ] met the success criteria for the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|end-of-thread task where you are reproducing an iOS interface]]
 
