@@ -5,12 +5,12 @@
 ### Thread 1, Day 8 - Wednesday, September 28, 2022
 #### Agenda
 1. Working time
-	- You have the entire class to make progress on the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the entire class to make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
 
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make a "update" post for the [[Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Make a "update" post for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
 	- Be sure to include a screenshot or photo of your progress.
 
 > [!TIP]
