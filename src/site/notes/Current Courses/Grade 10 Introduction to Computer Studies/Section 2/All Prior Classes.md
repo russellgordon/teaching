@@ -274,7 +274,7 @@
 6. Working time in class
 	- If needed:
 		- [ ] polish your Spaces posts
-		- [ ] finish up the [Name Plate](https://teaching.russellgordon.ca/tasks/name-plate/) task
+		- [ ] finish up the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]] task
 	- Or:
 		- [ ] begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
@@ -297,10 +297,10 @@
 
 ### Thread 1, Day 4 - Wednesday, September 21, 2022
 #### Agenda
-1. Finish the [Name Plate task](https://teaching.russellgordon.ca/tasks/name-plate/).
+1. Finish the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]].
 	- Be certain you made a plan.
 		- Share a photo of your plan [on Spaces](https://ca.spacesedu.com/).
-		- Review the [exemplar](https://teaching.russellgordon.ca/tasks/name-plate/#Exemplar) for a plan carefully.
+		- Review the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate#Exemplar|exemplar]] for a plan carefully.
 	- Be sure to respond to the reflection questions on Spaces.
 2. Optionally, to enhance your portfolio of work, make additions to your name plate sketch.
 	- Consider adding small line drawing(s) of something that connects to your interests.
@@ -312,7 +312,7 @@
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Be sure you've completed all the expectations of the [Name Plate task](https://teaching.russellgordon.ca/tasks/name-plate/).
+- [ ] Be sure you've completed all the expectations of the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]].
 
 </div></div>
 
