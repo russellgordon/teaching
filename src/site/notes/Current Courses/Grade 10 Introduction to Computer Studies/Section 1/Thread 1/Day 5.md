@@ -21,7 +21,7 @@
 5. Introduce [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task
 	- Complete a walk around campus to find suitable locations.
 6. Working time
-- If needed, finish up the [Name Plate](https://teaching.russellgordon.ca/tasks/name-plate/) task or begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+- If needed, finish up the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]] task or begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
  
 #### To-do items
 *Before our next class, please...*
