@@ -14,8 +14,8 @@
 	- The [latest version of the Turtle Sketches playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1), version 4.1, allows for shapes to be filled.
 	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
 
-3. Continue the [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
-	- Ideally, at the start of today's class, your [[Tasks/T-shirt Shadow Prints#Exemplar|plan]] is complete and you have shared that progress [on Spaces](https://ca.spacesedu.com/)
+3. Continue the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+	- Ideally, at the start of today's class, your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints#Exemplar|plan]] is complete and you have shared that progress [on Spaces](https://ca.spacesedu.com/)
 		- If not, finish and share your plan as your first priority.
 	- Once your plan is complete, begin coding your design.
 	
@@ -24,7 +24,7 @@
 > • Do not use color.
 	
 #### To-do items
-- [ ] Make significant progress on your [[Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+- [ ] Make significant progress on your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
 
 > [!NOTE]
 > • Your design must be completely coded and [handed in](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform) by the end of class tomorrow.
