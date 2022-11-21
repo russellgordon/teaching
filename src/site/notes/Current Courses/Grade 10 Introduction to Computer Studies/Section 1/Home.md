@@ -10,29 +10,39 @@
 
 
 
-### Thread 1, Day 13 - Tuesday, October 11, 2022
+### Thread 2, Day 1 - Monday, November 21, 2022
 #### Agenda
-1. Please hand in the final version of your Campus Line Drawing playground to [this form](https://docs.google.com/forms/d/e/1FAIpQLSfgvy6K9Y1TzBLw6J2OqjClI39Vj5f-x6wlil2kqE9wH1tVKQ/viewform).
-	- Here is a [[Media/Handing in your Campus Line Drawing|short animation showing how to hand in your drawing]].
+1. Managing Files
+	- About your computer's filesystem
+	- Cloud vs. local storage
+2. Backing Up Files
+	- [Using Google Drive for Desktop](https://support.google.com/drive/answer/10838124?hl=en#)
+	- Install Google Drive for Desktop
+3. Keyboard Shortcuts
+	- Download Mr. Gordon's app
+	- Spend about half of today's class exploring the shortcuts
+	- Be sure to try them out *yourself*, on *your system*
+	- Find at least *five* shortcuts and mark them as favourites within the app
+		- Post a screenshot of your favourite shortcuts [on Spaces](https://ca.spacesedu.com/)
+	- [Make a screen recording](https://support.apple.com/en-us/HT208721) of *you using* at least *two* of your keyboard shortcuts
+		- Post your screen recordings [to Spaces](https://ca.spacesedu.com/)
+4. Touch Typing Tutorials: Typing Pal
+	- Being able to type accurately and quickly without looking at the keyboard is a crucial skill
+	- Log in to the [**Personal/Home Edition** of Typing Pal](https://services.druide.com/connexion/externe?app=taptouche&langue=en&redirect_uri=https://app.typingpal.com/connexion/valide-connexion-druide) with your LCS Google account
+	- Goal – by the midpoint of this module – be sure to complete on TypingPal:
+		-  [ ] Steps 1-5 exercises
+		 - [ ] Section 1 frequent words
+	 - Post screenshots [on Spaces](https://ca.spacesedu.com/) to document your progress
+ 5. Module 1 Achievement Check-in
+	 - While students work on items 1-4 in today's agenda, Mr. Gordon will meet with each student privately to identify their:
+		 - best work from module 1
+		 - areas for improvement
+		 - next steps
+	 - Course grade as of the end of module 1 will also be shared.
 
-> [!IMPORTANT]
-> Please double check that you are handing in the correct file by first running the playground file before handing it in.
-
-2. Filling Shapes
-	- The [latest version of the Turtle Sketches playground](https://www.icloud.com/iclouddrive/030Bsp7EIEhY1TnLkzuz9v76w#Turtle_Sketches_Template_v4-1), version 4.1, allows for shapes to be filled.
-	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
-	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
-
-3. Make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
-	
 #### To-do items
-- [ ] Finish the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints task]] and [hand it in using this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
-	- Please [hand in your T-Shirt Shadow Prints playground to this form](), using the same drag and drop process you used to hand in your Campus Line Drawing.
-	- Designs must be handed in by 10 PM on Wednesday evening.
-	
-> [!IMPORTANT]
-> Please double check that you are handing in the correct file by first running the playground file before handing it in.	
-
+- [ ] Complete agenda items 1-3 from today's class, making posts on Spaces where appropriate.
+- [ ] Get a start on agenda item 4.
 
 </div></div>
 
@@ -49,7 +59,7 @@ ___
 Day|Time|Location
 -|-|-
 Tuesday|1:30 PM to 2 PM|Room 36
-Thursday|12:30 PM to 1 PM|Room 36
+Friday|12:30 PM to 1 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 If you have a question, **don't hesitate**, come on by!
