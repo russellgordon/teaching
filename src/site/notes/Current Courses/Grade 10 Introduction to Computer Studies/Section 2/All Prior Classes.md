@@ -7,6 +7,10 @@
 
 ## Table of Contents
 
+### Thread 2
+
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 1 - Monday, November 21, 2022|Day 1 - Monday, November 21, 2022]]
+
 ### Thread 1
 
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 13 - Wednesday, October 12, 2022|Day 13 - Wednesday, October 12, 2022]]
@@ -22,6 +26,39 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 1 - Monday, November 21, 2022
+#### Agenda
+1. Managing Files
+	- About your computer's filesystem
+	- Cloud vs. local storage
+2. Backing Up Files
+	- [Using Google Drive for Desktop](https://support.google.com/drive/answer/10838124?hl=en#)
+	- Install Google Drive for Desktop
+	- Then, organize your files so that everything you have created exists in a folder that makes sense for that document
+		- Post screenshot(s) of your organized files in Google Drive and on your local computer [on Spaces](https://ca.spacesedu.com/)
+3. Keyboard Shortcuts
+	- Download [Mr. Gordon's Keyboard Shortcuts app](https://www.icloud.com/iclouddrive/007b-1yqDluBEY5C0xLXsyFEQ#KeyboardShortcuts)
+		- Unzip the file and move to your Applications folder
+		- Add to your Dock
+	- Spend about half of today's class exploring the shortcuts
+	- Be sure to try them out *yourself*, on *your system*
+	- Find at least *five* shortcuts and mark them as favourites within the app
+		- Post a screenshot of your favourite shortcuts [on Spaces](https://ca.spacesedu.com/)
+	- [Make a screen recording](https://support.apple.com/en-us/HT208721) of *you using* at least *two* of your keyboard shortcuts
+		- Post your screen recordings [to Spaces](https://ca.spacesedu.com/)
+
+#### To-do items
+- [ ] Complete agenda items 1-3 from today's class, making posts on Spaces where appropriate.
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
