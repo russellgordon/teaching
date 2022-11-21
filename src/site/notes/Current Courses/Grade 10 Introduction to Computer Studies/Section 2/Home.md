@@ -10,23 +10,29 @@
 
 
 
-### Thread 1, Day 13 - Wednesday, October 12, 2022
+### Thread 2, Day 1 - Monday, November 21, 2022
 #### Agenda
-1. Please ==read the replies== made to your recent posts [on Spaces](https://ca.spacesedu.com/).
-	- If you did not provide any updates yesterday, please do that *first* today before continuing to write more code.
-	- As always, reply to these two prompts:
-		i. What did I learn or make progress upon today?
-		ii. What do I have questions about / what am I struggling with?
-2. Then, continue working on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
-	- Use black, white, and shades of grey only (recall the [process we are using to transfer designs to a shirt](http://www.inkodye.com/guides/photo)).
-	- To "turn off" fills, [[Media/Using a Clear Fill Colour|set the fill color to "clear"]].
-	
+1. Managing Files
+	- About your computer's filesystem
+	- Cloud vs. local storage
+2. Backing Up Files
+	- [Using Google Drive for Desktop](https://support.google.com/drive/answer/10838124?hl=en#)
+	- Install Google Drive for Desktop
+	- Then, organize your files so that everything you have created exists in a folder that makes sense for that document
+		- Post screenshot(s) of your organized files in Google Drive and on your local computer [on Spaces](https://ca.spacesedu.com/)
+3. Keyboard Shortcuts
+	- Download [Mr. Gordon's Keyboard Shortcuts app](https://www.icloud.com/iclouddrive/007b-1yqDluBEY5C0xLXsyFEQ#KeyboardShortcuts)
+		- Unzip the file and move to your Applications folder
+		- Add to your Dock
+	- Spend about half of today's class exploring the shortcuts
+	- Be sure to try them out *yourself*, on *your system*
+	- Find at least *five* shortcuts and mark them as favourites within the app
+		- Post a screenshot of your favourite shortcuts [on Spaces](https://ca.spacesedu.com/)
+	- [Make a screen recording](https://support.apple.com/en-us/HT208721) of *you using* at least *two* of your keyboard shortcuts
+		- Post your screen recordings [to Spaces](https://ca.spacesedu.com/)
+
 #### To-do items
-- [ ] No later than 10 PM tomorrow – Thursday – hand in the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task using [this form](https://docs.google.com/forms/d/e/1FAIpQLSfwa6DH8Ylbvn45avDXNTmyqi2c-4BYp4h0mvsYicFdmxBtiw/viewform).
-	- Use the same drag and drop process you used to hand in your Campus Line Drawing.
-	
-> [!IMPORTANT]
-> Please double check that you are handing in the correct file by first running the playground file before handing it in.	
+- [ ] Complete agenda items 1-3 from today's class, making posts on Spaces where appropriate.
 
 </div></div>
 
