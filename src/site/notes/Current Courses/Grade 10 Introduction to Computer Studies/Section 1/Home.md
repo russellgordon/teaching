@@ -19,7 +19,9 @@
 	- [Using Google Drive for Desktop](https://support.google.com/drive/answer/10838124?hl=en#)
 	- Install Google Drive for Desktop
 3. Keyboard Shortcuts
-	- Download Mr. Gordon's app
+	- Download [Mr. Gordon's Keyboard Shortcuts app](https://www.icloud.com/iclouddrive/007b-1yqDluBEY5C0xLXsyFEQ#KeyboardShortcuts)
+		- Unzip the file and move to your Applications folder
+		- Add to your Dock
 	- Spend about half of today's class exploring the shortcuts
 	- Be sure to try them out *yourself*, on *your system*
 	- Find at least *five* shortcuts and mark them as favourites within the app
