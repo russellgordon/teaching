@@ -44,6 +44,10 @@
 	- Spotlight search
 	- What folder is opened when a new Finder window is created
 	- Warnings when removing files from iCloud Drive
+
+> [!NOTE]
+> Optionally, you can [watch a video of today's class where agenda items 1 to 3, above, were addressed](https://www.youtube.com/embed/aeQLYWvusK8).
+
 4. Touch Typing Proficiency: Typing Pal
 	- Being able to type accurately and quickly without looking at the keyboard is a crucial skill
 	- Log in to the [**Personal/Home Edition** of Typing Pal](https://services.druide.com/connexion/externe?app=taptouche&langue=en&redirect_uri=https://app.typingpal.com/connexion/valide-connexion-druide) with your LCS Google account
@@ -59,8 +63,10 @@
 	- How to create sections using headings
 	- How to create a table of contents
 	- Obtaining filler text (*lorem ipsum*...)
-	- Using headers and footers
-	- Bookmarks and links
+	
+> [!NOTE]
+> Optionally, you can [watch a video of today's class where agenda item 4, above, was addressed](https://www.youtube.com/embed/5YSfeGb2GfI).
+
 6. Exercise: Set Module 3 Goals using Google Docs
 	- [ ] Create a new Google Doc
 	- [ ] Ensure that it is saved inside your Computer Studies folder
@@ -75,11 +81,9 @@
 		- Winter Break
 			- `What are you looking forward to during the Winter Break. Why?`
 	- [ ] Create a table of contents
-	- [ ] Create a header that includes your name at the top right
-	- [ ] Create a footer that includes page numbers at the bottom right
 	- [ ] Share a link to your document on Spaces when complete
 	- [ ] Make a [screen recording](https://support.apple.com/en-us/HT208721) of you editing your document, showing that you know how to adjust styles all at once
-1. Module 1 Achievement Check-in
+7. Module 1 Achievement Check-in
 	 - While you work on items 4 and 6 from today's agenda, Mr. Gordon will meet with each student privately to identify their:
 		 - best work from module 1
 		 - areas for improvement
@@ -88,7 +92,7 @@
 	
 
 #### To-do items
-- [ ] Complete agenda items 4 and 6 from today's class, making posts on Spaces where appropriate.
+- [ ] Complete agenda items 4 and 6 from today's class, making posts on Spaces where indicated.
 
 </div></div>
 
