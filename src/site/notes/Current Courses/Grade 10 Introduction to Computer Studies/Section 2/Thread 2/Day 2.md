@@ -15,6 +15,8 @@
 4. Touch Typing Proficiency: Typing Pal
 	- Being able to type accurately and quickly without looking at the keyboard is a crucial skill
 	- Log in to the [**Personal/Home Edition** of Typing Pal](https://services.druide.com/connexion/externe?app=taptouche&langue=en&redirect_uri=https://app.typingpal.com/connexion/valide-connexion-druide) with your LCS Google account
+	- Check your LCS email, and follow the link from TypingPal to verify your email address
+		- Be sure to check your Spam folder – the verification email might get directed to that folder
 
 > [!TODO] 
 > By the midpoint of this module – be sure to complete on TypingPal:
@@ -47,7 +49,7 @@
 	- [ ] Create a footer that includes page numbers at the bottom right
 	- [ ] Share a link to your document on Spaces when complete
 	- [ ] Make a [screen recording](https://support.apple.com/en-us/HT208721) of you editing your document, showing that you know how to adjust styles all at once
-1. Module 1 Achievement Check-in
+7. Module 1 Achievement Check-in
 	 - While you work on items 4 and 6 from today's agenda, Mr. Gordon will meet with each student privately to identify their:
 		 - best work from module 1
 		 - areas for improvement
