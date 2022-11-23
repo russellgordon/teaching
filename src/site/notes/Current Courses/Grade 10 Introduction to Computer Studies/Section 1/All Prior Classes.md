@@ -370,6 +370,7 @@
 	- Complete a walk around campus to find suitable locations.
 6. Working time
 - If needed, finish up the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]] task or begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+
  
 #### To-do items
 *Before our next class, please...*
@@ -420,6 +421,7 @@
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
 2. Begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]].
+
 #### To-do items
 *Before our next class, please...*
 
