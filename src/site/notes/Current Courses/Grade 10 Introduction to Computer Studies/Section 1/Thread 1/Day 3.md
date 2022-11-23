@@ -8,6 +8,7 @@
 	- Pay close attention to the success criteria.
 	- Be sure to respond to the reflection questions on Spaces.
 2. Begin the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Name Plate|Name Plate task]].
+
 #### To-do items
 *Before our next class, please...*
 
