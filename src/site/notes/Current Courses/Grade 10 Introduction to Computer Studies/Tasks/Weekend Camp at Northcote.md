@@ -136,7 +136,7 @@ Some notes:
 2. How did your spreadsheet layout make calculations easier or harder?
 
 When the task is completed, make a post on [Spaces](https://ca.spacesedu.com) in your private portfolio space to:
-- [ ] share a link to your group's work on this take
+- [ ] share a link to your group's work on this task
 - [ ] briefly respond to the prompts above
 
 ## Learning goals
