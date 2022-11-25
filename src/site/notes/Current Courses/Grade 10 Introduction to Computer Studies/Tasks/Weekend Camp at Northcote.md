@@ -90,7 +90,6 @@ Each column holds the following information:
 ==Your projected net income must be a minimum of $1000.==
 
 > [!TIP]
-> 
 >  ∙ What have you charged each camper to participate?
 >  ∙ How many campers must register to reach your target income?
 >  
@@ -123,6 +122,9 @@ Here is an exemplar that meets *most* of the requirements listed above:
 
 Some notes:
 - This is just one possible layout; you do not need to match it.
+	- There are some advantages to this vertical layout, but one disadvantage is that columns are shared between multiple tables.
+		- This can sometimes make layout a challenge.
+	- You might consider building a spreadsheet with a more horizontal layout, so that columns are not shared between different tables.
 - Total projected net income is below the $1000 threshold.
 	- The authors need to make some adjustments to their camper count or fee per camper to ensure they meet the required threshold.
 - Only the cells highlighted in yellow contain data that was typed directly into the cell.
