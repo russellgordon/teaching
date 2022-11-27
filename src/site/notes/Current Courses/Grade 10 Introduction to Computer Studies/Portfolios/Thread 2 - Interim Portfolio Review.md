@@ -22,7 +22,7 @@ To *meet* expectations, be sure you have completed all required exercises from d
 To *exceed* expectations, you have completed tasks that go above and beyond, such as any optional tasks that were offered by Mr. Gordon – or you have added other evidence to your portfolio related to the topics we have looked at since the start of the second thread.
 
 ## What to do
-==No later 10 PM on Sunday December 4 – the night before your meeting with Mr. Gordon==, please:
+==No later than 10 PM on Sunday December 4 – the night before your meeting with Mr. Gordon==, please:
 - [ ] Make a brief post [on Spaces](https://ca.spacesedu.com/)
 - [ ] Title the post "Thread 2 – Midpoint – Portfolio Review"
 - [ ] Write *briefly* to support your case for the level of achievement you feel you have earned
