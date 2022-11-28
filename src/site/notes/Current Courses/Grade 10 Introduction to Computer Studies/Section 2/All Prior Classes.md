@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 5 - Monday, November 28, 2022|Day 5 - Monday, November 28, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 4 - Friday, November 25, 2022|Day 4 - Friday, November 25, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 3 - Thursday, November 24, 2022|Day 3 - Thursday, November 24, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 2 - Wednesday, November 23, 2022|Day 2 - Wednesday, November 23, 2022]]
@@ -29,6 +30,32 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 5 - Monday, November 28, 2022
+#### Agenda
+
+1. Task: [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Weekend Camp at Northcote|Weekend Camp at Northcote]]
+	- Understand how a spreadsheet can be used as a budget planning tool for events.
+	- Work with your partner – **task should be completed today**.
+2. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
+	- You are meant to leverage what you have learned over the last few classes and independently complete this task.
+	- You will have today and the next two periods of class time to work on these tasks.
+		- Take your time – read instructions carefully – and do your best work. 🚀
+
+#### To-do items
+- [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
+	- Be sure to include a few screenshots.
+
+> [!TIP]
+> You do not need to work on the [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link) task – that is an in-class assignment to be resumed in our next class.
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
