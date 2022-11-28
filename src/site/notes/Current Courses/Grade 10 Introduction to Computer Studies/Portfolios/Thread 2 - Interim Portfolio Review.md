@@ -17,7 +17,19 @@ For this portfolio review:
 
 The overall purpose of your portfolio is to provide evidence of mastery of the [[Current Courses/Grade 10 Introduction to Computer Studies/Learning Goals|course learning goals]].
 
-To *meet* expectations, be sure you have completed all required exercises from days 1 to 7. Evidence must exist in your portfolio on Spaces.
+To *meet* expectations, be sure you have completed all required exercises from days 1 to 7:
+
+- [ ] video showing navigation of organized folders in Google Drive (or, multiple screenshots)
+- [ ] keyboard shortcuts – screenshots of five favourites, screen recording(s) showing that you using two of them
+- [ ] touch typing – step 1 exercises, section 1 frequent words completed
+- [ ] using styles in a Google Doc – module 3 goals
+- [ ] SheetBoss – SUM lessons (4) and COUNT lessons (3) completed
+- [ ] Weekend Camp at Northcote task
+- [ ] Spreadsheet Skills Pyramid task
+
+Please visit the relevant pages from days 1 to 7 for further details.
+
+==Evidence of the above must exist in your portfolio on Spaces.==
 
 To *exceed* expectations, you have completed tasks that go above and beyond, such as any optional tasks that were offered by Mr. Gordon – or you have added other evidence to your portfolio related to the topics we have looked at since the start of the second thread.
 
