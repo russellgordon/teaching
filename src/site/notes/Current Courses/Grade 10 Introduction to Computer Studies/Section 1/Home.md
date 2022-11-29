@@ -10,18 +10,16 @@
 
 
 
-### Thread 2, Day 5 - Monday, November 28, 2022
+### Thread 2, Day 6 - Tuesday, November 29, 2022
 #### Agenda
 
-1. SUM vs. SUMIF
-	- A [brief discussion of why SUMIF is usually preferable](https://www.youtube.com/watch?v=BTj9kjjYrkY) – this was recorded in the other section of Grade 10 Computer Studies, but was discussed in our section as well.
-2. Task: [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Weekend Camp at Northcote|Weekend Camp at Northcote]]
-	- Understand how a spreadsheet can be used as a budget planning tool for events.
-	- Work with your partner – **task should be completed today**.
-3. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
-	- You are meant to leverage what you have learned over the last few classes and independently complete this task.
-	- You will have today and the next two periods of class time to work on these tasks.
-		- Take your time – read instructions carefully – and do your best work. 🚀
+1. Example: [Monthly Precipitation](https://docs.google.com/spreadsheets/d/1zG6a8AvTOttjlPOjiPG6OmLD9mrvcOmwmIZAGQeFIiE/copy)
+	- In which we revisit the cardinal rule of spreadsheet design: never use a literal number in a formula.
+	- Instead, use formulas and cell references only.
+2. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
+	- Continue working on this task.
+	- You have today and tomorrow's class to finish up.
+		- Take your time – read instructions carefully – and do your best work. ✅
 
 #### To-do items
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
