@@ -10,7 +10,7 @@
 	- Instead, use formulas and cell references only.
 2. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
 	- Continue working on this task.
-	- You have today and tomorrow's class to finish up.
+	- You have today and Friday's class to finish up.
 		- Take your time – read instructions carefully – and do your best work. ✅
 
 #### To-do items
