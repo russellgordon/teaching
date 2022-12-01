@@ -62,4 +62,6 @@
 	
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete agenda items 4 and 6 from today's class, making posts on Spaces where indicated.
