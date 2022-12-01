@@ -39,6 +39,8 @@
 
 
 #### To-do items
+*Before our next class...*
+
 - [ ] From agenda item #3 above, please make a short video showing the features of your completed Module 3 goals document 
 	- Post this video to your [Spaces portfolio](https://ca.spacesedu.com/)
 - [ ] Complete the SheetBoss lessons, from agenda item #5 above
