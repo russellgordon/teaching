@@ -26,6 +26,8 @@
 		- Take your time – ==read instructions carefully== – and do your best work. ✅
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
 	- Be sure to include a few screenshots.
 
