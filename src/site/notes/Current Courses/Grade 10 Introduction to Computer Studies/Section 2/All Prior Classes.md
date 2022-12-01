@@ -54,6 +54,8 @@
 		- Take your time – ==read instructions carefully== – and do your best work. ✅
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
 	- Be sure to include a few screenshots.
 
@@ -82,6 +84,8 @@
 		- Take your time – read instructions carefully – and do your best work. 🚀
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
 	- Be sure to include a few screenshots.
 
@@ -104,6 +108,8 @@
 	- You will work with a partner during today's class and our next class to complete this task.
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Share the progress that you and your partner made on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Weekend Camp at Northcote|weekend camp task]] on [Spaces](https://ca.spacesedu.com/).
 	- Be sure to include screenshots.
 - [ ] If necessary, work to finish off the SheetBoss lessons, from [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Thread 2/Day 3|agenda item 3 on day 3]].
@@ -140,6 +146,8 @@
 
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete the SheetBoss lessons, from agenda item #3 above
 	- Post screenshot(s) showing your overall progress [on Spaces](https://ca.spacesedu.com/)
 
@@ -217,6 +225,8 @@
 	
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete agenda items 4 and 6 from today's class, making posts on Spaces where appropriate.
 
 </div></div>
@@ -249,6 +259,8 @@
 		- Post your screen recordings [to Spaces](https://ca.spacesedu.com/)
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete agenda items 1-3 from today's class, making posts on Spaces where appropriate.
 
 </div></div>
