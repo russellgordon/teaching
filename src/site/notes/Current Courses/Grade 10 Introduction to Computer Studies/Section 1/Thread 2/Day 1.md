@@ -24,4 +24,6 @@
 		- Post your screen recordings [to Spaces](https://ca.spacesedu.com/)
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete agenda items 1-3 from today's class, making posts on Spaces where appropriate.
