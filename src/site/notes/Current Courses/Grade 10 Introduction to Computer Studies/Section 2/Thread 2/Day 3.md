@@ -22,5 +22,7 @@
 
 
 #### To-do items
+*Before our next class...*
+
 - [ ] Complete the SheetBoss lessons, from agenda item #3 above
 	- Post screenshot(s) showing your overall progress [on Spaces](https://ca.spacesedu.com/)
