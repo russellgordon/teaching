@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 7 - Friday, December 2, 2022|Day 7 - Friday, December 2, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 6 - Thursday, December 1, 2022|Day 6 - Thursday, December 1, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 5 - Monday, November 28, 2022|Day 5 - Monday, November 28, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 4 - Friday, November 25, 2022|Day 4 - Friday, November 25, 2022]]
@@ -31,6 +32,32 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 7 - Friday, December 2, 2022
+#### Agenda
+
+1. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
+	- Finish this task today in class. 🏁
+	- Please, ==remember to include direct links to each spreadsheet in your posts==.
+2. Optional task: [Franchising and Employee Pay](https://drive.google.com/file/d/1m9wBIiCtJzwZU0qC8HKOu63Q8aLj2iUB/view?usp=share_link)
+	- If you are looking for a way to exceed expectations, you can complete  this task.
+	- This task may be completed outside of class, but, you must be sure to share the spreadsheet with Mr. Gordon, and he must have Editor privileges.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
+	- Be sure to include a few screenshots.
+- [ ] Optionally, complete the [Franchising and Employee Pay](https://drive.google.com/file/d/1m9wBIiCtJzwZU0qC8HKOu63Q8aLj2iUB/view?usp=share_link) task before our next class.
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review on Monday]].
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
