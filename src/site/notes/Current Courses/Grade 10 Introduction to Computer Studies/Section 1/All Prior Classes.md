@@ -53,13 +53,12 @@
 	- Please [download version 5 of the Turtle Sketches Template](https://www.icloud.com/iclouddrive/067aWMvIpKPy582rk6zbL31wg#Turtle_Sketches_Template_-_v5), then [[Media/Install and Duplicate New Turtle Sketches Template|follow the steps shown in this animation]] to get ready for the next item on our agenda.
 5. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Panda Scene|Task: Panda Scene]]
 	- Revisit your understanding of *sequence* and how to write readable code by authoring a scene of a panda's habitat.
-6. Portfolio Reviews
-	- While the class works on their panda scene, students will meet privately with Mr. Gordon to [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|review portfolios]].
 
 #### To-do items
 *Before our next class...*
 
 - [ ] Make significant progress on your panda scene and share your results [on Spaces](https://ca.spacesedu.com/).
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review in our next class]].
 
 </div></div>
 
@@ -85,7 +84,7 @@
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
 	- Be sure to include a few screenshots.
 - [ ] Optionally, complete the [Franchising and Employee Pay](https://drive.google.com/file/d/1m9wBIiCtJzwZU0qC8HKOu63Q8aLj2iUB/view?usp=share_link) task before our next class.
-- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review on Monday]].
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review on next week]].
 
 </div></div>
 
