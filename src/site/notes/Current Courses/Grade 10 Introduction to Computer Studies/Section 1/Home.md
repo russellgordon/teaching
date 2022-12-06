@@ -14,7 +14,7 @@
 #### Agenda
 
 1. Exercise: Making Plans, Spotting Patterns, and Applying Iteration
-	- This collection of truly impressive work *will* soon be on the wall outside our classroom.
+	- How to use iteration to express a numerical pattern.
 2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Panda Scene|Task: Panda Scene]]
 	- Finish the scene involving your panda (or other animal).
 
