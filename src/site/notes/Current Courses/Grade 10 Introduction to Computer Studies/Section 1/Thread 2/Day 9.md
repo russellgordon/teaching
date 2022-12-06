@@ -5,7 +5,7 @@
 ### Thread 2, Day 9 - Tuesday, December 6, 2022
 #### Agenda
 
-1. Exercise: Spotting Patterns and Making Plans
+1. Exercise: Making Plans, Spotting Patterns, and Applying Iteration
 	- This collection of truly impressive work *will* soon be on the wall outside our classroom.
 2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Panda Scene|Task: Panda Scene]]
 	- Finish the scene involving your panda (or other animal).
