@@ -28,7 +28,7 @@
 *Before our next class...*
 
 - [ ] Make significant progress on your panda scene and share your results [on Spaces](https://ca.spacesedu.com/).
-- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review in our next class]].
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review in our next class, this Friday]].
 
 </div></div>
 
