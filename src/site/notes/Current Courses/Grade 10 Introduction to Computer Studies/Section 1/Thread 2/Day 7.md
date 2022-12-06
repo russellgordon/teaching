@@ -18,4 +18,4 @@
 - [ ] Make a brief status update [on Spaces](https://ca.spacesedu.com/) to share your progress.
 	- Be sure to include a few screenshots.
 - [ ] Optionally, complete the [Franchising and Employee Pay](https://drive.google.com/file/d/1m9wBIiCtJzwZU0qC8HKOu63Q8aLj2iUB/view?usp=share_link) task before our next class.
-- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review on next week]].
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review  next week]].
