@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 9 - Tuesday, December 6, 2022|Day 9 - Tuesday, December 6, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 8 - Monday, December 5, 2022|Day 8 - Monday, December 5, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 7 - Friday, December 2, 2022|Friday, December 2, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 6 - Tuesday, November 29, 2022|Day 6 - Tuesday, November 29, 2022]]
@@ -33,6 +34,28 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 9 - Tuesday, December 6, 2022
+#### Agenda
+
+1. Exercise: Making Plans, Spotting Patterns, and Applying Iteration
+	- This collection of truly impressive work *will* soon be on the wall outside our classroom.
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Panda Scene|Task: Panda Scene]]
+	- Finish the scene involving your panda (or other animal).
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Finish your panda scene and share your results [on Spaces](https://ca.spacesedu.com/).
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review]] which will occur during Friday's class.
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
