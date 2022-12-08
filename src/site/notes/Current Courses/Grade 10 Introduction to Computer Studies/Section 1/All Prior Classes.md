@@ -11,7 +11,7 @@
 
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 9 - Tuesday, December 6, 2022|Day 9 - Tuesday, December 6, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 8 - Monday, December 5, 2022|Day 8 - Monday, December 5, 2022]]
-- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 7 - Friday, December 2, 2022|Friday, December 2, 2022]]
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 7 - Friday, December 2, 2022|Day 7 - Friday, December 2, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 6 - Tuesday, November 29, 2022|Day 6 - Tuesday, November 29, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 5 - Monday, November 28, 2022|Day 5 - Monday, November 28, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 2, Day 4 - Friday, November 25, 2022|Day 4 - Friday, November 25, 2022]]
