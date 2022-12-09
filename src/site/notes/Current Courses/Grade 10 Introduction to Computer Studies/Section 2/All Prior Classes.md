@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 9 - Friday, December 9, 2022|Day 9 - Friday, December 9, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 8 - Monday, December 5, 2022|Day 8 - Monday, December 5, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 7 - Friday, December 2, 2022|Day 7 - Friday, December 2, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 6 - Thursday, December 1, 2022|Day 6 - Thursday, December 1, 2022]]
@@ -40,6 +41,28 @@
 
 
 
+### Thread 2, Day 9 - Friday, December 9, 2022
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Making Plans, Spotting Patterns, and Applying Iteration|Exercise: Making Plans, Spotting Patterns, and Applying Iteration]]
+	- How to use iteration to express a numerical pattern.
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Panda Scene|Task: Panda Scene]]
+	- Finish the scene involving your panda (or other animal).
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Finish your panda scene and share your results [on Spaces](https://ca.spacesedu.com/).
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review]] which will occur in tomorrow's class.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 ### Thread 2, Day 8 - Monday, December 5, 2022
 #### Agenda
 
@@ -58,7 +81,7 @@
 *Before our next class...*
 
 - [ ] Make significant progress on your panda scene and share your results [on Spaces](https://ca.spacesedu.com/).
-- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review in our next class, this Friday]].
+- [ ] Prepare for your [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Thread 2 - Interim Portfolio Review|portfolio review in our next class, this Saturday]].
 
 </div></div>
 
