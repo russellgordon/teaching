@@ -78,7 +78,7 @@ Let's start by analysing the poster to make a rough plan.
 
 Consider the following gig poster:
 
-<div style="width: 510px;"> <div src="the replacements - no grid.png" class="internal-embed"></div> </div>
+<image src="gig-posters-applying-abstraction/the replacements - no grid.png" width="510"/>
 
 What similar elements do you see in this poster?
 
