@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 11 - Monday, December 12, 2022|Day 11 - Monday, December 12, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 10 - Saturday, December 10, 2022|Day 10 - Saturday, December 10, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 9 - Friday, December 9, 2022|Day 9 - Friday, December 9, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 8 - Monday, December 5, 2022|Day 8 - Monday, December 5, 2022]]
@@ -35,6 +36,33 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 11 - Monday, December 12, 2022
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones|Exercise: Ramones]]
+	- If necessary – you have not finished up this exercise yet – please work to complete it before continuing with today's tutorial.
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction|Gig Posters: Applying Abstraction]]
+	- Learn how to use functions to draw visually similar elements within a gig poster.
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag|Exercise: Superdrag]]
+	- Apply your understanding of *iteration* using loops and *abstraction* using functions to reproduce this gig poster.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Make progress on all agenda items above.
+	- Share update(s) [on Spaces](https://ca.spacesedu.com/) to:
+		- show what you completed
+		- ask questions where necessary
+	- Please remember to include screenshots or short screen recordings with each post.
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
