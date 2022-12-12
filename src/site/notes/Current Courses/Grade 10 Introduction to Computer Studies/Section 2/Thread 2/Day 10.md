@@ -21,6 +21,6 @@
 #### To-do items
 *Before our next class...*
 
-- [ ] Be certain you complete item 1 from the agenda, and do your best to complete the exercise from item 2.
+- [ ] Be certain you complete item 2 from the agenda (Blur poster), and do your best to complete the exercise from item 3 (Ramones poster).
 	- Share update(s) [on Spaces](https://ca.spacesedu.com/) to show your progress.
 	- Remember to include screenshots!
