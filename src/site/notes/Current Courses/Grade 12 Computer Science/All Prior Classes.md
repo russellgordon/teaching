@@ -72,7 +72,7 @@ Nothing – enjoy your Quiet Weekend – see you in January! 😎
 	- You can view Mr. Gordon's [iterative](https://github.com/lcs-rgordon/FibonacciSequence/blob/main/FibonacciSequence/main.swift#L10-L42) and [recursive solution](https://github.com/lcs-rgordon/FibonacciSequence/blob/main/FibonacciSequence/main.swift#L44-L106), if you wish.
 
 > [!NOTE]
-> Mr. Gordon's solutions should not be seen as the only "correct" solution to the exercise given on [[Current Courses/Grade 12 Computer Science/Thread 1/Day 13|Day 13]]. His code prioritizes understandability and readability, which sometimes sacrifices efficiency. All code is always a work in progress, and Mr. Gordon welcomes feedback and discussion about the solutions he shares.
+> Mr. Gordon's solutions should not be seen as the only "correct" solution to the exercise given on [[Current Courses/Grade 12 Computer Science/Thread 1/Day 13|Current Courses/Grade 12 Computer Science/Thread 1/Day 13]]. His code prioritizes understandability and readability, which sometimes sacrifices efficiency. All code is always a work in progress, and Mr. Gordon welcomes feedback and discussion about the solutions he shares.
 
 2. Drawing Custom Shapes with SwiftUI
 	- Discussed the Shape protocol for a structure and how it requires that [[Media/Shape Protocol and Drawing within a Rectangle|a path for a shape be defined within the boundaries of a rectangle, or "rect"]].
