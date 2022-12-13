@@ -10,11 +10,13 @@
 
 
 
-### Thread 2, Day 11 - Monday, December 12, 2022
+### Thread 2, Day 12 - Tuesday, December 13, 2022
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones|Exercise: Ramones]]
-	- If necessary – you have not finished up this exercise yet – please work to complete it before continuing with today's tutorial.
+1. Submitting Final Versions of Playgrounds
+	- Please use the Google Forms listed at the bottom of our home page to submit your final versions of playgrounds, as they are completed.
+	> [!NOTE]
+	> These submissions are in addition to your regular posts on Spaces that are made to share your progress for each task.
 2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction|Gig Posters: Applying Abstraction]]
 	- Learn how to use functions to draw visually similar elements within a gig poster.
 3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag|Exercise: Superdrag]]
@@ -34,6 +36,29 @@
 ## All Prior Classes
 You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes|all prior classes]] here.
 ___
+## Submitting Recent Playgrounds
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+As you complete each task listed below, please submit your finished playground.
+
+**Task**|**How to hand it in**|
+-|-|
+[Panda / Animal Scene](https://docs.google.com/forms/d/e/1FAIpQLSdipdc4f8eKgdk25cF75qmM9yIZmn5DoPjPIODAqJOlJ50g6w/viewform)| [[Media/How to hand in your Panda or Animal Scene|How to hand in your Panda or Animal Scene]] |
+[Ramones Gig Poster](https://docs.google.com/forms/d/e/1FAIpQLSc4rSqsVk5jNtASiifJU-zZujn0KhQ_waYNvPax6Abfhl8tcg/viewform)| Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
+[Replacements Gig Poster](https://docs.google.com/forms/d/e/1FAIpQLSc-5ykq-W3t1kn9wQKQdzKtA9t6rb7c8fceK9rnPbYJn8fAXw/viewform)| Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
+[Superdrag Gig Poster](https://docs.google.com/forms/d/e/1FAIpQLSfDwhu_gEWFmnph3yox646qgcnUiuMxi4CEpEBeCJlyxPj6ww/viewform)| Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
+
+
+
+
+
+
+</div></div>
+
 ## Grove Time
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
