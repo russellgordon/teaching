@@ -5,11 +5,13 @@
 ### Thread 2, Day 12 - Wednesday, December 14, 2022
 #### Agenda
 
-1. [Rubber Duck Debugging](https://rubberduckdebugging.com)
+1. [[Productivity/Creating a Smart Folder|Creating a Smart Folder]]
+	- A brief tip showing a fast way to find your PDF created from code in the Playgrounds app.
+2. [Rubber Duck Debugging](https://rubberduckdebugging.com)
 	- You are encouraged to bring your 🦆 to class!
 	- You will run into all sorts of errors – syntax and logical errors – this is *normal*.
 	- Explaing your code, line by line to your duck, and comparing that code to what you *intend* to do is a valid and useful debugging approach.
-2. Submitting Final Versions of Playgrounds
+3. Submitting Final Versions of Playgrounds
 	- Please use the Google Forms listed at the bottom of our home page to submit your final versions of playgrounds, as they are completed.
 	> [!NOTE]
 	> These submissions are in addition to your regular posts on Spaces that are made to share your progress for each task.
