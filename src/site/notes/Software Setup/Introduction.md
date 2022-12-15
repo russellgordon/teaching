@@ -3,5 +3,6 @@
 ---
 
 # Software Setup
-* [[Software Setup/Playgrounds|Playgrounds]]
-	* A streamlined environment for programming and learning that works great on iOS and macOS.
+- [[Software Setup/macOS Ventura|macOS Ventura]] 
+- [[Software Setup/Playgrounds|Playgrounds]]
+	- A streamlined environment for programming and learning that works great on iOS and macOS.
