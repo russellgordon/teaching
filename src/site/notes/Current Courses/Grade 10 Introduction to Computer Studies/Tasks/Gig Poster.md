@@ -25,8 +25,8 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 			 - [ ] identify numerical patterns in the position of elements (where iteration might be used)
 			 - [ ] identify similar visual elements in your poster (where abstraction using functions might be used)
 	
-	> [!NOTE]
-	> Your plan *must* be [shared on Spaces](https://ca.spacesedu.com/) and approved by Mr. Gordon prior to starting to write code. 
+> [!NOTE]
+> Your plan *must* be [shared on Spaces](https://ca.spacesedu.com/) and approved by Mr. Gordon prior to starting to write code. 
 
 - to meet expectations, your code should:
 	- [ ] show an understanding of *sequence* by producing output that matches your plan
