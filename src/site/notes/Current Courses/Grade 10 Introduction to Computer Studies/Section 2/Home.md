@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/section-2/home/","dgHomeLink":false}
 ---
 
-# Grade 10 Introduction to Computer Studies - Section 2
+# Grade 10 Introduction to Computer Studies - Section 2 
 ## Most Recent Class
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -74,7 +74,7 @@ If you have a question, **don't hesitate**, come on by!
 
 </div></div>
 
-## Key Links 
+## Key Links
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
