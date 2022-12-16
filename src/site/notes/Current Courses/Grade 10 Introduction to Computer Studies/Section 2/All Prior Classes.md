@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 14 - Friday, December 16, 2022|Day 14 - Friday, December 16, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 13 - Thursday, December 15, 2022|Day 13 - Thursday, December 15, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 12 - Wednesday, December 14, 2022|Day 12 - Wednesday, December 14, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 11 - Monday, December 12, 2022|Day 11 - Monday, December 12, 2022]]
@@ -38,6 +39,33 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 14 - Friday, December 16, 2022
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
+	- Carefully review the requirements for the end-of-module task.
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection|Gig Posters: Selection]]
+	- Read through the tutorial, then [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection#Exercise: Pixies|try the provided exercise]] to recreate a **Pixies** poster to apply your understanding of *selection*.
+	- Note that at this point, understanding how selection statements work goes above and beyond expectations.
+	- You may work on this tutorial independently but are encouraged to continue asking questions of your peers and Mr. Gordon.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Make progress on all agenda items above.
+	- Share update(s) [on Spaces](https://ca.spacesedu.com/) to:
+		- show what you completed
+		- ask questions where necessary
+	- Please remember to include screenshots or short screen recordings with each post.
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
