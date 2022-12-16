@@ -28,12 +28,14 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 > [!NOTE]
 > Your plan *must* be [shared on Spaces](https://ca.spacesedu.com/) and approved by Mr. Gordon prior to starting to write code. 
 
-- to meet expectations, your code should:
+ - to meet expectations, your code should:
 	- [ ] show an understanding of *sequence* by producing output that matches your plan
 	- [ ] show an understanding of *iteration* by using loops to draw repeated elements
+
 - to exceed expectations, your code should:
 	- [ ] show an understanding of *abstraction* by making use of functions that include parameters
 	- [ ] show an understanding of *selection* by making use of `if` statements
+
 - [ ] use [color combinations that are appealing](https://www.canva.com/learn/100-color-combinations/#organic-color-inspiration)
 
 > [!NOTE]
