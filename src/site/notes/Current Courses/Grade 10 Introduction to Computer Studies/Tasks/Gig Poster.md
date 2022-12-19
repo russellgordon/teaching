@@ -86,7 +86,7 @@ Here is an example from last year:
 
 ## Handing in your work
 
-Please [submit your final playground to this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform) using drag and drop.
+Please [submit your playground to this Google form](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform) using drag and drop. You are encouraged to submit multiple copies of your playground as you are likely to make improvements over time based on feedback received from peers and your teacher.
 > [!Tip]
 > Remember, you must use the Safari web browser when submitting a playground for drag and drop to work.
 
