@@ -17,6 +17,7 @@
 
 2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
 	- Continue this task today.
+	- Please be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|reviewed and met all the success criteria]].
 	- ==Due date is this Thursday, December 22.==
 
 > [!NOTE]
