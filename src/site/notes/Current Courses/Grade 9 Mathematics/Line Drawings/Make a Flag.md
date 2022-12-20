@@ -3,7 +3,7 @@
 ---
 
 
-← [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]]
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]] | Return to: [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]
 
 ---
 
@@ -28,4 +28,4 @@ If you do, just duplicate your existing playground to make a new one:
 
 ---
 
-← [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]]
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]] | Return to: [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]
