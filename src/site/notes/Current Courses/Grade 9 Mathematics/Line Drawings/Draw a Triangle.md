@@ -9,7 +9,7 @@
 
 # Draw a Triangle
 
-The interior angles inside an equilateral triangle are, of course, $60 \degree$.
+The interior angles of an equilateral triangle are, of course, $60 \degree$.
 
 What are the exterior angles of an equilaterial triangle?
 
