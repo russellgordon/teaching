@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/line-drawings/fills-and-borders/","dgHomeLink":false}
 ---
 
+
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]] →
+
+---
+
 # Fills and Borders
 
 On the prior page you may have come up with something like this:
@@ -16,4 +21,4 @@ Try changing colors like this:
 
 ---
 
-← [[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/Make a Flag|Make a Flag]] →
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/More Shapes|More Shapes]] →
