@@ -4,10 +4,10 @@
 
 # Graphic Design
 
-To do.
+Coming soon! 😎
 
 ---
 
 ←|**→**|
 -|-|
-[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|[[Current Courses/Grade 9 Mathematics/Graphic Design/Graphic Design|]]|
+[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|[[&nbsp;|&nbsp;]]|
