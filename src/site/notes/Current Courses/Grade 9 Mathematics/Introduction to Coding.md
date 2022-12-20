@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/introduction-to-coding/","dgHomeLink":false}
 ---
 
+
+[[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] → 
+
+---
+
 # Introduction to Coding
 
 ## What you'll need to begin
