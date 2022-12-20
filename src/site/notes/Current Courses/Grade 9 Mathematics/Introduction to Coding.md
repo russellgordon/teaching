@@ -14,7 +14,4 @@
 > If you already have the **Playgrounds** app installed on your computer, please delete it from the **Applications** folder of your computer, then re-install. This will not impact any programs you may have already written within the **Playgrounds** app.
 
 --- 
-
-**→**|
--|
-[[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]]|
+[[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] → 
