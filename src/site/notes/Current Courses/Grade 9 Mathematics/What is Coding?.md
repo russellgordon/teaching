@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/what-is-coding/","dgHomeLink":false}
 ---
 
+
+←[[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]] →
+
+---
+
 # What is Coding?
 
 As a loose term, *coding* means to provide instructions to a computer.
