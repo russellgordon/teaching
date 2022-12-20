@@ -3,7 +3,7 @@
 ---
 
 
-←[[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]] →
+← [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding|Purpose of Coding]] →
 
 ---
 
@@ -13,7 +13,7 @@ As a loose term, *coding* means to provide instructions to a computer.
 
 Coding is also called *programming*.
 
-Think of your most literal friend, who takes everything you say exactly at face value.
+Think of your most literal friend who takes everything you say *exactly* at face value.
 
 That is sort of what it's like to program a computer!
 
@@ -27,4 +27,4 @@ The programming language you will use today is called [Swift](https://developer.
 
 ---
 
-←[[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]] →
+← [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding|Purpose of Coding]] →
