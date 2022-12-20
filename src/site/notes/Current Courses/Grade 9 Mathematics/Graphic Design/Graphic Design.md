@@ -8,6 +8,4 @@ Coming soon! 😎
 
 ---
 
-←|**→**|
--|-|
-[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|[[&nbsp;|&nbsp;]]|
+← [[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]
