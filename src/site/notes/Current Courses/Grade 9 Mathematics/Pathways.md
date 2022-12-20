@@ -2,9 +2,14 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/pathways/","dgHomeLink":false}
 ---
 
+
+← [[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] 
+
+--- 
+
 # Pathways
 
-What would you like to learn how to do today?
+What would you like to do today?
 
 ## Line Drawings
 
