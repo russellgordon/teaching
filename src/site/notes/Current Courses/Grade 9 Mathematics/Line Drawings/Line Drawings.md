@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/line-drawings/line-drawings/","dgHomeLink":false}
 ---
 
+
+←[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/Introduction to the Environment|Introduction to the Environment]] →
+
+---
+
 # Line Drawings
 
 Imagine a turtle with a pen strapped to it's back:
