@@ -14,6 +14,4 @@ Aim to make the flag as big as possible on the canvas – but maintain the corre
 
 ---
 
-←|
--|
-[[Current Courses/Grade 9 Mathematics/Line Drawings/Fills and Borders|Fills and Borders]]|
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/Fills and Borders|Fills and Borders]]
