@@ -4,10 +4,10 @@
 
 # Explore Relations
 
-To do.
+Coming soon! 🎉
 
 ---
 
 ←|**→**|
 -|-|
-[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|[[Current Courses/Grade 9 Mathematics/Explore Relations/Explore Relations|]]|
+[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|&nbsp;|
