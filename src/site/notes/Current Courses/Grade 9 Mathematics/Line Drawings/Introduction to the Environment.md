@@ -19,7 +19,7 @@ At right, we see the result of our instructions being run.
 
 To run our instructions, we can use the **Command-R** keyboard shortcut, or press **Run My Code**.
 
-We can also *step* through the code, one line at a time, by using the **Shift-Command-R** keyboard shortcut.
+We can also *step* through the code, one line at a time, by using the **Shift-Command-R** keyboard shortcut, or by pressing **Step Through My Code**.
 
 Begin by adding this code to the playground:
 
