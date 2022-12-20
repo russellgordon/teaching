@@ -14,6 +14,4 @@ By listing several instructions, we can get the turtle to draw increasingly inte
 
 ---
 
-←|**→**|
--|-|
-[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]]|[[Current Courses/Grade 9 Mathematics/Line Drawings/Introduction to the Environment|Introduction to the Environment]]|
+←[[Current Courses/Grade 9 Mathematics/Pathways|Pathways]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/Introduction to the Environment|Introduction to the Environment]] →
