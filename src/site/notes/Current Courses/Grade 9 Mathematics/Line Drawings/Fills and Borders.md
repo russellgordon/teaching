@@ -16,6 +16,4 @@ Try changing colors like this:
 
 ---
 
-←|**→**|
--|-|
-[[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]]|[[Current Courses/Grade 9 Mathematics/Line Drawings/Make a Flag|Make a Flag]]|
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/Make a Flag|Make a Flag]] →
