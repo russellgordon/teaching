@@ -3,7 +3,7 @@
 ---
 
 
-← [[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] 
+← [[Current Courses/Grade 9 Mathematics/Coding to Directly Explore Mathematics|Coding to Directly Explore Mathematics]] | Return to: [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]]
 
 --- 
 
@@ -11,9 +11,11 @@
 
 What would you like to do today?
 
+Please choose one of the three options below.
+
 ## Line Drawings
 
-Draw the flag of my home country or another country of my choosing.
+Draw the flag of my home country or another country that I select.
 
 [[Current Courses/Grade 9 Mathematics/Line Drawings/Line Drawings|Line Drawings]] →
 
@@ -31,4 +33,4 @@ Learn how to represent relations through coding.
 
 --- 
 
-← [[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] 
+← [[Current Courses/Grade 9 Mathematics/Coding to Directly Explore Mathematics|Coding to Directly Explore Mathematics]]  | Return to: [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]]
