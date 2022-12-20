@@ -2,6 +2,11 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-9-mathematics/line-drawings/introduction-to-the-environment/","dgHomeLink":false}
 ---
 
+
+← [[Current Courses/Grade 9 Mathematics/Line Drawings/Line Drawings|Line Drawings]] | [[Current Courses/Grade 9 Mathematics/Line Drawings/Draw a Triangle|Draw a Triangle]] →
+
+---
+
 # Introduction to the Environment
 
 This is what you should see when you open the **Grade 9 Coding** playground:
