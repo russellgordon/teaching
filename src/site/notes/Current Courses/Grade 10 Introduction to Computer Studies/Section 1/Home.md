@@ -10,31 +10,22 @@
 
 
 
-### Thread 2, Day 15 - Monday, December 19, 2022
+### Thread 2, Day 16 - Tuesday, December 20, 2022
 #### Agenda
 
-1. Acknowledging Replies on Spaces + Iterative Improvement
-	- It takes a *lot* of effort to reply to everyone's posts on Spaces. 🥵
-	- I know you *are* reading the replies, but could you indicate that you've done so by giving an emoji reaction, or just a short reply? 
-	- This would be much appreciated. 🙏🏼
-
-> [!NOTE]
-> If a change or improvement is suggested in the feedback I've given in my reply to your post, it's ideal if you make time to follow through on the feedback given and actually make the changes or improvements suggested. Of course, be sure to share those improvements with a follow-up post in your portfolio. All of that demonstrates growth and learning! 💪🏼
-> 
-> ![An illustration of the steps in the design process.|650](https://www.russellgordon.ca/teaching/snow-clearing-and-computer-studies-enrolment/steps-in-the-design-process-technological-education.jpg)
-
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
 	- Continue this task today.
 	- Please be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|reviewed and met all the success criteria]].
-	- ==Due date is this Thursday, December 22.==
+	- ==Due date is in two days: Thursday, December 22.==
+	- Please be sure you [submit your final version to the Google form](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform).
 
 > [!NOTE]
 > If you are leaving early for the Winter Break, be sure to hand in your work before you leave.
 
-3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - The Velvet Underground|Optional Exercise: The Velvet Underground]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - The Velvet Underground|Optional Exercise: The Velvet Underground]]
 	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 	
-4.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland|Optional Exercise: Winter Wonderland]]
+3.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland|Optional Exercise: Winter Wonderland]]
 	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 
 #### To-do items
