@@ -21,7 +21,7 @@ You must be very specific about what you want the computer to do.
 
 It cannot *infer* or guess at your intentions.
 
-Like spoken languages, you can program a computer using different languages.
+Just as we can speak to our friends in multiple languages, you can program a computer using different languages.
 
 The programming language you will use today is called [Swift](https://developer.apple.com/swift/) and is both [multi-platform and open-source](https://www.swift.org).
 
