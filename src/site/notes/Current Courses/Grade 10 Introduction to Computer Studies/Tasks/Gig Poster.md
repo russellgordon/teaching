@@ -48,10 +48,12 @@ Loosely follow the [style of Swiss modernism as illustrated by Mike Joyce's work
 	- `My Gig Poster v2`
 	- `My Gig Poster v3`
 	- *`et cetera`*
-- [ ] poster must be for an [actual concert that occurred in the past](https://www.concertarchives.org)
 
 > [!NOTE]
 > Create a [[Media/Showing That Regular Backups Were Made|short screen recording like this one]] to show that your poster was backed up regularly, then [share it on Spaces](https://ca.spacesedu.com/). Note how seven versions of the playgrounds were made across an hour – a new version made after each significant bit of progress. You must show the backups made using the list view in Finder.
+
+- [ ] poster must be for an [actual concert that occurred in the past](https://www.concertarchives.org)
+
 
 ## Exemplar
 
