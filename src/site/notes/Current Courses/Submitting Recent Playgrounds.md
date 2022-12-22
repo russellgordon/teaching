@@ -15,7 +15,4 @@ As you complete each task listed below, please submit your finished playground.
 [Pixies Poster](https://docs.google.com/forms/d/e/1FAIpQLSczeACVvv0e12qbEJ_S_CXNn37QhvF3sY8MTBAE3sHSzIe47Q/viewform)| sequence, iteration (nested loops), selection | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
 [Velvet Underground Poster](https://docs.google.com/forms/d/e/1FAIpQLSe1bDK_RxQ023ub8zEM5wjIwROQYLrKGHIgkvrcQ-EgwH3y9g/viewform)| sequence, iteration (nested loops), selection, abstraction | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
 [Custom Gig Poster](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform)| will vary | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
-
-
-
-
+[Winter Wonderland Scene](https://docs.google.com/forms/d/e/1FAIpQLSd4QRgdSs3BZsXSe4X0MvoH-GnJI5_m7kg2tsOpijEpY_Ufiw/viewform)| will vary | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
