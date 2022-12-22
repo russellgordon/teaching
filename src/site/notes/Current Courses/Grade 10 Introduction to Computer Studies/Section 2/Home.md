@@ -10,32 +10,29 @@
 
 
 
-### Thread 2, Day 16 - Wednesday, December 21, 2022
+### Thread 2, Day 17 - Thursday, December 22, 2022
 #### Agenda
 
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
-	- Continue this task today.
+	- Complete this task today.
 	- Please be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|reviewed and met all the success criteria]].
-	- ==Due date is *tomorrow* – Thursday, December 22.==
+	- ==Due date is 12:30 PM, today!==
 	- Please be sure you [submit your final version to the Google form](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform).
-
-> [!NOTE]
-> If you are leaving early for the Winter Break, be sure to hand in your work before you leave.
 
 2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - The Velvet Underground|Optional Exercise: The Velvet Underground]]
 	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 	
-4.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland|Optional Exercise: Winter Wonderland]]
+3.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland|Optional Exercise: Winter Wonderland]]
 	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 
 #### To-do items
-*Before our next class...*
+*By 12:30 PM today...*
 
-- [ ] Make progress on all agenda items above.
-	- Share update(s) [on Spaces](https://ca.spacesedu.com/) to:
-		- show what you completed
-		- ask questions where necessary
-	- Please remember to include screenshots or short screen recordings with each post.
+- [ ] Complete and [hand in](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform) your custom gig poster.
+- [ ] If you completed the Velvet Underground exercise or the Winter Wonderland scene, be sure to hand those playground in as well using the [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Home#Submitting Recent Playgrounds|appropriate Google form]].
+
+**Then, enjoy your Winter Break! ❄️ Be safe and see you next year! 🎉**
+
 
 </div></div>
 
@@ -62,10 +59,7 @@ As you complete each task listed below, please submit your finished playground.
 [Pixies Poster](https://docs.google.com/forms/d/e/1FAIpQLSczeACVvv0e12qbEJ_S_CXNn37QhvF3sY8MTBAE3sHSzIe47Q/viewform)| sequence, iteration (nested loops), selection | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
 [Velvet Underground Poster](https://docs.google.com/forms/d/e/1FAIpQLSe1bDK_RxQ023ub8zEM5wjIwROQYLrKGHIgkvrcQ-EgwH3y9g/viewform)| sequence, iteration (nested loops), selection, abstraction | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
 [Custom Gig Poster](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform)| will vary | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
-
-
-
-
+[Winter Wonderland Scene](https://docs.google.com/forms/d/e/1FAIpQLSd4QRgdSs3BZsXSe4X0MvoH-GnJI5_m7kg2tsOpijEpY_Ufiw/viewform)| will vary | Use drag and drop in **Safari** web browser, same as with Panda / Animal scene. |
 
 
 </div></div>
