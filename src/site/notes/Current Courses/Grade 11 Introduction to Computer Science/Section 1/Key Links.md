@@ -5,6 +5,6 @@
 - [LCAT Health Check](https://lcat.lcs.on.ca)
 - [Spaces](https://ca.spacesedu.com/)
 - [Portfolios and Achievement](https://www.russellgordon.ca/cs/learning-goals/introduction/)
-- [Learning Goals](https://www.russellgordon.ca/cs/learning-goals/learning-goals-for-grade-11/) 
+- [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Learning Goals|Learning Goals]] 
 - [Student Course Outline](https://tinyurl.com/lcscs22-g11-sco)
 - [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g11-mcs)
