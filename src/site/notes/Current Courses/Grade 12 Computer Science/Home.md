@@ -68,7 +68,7 @@ If you have a question, **don't hesitate**, come on by!
 - [LCAT Health Check](https://lcat.lcs.on.ca)
 - [Spaces](https://ca.spacesedu.com/)
 - [Portfolios and Achievement](https://www.russellgordon.ca/cs/learning-goals/introduction/)
-- [Learning Goals](https://www.russellgordon.ca/cs/learning-goals/learning-goals-for-grade-12/)
+- [[Current Courses/Grade 12 Computer Science/Learning Goals|Learning Goals]]
 - [Student Course Outline](https://tinyurl.com/lcscs22-g12-sco)
 - [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g12-mcs)
 
