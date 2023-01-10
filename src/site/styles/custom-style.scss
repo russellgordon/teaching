@@ -38,5 +38,16 @@ body {
         transform: none;
     }
     
+    div.language-ad-question, div.callout-question {
+
+    .admonition-title::before {
+
+        content: '❓ Question'
+
+    }
+
+}
+
+    
 }
 
