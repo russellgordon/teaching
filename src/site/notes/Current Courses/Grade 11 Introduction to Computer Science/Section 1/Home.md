@@ -10,23 +10,18 @@
 
 
 
-### Thread 1, Day 15 - Friday, November 18, 2022
+### Thread 2, Day 1 - Tuesday, January 10, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Portfolios/Thread 1 Portfolio Review|Thread 1 Portfolio Review]]
-	- Prepare for your face-to-face meeting with Mr. Gordon.
-2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
-	- For the remaining time in this period, continue working on the end-of-module task.
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures|Thread 1 Recap & Exercises]]
+	- Describing data and user interfaces using structures... all the big ideas summarized along with several exercises to get your 🧠 moving again! 🚀
 	  
 #### To-do items
-*This evening, completely optional...*
-- [ ] Continue making improvements to your portfolio on Spaces.
-
-> [!NOTE]
-> ∙ No additions to your portfolio made after 10 PM this evening will be considered.
-> ∙ Please enjoy the rest of your Quiet Weekend on Saturday and Sunday.
-> ∙ Good luck with your courses in module 3!
+*Before our next class...*
+- [ ] Do your best to complete the recap and exercises – be sure to share one or more posts [on Spaces](https://ca.spacesedu.com/) regarding your progress.
+	- Remember to [commit and push your work regularly](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf).
+	- Use multiple screenshots within a post to show that you have completed each of the exercises.
 
 </div></div>
 
