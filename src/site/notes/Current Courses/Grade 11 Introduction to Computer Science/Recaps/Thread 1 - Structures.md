@@ -40,7 +40,7 @@ Information that is stored always has a *data type*. Common data types in the Sw
 When a variable or constant is created, the data type can be *inferred* or guessed at by the Swift programming language compiler. This is called *type inference*.
 
 > [!QUESTION]
-> 1. What data type would be inferred for the `age` variable declared earlier?
+> 1. What data type would be inferred for the `age` variable declared earlier
 > 2. What data type would be inferred for the `accelerationDueToGravity` constant declared earlier?
 
 ### Structures
@@ -108,6 +108,7 @@ Each instance of the `Dog` data type corresponds to an actual physical dog.
 
 > [!QUESTION]
 > 3. In the Finder on your Mac, create a folder named `Thread1Recap`. In Xcode, create a new **macOS** playground named `Thread1Recap` and save it in the folder you just created.  Finally, create a local repository for source control and then a remote on GitHub. As you complete tasks in this recap, [commit and push your work regularly](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf).
+> 
 
 > [!TIP]
 > Create a local repository using the menu sequence **Source Control** → **New Git Repository...** .
@@ -122,6 +123,7 @@ Each instance of the `Dog` data type corresponds to an actual physical dog.
 > [!QUESTION]
 > 5. Complete the `Dog` structure described earlier. Add properties to store the length and mass. Choose appropriate names (consider units) and data types.
 > 6. Extend the `Dog` stucture. What additional attributes of a dog might it be useful to keep track of? Add properties to your structure to account for those additional attributes.
+> 
 
 ### Computed properties
 
@@ -178,6 +180,7 @@ Remember, **D.R.Y.** – *don't repeat yourself*.
 > [!QUESTION]
 > 7. Add another computed property that returns the ratio of the length and height of a dog. For example, a dog with a length of 1.0 metres and a height of 0.5 metres would have a ratio of 2.0.
 > 8. Write an entirely new structure named `Book`. Think of attributes of a book that it would be useful to keep track of. Then create several instances of the `Book` structure within your playground.
+> 
 
 ## Describing User Interfaces
 
@@ -203,3 +206,4 @@ You will also find this [visual reference to fonts available within an iOS app](
 
 > [!QUESTION]
 > 9. To review how to express layouts using SwiftUI, [complete this exercise to reproduce page layouts](https://drive.google.com/file/d/115TicwDBnw2_fh8voV2w8QAoHkn2tvrh/view?usp=share_link). Be sure to [commit and push](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf) your work regularly.
+> 
