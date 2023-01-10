@@ -39,7 +39,7 @@ Information that is stored always has a *data type*. Common data types in the Sw
 
 When a variable or constant is created, the data type can be *inferred* or guessed at by the Swift programming language compiler. This is called *type inference*.
 
-> [!EXERCISE]
+> [!QUESTION]
 > 1. What data type would be inferred for the `age` variable declared earlier?
 > 2. What data type would be inferred for the `accelerationDueToGravity` constant declared earlier?
 
