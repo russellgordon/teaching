@@ -10,12 +10,12 @@
 
 
 
-### Thread 2, Day 2 - Thursday, January 12, 2023
+### Thread 2, Day 3 - Friday, January 13, 2023
 
 #### Agenda
 
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Task: Trading Cards]]
-	- Today's class is the first of two working periods to complete this task.
+	- Today's class is the second and final working period to complete this task.
 	- Task is due this Sunday at 11 PM.
 	  
 #### To-do items
