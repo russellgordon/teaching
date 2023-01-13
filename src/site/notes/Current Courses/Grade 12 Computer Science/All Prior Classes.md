@@ -9,26 +9,50 @@
 
 ### Thread 2
 
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 2 - Wednesday, January 11, 2023|Day 2 - Wednesday, January 11, 2023]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 1 - Tuesday, January 10, 2023|Day 1 - Tuesday, January 10, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 3 - Friday, January 13, 2023|Day 3 - Friday, January 13, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 2 - Wednesday, January 11, 2023|Day 2 - Wednesday, January 11, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 1 - Tuesday, January 10, 2023|Day 1 - Tuesday, January 10, 2023]]
 
 ### Thread 1
 
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 15 - Friday, November 18, 2022|Day 15 - Friday, November 18, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 14 - Thursday, November 17, 2022|Day 14 - Thursday, November 17, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 13 - Tuesday, November 15, 2022|Day 13 - Tuesday, November 15, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 12 - Wednesday, November 9, 2022|Day 12 - Wednesday, November 9, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 11 - Tuesday, November 8, 2022|Day 11 - Tuesday, November 8, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 10 - Friday, November 4, 2022|Day 10 - Friday, November 4, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 9 - Thursday, November 3, 2022|Day 9 - Thursday, November 3, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 8 - Wednesday, November 2, 2022|Day 8 - Wednesday, November 2, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Tuesday, November 1, 2022|Day 7 - Tuesday, November 1, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 6 - Friday, October 28, 2022|Day 6 - Friday, October 28, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 5 - Thursday, October 27, 2022|Day 5 - Thursday, October 27, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 4 - Tuesday, October 25, 2022|Day 4 - Tuesday, October 25, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
-[[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 15 - Friday, November 18, 2022|Day 15 - Friday, November 18, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 14 - Thursday, November 17, 2022|Day 14 - Thursday, November 17, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 13 - Tuesday, November 15, 2022|Day 13 - Tuesday, November 15, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 12 - Wednesday, November 9, 2022|Day 12 - Wednesday, November 9, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 11 - Tuesday, November 8, 2022|Day 11 - Tuesday, November 8, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 10 - Friday, November 4, 2022|Day 10 - Friday, November 4, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 9 - Thursday, November 3, 2022|Day 9 - Thursday, November 3, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 8 - Wednesday, November 2, 2022|Day 8 - Wednesday, November 2, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Tuesday, November 1, 2022|Day 7 - Tuesday, November 1, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 6 - Friday, October 28, 2022|Day 6 - Friday, October 28, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 5 - Thursday, October 27, 2022|Day 5 - Thursday, October 27, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 4 - Tuesday, October 25, 2022|Day 4 - Tuesday, October 25, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 3 - Friday, January 13, 2023
+#### Agenda
+
+1. Arts @ LCS
+	- A look at how to manage source control on a shared project
+		- If you were absent, you can get up to speed on this on Monday.
+	- Discussing priorities for how to develop the app from it's current state (for Chicago musical only) to the completed Arts @ LCS app (which will track musicals, plays, dance showcases, and winter concerts)
+		
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Do your best to make progress on, or complete, your [assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues).
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
