@@ -10,17 +10,28 @@
 
 
 
-### Thread 2, Day 3 - Saturday, January 14, 2023
+### Thread 2, Day 4 - Monday, January 16, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Task: Trading Cards]]
-	- Today's class is the second and final working period to complete this task.
-	- Task is due this Sunday at 11 PM.
+1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+	- How to build your structure.
+	- How to create instances of your structure.
+	- How to build your navigation list.
+2. Interactive Applications: Sliders
+	- Input-Process-Output
+		- Writing applications that accept input, process it, and display output.
+3. Exercise: Temperature Converter
+	-  Write an application that converts a temperature in Celsius to its equivalent in Fahrenheit.
+4. Task: Geometric Figures, Extended
+	- Revisit the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Geometric Figures|Geometric Figures task]]
+	- For your assigned shape, write an app that:
+		- accepts slider-based input for the dimensions of your shape or figure
+		- shows output for the perimeter and area or surface area and volume
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on the assigned task and share updates [on Spaces](https://ca.spacesedu.com/).
+- [ ] Make progress today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
