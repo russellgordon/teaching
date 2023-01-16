@@ -10,19 +10,25 @@
 
 
 
-### Thread 2, Day 3 - Friday, January 13, 2023
+### Thread 2, Day 4 - Monday, January 16, 2023
 #### Agenda
 
-1. Arts @ LCS
-	- A look at how to manage source control on a shared project
-		- If you were absent, you can get up to speed on this on Monday.
-	- Discussing priorities for how to develop the app from it's current state (for Chicago musical only) to the completed Arts @ LCS app (which will track musicals, plays, dance showcases, and winter concerts)
-		
+1. [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team|Arts @ LCS: Working on Issues in a Team]]
+	- How to use source control correctly when working on an issue.
+2. Introduction to Databases
+	- [What is a database?](https://drive.google.com/file/d/1DJ4miCB2-FOxVWgOzW9zulsLyzieqlFJ/view?usp=share_link)
+	- [SQL Overview](https://drive.google.com/file/d/1r9R5lYQFspcGZRTK58jEjd6d66fyJ59k/view?usp=share_link)
+	- [Practicing with SQL](https://drive.google.com/file/d/1ycXGlaMCUlW3SHTClX0m8eratm0rIor_/view?usp=share_link)
+	  
+ > [!TIP]
+ > As you complete the Practicing with SQL exercises, you may find this [[Employees Database ER Diagram|entity-relationship diagram of the `employees` database]] useful.
+
 #### To-do items
 
 *Before our next class...*
 
-- [ ] Do your best to make progress on, or complete, your [assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues).
+- [ ] Keep working on your [assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues).
+- [ ] Complete the [Practicing with SQL exercises](https://drive.google.com/file/d/1ycXGlaMCUlW3SHTClX0m8eratm0rIor_/view?usp=share_link).
 
 
 </div></div>
