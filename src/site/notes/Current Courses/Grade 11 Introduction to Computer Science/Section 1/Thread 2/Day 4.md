@@ -7,6 +7,7 @@
 #### Agenda
 
 1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+	- To begin with the examples today, please [fork and clone this repository](https://github.com/lcs-rgordon/TradingCardExample).
 	- How to build your structure.
 	- How to create instances of your structure.
 	- How to build your navigation list.
