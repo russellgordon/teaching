@@ -49,7 +49,7 @@
 	- [Practicing with SQL](https://drive.google.com/file/d/1ycXGlaMCUlW3SHTClX0m8eratm0rIor_/view?usp=share_link)
 	  
  > [!TIP]
- > As you complete the Practicing with SQL exercises, you may find this [[Media/Employees Database ER Diagram|Employees Database ER Diagram]] useful.
+ > As you complete the Practicing with SQL exercises, this [[Media/Employees Database ER Diagram|diagram of the 'employees' database structure]] may be a useful reference.
  
  > [!NOTE]
  > For an optional additional challenge, try [writing queries to answer these questions](https://drive.google.com/file/d/1Z1igWfl8Xk2Jindh1Z0ZHjd9wyHM0u_Z/view?usp=share_link).
