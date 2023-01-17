@@ -6,13 +6,21 @@
 
 #### Agenda
 
-1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
-	- How to build your structure.
-	- How to create instances of your structure.
-	- How to build your navigation list.
-
 > [!NOTE]
-> Videos recorded in today's class did not turn out well for a couple of reasons. Instead of posting those videos, later in the day tomorrow, I will post videos recorded in my other section of Grade 11 Intro to Computer Science. Those videos may be useful for future reference, or, if you were absent during today's class.
+> Videos and the example for agenda item 1 below were recorded in the other section of Grade 11 Intro to Computer Science on Tuesday, January 17, 2023.
+
+1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+    -   To begin with the examples today, please [fork and clone this repository](https://github.com/lcs-rgordon/TradingCardExample).
+        - ==VIDEO:== [How to fork the repository](https://youtu.be/CuP5WZSDhkQ)
+        - ==VIDEO:== [How to clone the repository](https://youtu.be/hgzG-qAgwdg)
+    -   How to build your structure.
+        - ==VIDEO:== [How to build the structure](https://youtu.be/MYNFCPSc2rY)
+    -   How to create instances of your structure.
+        - ==VIDEO:== [How to create instances of the structure](https://youtu.be/umAmreuK0Uk)
+    -   How to accept instances of the structure in the detail view (abstraction)
+        - ==VIDEO:== [How to accept instances of the structure in the detail view](https://youtu.be/Uu3NibJ7XUE)
+    -   How to build your navigation list
+        - ==VIDEO:== [How to add navigation and a list](https://youtu.be/SDX6KosO6ck)
 	  
 #### To-do items
 *Before our next class...*
