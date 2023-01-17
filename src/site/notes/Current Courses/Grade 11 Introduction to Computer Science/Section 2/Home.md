@@ -14,16 +14,23 @@
 
 #### Agenda
 
-1. Interactive Applications: Sliders
-	- Input-Process-Output
+1. Lesson: Interactive Applications Using Sliders
+	- **Input-Process-Output**
 		- Writing applications that accept input, process it, and display output.
+		- Here are the instructions from class, in order... each video is quite short:
+			- [1 - Creating the New Project](https://youtu.be/ALotGBur3-c)
+			- [2 - Adding an Image](https://youtu.be/ImstsbHn1NM)
+			- [3 - Adding Properties and Creating a Static Layout](https://youtu.be/b44gPNn9j6M)
+			- [4 - Adding the Sliders](https://youtu.be/QuSJ9njO-5E)
+			- [5 - Binding the Sliders to the Properties to Make Them Interactive](https://youtu.be/kCFDQ_Lr6MI)
+			- [6 - Today's Study Task](https://youtu.be/iSJmsT32Ni0)
+			- [7 - Using Groups to Avoid the Ten Structure Limit in SwiftUI](https://youtu.be/Pr2DcIB_IJI)
+		- Now, please take the app you have written, and extend it to calculate perimeter as well.
 2. Exercise: Temperature Converter
-	-  Write an application that converts a temperature in Celsius to its equivalent in Fahrenheit.
-3. Task: Geometric Figures, Extended
-	- Revisit the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Geometric Figures|Geometric Figures task]]
-	- For your assigned shape, write an app that:
-		- accepts slider-based input for the dimensions of your shape or figure
-		- shows output for the perimeter and area or surface area and volume
+	-  Write an application (from scratch, in a new project) that converts a temperature in Celsius to its equivalent in Fahrenheit.
+		- Optionally:
+			- Also write a page that calculates the reverse: from Fahrenheit to Celsius.
+			- Add navigation to the app so that the user can move between these screens.
 	  
 #### To-do items
 *Before our next class...*
