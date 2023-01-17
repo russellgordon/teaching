@@ -10,17 +10,18 @@
 
 
 
-### Thread 2, Day 3 - Friday, January 13, 2023
+### Thread 2, Day 4 - Tuesday, January 17, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Task: Trading Cards]]
-	- Today's class is the second and final working period to complete this task.
-	- Task is due this Sunday at 11 PM.
+1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+	- How to build your structure.
+	- How to create instances of your structure.
+	- How to build your navigation list.
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on the assigned task and share updates [on Spaces](https://ca.spacesedu.com/).
+- [ ] Finish up the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] task, then share an update [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
