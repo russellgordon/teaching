@@ -10,17 +10,10 @@
 	- How to build your structure.
 	- How to create instances of your structure.
 	- How to build your navigation list.
-2. Interactive Applications: Sliders
-	- Input-Process-Output
-		- Writing applications that accept input, process it, and display output.
-3. Exercise: Temperature Converter
-	-  Write an application that converts a temperature in Celsius to its equivalent in Fahrenheit.
-4. Task: Geometric Figures, Extended
-	- Revisit the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Geometric Figures|Geometric Figures task]]
-	- For your assigned shape, write an app that:
-		- accepts slider-based input for the dimensions of your shape or figure
-		- shows output for the perimeter and area or surface area and volume
+
+> [!NOTE]
+> Videos recorded in today's class did not turn out well for a couple of reasons. Instead of posting those videos, later in the day tomorrow, I will post videos recorded in my other section of Grade 11 Intro to Computer Science. Those videos may be useful for future reference, or, if you were absent during today's class.
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
+- [ ] Finish up the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] task, then share an update [on Spaces](https://ca.spacesedu.com/).
