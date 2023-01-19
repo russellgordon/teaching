@@ -10,28 +10,26 @@
 
 
 
-### Thread 2, Day 4 - Tuesday, January 17, 2023
+### Thread 2, Day 5 - Thursday, January 19, 2023
 
 #### Agenda
 
-1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
-	- To begin with the examples today, please [fork and clone this repository](https://github.com/lcs-rgordon/TradingCardExample).
-		- ==VIDEO:== [How to fork the repository](https://youtu.be/9H4nndlgIxk)
-		- ==VIDEO:== [How to clone the repository](https://youtu.be/hgzG-qAgwdg)
-	- How to build your structure.
-		- ==VIDEO:== [How to build the structure](https://youtu.be/MYNFCPSc2rY)
-	- How to create instances of your structure.
-		- ==VIDEO:== [How to create instances of the structure](https://youtu.be/umAmreuK0Uk)
-	- How to accept instances of the structure in the detail view (abstraction)
-		- ==VIDEO:== [How to accept instances of the structure in the detail view](https://youtu.be/Uu3NibJ7XUE)
-	- How to build your navigation list
-		- ==VIDEO:== [How to add navigation and a list](https://youtu.be/SDX6KosO6ck)
+1. Lesson: Interactive Applications Using Sliders
+	- **Input-Process-Output**
+		- Writing applications that accept input, process it, and display output.
+		- We will write an app that calculates the area of a square or rectangle.
+		- Now, please take the app you have written, and extend it to calculate perimeter as well.
+2. Exercise: Temperature Converter
+	-  Write an application (from scratch, in a new project) that converts a temperature in Celsius to its equivalent in Fahrenheit.
+		- Optionally:
+			- Also write a page that calculates the reverse: from Fahrenheit to Celsius.
+			- Add navigation to the app so that the user can move between these screens.
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Be sure you complete the steps shown in the videos above with your own copy of the **TradingCardsExample** project
-- [ ] Apply the concepts shown here to complete your own [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] task
-- [ ] Share updates [on Spaces](https://ca.spacesedu.com/)
+- [ ] Extend your Area and Perimeter app to calculate and display the perimeter of a given rectangle.
+- [ ] As described above, write a Temperature Converter app.
+- [ ] Share updates [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
