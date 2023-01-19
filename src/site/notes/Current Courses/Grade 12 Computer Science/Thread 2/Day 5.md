@@ -16,4 +16,4 @@
 
 *Before our next class...*
 
-- [ ] Make progress today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
+- [ ] Make progress on today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
