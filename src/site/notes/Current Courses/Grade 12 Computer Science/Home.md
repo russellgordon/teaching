@@ -27,7 +27,7 @@
 *Before our next class...*
 
 - [ ] Please [[Software Setup/Xcodes|use Xcodes]] to remove older versions of Xcode, then install Xcode 14.2.
-- [ ] Make progress on your assigned issues; ==goal is to complete maintenance release of Chicago @ LCS by Saturday evening==.
+- [ ] Make progress on [your assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues); ==goal is to complete maintenance release of Chicago @ LCS by Saturday evening==.
 
 
 </div></div>
