@@ -26,4 +26,6 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
+- [ ] Extend your Area and Perimeter app to calculate and display the perimeter of a given rectangle.
+- [ ] As described above, write a Temperature Converter app.
+- [ ] Share updates [on Spaces](https://ca.spacesedu.com/).
