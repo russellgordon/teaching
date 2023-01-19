@@ -10,6 +10,13 @@
 	- **Input-Process-Output**
 		- Writing applications that accept input, process it, and display output.
 		- We will write an app that calculates the area of a square or rectangle.
+		- Here are the instructions from class, in order... each video is quite short:
+			- [1 - Creating the Project](https://youtu.be/bDS5aO_zSkc)
+			- [2 - Organizing the Project with a New View](https://youtu.be/6S4Qoffmdxk)
+			- [3 - Create a Static Layout.](https://youtu.be/XuDLSzjDybQ)
+			- [4 - Add Properties to Begin Making an Interactive Layout](https://youtu.be/6Kh_ehl9PgU)
+			- [5 - Add Sliders To Allow for User Input](https://youtu.be/0sL9UTmB-Ss)
+			- [6 - Using the Group Structure to Work Around the Ten View Limit](https://youtu.be/8aJx0YRKjtM)
 		- Now, please take the app you have written, and extend it to calculate perimeter as well.
 2. Exercise: Temperature Converter
 	-  Write an application (from scratch, in a new project) that converts a temperature in Celsius to its equivalent in Fahrenheit.
