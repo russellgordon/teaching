@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Friday, October 28, 2022|Day 7 - Friday, October 28, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 6 - Wednesday, January 18, 2023|Day 6 - Wednesday, January 18, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 5 - Tuesday, January 17, 2023|Day 5 - Tuesday, January 17, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 4 - Monday, January 16, 2023|Day 4 - Monday, January 16, 2023]]
@@ -33,6 +34,29 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 7 - Friday, January 20, 2023
+#### Agenda
+
+1. Chicago @ LCS: Finishing touches
+	- Class photo with Mr. Callaghan
+	- Merge completed issues via pull requests
+	- Check app to ensure all assets and pages working
+	  	   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on [your assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues); ==goal is to complete maintenance release of Chicago @ LCS by Saturday evening==.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
