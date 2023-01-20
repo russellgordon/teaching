@@ -10,33 +10,27 @@
 
 
 
-### Thread 2, Day 5 - Thursday, January 19, 2023
+### Thread 2, Day 6 - Friday, January 20, 2023
 
 #### Agenda
 
-1. Lesson: Interactive Applications Using Sliders
-	- **Input-Process-Output**
-		- Writing applications that accept input, process it, and display output.
-		- We will write an app that calculates the area of a square or rectangle.
-		- Here are the instructions from class, in order... each video is quite short:
-			- [1 - Creating the Project](https://youtu.be/bDS5aO_zSkc)
-			- [2 - Organizing the Project with a New View](https://youtu.be/6S4Qoffmdxk)
-			- [3 - Create a Static Layout.](https://youtu.be/XuDLSzjDybQ)
-			- [4 - Add Properties to Begin Making an Interactive Layout](https://youtu.be/6Kh_ehl9PgU)
-			- [5 - Add Sliders To Allow for User Input](https://youtu.be/0sL9UTmB-Ss)
-			- [6 - Using the Group Structure to Work Around the Ten View Limit](https://youtu.be/8aJx0YRKjtM)
-		- Now, please take the app you have written, and extend it to calculate perimeter as well.
-2. Exercise: Temperature Converter
-	-  Write an application (from scratch, in a new project) that converts a temperature in Celsius to its equivalent in Fahrenheit.
-		- Optionally:
-			- Also write a page that calculates the reverse: from Fahrenheit to Celsius.
-			- Add navigation to the app so that the user can move between these screens.
+1. [[Software Setup/Xcodes|Xcodes]] (yes, plural)
+	- An app for managing installation of Xcode (singular)
+	- Later today, please use Xcodes to upgrade to Xcode 14.2.
+2. Formatting Numeric Values: [Gosh Darn Format Style](https://goshdarnformatstyle.com/#how-do-i-even-know-where-to-start)
+	- Many, many examples about how to present numbers and dates in Swift.
+3. Task: Geometric Figures, Extended
+	- Revisit the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Geometric Figures|Geometric Figures task]]
+	- For your assigned shape, add to Area and Perimeter app that you started in our prior class, so that it:
+		- allows for navigation between the existing screen for a rectangle and the new screen that you will write for your previously assigned shape
+		- accepts slider-based input for the dimensions of your shape or figure
+		- shows output for the perimeter and area or surface area and volume
+		- additionally, work on polishing the user interface so that it is more functional and appealing
 	  
 #### To-do items
-*Before our next class...*
-- [ ] Extend your Area and Perimeter app to calculate and display the perimeter of a given rectangle.
-- [ ] As described above, write a Temperature Converter app.
-- [ ] Share updates [on Spaces](https://ca.spacesedu.com/).
+*Before our class tomorrow morning...*
+- [ ] As needed, catch up on tasks from earlier this week.
+- [ ] Then complete today's tasks and then share updates [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
