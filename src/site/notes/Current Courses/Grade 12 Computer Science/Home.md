@@ -10,19 +10,20 @@
 
 
 
-### Thread 2, Day 7 - Friday, January 20, 2023
+### Thread 2, Day 8 - Monday, January 23, 2023
 #### Agenda
 
 1. Chicago @ LCS: Finishing touches
-	- Class photo with Mr. Callaghan
-	- Merge completed issues via pull requests
-	- Check app to ensure all assets and pages working
+	- Surfacing visual elements in lists using a helper view
+2. Musicals @ LCS: 
+	- Understanding the difference between a normalized database and one that is not normalized.
+	- Learning how to query and populate a normalized database.
 	  	   
 #### To-do items
 
 *Before our next class...*
 
-- [ ] Make progress on [your assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues); ==goal is to complete maintenance release of Chicago @ LCS by Saturday evening==.
+- [ ] Make progress on [your assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues).
 
 
 </div></div>
