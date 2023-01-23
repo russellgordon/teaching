@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 8 - Monday, January 23, 2023|Day 8 - Monday, January 23, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Friday, October 28, 2022|Day 7 - Friday, October 28, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 6 - Wednesday, January 18, 2023|Day 6 - Wednesday, January 18, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 5 - Tuesday, January 17, 2023|Day 5 - Tuesday, January 17, 2023]]
@@ -34,6 +35,30 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 8 - Monday, January 23, 2023
+#### Agenda
+
+1. Chicago @ LCS: Finishing touches
+	- Surfacing visual elements in lists using a helper view
+2. Musicals @ LCS: 
+	- Understanding the difference between a normalized database and one that is not normalized.
+	- Learning how to query and populate a normalized database.
+	  	   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on [your assigned issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues).
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
