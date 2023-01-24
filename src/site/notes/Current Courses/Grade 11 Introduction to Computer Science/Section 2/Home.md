@@ -10,17 +10,19 @@
 
 
 
-### Thread 2, Day 7 - Monday, January 23, 2023
+### Thread 2, Day 8 - Tuesday, January 24, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Lists|Lists]]
-	- How to store and use multiple pieces of data in an app by referring to just a single name.
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists|Dynamic Lists]]
+	- Build an app that makes use a list that changes while the app runs.
+2. Exercise
+	- Use what you have learned today to extend your app that calculates the area and perimeter of a 2D shape (or the surface area and volume of a 3D figure) so that it allows the user to save a history of results.
 	  
 #### To-do items
-*Before our class tomorrow morning...*
-- [ ] Complete the exercises from the [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Lists|lists]] lesson above.  
-- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) that *summarizes* what you have learned and *shows* that you have completed all three exercises by way of including multiple screenshots.
+*Before our next class...*
+- [ ] Complete the tasks shown above.  
+- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) that *summarizes* what you have learned and *shows* that you have completed the lesson and exercise. Please use multiple screenshots in your post.
 
 </div></div>
 
