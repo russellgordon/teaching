@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 9 - Tuesday, January 24, 2023|Day 9 - Tuesday, January 24, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 8 - Monday, January 23, 2023|Day 8 - Monday, January 23, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 7 - Friday, October 28, 2022|Day 7 - Friday, October 28, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 6 - Wednesday, January 18, 2023|Day 6 - Wednesday, January 18, 2023]]
@@ -35,6 +36,30 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 9 - Tuesday, January 24, 2023
+#### Agenda
+
+1. Chicago @ LCS: Looking for rough edges
+	- Paired work to finish off remaining issues and to look for inconsistencies or missing images compared to the original version of the app.
+2. Musicals @ LCS: 
+	- Discussed [the solution](https://www.russellgordon.ca/lcs/2022-23/ics4u/joining-tables-exercise-solution.png) to the [[Current Courses/Grade 12 Computer Science/Thread 2/Day 8#To-do items|Day 8 Study task]].
+	- More about how to query and populate a normalized database.
+	  	   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] If you have [assigned and open issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) please complete them before Friday's class; then be sure to [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team|follow the usual process of committing, pushing, and creating a pull request]].
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
