@@ -10,20 +10,25 @@
 
 
 
-### Thread 2, Day 9 - Tuesday, January 24, 2023
+### Thread 2, Day 10 - Thursday, January 26, 2023
 #### Agenda
 
-1. Chicago @ LCS: Looking for rough edges
-	- Paired work to finish off remaining issues and to look for inconsistencies or missing images compared to the original version of the app.
-2. Musicals @ LCS: 
-	- Discussed [the solution](https://www.russellgordon.ca/lcs/2022-23/ics4u/joining-tables-exercise-solution.png) to the [[Current Courses/Grade 12 Computer Science/Thread 2/Day 8#To-do items|Day 8 Study task]].
-	- More about how to query and populate a normalized database.
+1. Chicago @ LCS: Ignoring certain files for source control
+	- Open the Terminal app on your computer.
+	- Then [visit this page](https://www.russellgordon.ca/gitignore-setup.txt).
+	- Copy the commands at that page into the Terminal.
+	- Restart Xcode.
+	- This ensures that files that should not be tracked for source control will not accidentally be committed.
+2. Musicals @ LCS: Populating the Normalized Database
+	- Dividing up work to populate the database with information for Chicago and Anything Goes.
+		- Use [BBEdit](https://www.barebones.com) to write the SQL.
+		- Refer to the [original database schema diagram](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema.png) or this [alternate version](https://www.russellgordon.ca/lcs/2022-23/ics4u/chicago-schema-dark.png) – whatever you find easier to read.
 	  	   
 #### To-do items
 
 *Before our next class...*
 
-- [ ] If you have [assigned and open issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) please complete them before Friday's class; then be sure to [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team|follow the usual process of committing, pushing, and creating a pull request]].
+- [ ] Make your [assigned and open issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) with the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
 
 
 </div></div>
