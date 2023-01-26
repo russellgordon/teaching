@@ -10,18 +10,22 @@
 
 
 
-### Thread 2, Day 8 - Tuesday, January 24, 2023
+### Thread 2, Day 9 - Thursday, January 26, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists|Dynamic Lists]]
-	- Build an app that makes use a list that changes while the app runs.
-2. Exercise
-	- Use what you have learned today to extend your app that calculates the area and perimeter of a 2D shape (or the surface area and volume of a 3D figure) so that it allows the user to save a history of results.
+1. Recap: The structure of a structure and an app...
+	- What goes where in an app?
+	- What goes where in a structure?
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists|Dynamic Lists]]
+	- Time to continue working on this tutorial.
+	- Then, be sure you can apply the smae concept to your existing Area/Perimeter or Surface Area/Volume calculators
+3. Lists App
+	- For those who are ready, a small-group discussion on how to build out another app that uses lists
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete the tasks shown above.  
+- [ ] Work on the tasks described above.
 - [ ] Make a post [on Spaces](https://ca.spacesedu.com/) that *summarizes* what you have learned and *shows* that you have completed the lesson and exercise. Please use multiple screenshots in your post.
 
 </div></div>
