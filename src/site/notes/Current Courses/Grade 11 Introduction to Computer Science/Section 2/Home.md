@@ -19,7 +19,7 @@
 	- What goes where in a structure?
 2. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists|Dynamic Lists]]
 	- Time to continue working on this tutorial.
-	- Then, be sure you can apply the smae concept to your existing Area/Perimeter or Surface Area/Volume calculators
+	- Then, be sure you can apply the same concept to your existing Area/Perimeter or Surface Area/Volume calculators
 3. Lists App
 	- For those who are ready, a small-group discussion on how to build out another app that uses lists
 	  
