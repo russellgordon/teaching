@@ -10,19 +10,13 @@
 
 
 
-### Thread 2, Day 10 - Thursday, January 26, 2023
+### Thread 2, Day 11 - Friday, January 27, 2023
 #### Agenda
 
-1. Chicago @ LCS: Ignoring certain files for source control
-	- Open the Terminal app on your computer.
-	- Then [visit this page](https://www.russellgordon.ca/gitignore-setup.txt).
-	- Copy the commands at that page into the Terminal.
-	- Restart Xcode.
-	- This ensures that files that should not be tracked for source control will not accidentally be committed.
-2. Musicals @ LCS: Populating the Normalized Database
-	- Dividing up work to populate the database with information for Chicago and Anything Goes.
-		- Use [BBEdit](https://www.barebones.com) to write the SQL.
-		- Refer to the [original database schema diagram](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema.png) or this [alternate version](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema-alternate.png) – whatever you find easier to read.
+1. [Structures vs. Classes](https://drive.google.com/file/d/1dXAkQ4Atg6ONRuGwTR1sgFsx5zogzwsv/view?usp=share_link)
+	- What is the difference between a value type and a reference type?
+2. [MVVM: A more in-depth look](https://drive.google.com/file/d/1BiL9Oniqrtu0YoV6VmMX2rYj0OFgdbj4/view?usp=share_link)
+	- A self-paced tutorial to understand how MVVM can help you write applications for multiple platforms without repeating code.
 3. StarCam: Business and Technology Questions
 	- Next Monday, Rick and Sarah from StarCam will visit us again in person.
 		- By Zoom, the following people will also be joining us:
@@ -43,8 +37,8 @@
 
 *Before our next class...*
 
-- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
-- [ ] Post your questions for the StarCam team.
+- [ ] Make progress on the MVVM self-paced tutorial
+- [ ] Post your questions for the StarCam team to be ready for Monday's class.
 
 
 </div></div>
