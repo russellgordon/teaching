@@ -13,3 +13,4 @@
 *Before our next class...*
 - [ ] Work on the tasks described above.
 - [ ] Make a post [on Spaces](https://ca.spacesedu.com/) that *summarizes* what you have learned and *shows* that you have completed the lesson and exercise. Please use multiple screenshots in your post.
+- [ ] Clean up your portfolio on Spaces to get ready for the mid-module review in our next class.
