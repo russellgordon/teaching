@@ -9,6 +9,7 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 12 - Monday, January 30, 2023|Day 12 - Monday, January 30, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 11 - Friday, January 27, 2023|Day 11 - Friday, January 27, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 10 - Thursday, January 26, 2023|Day 10 - Thursday, January 26, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 9 - Tuesday, January 24, 2023|Day 9 - Tuesday, January 24, 2023]]
@@ -38,6 +39,34 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 12 - Monday, January 30, 2023
+#### Agenda
+
+1. StarCam: Business and Technology Questions
+	- Rick and Sarah from StarCam are visiting us
+		- By Zoom, the following people will also be joining us:
+			- Greg (owner and CEO)
+			- David (primary developer)
+2.  Musicals @ LCS
+	- Review current state of the app
+		- Available via TestFlight soon...
+	- Divide up tasks to finish the Database Populator tool
+	- Divide up tasks to complete currently open issues
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
