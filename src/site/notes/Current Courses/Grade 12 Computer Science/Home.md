@@ -10,19 +10,21 @@
 
 
 
-### Thread 2, Day 12 - Monday, January 30, 2023
+### Thread 2, Day 14 - Wednesday, February 1, 2023
 #### Agenda
 
-1. StarCam: Business and Technology Questions
-	- Rick and Sarah from StarCam are visiting us
-		- By Zoom, the following people will also be joining us:
-			- Greg (owner and CEO)
-			- David (primary developer)
-2.  Musicals @ LCS
-	- Review current state of the app
-		- Available via TestFlight soon...
-	- Divide up tasks to finish the Database Populator tool
-	- Divide up tasks to complete currently open issues
+1. Musicals @ LCS
+	- Driver-Navigator paired programming model to...
+		- Finish off Database Populator app
+		- Teams are:
+			- Table 1
+				- Logan + Jacobo
+				- Judy + Madison
+			- Table 2
+				- Noah + Amy
+				- Jerry + Vincent
+			- Here is the [current state of affairs](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema-revised-assignments.png), use this to identify what do and when today
+			- ==We're going to finish the Database Populator today, in class.== 🚀 👍🏼
 
 #### To-do items
 
