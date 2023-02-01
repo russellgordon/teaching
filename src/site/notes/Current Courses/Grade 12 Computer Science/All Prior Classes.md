@@ -9,6 +9,8 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 14 - Wednesday, February 1, 2023|Day 14 - Wednesday, February 1, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 13 - Tuesday, January 31, 2023|Day 13 - Tuesday, January 31, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 12 - Monday, January 30, 2023|Day 12 - Monday, January 30, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 11 - Friday, January 27, 2023|Day 11 - Friday, January 27, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 10 - Thursday, January 26, 2023|Day 10 - Thursday, January 26, 2023]]
@@ -39,6 +41,57 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 14 - Wednesday, February 1, 2023
+#### Agenda
+
+1. Musicals @ LCS
+	- Driver-Navigator paired programming model to...
+		- Finish off Database Populator app
+		- Teams are:
+			- Table 1
+				- Logan + Jacobo
+				- Judy + Madison
+			- Table 2
+				- Noah + Amy
+				- Jerry + Vincent
+			- Here is the [current state of affairs](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema-revised-assignments.png), use this to identify what do and when today
+			- ==We're going to finish the Database Populator today, in class.== 🚀 👍🏼
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 13 - Tuesday, January 31, 2023
+#### Agenda
+
+1.  Musicals @ LCS
+	- Finishing the Database Populator helper app
+		- Here is the [database schema diagram with the agreed-upon table assignments](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema-alternate-assignments.png) (reflected in the [assigned issues on GitHub](https://github.com/lcs-apps/Chicago-HSE-LCS/issues))
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
