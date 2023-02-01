@@ -28,13 +28,6 @@
 		- Take your time – *read for understanding* – write down your responses to the questions posed in your black book
 		- When you are done – *summarize* in writing what you have learned in your [Spaces post](https://ca.spacesedu.com/) for today – as well as any questions you have
 			- ==Be sure to include several screenshots== showing your progress as you completed the playground
-			  
-3. [Guessing Game](https://drive.google.com/file/d/115TicwDBnw2_fh8voV2w8QAoHkn2tvrh/view?usp=share_link)
-	- An an *optional* challenge (pun intended) have a look at [this partial recap of operators, and introduction to *selection statements*](https://drive.google.com/file/d/1WkbUxvZP6OyHjh5JU8LK-TreGBTgv7DB/view?usp=share_link)
-	- See if you can make use of a slider, a button, and a selection statement to implement a "guessing game"
-		- The game should work [[Media/Guessing Game|as shown in this short animation]]
-		- Before you start coding, try to explain the logic to yourself in writing, in sentence form in your black notebook... *then* open Xcode...
-		- Here is [a bit of code to get you started](https://gist.github.com/lcs-rgordon/2efcb3b3be23ef3c07f86aa3d2f105e6)... it is deliberately incomplete... you will need to copy this into a project that you create... see if you can fill in what's missing to complete the game. 
 	  
 #### To-do items
 *Before our next class...*
