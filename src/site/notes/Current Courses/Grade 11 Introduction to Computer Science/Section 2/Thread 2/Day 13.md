@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/thread-2/day-13/","dgHomeLink":false}
 ---
 
-### Thread 2, Day 12 - Tuesday, January 31, 2023
+### Thread 2, Day 13 - Wednesday, February 2, 2023
 
 #### Agenda
 
