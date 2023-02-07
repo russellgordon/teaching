@@ -87,15 +87,18 @@
 			- Noah + Amy
 				- for Chicago, in order:
 					- musical_number-character
+					- ==group==
 					- <strike>character-group</strike>
 					- musical_number-group
 				- for [Something's Rotten](https://docs.google.com/document/d/1GOwBHsEO3mGyfcJD1X8iXgf3BpwFYwaCRt484baJljA/edit?usp=drive_web&ouid=111450826756825169792), in order:
 					- musical_number-character
+					- ==group==
 					- <strike>character-group</strike>
 					- musical_number-group
 			- Jerry + Vincent
 				- for [Anything Goes](https://docs.google.com/document/d/1u8DaKOsfQ7p33uNOc5KzbLBJOemzJSqxyXfEKpSkOZA/edit), in order:
 					- musical_number-character
+					- ==group==
 					- <strike>character-group</strike>
 					- musical_number-group
 				- Additionally, roaming to check in and help with other groups.
