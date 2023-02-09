@@ -44,7 +44,7 @@ Prior to the deadline, [on Spaces](https://ca.spacesedu.com/) :
 > Your work is not considered as handed in until the GitHub remote has been shared *and* you have [committed and pushed](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf) all your work.
 
 ## Learning goals
-Successful completion of this task is great initial evidence for these learning goals:
+Successful completion of this task is great evidence for these learning goals:
 - [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#1|1]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#2|2]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#3|3]]
