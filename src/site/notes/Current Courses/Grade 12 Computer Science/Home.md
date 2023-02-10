@@ -10,65 +10,23 @@
 
 
 
-### Thread 2, Day 15 - Friday, February 3, 2023
+### Thread 2, Day 17 - Friday, February 10, 2023
 #### Agenda
 
 1. Musicals @ LCS
-	- Populating Relationships in the Musicals @ LCS database
-		- We have already populated tables without foreign keys – tables whose data does not depend on other tables
-		- Today we will establish relationships, for example:
-			- **position-production**
-				- For what *production* did a given *person* hold a given *position* and what *classification* was that?
-				- For *Chicago*, the person *Kate Bemrose* was a *Lead* and she was a *Student*
-			- **role**
-				- Which person, holding a *position within a production*, had the role for a given *character*?
-				- Kate Bemrose, a *Lead*, played the character *Velma Kelly*
-			- **character-group**
-				- Which *character* was part of which *group*?
-				- The character *Liz* was a member of the *Ensemble*.
-			- **musical_number-group**
-				- What *musical number* did a given *group* sing?
-				- The *Cell Block Girls* sang *Cell Block Tango*.
-			- **musical_number-character**
-				- What *musical number* did a given character sing?
-				- *Velma Kelly* sang in *Cell Block Tango*
-		- Teams and assignments are:
-			- Logan + Jacobo
-				- for Chicago, in order:
-					- position-production
-					- role
-			- Judy + Madison
-				- for [Anything Goes](https://docs.google.com/document/d/1u8DaKOsfQ7p33uNOc5KzbLBJOemzJSqxyXfEKpSkOZA/edit), in order:
-					- position-production
-					- role
-			- Lillian + Joyce
-				- for [Something's Rotten](https://docs.google.com/document/d/1GOwBHsEO3mGyfcJD1X8iXgf3BpwFYwaCRt484baJljA/edit?usp=drive_web&ouid=111450826756825169792), in order:
-					- positon-production
-					- role
-			- Noah + Amy
-				- for Chicago, in order:
-					- musical_number-character
-					- ==group==
-					- <strike>character-group</strike>
-					- musical_number-group
-				- for [Something's Rotten](https://docs.google.com/document/d/1GOwBHsEO3mGyfcJD1X8iXgf3BpwFYwaCRt484baJljA/edit?usp=drive_web&ouid=111450826756825169792), in order:
-					- musical_number-character
-					- ==group==
-					- <strike>character-group</strike>
-					- musical_number-group
-			- Jerry + Vincent
-				- for [Anything Goes](https://docs.google.com/document/d/1u8DaKOsfQ7p33uNOc5KzbLBJOemzJSqxyXfEKpSkOZA/edit), in order:
-					- musical_number-character
-					- ==group==
-					- <strike>character-group</strike>
-					- musical_number-group
-				- Additionally, roaming to check in and help with other groups.
+	- Please [[Current Courses/Grade 12 Computer Science/Tasks/Creative Collaboration Reflection|complete this reflection]]
+2. Portfolio
+	- As needed, take time to update your portfolio on Spaces to share brief updates on your contributions to Musicals @ LCS during this module
+	- While your code and contributions are documented via GitHub, they will be somewhat buried
+	- Use your portfolio [on Spaces](https://ca.spacesedu.com/), via screenshots, links to [pull requests](https://github.com/lcs-apps/Chicago-HSE-LCS/pulls) or [issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues), and your brief written summaries, to ensure that Mr. Gordon (now) and others (in the future during end-of-year interviews) can see your valuable contributions and recall the effort involved
 
 #### To-do items
+==*Before this Saturday February 11 at 11 PM...*==
+- [ ] Complete the items noted above
 
-*Before our next class...*
+Then, enjoy the rest of your Quiet Weekend! 💤
 
-- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+It has been a pleasure to work on Musicals @ LCS with each of you. 🙏🏼
 
 </div></div>
 
