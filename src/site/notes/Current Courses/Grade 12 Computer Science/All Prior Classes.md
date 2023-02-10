@@ -9,6 +9,8 @@
 
 ### Thread 2
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 17 - Friday, February 10, 2023|Day 17 - Friday, February 10, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 16 - Tuesday, February 7, 2023|Day 16 - Tuesday, February 7, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 15 - Friday, February 3, 2023|Day 15 - Friday, February 3, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 14 - Wednesday, February 1, 2023|Day 14 - Wednesday, February 1, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 2, Day 13 - Tuesday, January 31, 2023|Day 13 - Tuesday, January 31, 2023]]
@@ -42,6 +44,53 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 17 - Friday, February 10, 2023
+#### Agenda
+
+1. Musicals @ LCS
+	- Please [[Current Courses/Grade 12 Computer Science/Tasks/Creative Collaboration Reflection|complete this reflection]]
+2. Portfolio
+	- As needed, take time to update your portfolio on Spaces to share brief updates on your contributions to Musicals @ LCS during this module
+	- While your code and contributions are documented via GitHub, they will be somewhat buried
+	- Use your portfolio [on Spaces](https://ca.spacesedu.com/), via screenshots, links to [pull requests](https://github.com/lcs-apps/Chicago-HSE-LCS/pulls) or [issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues), and your brief written summaries, to ensure that Mr. Gordon (now) and others (in the future during end-of-year interviews) can see your valuable contributions and recall the effort involved
+
+#### To-do items
+==*Before this Saturday February 11 at 11 PM...*==
+- [ ] Complete the items noted above
+
+Then, enjoy the rest of your Quiet Weekend! 💤
+
+It has been a pleasure to work on Musicals @ LCS with each of you. 🙏🏼
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 2, Day 16 - Tuesday, February 7, 2023
+#### Agenda
+
+1. Musicals @ LCS
+	- Dividing up work to continue making progress on the app
+	- Time to work on assigned issues
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
