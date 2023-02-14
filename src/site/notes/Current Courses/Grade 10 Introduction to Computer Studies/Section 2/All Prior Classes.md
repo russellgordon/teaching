@@ -7,6 +7,10 @@
 
 ## Table of Contents
 
+### Thread 3
+
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Thread 3/Day 1|Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Thread 3/Day 1]]
+
 ### Thread 2
 
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 2, Day 17 - Thursday, December 22, 2022|Day 17 - Thursday, December 22, 2022]]
@@ -42,6 +46,28 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 1 - Tuesday, February 14, 2023 
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Getting Started with Alice|Alice: Storytelling and Game Programming in 3D]]
+	- Install Alice
+	- Explore the Scene Editor
+	- Create your first world
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Be sure Alice is installed and that you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Getting Started with Alice#Exercise: Make a Scene 😎|shared progress on your first world]] on [Spaces](https://ca.spacesedu.com/).
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
