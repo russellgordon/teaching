@@ -9,7 +9,7 @@
 
 ### Thread 3
 
-- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Thread 3/Day 1|Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Thread 3/Day 1]]
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 1 - Tuesday, February 14, 2023|Day 1 - Tuesday, February 14, 2023]]
 
 ### Thread 2
 
