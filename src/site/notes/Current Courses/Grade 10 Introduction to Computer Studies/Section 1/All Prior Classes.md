@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 2 - Wednesday, February 15, 2023|Day 2 - Wednesday, February 15, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 1 - Monday, February 13, 2023|Day 1 - Monday, February 13, 2023]]
 
 ### Thread 2
@@ -46,6 +47,26 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 2 - Wednesday, February 15, 2023
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Functions and Expressions|Alice: Making Responsive Scenes with Functions and Expressions]]
+	- Writing programs that respond to changes in the scene setup
+	- Put another way – how to avoid writing "hard-coded" algorithms that "break" when something about our scene changes
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Complete the [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Functions and Expressions|tutorial and exercise]] given today, then write about what you have learned [on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
