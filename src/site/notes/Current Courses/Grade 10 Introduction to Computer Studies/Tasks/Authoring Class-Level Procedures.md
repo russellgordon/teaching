@@ -30,6 +30,7 @@ This will allow each of you to make a more realistic and creative Alice world fo
 
 For *each* procedure you write, you will:
 
+- [ ] accept at least one parameter
 - [ ] make a [brief screen recording](https://drive.google.com/file/d/1q8q2zp4bOO9_ZGdeojifsvDBUOrPSgZ2/view) that shows what your procedure looks like
 - [ ] export your Alice procedure into an `.a3c` file
 - [ ] fill in [this template](https://docs.google.com/document/d/1_LakGY9NncwgEwylJX11jS6Vlzz2YejJ7fAV4q2Uo8s/copy) to document how your procedure works
