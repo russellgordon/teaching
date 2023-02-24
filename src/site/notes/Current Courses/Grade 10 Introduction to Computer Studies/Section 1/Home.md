@@ -10,16 +10,19 @@
 
 
 
-### Thread 3, Day 5 - Thursday, February 23, 2023
+### Thread 3, Day 6 - Friday, February 24, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Moving Object Sub-Joints|Alice: Moving Object Sub-joints]]
-	- Learning how to use do-together and do-in-order control structures to move object sub-joints and create realistic motion
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Classes, Objects, and Sharing Procedures|Alice: Sharing Character Abilities with Other Students]]
+	- What is the difference between a class and an object?
+	- How can we share a procedure written for a class in one world for use in another Alice world?
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
+	- Write at least two procedures that can be used on classes in an Alice world
 
 #### To-do items
 *Before our next class...*
 
-- [ ] Complete the [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Moving Object Sub-Joints|tutorial and exercises]] given today, then write about what you have learned [on Spaces](https://ca.spacesedu.com/).
+- [ ] Complete the [[Current Courses/Grade 10 Introduction to Computer Studies/Tutorials/Classes, Objects, and Sharing Procedures|tutorial and exercise]] given today, then get started on your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|mid-module task]].
 
 </div></div>
 
