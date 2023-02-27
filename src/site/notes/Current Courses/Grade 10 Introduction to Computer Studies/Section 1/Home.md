@@ -14,7 +14,7 @@
 #### Agenda
 
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
-	- A working period to continue working on your mid-module task.
+	- A working period to make further progress with your mid-module task.
 	- Your goal should be to complete the second procedure before our next class.
 
 #### To-do items
