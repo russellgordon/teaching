@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 7 - Thursday, March 2, 2023|Day 7 - Thursday, March 2, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 6 - Tuesday, February 28, 2023|Day 6 - Tuesday, February 28, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 5 - Friday, February 24, 2023|Day 5 - Friday, February 24, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 4 - Thursday, February 23, 2023|Day 4 - Thursday, February 23, 2023]]
@@ -51,6 +52,26 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 7 - Thursday, March 2, 2023
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
+	- A working period to make further progress with your mid-module task.
+	- Your goal should be to complete the second procedure before our next class.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Finish your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|mid-module task]].
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
