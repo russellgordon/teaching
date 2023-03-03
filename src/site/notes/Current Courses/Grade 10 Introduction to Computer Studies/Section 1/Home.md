@@ -10,17 +10,20 @@
 
 
 
-### Thread 3, Day 8 - Thursday, March 2, 2023
+### Thread 3, Day 9 - Friday, March 3, 2023
 #### Agenda
 
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
-	- A final working period to complete your mid-module task.
-	- If you have already finished two procedures, try for a third to exceed expectations.
+	- As a class, we will work together to write the documentation for the procedures each of you has written.
+2. End-of-module Task: Write an Story in 3D
+	- Use the procedures written by your peers to tell an original story.
+	- Make use of advanced camera movements.
+	- Show your understanding of how to use functions and expressions.
 
 #### To-do items
 *Before our next class...*
 
-- [ ] Finish your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|mid-module task]].
+- [ ] Begin your end-of-module task and [share progress on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
