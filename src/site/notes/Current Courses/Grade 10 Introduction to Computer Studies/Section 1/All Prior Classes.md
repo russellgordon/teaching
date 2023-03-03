@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 9 - Friday, March 3, 2023|Day 9 - Friday, March 3, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 8 - Thursday, March 2, 2023|Day 8 - Thursday, March 2, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 7 - Monday, February 27, 2023|Day 7 - Monday, February 27, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 3, Day 6 - Friday, February 24, 2023|Day 6 - Friday, February 24, 2023]]
@@ -53,6 +54,29 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 9 - Friday, March 3, 2023
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
+	- As a class, we will work together to write the documentation for the procedures each of you has written.
+2. End-of-module Task: Write an Story in 3D
+	- Use the procedures written by your peers to tell an original story.
+	- Make use of advanced camera movements.
+	- Show your understanding of how to use functions and expressions.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Begin your end-of-module task and [share progress on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
