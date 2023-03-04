@@ -9,7 +9,7 @@
 	- A final working period to complete your mid-module task.
 	- If you have already finished two procedures, try for a third to exceed expectations.
 > [!TIP]
-> Here is [a video showing how you can fill in the template to provide documentation](https://youtu.be/0IPvZ1x4qSM) for each of your procedures.
+> Here is [a video showing how you can fill in the template to provide documentation](https://youtu.be/0IPvZ1x4qSM) for each of your procedures. Note that this was recorded in the other section of Grade 10 Intro to Computer Studies.
 
 #### To-do items
 *Before our next class...*
