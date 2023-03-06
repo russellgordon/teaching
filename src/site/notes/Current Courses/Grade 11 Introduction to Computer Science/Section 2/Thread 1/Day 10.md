@@ -24,6 +24,6 @@
 		> For this task, please avoid the "big" apps like Snapchat, Instagram, et cetera .
 #### To-do items
 *Before our next class, be sure you have...*
-- [ ] Completed the [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Tasks/Geometric Figures|Geometric Figures]] task.
+- [ ] Completed the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Geometric Figures|Geometric Figures]] task.
 - [ ] Described an app that you like.
 - [ ] Made your regular post on Spaces to share progress and ask questions.
