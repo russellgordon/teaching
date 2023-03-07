@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 10 - Tuesday, March 7, 2023|Day 10 - Tuesday, March 7, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 9 - Saturday, March 4, 2023|Day 9 - Saturday, March 4, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 8 - Friday, March 3, 2023|Day 8 - Friday, March 3, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 7 - Thursday, March 2, 2023|Day 7 - Thursday, March 2, 2023]]
@@ -54,6 +55,27 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 10 - Tuesday, March 7, 2023
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
+	- if you have not yet, please add the links to your documentation for each of your procedures to [this document](https://docs.google.com/document/d/1ZkjLANCTUpdpFKCX0yxQ7bmvwa6lrOcASD6mSDl3Je0/edit#heading=h.m3r5sl1tqgeh).
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write an Story in 3D]]
+	- Begin your end-of-module task.
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Continue working on your end-of-module task and [share progress on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
