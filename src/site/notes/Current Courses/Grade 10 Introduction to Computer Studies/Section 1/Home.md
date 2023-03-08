@@ -20,6 +20,10 @@
 		- making many objects do the same thing at the same time
 	- Rest period to continue working on your end-of-module task.
 
+> [!TIP]
+> If you were absent for this class or just want to review how to do the things noted above, you can [watch this recording from class](https://youtu.be/fqcfd86SLpA).
+
+
 #### To-do items
 *Before our next class...*
 
