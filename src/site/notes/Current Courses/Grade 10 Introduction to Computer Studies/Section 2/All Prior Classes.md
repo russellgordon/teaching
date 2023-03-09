@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 12 - Thursday, March 9, 2023|Day 12 - Thursday, March 9, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 11 - Wednesday, March 8, 2023|Day 11 - Wednesday, March 8, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 10 - Tuesday, March 7, 2023|Day 10 - Tuesday, March 7, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 9 - Saturday, March 4, 2023|Day 9 - Saturday, March 4, 2023]]
@@ -56,6 +57,28 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 12 - Thursday, March 9, 2023
+#### Agenda
+
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write an Story in 3D]]
+	- Working period to complete your end-of-mod task.
+	- Be sure that you hand in your completed work to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
+
+#### To-do items
+*Before the end of today's class...*
+
+- [ ] Complete and [hand in](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform) your end-of-mod Creative Alice World task.
+
+**Then, enjoy your March Break! 😎 Be safe and see you in April! 🏖️**
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
