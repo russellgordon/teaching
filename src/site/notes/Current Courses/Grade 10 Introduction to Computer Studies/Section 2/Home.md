@@ -10,23 +10,19 @@
 
 
 
-### Thread 3, Day 11 - Wednesday, March 8, 2023
+### Thread 3, Day 12 - Thursday, March 9, 2023
 #### Agenda
 
 1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write an Story in 3D]]
-	- Hand in your work-in-progress to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
-	- Tips on:
-		- setting one object as the "vehicle" for another
-		- making many objects do the same thing at the same time
-	- Rest period to continue working on your end-of-module task.
-
-> [!TIP]
-> If you were absent for this class or just want to review how to do the things noted above, you can [watch this recording](https://youtu.be/fqcfd86SLpA) that I made with the other section of Grade 10 Intro to Computer Studies.
+	- Working period to complete your end-of-mod task.
+	- Be sure that you hand in your completed work to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
 
 #### To-do items
-*Before our next class...*
+*Before the end of today's class...*
 
-- [ ] Continue working on your end-of-module task and [share progress on Spaces](https://ca.spacesedu.com/).
+- [ ] Complete and [hand in](https://docs.google.com/forms/d/e/1FAIpQLSd9-9cXs7-So0I4RFkgxi0eS0JoGtwZn00YffrH_vv5zXiG_w/viewform) your end-of-mod Creative Alice World task.
+
+**Then, enjoy your March Break! 😎 Be safe and see you in April! 🏖️**
 
 </div></div>
 
