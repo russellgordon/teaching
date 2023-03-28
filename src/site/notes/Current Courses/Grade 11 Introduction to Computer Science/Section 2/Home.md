@@ -20,7 +20,7 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete as many [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise|exercises from today's tutorial]] as possible.
+- [ ] Complete as many [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise|questions from today's exercise]] as possible.
 
 </div></div>
 
