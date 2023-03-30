@@ -207,7 +207,7 @@ Working with a partner, and [referring to this summary sheet](https://learnsql.c
 11.  _How many_ employee IDs have been tied to a salary that is greater than $60000?  
 12.  Find a list of employee IDs where the salary paid is in the range $60000 to $70000.  
 13.  _How many_ employee IDs have been tied to a salary in the range $60000 to $70000?  
-14.  Find a list of employee IDs whose salary is not in the range $60000 to $70000.  
+14.  Find a list of employee IDs whose salary is *not* in the range $60000 to $70000.  
 15.  Find only the maximum and minimum salary paid to employee number 10012.  
 16.  Find the maximum and minimum salary paid to all employees.  
 17.  Write a query to display the first name and last name of all employees who have both "b" and "c" in their first name.  Order the results by first name, then by last name.
