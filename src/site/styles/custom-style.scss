@@ -40,14 +40,30 @@ body {
     
     div.language-ad-question, div.callout-question {
 
-    .admonition-title::before {
+        .admonition-title::before {
 
-        content: '❓ Exercise(s) '
+            content: '❓ Exercise(s) '
+
+        }
 
     }
 
-}
+    div.callout-discussion {
 
+        .admonition-title::before {
+
+            content: '💬 Discussion '
+
+        }
+
+    }
+    
+    div.callout-discussion {
+
+        background-color: CornflowerBlue;
+        --callout-color: 158, 158, 158;
+        
+    }
     
 }
 
