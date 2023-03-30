@@ -15,7 +15,7 @@
 #### Agenda
 
 1. Databases: Check Your Understanding
-	- If you have not yet, first, please [make a post on Spaces](https://ca.spacesedu.com/) regarding the [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Thread 3/Day 1#To-do items|work from our prior class]].
+	- If you have not yet, first, please [make a post on Spaces](https://ca.spacesedu.com/) regarding the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Thread 3/Day 1#To-do items|work from our prior class]].
 		- Share a document or screenshots and identify  [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise|what questions]] you could complete and which ones you had trouble with.
 	- Once Mr. Gordon has your post, you can check your work against the solutions – all of which include commentary to explain how they work.
 		- Please do not hesitate to ask Mr. Gordon clarifying questions when checking your solutions.
