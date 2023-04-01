@@ -23,7 +23,7 @@
    
 #### To-do items
 
-*Before our class on Saturday...*
+*Before our class on Monday...*
 
 - [ ] Complete all the items from today's working period (see above).
 - [ ] Please locate your copy of Ruined by Design – you will need it on Monday.
