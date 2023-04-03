@@ -9,21 +9,20 @@
 
 
 
-
-### Thread 3, Day 3 - Friday, March 31, 2023
+dg-publish: true
+dg-home-link: false
+---
+### Thread 3, Day 4 - Monday, April 3, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Consolidation|Databases: Consolidation]]
-	- Review key concepts for querying databases.
-	- Check your understanding by completing at least some of the [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Consolidation#Consolidation Exercises|provided exercises]].
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|Databases: Making a To-do List app]]
+	- Creating a database to hold to-do items
+	- Making the app to work with the database
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete at least some of the [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Consolidation#Consolidation Exercises|provided consolidation exercises]].
-- [ ] Make a post [on Spaces](https://ca.spacesedu.com/) sharing your progress and responding to the two standard prompts:
-	1. What did I learn or make progress upon today?  
-	2. What do I have questions about / what am I struggling with?
+- [ ] Complete today's tutorial
 
 </div></div>
 
