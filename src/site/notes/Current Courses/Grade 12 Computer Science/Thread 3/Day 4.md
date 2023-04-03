@@ -20,6 +20,8 @@
 		- How can an innovation have both *beneficial* and *harmful* effects?
 		- How can an innovation's effects be both *intended* and *unintended*?
 		- What can be done to avoid bias in the development of computing innovations?
+	- ==Follow-up:==
+		- Here is a [video of the introduction to these topics](https://youtu.be/yf6tKstyqDc) from today's class.
 
    
 #### To-do items
