@@ -9,9 +9,7 @@
 
 
 
-dg-publish: true
-dg-home-link: false
----
+
 ### Thread 3, Day 4 - Monday, April 3, 2023
 
 #### Agenda
