@@ -88,6 +88,15 @@
 	- Listen to [episode 363 of the podcast 99% Invisible](https://99pi.simplecast.com/episodes/363-invisible-women-MymnJijI), titled "Invisible Women" (30 minutes)
 	- ... then respond to [the prompts given](https://drive.google.com/file/d/1DQktmCEwJi5lc5Mq0XPQT57qFzsUjwJT/view?usp=share_link) and [post your responses on Spaces](https://ca.spacesedu.com/).
 
+#### Upcoming events
+
+- Wednesday, in class...
+	- Quiz (short answer, multiple choice)
+		- High-level topics are:
+			- Data, Networks, Impact of Computing
+		- How to prepare:
+			- Complete all assigned Study tasks given so far in this thread of study.
+
 </div></div>
 
 
