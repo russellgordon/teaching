@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 5 - Tuesday, April 4, 2023|Day 5 - Tuesday, April 4, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 4 - Monday, April 3, 2023|Day 4 - Monday, April 3, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 3 - Saturday, April 1, 2023|Day 3 - Saturday, April 1, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 2 - Thursday, March 30, 2023|Day 2 - Thursday, March 30, 2023]]
@@ -58,6 +59,40 @@
 
 
 
+### Thread 3, Day 5 - Tuesday, April 4, 2023
+#### Agenda
+
+1. Debrief: Effects of Computing Innovations
+	- We will use the [Text Rendering Experience protocol](https://www.schoolreforminitiative.org/download/the-text-rendering-experience/?wpdmdl=12645&refresh=642bf8bbe72b71680603323&open=1) to construct some meaning from our reading or listening from yesterday's class.
+2. [Safe Computing: Personally Identifiable Information and Data Tracking](https://drive.google.com/file/d/1UyF0SvUfTM4TFkx2Q--xacEz2na6Jd3j/view?usp=share_link)
+	- As a class, we will explore what personally identifiable information (PII) is and how to control access to your PII
+	- For the remainder of the class and for Study this evening, please [complete these tasks](https://drive.google.com/file/d/197pN-nKmYLiOQr-upeUz3bgymWmZw9g7/view?usp=share_link)
+		- Please also share full-screen screenshots of your results on Quizzes 1 and 2 from these sections [on Spaces](https://ca.spacesedu.com/).
+   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Complete [assigned tasks](https://drive.google.com/file/d/197pN-nKmYLiOQr-upeUz3bgymWmZw9g7/view?usp=share_link) to further learn about PII and data security, then share your quiz results [on Spaces](https://ca.spacesedu.com/)
+- [ ] Review your notes to prepare for tomorrow's quiz (see below)
+
+#### Upcoming events
+
+- Tomorrow, in class...
+	- Quiz (short answer, multiple choice)
+		- High-level topics are:
+			- Data, Networks, Impact of Computing
+		- How to prepare:
+			- Complete all assigned Study tasks given so far in this thread of study.
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 ### Thread 3, Day 4 - Monday, April 3, 2023
 #### Agenda
 
@@ -68,10 +103,10 @@
 	- ==Follow-up:==
 		- Here is the [video of this activity](https://youtu.be/iy9SQv3hqzg) today.
 		- Here are the [slides that contain the summary of key networking terms](https://drive.google.com/file/d/1IV0I6HV2-g-GXmMh5E8rVkmDAfwzjCOM/view?usp=share_link) from this activity.
-1. Self-paced study: [Khan Academy AP CSP portal](https://drive.google.com/file/d/1xJk5PVCxoi69Xu1_b4RXnP3pEwXtEuqn/view?usp=share_link)
+3. Self-paced study: [Khan Academy AP CSP portal](https://drive.google.com/file/d/1xJk5PVCxoi69Xu1_b4RXnP3pEwXtEuqn/view?usp=share_link)
 	- Another decent option for building and checking general knowledge
 	- Some time will be given now, in class, to get an account set up and to start using this
-2. [Computing Innovations: Harmful and Beneficial Effects](https://drive.google.com/file/d/1xCskZrDEu8vp_5mE_qtjzOVLbqip62aJ/view?usp=share_link)
+4. [Computing Innovations: Harmful and Beneficial Effects](https://drive.google.com/file/d/1xCskZrDEu8vp_5mE_qtjzOVLbqip62aJ/view?usp=share_link)
 	- What is a *computing innovation*?
 		- How can an innovation have both *beneficial* and *harmful* effects?
 		- How can an innovation's effects be both *intended* and *unintended*?
