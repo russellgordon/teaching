@@ -10,32 +10,33 @@
 
 
 
-### Thread 3, Day 5 - Tuesday, April 4, 2023
+### Thread 3, Day 6 - Wednesday, April 5, 2023
 #### Agenda
 
-1. Debrief: Effects of Computing Innovations
-	- We will use the [Text Rendering Experience protocol](https://www.schoolreforminitiative.org/download/the-text-rendering-experience/?wpdmdl=12645&refresh=642bf8bbe72b71680603323&open=1) to construct some meaning from our reading or [listening](https://99percentinvisible.org/episode/invisible-women/) from yesterday's class.
-	- ==Update==: Here is the [document populated with responses from your peers](https://docs.google.com/document/d/1-86eUnU-SS_ckKbcLx-Z2EBQoAgyTUXHp6st5sEYSYY/edit#) during today's discussion.
-2. [Safe Computing: Personally Identifiable Information and Data Tracking](https://drive.google.com/file/d/1UyF0SvUfTM4TFkx2Q--xacEz2na6Jd3j/view?usp=share_link)
-	- As a class, we will explore what personally identifiable information (PII) is and how to control access to your PII
-	- For the remainder of the class and for Study this evening, please [complete these tasks](https://drive.google.com/file/d/197pN-nKmYLiOQr-upeUz3bgymWmZw9g7/view?usp=share_link)
-		- Please also share full-screen screenshots of your results on Quizzes 1 and 2 from these sections [on Spaces](https://ca.spacesedu.com/).
+1. [Safe Computing: User Authentication](https://drive.google.com/file/d/1Y4UCP3W2BgTblKPg36t1cU7A0n2DThb7/view?usp=share_link)
+	- What is a strong password?
+	- What is a password manager?
+	- Multi-factor authentication
+2. Sort Race
+	- Remember this? 
+	- Next week, we need to finish comparing theoretical and real-world performance characteristics of common sort algorithms.
+	- It's been quite a while, so you *might* need to make a new [copy of this spreadsheet](https://docs.google.com/spreadsheets/d/1hYiNXQiGIvC848L_8wlGBsKzu00lxLvJ7DWPtfTPxM0/copy).
+		- Then, [clone the Sort Race repository](https://github.com/lcs-rgordon/SortRace) and run the command-line program that it contains.
+		- Over the long weekend, please use your computer to conduct trials of the three sort algorithms.
+			- In other words – fill in the spreadsheet.
+			- It's best to run trials overnight, when you are not using your computer for other tasks.
+		- We will compare notes next week  and complete a problem set to build your understanding of the performance characteristics of these algorithms.
+3. Quiz: Data, Networks, Impact of Computing
+	- Check your knowledge of topics we looked at over the first four days of this module.
    
 #### To-do items
 
 *Before our next class...*
 
-- [ ] Complete [assigned tasks](https://drive.google.com/file/d/197pN-nKmYLiOQr-upeUz3bgymWmZw9g7/view?usp=share_link) to further learn about PII and data security, then share your quiz results [on Spaces](https://ca.spacesedu.com/)
-- [ ] Review your notes to prepare for tomorrow's quiz (see below)
+- [ ] Complete [assigned tasks](https://drive.google.com/file/d/1TEZ8NeRP8SNMG_dwpiI_WqHLWcIt_lCW/view?usp=share_link) to learn more about user authentication and strong passwords, then share your quiz results [on Spaces](https://ca.spacesedu.com/)
+- [ ] Finish filling in your Sort Race spreadsheet (see above).
 
-#### Upcoming events
-
-- Tomorrow, in class...
-	- Quiz (short answer, multiple choice)
-		- High-level topics are:
-			- Data, Networks, Impact of Computing
-		- How to prepare:
-			- Complete all assigned Study tasks given so far in this thread of study.
+**Have a great April Break! 🌷**
 
 </div></div>
 
