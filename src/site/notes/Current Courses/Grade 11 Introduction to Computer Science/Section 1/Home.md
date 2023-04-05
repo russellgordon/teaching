@@ -10,18 +10,17 @@
 
 
 
-### Thread 3, Day 4 - Monday, April 3, 2023
+### Thread 3, Day 5 - Wednesday, April 5, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|Databases: Making a To-do List app]]
-	- Creating a database to hold to-do items
-		- ==Follow-up==: Here is [the video from class where this is explained](https://youtu.be/q_i5_L0wvSs).
-	- Making the app to work with the database
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|Databases: Making a To-do List app – Part 2]]
+	- Finish the MVP for a to-do list app.
+	- Apply what you have learned by completing an exercise.
 	  
 #### To-do items
-*Before our class on Wednesday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|today's tutorial]].
+*Before our class on Thursday...*
+- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|part 2 of the tutorial]], including *one* of the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Exercises|assigned exercises]].
 
 </div></div>
 
