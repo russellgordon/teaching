@@ -10,17 +10,17 @@
 
 
 
-### Thread 3, Day 5 - Wednesday, April 5, 2023
+### Thread 3, Day 6 - Thursday, April 6, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|Databases: Making a To-do List app – Part 2]]
-	- Finish the MVP for a to-do list app.
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|Databases: Making a To-do List app – Part 3]]
+	- Learn how to add swipe-to-delete functionality to your app.
 	- Apply what you have learned by completing an exercise.
 	  
 #### To-do items
 *Before our class on Thursday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|part 2 of the tutorial]], including *one* of the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Exercises|assigned exercises]].
+- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|part 3 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3#Exercise|related exercise]].
 
 </div></div>
 
@@ -36,8 +36,7 @@ ___
 
 Day|Time|Location
 -|-|-
-Monday|1:30 PM to 2 PM|Room 36
-Thursday|12:30 PM to 1 PM|Room 36
+Tuesday|12:30 PM to 1 PM|Room 36
 
 Grove Time is a drop-in, no appointment needed.
 If you have a question, **don't hesitate**, come on by!
