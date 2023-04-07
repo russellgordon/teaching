@@ -11,5 +11,6 @@
 	- Apply what you have learned by completing an exercise.
 	  
 #### To-do items
-*Before our class on Thursday...*
+*Before our class next Tuesday...*
 - [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|part 3 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3#Exercise|related exercise]].
+**Have a great April Break! 🌷**
