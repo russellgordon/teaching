@@ -13,7 +13,7 @@
 ### Thread 3, Day 12 - Thursday, March 9, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write an Story in 3D]]
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write a Story in 3D]]
 	- Working period to complete your end-of-mod task.
 	- Be sure that you hand in your completed work to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
 
