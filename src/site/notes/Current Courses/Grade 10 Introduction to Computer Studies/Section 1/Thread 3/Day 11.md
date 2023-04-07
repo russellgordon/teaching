@@ -5,7 +5,7 @@
 ### Thread 3, Day 11 - Wednesday, March 8, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write an Story in 3D]]
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write a Story in 3D]]
 	- Hand in your work-in-progress to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
 	- Tips on:
 		- setting one object as the "vehicle" for another
