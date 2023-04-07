@@ -9,7 +9,7 @@
 	- As a class, we will work together to write the documentation for the procedures each of you has written.
 > [!TIP]
 > If you were absent for today's class, here is [a video showing how you can fill in the template to provide documentation](https://youtu.be/0IPvZ1x4qSM) for each of your procedures.
-2. End-of-module Task: Write an Story in 3D
+2. End-of-module Task: Write a Story in 3D
 	- Use the procedures written by your peers to tell an original story.
 	- Make use of advanced camera movements.
 	- Show your understanding of how to use functions and expressions.
