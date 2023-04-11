@@ -9,6 +9,8 @@
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Databases: Making a To-do List app – Part 4]]
 	- Learn how to add search functionality to your app.
 	- Apply what you have learned by completing an exercise.
+2. Mid-module Portfolio Reviews
+	- While students work to add search functionality to their to-do list apps, please take turns speaking to Mr. Gordon privately to check in regarding your portfolio [on Spaces](https://ca.spacesedu.com/).
 	  
 #### To-do items
 *Before our class on Thursday...*
