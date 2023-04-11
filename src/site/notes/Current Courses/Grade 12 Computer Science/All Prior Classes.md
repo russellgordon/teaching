@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 7 - Tuesday, April 11, 2023|Day 7 - Tuesday, April 11, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 6 - Wednesday, April 5, 2023|Day 6 - Wednesday, April 5, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 5 - Tuesday, April 4, 2023|Day 5 - Tuesday, April 4, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 4 - Monday, April 3, 2023|Day 4 - Monday, April 3, 2023]]
@@ -53,6 +54,34 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 7 - Tuesday, April 11, 2023
+#### Agenda
+
+1. Data: Analog vs. Digital
+	- What is analog data?
+	- What is digital data?
+	- How can digital data approximate analog data?
+2. Data: Lossy vs. Lossless Compression
+	- How is color represented digitally?
+	- How can data be compressed to use less storage space?
+   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Be sure you have filled in [[Current Courses/Grade 12 Computer Science/Thread 3/Day 6|your Sort Race spreadsheet]]. 👀
+- [ ] Complete the exercises given for today's topics:
+	-  Analog vs. digital data
+	-  Lossy vs. lossless compression
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
