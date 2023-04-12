@@ -6,6 +6,9 @@
 
 #### Agenda
 
+1. Spaces: Reviewing Replies
+	- Please take 5-10 minutes to read my responses to your portfolio posts.
+	- At a minimum, please indicate that you've seen the reply by adding an emoji reaction to each individual reply.
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Databases: Making a To-do List app – Part 4]]
 	- Learn how to add search functionality to your app.
 	- Apply what you have learned by completing an exercise.
