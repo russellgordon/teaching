@@ -75,13 +75,15 @@
 	- Selection Sort ([explanation](https://youtu.be/3hH8kTHFw2A?t=5), [animation](https://visualgo.net/en/sorting?slide=8))
 	- Insertion Sort ([explanation](https://youtu.be/O0VbBkUvriI?t=5), [animation](https://visualgo.net/en/sorting?slide=9))
 3. Heuristics and Undecidable Problems
+	- What do we do when a problem cannot be solved in a reasonable amount of time?
+4. Simulations
 
-   
 #### To-do items
 
 *Before our next class...*
 
 - [ ] Complete [the module on Solving Hard Problems](https://drive.google.com/file/d/1WXLRpESe20xFljIPQPx8WTqmYmTE6vfy/view?usp=share_link)
+- [ ] Complete [the Simulations module](https://drive.google.com/file/d/1PoGg4Hc6MssXBQBpJ1Vv_GdpiULsigBQ/view?usp=share_link)
 
 
 </div></div>
