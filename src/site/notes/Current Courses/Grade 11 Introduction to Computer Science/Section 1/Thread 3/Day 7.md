@@ -16,5 +16,5 @@
 	- While students work to add search functionality to their to-do list apps, please take turns speaking to Mr. Gordon privately to check in regarding your portfolio [on Spaces](https://ca.spacesedu.com/).
 	  
 #### To-do items
-*Before our class on Thursday...*
+*Before our class tomorrow...*
 - [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|part 4 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4#Exercise|related exercise]].
