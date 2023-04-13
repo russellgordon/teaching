@@ -10,19 +10,27 @@
 
 
 
-### Thread 3, Day 7 - Tuesday, April 11, 2023
+### Thread 3, Day 8 - Thursday, April 13, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Databases: Making a To-do List app – Part 4]]
-	- Learn how to add search functionality to your app.
-	- Apply what you have learned by completing an exercise.
-2. Mid-module Portfolio Reviews
-	- While students work to add search functionality to their to-do list apps, please take turns speaking to Mr. Gordon privately to check in regarding your portfolio [on Spaces](https://ca.spacesedu.com/).
+1. Working Period: Consolidation & Catch-up
+	- Ensure that you have completed tutorials from recent classes to learn how to connect a database to an iOS app.
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|Making a To-do List App, Part 1]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|Making a To-do List App, Part 2]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|Making a To-do List App, Part 3]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Making a To-do List App, Part 4]]
+	- Finish one of these exercises to apply your new understanding:
+		- Write the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Option 1: Mood Mapper|Mood Mapper app]].
+		- Modify your end of module 2 app so that it stores its data in a database.
+	- Be sure you have caught up on sharing your progress through posts [on Spaces](https://ca.spacesedu.com/).
+		- In your posts, as always, use subject-specific vocabulary to respond to these prompts:
+			- i. What did I learn or make progress upon today?
+			- ii. What do I have questions about / what am I struggling with?
 	  
 #### To-do items
-*Before our class on Thursday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|part 4 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4#Exercise|related exercise]].
+*Before our next class...*
+- [ ] Get caught up, as described above.
 
 </div></div>
 
