@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 8 - Thursday, April 13, 2023|Day 8 - Thursday, April 13, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 7 - Tuesday, April 11, 2023|Day 7 - Tuesday, April 11, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 6 - Wednesday, April 5, 2023|Day 6 - Wednesday, April 5, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 5 - Tuesday, April 4, 2023|Day 5 - Tuesday, April 4, 2023]]
@@ -54,6 +55,36 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 8 - Thursday, April 13, 2023
+#### Agenda
+
+1. Searching: Linear vs. Binary Search
+	- Recap of algorithms
+	- Pros and cons of each
+2. Sorting: Comparing Bubble, Selection, and Insertion Sorts
+	- Real-world (practical) performance observations
+	- Conclusions that we can draw
+	- Bubble Sort ([explanation](https://youtu.be/RT-hUXUWQ2I?t=5), [animation](https://visualgo.net/en/sorting?slide=7))
+	- Selection Sort ([explanation](https://youtu.be/3hH8kTHFw2A?t=5), [animation](https://visualgo.net/en/sorting?slide=8))
+	- Insertion Sort ([explanation](https://youtu.be/O0VbBkUvriI?t=5), [animation](https://visualgo.net/en/sorting?slide=9))
+3. Heuristics and Undecidable Problems
+
+   
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Complete [the module on Solving Hard Problems](https://drive.google.com/file/d/1WXLRpESe20xFljIPQPx8WTqmYmTE6vfy/view?usp=share_link)
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
