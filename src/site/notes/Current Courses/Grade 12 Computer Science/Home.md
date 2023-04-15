@@ -10,28 +10,28 @@
 
 
 
-### Thread 3, Day 8 - Thursday, April 13, 2023
+### Thread 3, Day 9 - Saturday, April 15, 2023
 #### Agenda
 
-1. Searching: Linear vs. Binary Search
-	- Recap of algorithms
-	- Pros and cons of each
-2. Sorting: Comparing Bubble, Selection, and Insertion Sorts
-	- Real-world (practical) performance observations
-	- Conclusions that we can draw
-	- Bubble Sort ([explanation](https://youtu.be/RT-hUXUWQ2I?t=5), [animation](https://visualgo.net/en/sorting?slide=7))
-	- Selection Sort ([explanation](https://youtu.be/3hH8kTHFw2A?t=5), [animation](https://visualgo.net/en/sorting?slide=8))
-	- Insertion Sort ([explanation](https://youtu.be/O0VbBkUvriI?t=5), [animation](https://visualgo.net/en/sorting?slide=9))
-3. [Heuristics and Undecidable Problems](https://drive.google.com/file/d/1RLWhx5F8yP9Xfs1RgmQjbZuhQUabj-ZZ/view?usp=share_link)
-	- What do we do when a problem cannot be solved in a reasonable amount of time?
-4. [Simulations](https://drive.google.com/file/d/173I1ME5ZiKGbF_f0VY8bWTobSjiyITIJ/view?usp=share_link)
-
+1. Crowdsourcing
+2. Digital Divide
+3. Quiz
+4. Bias in Innovation + Impact of Computing
+	- From [Ruined by Design](https://www.ruinedby.design), read pages 103 to 120, "How to Set Up For Success"
+		- Please be ready for a protocol discussion on Monday in class.
+		- Consider these questions while reading:
+			- Who do we work for when designing products?
+			- Is design political?
+			- Why do we write software?
+			- How can we minimize harmful impacts of software innovations?
+   
 #### To-do items
 
-*Before our next class...*
+*Before our next class, please...*
 
-- [ ] Complete [the module on Solving Hard Problems](https://drive.google.com/file/d/1WXLRpESe20xFljIPQPx8WTqmYmTE6vfy/view?usp=share_link)
-- [ ] Complete [the Simulations module](https://drive.google.com/file/d/1PoGg4Hc6MssXBQBpJ1Vv_GdpiULsigBQ/view?usp=share_link)
+- [ ] Complete the module on Crowdsourcing and its related four-question practice quiz.
+- [ ] Complete the module on the Digital Divide and its related four-question practice quiz.
+- [ ] Complete the reading from Ruined by Design (see above) and be ready for our discussion in class on Monday morning.
 
 
 </div></div>
