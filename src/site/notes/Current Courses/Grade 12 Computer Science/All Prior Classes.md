@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 9 - Saturday, April 15, 2023|Day 9 - Saturday, April 15, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 8 - Thursday, April 13, 2023|Day 8 - Thursday, April 13, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 7 - Tuesday, April 11, 2023|Day 7 - Tuesday, April 11, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 6 - Wednesday, April 5, 2023|Day 6 - Wednesday, April 5, 2023]]
@@ -55,6 +56,38 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 9 - Saturday, April 15, 2023
+#### Agenda
+
+1. Crowdsourcing
+2. Digital Divide
+3. Quiz
+4. Bias in Innovation + Impact of Computing
+	- From [Ruined by Design](https://www.ruinedby.design), read pages 103 to 120, "How to Set Up For Success"
+		- Please be ready for a protocol discussion on Monday in class.
+		- Consider these questions while reading:
+			- Who do we work for when designing products?
+			- Is design political?
+			- Why do we write software?
+			- How can we minimize harmful impacts of software innovations?
+   
+#### To-do items
+
+*Before our next class, please...*
+
+- [ ] Complete the module on Crowdsourcing and its related four-question practice quiz.
+- [ ] Complete the module on the Digital Divide and its related four-question practice quiz.
+- [ ] Complete the reading from Ruined by Design (see above) and be ready for our discussion in class on Monday morning.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
