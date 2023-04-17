@@ -157,3 +157,6 @@ For example, perhaps you made an app that performed a calculation and then added
 Modify your app to store the data in that list inside a database instead.
 
 In this way, when your app is closed and then re-opened, the list of prior calculations is still there.
+
+> [!TIP]
+> Now continue with [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|part 3 of this tutorial]].
