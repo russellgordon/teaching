@@ -10,18 +10,18 @@
 
 
 
-### Thread 3, Day 9 - Friday, April 14, 2023
+### Thread 3, Day 10 - Monday, April 17, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint|Obtaining Data from Internet Services: Random Jokes]]
-	- Learn how to build an app that retrieves random jokes from an Internet service.
-	- By [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint#Exercise|completing the exercise]], check your knowledge by building a similar app to retrieve quotes from a different Internet service.
-	  
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|Extending the Jokes App: Saving Data]]
+	- Learn how to extend the **Jokes** app so that a user can save jokes to a database for future reference.
+	- Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|one of the assigned exercises]] to further demonstrate your understanding.
+
 #### To-do items
 *Before our next class...*
-- [ ] At a minimum, complete the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint|lesson]].
-- [ ] Attempt to complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint#Exercise|the exercise]].
+- [ ] At a minimum, complete the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|lesson]].
+- [ ] Attempt to complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|at least one of the exercises]].
 
 </div></div>
 
