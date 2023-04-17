@@ -6,7 +6,7 @@
 #### Agenda
 
 1. [Crowdsourcing and Citizen Science](https://drive.google.com/open?id=1hyFQgftrxMBN6FSmECXKABfqrmDR6Ori&usp=drive_copy)
-2. [Digital Divide](https://drive.google.com/open?id=1hyFQgftrxMBN6FSmECXKABfqrmDR6Ori&usp=drive_copy)
+2. [Digital Divide](https://drive.google.com/open?id=1Kie348YDAB3LfbhOn3Kwf-PVcLIT-REV&usp=drive_copy)
 3. Quiz
 4. Bias in Innovation + Impact of Computing
 	- From [Ruined by Design](https://www.ruinedby.design), read pages 103 to 120, "How to Set Up For Success"
