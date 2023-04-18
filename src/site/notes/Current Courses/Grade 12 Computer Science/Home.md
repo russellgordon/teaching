@@ -13,7 +13,7 @@
 ### Thread 3, Day 11 - Tuesday, April 18, 2023
 #### Agenda
 
-1. Data Encryption and Secure Internet Protocols
+1. [Data Encryption and Secure Internet Protocols](https://drive.google.com/open?id=11Y2DcnSq_q2YcRIs7_4492jMp7XTBWRx&usp=drive_copy)
 2. Second Diagnostic
 	- Use remaining time in class to continue completion of a [second diagnostic from our exam prep book](https://www.amazon.ca/Steps-Computer-Science-Principles-2023/dp/1264436297/ref=sr_1_3?crid=IDTSQDMB8E3&keywords=ap+Computer+Science+principles+julie+sway&qid=1666087990&sprefix=ap+computer+science+principles+julie+sway,aps,75&sr=8-3).
 
