@@ -14,6 +14,6 @@
 	> Even if you don't complete the entire tutorial, it's recommended that you read the part at the start which explains how to create the model.
 
 #### To-do items
-*Before our next class...*
+*Before tomorrow's class...*
 - [ ] Optionally complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint|the new tutorial for today]].
 - [ ] Make progress on your [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App|end-of-module task]].
