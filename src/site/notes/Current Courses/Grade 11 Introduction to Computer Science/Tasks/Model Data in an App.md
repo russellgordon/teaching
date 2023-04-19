@@ -8,6 +8,13 @@ Write an app that models and manages data: either with a database, or from a [re
 ## What you'll need to begin
 - [ ] Xcode
 - [ ] Your notes from having completed the tutorials and exercises from module 3 of this course
+- [ ] If you choose to use data from an online data source, these lists of possible data sources will be useful:
+	- [Mr. Gordon's curated list](https://teaching.russellgordon.ca/json/useful-json-endpoints/)
+	- A larger list of [possible data sources](https://github.com/toddmotto/public-apis)
+		- Some would be great options
+		- Some are not so useful
+		- Some require payment to access – don't use these.
+      
 ## Success criteria
 
 1. Correct use of source control – regular commits and pushes to a remote, with meaningful messages.
