@@ -4,7 +4,7 @@
 
 # Model Data in an App
 ## Objective
-Write an app that models and manages data: either with a database, or from a remote online data source, or with both.
+Write an app that models and manages data: either with a database, or from a [remote online data source](https://teaching.russellgordon.ca/json/useful-json-endpoints/), or with both.
 ## What you'll need to begin
 - [ ] Xcode
 - [ ] Your notes from having completed the tutorials and exercises from module 3 of this course
@@ -13,7 +13,7 @@ Write an app that models and manages data: either with a database, or from a rem
 1. Correct use of source control – regular commits and pushes to a remote, with meaningful messages.
 2. A functional and reasonably appealing user interface.
 3. Your app must take input, produce output, and make use of a list (array).
-4. Your app must model data, working with a database, an online data source, or both.
+4. Your app must model data, working with a database, [an online data source](https://teaching.russellgordon.ca/json/useful-json-endpoints/), or both.
 5. Include a written summary explaining clearly why you made the choices you did regarding the data model used.
 
 ## Exemplars
