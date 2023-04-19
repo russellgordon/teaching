@@ -10,18 +10,22 @@
 
 
 
-### Thread 3, Day 10 - Monday, April 17, 2023
+### Thread 3, Day 11 - Wednesday, April 19, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|Extending the Jokes App: Saving Data]]
-	- Learn how to extend the **Jokes** app so that a user can save jokes to a database for future reference.
-	- Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|one of the assigned exercises]] to further demonstrate your understanding.
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App|End-of-module Task: Model Data in an App]]
+	- In-class time to work on your end of module task.
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving a List of Data From a Remote Endpoint|Obtaining More Complex Data from Online Services: Building a Song Browser]]
+	- Learn what to do when the format of the data you want to use is not quite so simple.
+	> [!NOTE]
+	> Even if you don't complete the entire tutorial, it's recommended that you read the part at the start which explains how to create the model.
 
 #### To-do items
 *Before our next class...*
-- [ ] At a minimum, complete the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|lesson]].
-- [ ] Attempt to complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|at least one of the exercises]].
+- [ ] Optionally complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving Data from a Remote Endpoint|the new tutorial for today]].
+- [ ] Make progress on your [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App|end-of-module task]].
+
 
 </div></div>
 
