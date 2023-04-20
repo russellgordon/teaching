@@ -9,6 +9,7 @@
 
 ### Thread 3
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 12 - Thursday, April 20, 2023|Day 12 - Thursday, April 20, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 11 - Tuesday, April 18, 2023|Day 11 - Tuesday, April 18, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 10 - Monday, April 17, 2023|Day 10 - Monday, April 17, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 3, Day 9 - Saturday, April 15, 2023|Day 9 - Saturday, April 15, 2023]]
@@ -58,6 +59,30 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 3, Day 12 - Thursday, April 20, 2023
+
+#### Agenda
+
+1. Module 3 Test
+	- This will be graded and returned to you via Edsby later today.
+
+#### To-do items
+
+None – it's the end of the module.
+
+Enjoy your Quiet Weekend! 💤
+
+Stay tuned for details about a potential optional study session in advance of the AP CSP exam.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
