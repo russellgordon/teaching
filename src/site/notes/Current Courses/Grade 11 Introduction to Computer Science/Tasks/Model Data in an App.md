@@ -14,7 +14,8 @@ Write an app that models and manages data: either with a database, or from a [re
 		- Some would be great options
 		- Some are not so useful
 		- Some require payment to access – don't use these.
-      
+- [ ] You may find [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Modelling Data Returned From an Endpoint|these additional examples of how to model data]] from an online data source helpful.
+
 ## Success criteria
 
 1. Correct use of source control – regular commits and pushes to a remote, with meaningful messages.
