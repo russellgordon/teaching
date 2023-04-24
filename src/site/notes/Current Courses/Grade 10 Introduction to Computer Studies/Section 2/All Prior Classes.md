@@ -7,6 +7,10 @@
 
 ## Table of Contents
 
+### Thread 4
+
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 1 - Monday, April 24, 2023|Day 1 - Monday, April 24, 2023]]
+
 ### Thread 3
 
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 3, Day 12 - Thursday, March 9, 2023|Day 12 - Thursday, March 9, 2023]]
@@ -57,6 +61,33 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 1 - Monday, April 24, 2023 
+#### Agenda
+
+1. [Getting Started on the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Overview
+	- Plotter art examples
+	- Abstraction
+	- Making plans
+	- Getting started with TurtleStitch
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Share your plan for drawing the arrow tessellation [on Spaces](https://ca.spacesedu.com/).
+- [ ] Make progress on programming the arrow tessellation using TurtleStitch.
+	- Remember to save your work.
+	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
+
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
