@@ -10,19 +10,23 @@
 
 
 
-### Thread 3, Day 12 - Thursday, March 9, 2023
+### Thread 4, Day 1 - Tuesday, April 25, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Creative Alice World|End-of-module Task: Write a Story in 3D]]
-	- Working period to complete your end-of-mod task.
-	- Be sure that you hand in your completed work to [the Google form](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform).
+1. [Getting Started on the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Overview
+	- Plotter art examples
+	- Abstraction
+	- Making plans
+	- Getting started with TurtleStitch
 
 #### To-do items
-*Before the end of today's class...*
+*Before our next class...*
 
-- [ ] Complete and [hand in](https://docs.google.com/forms/d/e/1FAIpQLSeVyIvyAp1qoNItqKwKjTMu9_x8k-IWvDPoYgbYmM1bqBtl7A/viewform) your end-of-mod Creative Alice World task.
-
-**Then, enjoy your March Break! 😎 Be safe and see you in April! 🏖️**
+- [ ] Share your plan for drawing the arrow tessellation [on Spaces](https://ca.spacesedu.com/).
+- [ ] Make progress on programming the arrow tessellation using TurtleStitch.
+	- Remember to save your work.
+	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
 
 </div></div>
 
