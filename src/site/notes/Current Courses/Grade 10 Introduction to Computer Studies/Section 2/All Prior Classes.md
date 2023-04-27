@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 3 - Thursday, April 27, 2023|Day 3 - Thursday, April 27, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 2 - Tuesday, April 25, 2023|Day 2 - Tuesday, April 25, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 1 - Monday, April 24, 2023|Day 1 - Monday, April 24, 2023]]
 
@@ -69,6 +70,31 @@
 
 
 
+### Thread 4, Day 3 - Thursday, April 27, 2023
+#### Agenda
+
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- What to expect at the end of the year
+	- Looking for opportunities to apply abstraction a bit more
+	- Implementing a design on your own
+	- Starting on your first design for the culminating task
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Share your work on a third tessellation [on Spaces](https://ca.spacesedu.com/), in this case, a tessellation that you planned and programmed individually.
+- [ ] Share the plan or at least your rough ideas for the first design that you will complete for the culminating task.
+	- Remember to save your work.
+	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
 ### Thread 4, Day 2 - Tuesday, April 25, 2023
 #### Agenda
 
@@ -80,7 +106,7 @@
 #### To-do items
 *Before our next class...*
 
-- [ ] Share your plan for drawing the arrow tessellation [on Spaces](https://ca.spacesedu.com/).
+- [ ] Share your plan for drawing the "T" tessellation [on Spaces](https://ca.spacesedu.com/).
 - [ ] Make progress on programming the design you started on today.
 	- Remember to save your work.
 	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
