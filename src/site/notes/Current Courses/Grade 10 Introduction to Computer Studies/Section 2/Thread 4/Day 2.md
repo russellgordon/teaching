@@ -13,7 +13,7 @@
 #### To-do items
 *Before our next class...*
 
-- [ ] Share your plan for drawing the arrow tessellation [on Spaces](https://ca.spacesedu.com/).
+- [ ] Share your plan for drawing the "T" tessellation [on Spaces](https://ca.spacesedu.com/).
 - [ ] Make progress on programming the design you started on today.
 	- Remember to save your work.
 	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
