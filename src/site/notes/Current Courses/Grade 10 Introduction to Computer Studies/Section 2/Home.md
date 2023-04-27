@@ -14,10 +14,12 @@
 #### Agenda
 
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Finishing the triangle tessellation – working out the vertical distance needed to get positioned to repeat the pattern
 	- What to expect at the end of the year
 	- Looking for opportunities to apply abstraction a bit more
-	- Implementing a design on your own
-	- Starting on your first design for the culminating task
+	- Considering how to handle color
+	- Implementing one more design, this time on your own
+	- Starting on a rough idea, and maybe a plan, for your first design for the culminating task
 
 #### To-do items
 *Before our next class...*
