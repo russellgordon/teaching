@@ -10,18 +10,21 @@
 
 
 
-### Thread 4, Day 2 - Thursday, April 27, 2023
+### Thread 4, Day 3 - Friday, April 28, 2023
 #### Agenda
 
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
-	- Trying another design
+	- Considering how to handle color
+	- Finishing the triangle tessellation – working out the vertical distance needed to get positioned to repeat the pattern
 	- Looking for opportunities to apply abstraction a bit more
+	- Implementing one more design, this time on your own
+	- Starting on a rough idea, and maybe a plan, for your first design for the culminating task
 
 #### To-do items
 *Before our next class...*
 
-- [ ] Share your plan for drawing the "T" tessellation [on Spaces](https://ca.spacesedu.com/).
-- [ ] Make progress on programming the design you started on today.
+- [ ] Share your work on a third tessellation [on Spaces](https://ca.spacesedu.com/), in this case, a tessellation that you planned and programmed individually.
+- [ ] Share the plan or at least your rough ideas for the first design that you will complete for the culminating task.
 	- Remember to save your work.
 	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
 
