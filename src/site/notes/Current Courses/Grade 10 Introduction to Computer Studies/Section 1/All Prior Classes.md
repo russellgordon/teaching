@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 3 - Friday, April 28, 2023|Day 3 - Friday, April 28, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 2 - Thursday, April 27, 2023|Day 2 - Thursday, April 27, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 1 - Tuesday, April 25, 2023|Day 1 - Tuesday, April 25, 2023]]
 
@@ -62,6 +63,32 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 3 - Friday, April 28, 2023
+#### Agenda
+
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Considering how to handle color
+	- Finishing the triangle tessellation – working out the vertical distance needed to get positioned to repeat the pattern
+	- Looking for opportunities to apply abstraction a bit more
+	- Implementing one more design, this time on your own
+	- Starting on a rough idea, and maybe a plan, for your first design for the culminating task
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Share your work on a third tessellation [on Spaces](https://ca.spacesedu.com/), in this case, a tessellation that you planned and programmed individually.
+- [ ] Share the plan or at least your rough ideas for the first design that you will complete for the culminating task.
+	- Remember to save your work.
+	- Then share a progress update [on Spaces](https://ca.spacesedu.com/).
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
