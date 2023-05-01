@@ -10,14 +10,11 @@
 
 
 
-### Thread 4, Day 3 - Thursday, April 27, 2023
+### Thread 4, Day 4 - Monday, May 1, 2023
 #### Agenda
 
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
-	- Finishing the triangle tessellation – working out the vertical distance needed to get positioned to repeat the pattern
-	- What to expect at the end of the year
-	- Looking for opportunities to apply abstraction a bit more
-	- Considering how to handle color
+	- A note about describing what you did in a Spaces post vs. how you did it...
 	- Implementing one more design, this time on your own
 	- Starting on a rough idea, and maybe a plan, for your first design for the culminating task
 
