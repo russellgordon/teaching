@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 5 - Tuesday, May 2, 2023|Day 5 - Tuesday, May 2, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 4 - Saturday, April 29, 2023|Day 4 - Saturday, April 29, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 3 - Friday, April 28, 2023|Day 3 - Friday, April 28, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 2 - Thursday, April 27, 2023|Day 2 - Thursday, April 27, 2023]]
@@ -64,6 +65,29 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 5 - Tuesday, May 2, 2023
+#### Agenda
+
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Using comments to keep your code organized
+	- A mini-exercise to look at how fills of shapes can be done
+	- Continue implementation of your first design for the culminating task
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Share your results on the mini-exercise to fill a shape [on Spaces](https://ca.spacesedu.com/)
+- [ ] Share your progress on your first design for the culminating task [on Spaces](https://ca.spacesedu.com/)
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
