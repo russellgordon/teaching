@@ -5,7 +5,7 @@
 ### Thread 4, Day 1 - Tuesday, April 25, 2023
 #### Agenda
 
-1. [Getting Started on the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+1. [Getting Started on the Culminating Task](https://drive.google.com/file/d/1rfwPgUBdPFql629WaOHJWa6-I4iEx76t/view?usp=share_link)
 	- Overview
 	- Plotter art examples
 	- Abstraction
