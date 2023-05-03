@@ -81,11 +81,14 @@
 	> [!TIP]
 	> Please remember to:
 	> 1. Make a plan and share it [to Spaces](https://ca.spacesedu.com/) before you write code.
-	> 2. Look for ways to exceed expectations, such as:
+	> 2. Keep your code organized, by:
+	> 	- Selecting meaningful names for functions (custom blocks).
+	> 	- Using comments to identify the purpose of a section of code.
+	> 3. Look for ways to exceed expectations, such as:
 	> 	- use of colour
 	> 	- use of fills
 	> 	- creating multiple tessellations
-	> 3. When you post on Spaces, use subject-specific vocabulary to provide some details about *how* you completed the tessellation. 
+	> 4. When you post on Spaces, use subject-specific vocabulary to provide some details about *how* you completed the tessellation. 
 	> 	- Where was sequence important?
 	> 	- When did you use iteration?
 	> 	- Where did you apply abstraction, and how does that help?
