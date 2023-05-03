@@ -5,7 +5,7 @@
 ### Thread 4, Day 2 - Thursday, April 27, 2023
 #### Agenda
 
-1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1rfwPgUBdPFql629WaOHJWa6-I4iEx76t/view?usp=share_link)
 	- Trying another design
 	- Looking for opportunities to apply abstraction a bit more
 
