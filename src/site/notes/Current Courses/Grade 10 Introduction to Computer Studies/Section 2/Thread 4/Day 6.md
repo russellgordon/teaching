@@ -6,6 +6,7 @@
 #### Agenda
 
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- A look at [the template to help you prepare](https://docs.google.com/presentation/d/12h0pSHiPWGYuzAgrobpMbrziXf_BvU0HaqKhb2_YXy0/copy) for the end of year interview.
 	- Continue implementation of your first design for the culminating task
 	> [!TIP]
 	> Please remember to:
