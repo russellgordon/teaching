@@ -10,12 +10,16 @@
 
 
 
-### Thread 4, Day 6 - Wednesday, May 3, 2023
+### Thread 4, Day 7 - Thursday, May 4, 2023
 #### Agenda
 
-1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
-	- A look at [the template to help you prepare](https://docs.google.com/presentation/d/12h0pSHiPWGYuzAgrobpMbrziXf_BvU0HaqKhb2_YXy0/copy) for the end of year interview.
-	- Continue implementation of your first design for the culminating task
+1. Weekend Portfolio Review
+	- Additions to portfolios made since the start of this module will be reviewed this weekend
+	- A new grade will be set in Edsby; this will be your "term" grade which in turn comprises 70% of your final grade
+	- All parts of the [culminating task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link) comprise the remaining 30% of your final grade – the "end of year" portion
+2. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Continue working on your culminating task
+	- You are encouraged to submit more than one tessellation
 	> [!TIP]
 	> Please remember to:
 	> 1. Make a plan and share it [to Spaces](https://ca.spacesedu.com/) before you write code.
