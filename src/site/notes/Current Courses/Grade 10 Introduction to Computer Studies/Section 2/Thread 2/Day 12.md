@@ -5,7 +5,7 @@
 ### Thread 2, Day 12 - Wednesday, December 14, 2022
 #### Agenda
 
-1. [[Productivity/Creating a Smart Folder|Creating a Smart Folder]]
+1. [[Productivity/Creating a Smart Folder\|Creating a Smart Folder]]
 	- A brief tip showing a fast way to find your PDF created from code in the Playgrounds app.
 2. [Rubber Duck Debugging](https://rubberduckdebugging.com)
 	- You are encouraged to bring your 🦆 to class!
@@ -15,9 +15,9 @@
 	- Please use the Google Forms listed at the bottom of our home page to submit your final versions of playgrounds, as they are completed.
 	> [!NOTE]
 	> These submissions are in addition to your regular posts on Spaces that are made to share your progress for each task.
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction|Gig Posters: Applying Abstraction]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction\|Gig Posters: Applying Abstraction]]
 	- Learn how to use functions to draw visually similar elements within a gig poster.
-3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag|Exercise: Superdrag]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag\|Exercise: Superdrag]]
 	- Apply your understanding of *iteration* using loops and *abstraction* using functions to reproduce this gig poster.
 
 #### To-do items
