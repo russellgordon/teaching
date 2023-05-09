@@ -4,7 +4,7 @@
 
 ### Thread 1, Day 11 - Tuesday, October 4, 2022
 #### Agenda
-1. Start the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+1. Start the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints\|T-shirt Shadow Prints]] task.
 	- This is the final task for this thread of the course.
 	- Apply the feedback you received on earlier tasks to show mastery of learning goals on this task.
 2. Select a T-shirt size
@@ -16,4 +16,4 @@
 	
 #### To-do items
 *By the start of our class tomorrow – Wednesday – be sure to...*
-- [ ] Finish the plan for your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints|T-shirt Shadow Prints]] task.
+- [ ] Finish the plan for your [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/T-shirt Shadow Prints\|T-shirt Shadow Prints]] task.
