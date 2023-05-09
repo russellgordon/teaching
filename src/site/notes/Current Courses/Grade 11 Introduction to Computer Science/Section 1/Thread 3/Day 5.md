@@ -6,10 +6,10 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|Databases: Making a To-do List app – Part 2]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2\|Databases: Making a To-do List app – Part 2]]
 	- Finish the MVP for a to-do list app.
 	- Apply what you have learned by completing an exercise.
 	  
 #### To-do items
 *Before our class on Thursday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|part 2 of the tutorial]], including *one* of the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Exercises|assigned exercises]].
+- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2\|part 2 of the tutorial]], including *one* of the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Exercises\|assigned exercises]].
