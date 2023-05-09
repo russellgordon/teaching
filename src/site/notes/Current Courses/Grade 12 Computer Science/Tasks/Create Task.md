@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/tasks/create-task/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/tasks/create-task/","tags":["ics4u"],"dgHomeLink":false}
 ---
 
 # AP Create Task 
