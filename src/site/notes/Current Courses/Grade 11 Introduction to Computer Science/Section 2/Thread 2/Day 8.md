@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists|Dynamic Lists]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Dynamic Lists\|Dynamic Lists]]
 	- Build an app that makes use a list that changes while the app runs.
 2. Exercise
 	- Use what you have learned today to extend your app that calculates the area and perimeter of a 2D shape (or the surface area and volume of a 3D figure) so that it allows the user to save a history of results.
