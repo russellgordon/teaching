@@ -9,7 +9,7 @@
 2. Pseudo-code for Boss
 	- With your partner, write pseudo-code for the game of Boss.
 	- In a few minutes, we will share solutions.
-3. [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Recursion|Recursion]]
+3. [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Recursion\|Recursion]]
 	- An introduction to recursion
 	- Benefits
 	- Drawbacks
