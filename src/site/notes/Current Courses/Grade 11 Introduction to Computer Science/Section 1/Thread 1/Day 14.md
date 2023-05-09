@@ -12,12 +12,12 @@
 	- Pairing with a friend to describe what you are trying to do with your code, line by line, can be helpful.
 		- Often during this process, you will realize the source of the problem you are having.
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
-2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface\|Task: Reproduce an Interface]]
 	- Show your understanding of recent lessons by reproducing a user interface of your choice.
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|assigned task.]]
+- [ ] Make progress on the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface\|assigned task.]]
 
 > [!TIP]
 > Firm due date for this task is the end of our class this Friday.
