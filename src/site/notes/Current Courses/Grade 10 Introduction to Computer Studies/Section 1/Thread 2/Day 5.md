@@ -7,7 +7,7 @@
 
 1. SUM vs. SUMIF
 	- A [brief discussion of why SUMIF is usually preferable](https://www.youtube.com/watch?v=BTj9kjjYrkY) – this was recorded in the other section of Grade 10 Computer Studies, but was discussed in our section as well.
-2. Task: [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Weekend Camp at Northcote|Weekend Camp at Northcote]]
+2. Task: [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Weekend Camp at Northcote\|Weekend Camp at Northcote]]
 	- Understand how a spreadsheet can be used as a budget planning tool for events.
 	- Work with your partner – **task should be completed today**.
 3. Task: [Spreadsheet Skills Pyramid](https://drive.google.com/file/d/1P0X1kL2TFCbPz-MDcHjmH3G-xiiCZjFr/view?usp=share_link)
