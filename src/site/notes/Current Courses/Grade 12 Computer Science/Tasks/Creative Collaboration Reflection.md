@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/tasks/creative-collaboration-reflection/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-12-computer-science/tasks/creative-collaboration-reflection/","tags":["ics4u"],"dgHomeLink":false}
 ---
 
 # Creative Collaboration Reflection
@@ -19,7 +19,7 @@ The greater focus has been upon how to manage the software development process w
 
 At the conclusion of this module of the course you are invited to reflect upon the experience of participating in this teacher-led creative collaboration effort.
 
-One purpose of this reflection is to self-evaluate your experience with an eye to becoming an even better member of a [[Curriculum/Computer Science, Grade 12#B. Software Development|student-led creative collaboration effort]] in the fourth and final module of this course.
+One purpose of this reflection is to self-evaluate your experience with an eye to becoming an even better member of a [[Curriculum/Computer Science, Grade 12#B. Software Development\|student-led creative collaboration effort]] in the fourth and final module of this course.
 
 Your reflection may take any of the following forms, all of which are equally valued:
 
