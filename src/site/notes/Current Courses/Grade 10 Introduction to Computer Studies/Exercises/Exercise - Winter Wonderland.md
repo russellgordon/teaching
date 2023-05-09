@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/exercises/exercise-winter-wonderland/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-10-introduction-to-computer-studies/exercises/exercise-winter-wonderland/","tags":["ics2o"],"dgHomeLink":false}
 ---
 
 # Exercise: A Winter Wonderland 
