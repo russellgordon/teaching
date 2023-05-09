@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards\|Trading Cards]] Task
 	- To begin with the examples today, please [fork and clone this repository](https://github.com/lcs-rgordon/TradingCardExample).
 		- ==VIDEO:== [How to fork the repository](https://youtu.be/9H4nndlgIxk)
 		- ==VIDEO:== [How to clone the repository](https://youtu.be/hgzG-qAgwdg)
@@ -22,5 +22,5 @@
 #### To-do items
 *Before our next class...*
 - [ ] Be sure you complete the steps shown in the videos above with your own copy of the **TradingCardsExample** project
-- [ ] Apply the concepts shown here to complete your own [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] task
+- [ ] Apply the concepts shown here to complete your own [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards\|Trading Cards]] task
 - [ ] Share updates [on Spaces](https://ca.spacesedu.com/)
