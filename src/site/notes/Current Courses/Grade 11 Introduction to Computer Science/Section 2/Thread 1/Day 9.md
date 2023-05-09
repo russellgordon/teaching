@@ -40,8 +40,8 @@
 		- a title
 		- one image
 		- one or more paragraphs of text
-	- Here is [[Media/Favourite Things|an animation showing what you are aiming for]].
+	- Here is [[Media/Favourite Things\|an animation showing what you are aiming for]].
 		
 > [!NOTE]
 > • Your first portfolio review will occur in tomorrow's class. 
-> •  Here is how to [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Portfolios/Initial Portfolio Review|prepare for your portfolio review]].
+> •  Here is how to [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Portfolios/Initial Portfolio Review\|prepare for your portfolio review]].
