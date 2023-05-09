@@ -17,4 +17,4 @@
 
 - [ ] Write a query that obtains [this information on lead actors](https://www.russellgordon.ca/lcs/2022-23/ics4u/goal-for-joining-tables-exercise.png) from the normalized Musicals at LCS database shared in class today.
 	- For reference, here is the [database schema diagram](https://www.russellgordon.ca/lcs/2022-23/ics4u/normalized-musicals-at-lcs-database-schema.png).
-- [ ] If you have [assigned and open issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) please complete them tonight; then be sure to [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team|complete the process of committing, pushing, and creating a pull request]].
+- [ ] If you have [assigned and open issues](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) please complete them tonight; then be sure to [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team\|complete the process of committing, pushing, and creating a pull request]].
