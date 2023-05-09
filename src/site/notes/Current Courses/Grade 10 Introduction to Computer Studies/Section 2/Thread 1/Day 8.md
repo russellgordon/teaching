@@ -12,13 +12,13 @@
 	- Documenting the evolution of your work in steps will be helpful later this year when you are asked to describe your growth as a student in this course.
 	- If you haven't yet, please be sure to make a [post on Spaces](https://ca.spacesedu.com/) to share your progress since our last class.
 3. Working time
-	- You have the rest of this class to make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task.
+	- You have the rest of this class to make progress on the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing\|Campus Line Drawing]] task.
 
 #### To-do items
 *Before our next class, please...*
 
-- [ ] Make a "update" post for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts|reflection prompts]].
+- [ ] Make a "update" post for the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing\|Campus Line Drawing]] task [on Spaces](https://ca.spacesedu.com/) to reply to the [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Campus Line Drawing#Reflection prompts\|reflection prompts]].
 	- Be sure to include a screenshot or photo of your progress.
 
 > [!TIP]
-> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|portfolio review]] takes place **tomorrow**. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review|ready]]. Write your post [on Spaces](https://ca.spacesedu.com/) to propose your current level of achievement.
+> Keep in mind that your first [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review\|portfolio review]] takes place **tomorrow**. Be [[Current Courses/Grade 10 Introduction to Computer Studies/Portfolios/Initial Portfolio Review\|ready]]. Write your post [on Spaces](https://ca.spacesedu.com/) to propose your current level of achievement.
