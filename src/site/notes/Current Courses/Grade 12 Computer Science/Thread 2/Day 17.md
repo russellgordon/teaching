@@ -6,7 +6,7 @@
 #### Agenda
 
 1. Musicals @ LCS
-	- Please [[Current Courses/Grade 12 Computer Science/Tasks/Creative Collaboration Reflection|complete this reflection]]
+	- Please [[Current Courses/Grade 12 Computer Science/Tasks/Creative Collaboration Reflection\|complete this reflection]]
 2. Portfolio
 	- As needed, take time to update your portfolio on Spaces to share brief updates on your contributions to Musicals @ LCS during this module
 	- While your code and contributions are documented via GitHub, they will be somewhat buried
