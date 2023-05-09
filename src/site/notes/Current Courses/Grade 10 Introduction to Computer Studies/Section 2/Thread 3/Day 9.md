@@ -5,7 +5,7 @@
 ### Thread 3, Day 9 - Saturday, March 4, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures|Mid-module Task: Authoring Class-Level Procedures]]
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Authoring Class-Level Procedures\|Mid-module Task: Authoring Class-Level Procedures]]
 	- As a class, we will work together to write the documentation for the procedures each of you has written.
 > [!TIP]
 > If you were absent for today's class, here is [a video showing how you can fill in the template to provide documentation](https://youtu.be/0IPvZ1x4qSM) for each of your procedures. Note that this was recorded with the other section of Grade 10 Intro to Computer Studies.
