@@ -5,11 +5,11 @@
 ### Thread 2, Day 14 - Saturday, December 17, 2022
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection|Gig Posters: Selection]]
-	- Read through the tutorial, then [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection#Exercise: Pixies|try the provided exercise]] to recreate a **Pixies** poster to apply your understanding of *selection*.
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection\|Gig Posters: Selection]]
+	- Read through the tutorial, then [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Selection#Exercise: Pixies\|try the provided exercise]] to recreate a **Pixies** poster to apply your understanding of *selection*.
 	- Note that at this point, understanding how selection statements work goes above and beyond expectations.
 	- You may work on this tutorial independently but are encouraged to continue asking questions of your peers and Mr. Gordon.
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster\|Task: Gig Poster]]
 	- Optionally, begin or continue this task today.
 	- ==Due date is next Thursday, December 22.==
 
