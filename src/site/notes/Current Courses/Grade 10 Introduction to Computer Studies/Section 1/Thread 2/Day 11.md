@@ -5,11 +5,11 @@
 ### Thread 2, Day 11 - Monday, December 12, 2022
 #### Agenda
 
-1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones|Exercise: Ramones]]
+1. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones\|Exercise: Ramones]]
 	- If necessary – you have not finished up this exercise yet – please work to complete it before continuing with today's tutorial.
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction|Gig Posters: Applying Abstraction]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Abstraction\|Gig Posters: Applying Abstraction]]
 	- Learn how to use functions to draw visually similar elements within a gig poster.
-3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag|Exercise: Superdrag]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Superdrag\|Exercise: Superdrag]]
 	- Apply your understanding of *iteration* using loops and *abstraction* using functions to reproduce this gig poster.
 
 #### To-do items
