@@ -9,9 +9,9 @@
 	- Please [download a new version of the Turtle Sketches Template](https://www.icloud.com/iclouddrive/056s04aZ5PGT9qasJSphxOUXA#Turtle_Sketches_Template_-_v5-1), then drag and drop it in to Playgrounds.
 	- This version resolves a couple of small bugs present in the old version.
 	- You will know you have the new version if you see **5.1** in the banner, along with the 🎸 emoji.
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Iteration|Gig Posters: Applying Iteration]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Gig Posters - Applying Iteration\|Gig Posters: Applying Iteration]]
 	- Follow along with this tutorial to reproduce your first gig poster! 🎶
-3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones|Exercise: Ramones]]
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Ramones\|Exercise: Ramones]]
 	- Use concepts that we have learned today and in yesterday's class to reproduce this poster.
 	- Think in terms of overlappping shapes, and make use of iteration.
 	- Remember that shapes can have a fill and a border, just a fill, or just a border. 👍🏼
