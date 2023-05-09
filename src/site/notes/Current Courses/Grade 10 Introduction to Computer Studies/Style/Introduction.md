@@ -3,5 +3,5 @@
 ---
 
 # Style
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Style/Well Formatted Code|Well Formatted Code]]
+* [[Current Courses/Grade 10 Introduction to Computer Studies/Style/Well Formatted Code\|Well Formatted Code]]
 	* An introduction to writing readable code in Swift.
