@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures|Thread 1 Recap & Exercises]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures\|Thread 1 Recap & Exercises]]
 	- Describing data and user interfaces using structures... all the big ideas summarized along with several exercises to get your 🧠 moving again! 🚀
 	  
 #### To-do items
