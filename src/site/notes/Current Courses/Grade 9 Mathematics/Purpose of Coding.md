@@ -3,7 +3,7 @@
 ---
 
 
-← [[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] | [[Current Courses/Grade 9 Mathematics/Coding Geometric Shapes|Coding Geometric Shapes]]→
+← [[Current Courses/Grade 9 Mathematics/What is Coding?\|What is Coding?]] | [[Current Courses/Grade 9 Mathematics/Coding Geometric Shapes\|Coding Geometric Shapes]]→
 
 --- 
 
@@ -33,4 +33,4 @@ Coding is a means to quickly bring your ideas to life.
 
 --- 
 
-← [[Current Courses/Grade 9 Mathematics/What is Coding?|What is Coding?]] | [[Current Courses/Grade 9 Mathematics/Coding Geometric Shapes|Coding Geometric Shapes]]→
+← [[Current Courses/Grade 9 Mathematics/What is Coding?\|What is Coding?]] | [[Current Courses/Grade 9 Mathematics/Coding Geometric Shapes\|Coding Geometric Shapes]]→
