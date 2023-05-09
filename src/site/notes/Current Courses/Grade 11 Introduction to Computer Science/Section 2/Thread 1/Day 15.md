@@ -6,9 +6,9 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Portfolios/Thread 1 Portfolio Review|Thread 1 Portfolio Review]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Portfolios/Thread 1 Portfolio Review\|Thread 1 Portfolio Review]]
 	- Prepare for your face-to-face meeting with Mr. Gordon.
-2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface|Task: Reproduce an Interface]]
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Reproduce an Interface\|Task: Reproduce an Interface]]
 	- For the remaining time in this period, continue working on the end-of-module task.
 	  
 #### To-do items
