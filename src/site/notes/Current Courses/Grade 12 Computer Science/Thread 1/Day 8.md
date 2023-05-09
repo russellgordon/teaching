@@ -17,10 +17,10 @@
 		- These responses have the requirements for each question, and the relevant portion of the scoring rubric, embedded in each page.
 		- Hopefully, this will help you see exactly how these responses meet the criteria given by the College Board for this task.
 4. AP Create Task: Working Period
-	- The remainder of class time is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+	- The remainder of class time is dedicated to working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task\|AP Create Task]].
 #### To-do items
 *Prior to our next class...*
-- [ ] Spend some time working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task|AP Create Task]].
+- [ ] Spend some time working on your [[Current Courses/Grade 12 Computer Science/Tasks/Create Task\|AP Create Task]].
 - [ ] Be certain to make a brief post on Spaces to share your progress.
 	      
 > [!NOTE]
