@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/model-data-in-an-app/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/model-data-in-an-app/","tags":["ics3u"],"dgHomeLink":false}
 ---
 
 # Model Data in an App
@@ -14,7 +14,7 @@ Write an app that models and manages data: either with a database, or from a [re
 		- Some would be great options
 		- Some are not so useful
 		- Some require payment to access – don't use these.
-- [ ] You may find [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Modelling Data Returned From an Endpoint|these additional examples of how to model data]] from an online data source helpful.
+- [ ] You may find [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Modelling Data Returned From an Endpoint\|these additional examples of how to model data]] from an online data source helpful.
 
 ## Success criteria
 
@@ -49,10 +49,10 @@ However, you may ==optionally== complete work up to 11 PM on Saturday, April 22,
 
 ## Learning goals
 Successful completion of this task is great evidence for these learning goals:
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#1|1]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#2|2]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#3|3]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#4|4]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#5|5]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#7|7]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#10|10]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#1\|1]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#2\|2]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#3\|3]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#4\|4]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#5\|5]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#7\|7]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#10\|10]]
