@@ -9,7 +9,7 @@
 > [!NOTE]
 > Videos and the example for agenda item 1 below were recorded in the other section of Grade 11 Intro to Computer Science on Tuesday, January 17, 2023.
 
-1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] Task
+1. Lists and Abstraction: Finishing the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards\|Trading Cards]] Task
     -   To begin with the examples today, please [fork and clone this repository](https://github.com/lcs-rgordon/TradingCardExample).
         - ==VIDEO:== [How to fork the repository](https://youtu.be/CuP5WZSDhkQ)
         - ==VIDEO:== [How to clone the repository](https://youtu.be/hgzG-qAgwdg)
@@ -24,4 +24,4 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Finish up the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards|Trading Cards]] task, then share an update [on Spaces](https://ca.spacesedu.com/).
+- [ ] Finish up the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Trading Cards\|Trading Cards]] task, then share an update [on Spaces](https://ca.spacesedu.com/).
