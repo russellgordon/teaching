@@ -5,21 +5,18 @@
 # Grade 10 Introduction to Computer Studies - Section 2 
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 7 - Thursday, May 4, 2023
+### Thread 4, Day 8 - Tuesday, May 9, 2023
 #### Agenda
 
-1. Weekend Portfolio Review
-	- Additions to portfolios made since the start of this module will be reviewed this weekend
-	- A new grade will be set in Edsby; this will be your "term" grade which in turn comprises 70% of your final grade
-	- All parts of the [culminating task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link) comprise the remaining 30% of your final grade – the "end of year" portion
-2. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
 	- Continue working on your culminating task
-	- You are encouraged to submit more than one tessellation
+	- Work on a second or third tessellation if you have completed your first one
+	- Interested in trying a different type of design? Ask Mr. Gordon for more details...
 	> [!TIP]
 	> Please remember to:
 	> 1. Make a plan and share it [to Spaces](https://ca.spacesedu.com/) before you write code.
@@ -44,11 +41,11 @@
 </div></div>
 
 ## All Prior Classes
-You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes|all prior classes]] here.
+You can see details of [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes\|all prior classes]] here.
 ___
 ## Grove Time
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grove-time/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -65,22 +62,22 @@ If you have a question, **don't hesitate**, come on by!
 
 ## Key Links
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-2/key-links/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
 * [LCAT Health Check](https://lcat.lcs.on.ca)
 * [Spaces](https://ca.spacesedu.com/)
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Portfolios and Achievement|Portfolios and Achievement]]
-* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals|Learning Goals]] 
+* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Portfolios and Achievement\|Portfolios and Achievement]]
+* [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/Learning Goals\|Learning Goals]] 
 * [Student Course Outline](https://tinyurl.com/lcscs22-g10-so)
 * [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g10-mcs)
 
 </div></div>
 
 ## Submitting Playgrounds
-If you want to submit overdue playgrounds from module 2, you can find [[Current Courses/Submitting Recent Playgrounds|links to the Google Forms here]]. 
+If you want to submit overdue playgrounds from module 2, you can find [[Current Courses/Submitting Recent Playgrounds\|links to the Google Forms here]]. 
 
 > [!IMPORTANT]
 > Please message Mr. Gordon or make a post on Spaces to identify that a playground was uploaded to one of these forms – that way he will know to retrieve your work.
