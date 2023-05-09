@@ -5,7 +5,7 @@
 # Well Formatted Code
 Code should be written so that it is easily read by humans.
 
-Swift code that is authored in [[Software Setup/Playgrounds|Playgrounds]] or Xcode can be kept tidy by adopting the following habits.
+Swift code that is authored in [[Software Setup/Playgrounds\|Playgrounds]] or Xcode can be kept tidy by adopting the following habits.
 
 ## Use Comments to Describe Intent
 Assume that the reader understands programming.
@@ -44,7 +44,7 @@ The second example uses too many comments and describes the code rather than wha
 ## Indent Code Consistently
 Code blocks should be consistently indented.
 
-When authoring Swift code in [[Software Setup/Playgrounds|Playgrounds]] or Xcode, you can automatically re-indent code using these two keyboard shortcuts in sequence:
+When authoring Swift code in [[Software Setup/Playgrounds\|Playgrounds]] or Xcode, you can automatically re-indent code using these two keyboard shortcuts in sequence:
 
 1. Select All Text: `Command-A`
 2. Re-indent: `Control-I`
