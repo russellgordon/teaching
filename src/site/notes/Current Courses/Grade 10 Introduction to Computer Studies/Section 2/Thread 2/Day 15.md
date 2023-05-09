@@ -15,19 +15,19 @@
 > 
 > ![An illustration of the steps in the design process.|650](https://www.russellgordon.ca/teaching/snow-clearing-and-computer-studies-enrolment/steps-in-the-design-process-technological-education.jpg)
 
-2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster|Task: Gig Poster]]
+2. [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster\|Task: Gig Poster]]
 	- Continue this task today.
-	- Please be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|reviewed and met all the success criteria]].
+	- Please be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria\|reviewed and met all the success criteria]].
 	- ==Due date is this Thursday, December 22.==
 
 > [!NOTE]
 > If you are leaving early for the Winter Break, be sure to hand in your work before you leave.
 
-3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - The Velvet Underground|Optional Exercise: The Velvet Underground]]
-	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
+3. [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - The Velvet Underground\|Optional Exercise: The Velvet Underground]]
+	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria\|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 	
-4.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland|Optional Exercise: Winter Wonderland]]
-	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
+4.  [[Current Courses/Grade 10 Introduction to Computer Studies/Exercises/Exercise - Winter Wonderland\|Optional Exercise: Winter Wonderland]]
+	- If you are finished your gig poster task (read carefully to be sure you have [[Current Courses/Grade 10 Introduction to Computer Studies/Tasks/Gig Poster#Success criteria\|met all success criteria]]) then this would be a good exercise to complete, if you wish, to show additional mastery of course learning goals.
 
 #### To-do items
 *Before our next class...*
