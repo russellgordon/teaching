@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Databases: Making a To-do List app – Part 4]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4\|Databases: Making a To-do List app – Part 4]]
 	- Learn how to add search functionality to your app.
 	- Apply what you have learned by completing an exercise.
 2. Mid-module Portfolio Reviews
@@ -14,4 +14,4 @@
 	  
 #### To-do items
 *Before our class on Thursday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|part 4 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4#Exercise|related exercise]].
+- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4\|part 4 of the tutorial]] and the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4#Exercise\|related exercise]].
