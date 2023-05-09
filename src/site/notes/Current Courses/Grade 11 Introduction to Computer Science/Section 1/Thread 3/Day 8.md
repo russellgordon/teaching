@@ -8,12 +8,12 @@
 
 1. Working Period: Consolidation & Catch-up
 	- Ensure that you have completed tutorials from recent classes to learn how to connect a database to an iOS app.
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|Making a To-do List App, Part 1]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2|Making a To-do List App, Part 2]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3|Making a To-do List App, Part 3]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4|Making a To-do List App, Part 4]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App\|Making a To-do List App, Part 1]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2\|Making a To-do List App, Part 2]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3\|Making a To-do List App, Part 3]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 4\|Making a To-do List App, Part 4]]
 	- Finish one of these exercises to apply your new understanding:
-		- Write the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Option 1: Mood Mapper|Mood Mapper app]].
+		- Write the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 2#Option 1: Mood Mapper\|Mood Mapper app]].
 		- Modify your end of module 2 app so that it stores its data in a database.
 	- Be sure you have caught up on sharing your progress through posts [on Spaces](https://ca.spacesedu.com/).
 		- In your posts, as always, use subject-specific vocabulary to respond to these prompts:
