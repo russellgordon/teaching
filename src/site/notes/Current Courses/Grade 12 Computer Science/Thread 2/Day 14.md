@@ -22,4 +22,4 @@
 
 *Before our next class...*
 
-- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team| usual process of committing, pushing, and creating a pull request]].
+- [ ] Make progress on your [assigned and open issues for our app](https://github.com/lcs-apps/Chicago-HSE-LCS/issues) and use the [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team\| usual process of committing, pushing, and creating a pull request]].
