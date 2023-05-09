@@ -8,10 +8,10 @@
 1. AP CSP: Diagnostic Exam Follow-up
 	- Please...
 		- [ ] self-grade your results on the diagnostic exam
-		- [ ] be certain to complete the [[Media/Diagnostic Exam Inventory|inventory to identify]] what big ideas you need to focus on most
+		- [ ] be certain to complete the [[Media/Diagnostic Exam Inventory\|inventory to identify]] what big ideas you need to focus on most
 	- Then...
 		- [ ] make a post [on Spaces](https://ca.spacesedu.com/) to share these results.
-2. [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data|Extracting Information From Data]]
+2. [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data\|Extracting Information From Data]]
 	- With software, we can re-organize and summarize vast quantities of data.
 	- Complete this activity to take a deeper dive into this idea, and gain knowlege for AP CSP Big Idea #2.
    
@@ -19,4 +19,4 @@
 
 *Before our class on Saturday...*
 
-- [ ] Please complete [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data|today's activity]].
+- [ ] Please complete [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data\|today's activity]].
