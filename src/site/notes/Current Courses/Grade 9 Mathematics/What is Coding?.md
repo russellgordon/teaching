@@ -3,7 +3,7 @@
 ---
 
 
-← [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding|Purpose of Coding]] →
+← [[Current Courses/Grade 9 Mathematics/Introduction to Coding\|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding\|Purpose of Coding]] →
 
 ---
 
@@ -27,4 +27,4 @@ The programming language you will use today is called [Swift](https://developer.
 
 ---
 
-← [[Current Courses/Grade 9 Mathematics/Introduction to Coding|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding|Purpose of Coding]] →
+← [[Current Courses/Grade 9 Mathematics/Introduction to Coding\|Introduction to Coding]] | [[Current Courses/Grade 9 Mathematics/Purpose of Coding\|Purpose of Coding]] →
