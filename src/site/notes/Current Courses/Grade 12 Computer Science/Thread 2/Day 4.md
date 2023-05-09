@@ -5,7 +5,7 @@
 ### Thread 2, Day 4 - Monday, January 16, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team|Arts @ LCS: Working on Issues in a Team]]
+1. [[Current Courses/Grade 12 Computer Science/Topics/Source Control/Working on Issues in a Team\|Arts @ LCS: Working on Issues in a Team]]
 	- How to use source control correctly when working on an issue.
 2. Introduction to Databases
 	- [What is a database?](https://drive.google.com/file/d/1DJ4miCB2-FOxVWgOzW9zulsLyzieqlFJ/view?usp=share_link)
@@ -13,7 +13,7 @@
 	- [Practicing with SQL](https://drive.google.com/file/d/1ycXGlaMCUlW3SHTClX0m8eratm0rIor_/view?usp=share_link)
 	  
  > [!TIP]
- > As you complete the Practicing with SQL exercises, this [[Media/Employees Database ER Diagram|diagram of the 'employees' database structure]] may be a useful reference.
+ > As you complete the Practicing with SQL exercises, this [[Media/Employees Database ER Diagram\|diagram of the 'employees' database structure]] may be a useful reference.
  
  > [!NOTE]
  > For an optional additional challenge, try [writing queries to answer these questions](https://drive.google.com/file/d/1Z1igWfl8Xk2Jindh1Z0ZHjd9wyHM0u_Z/view?usp=share_link).
