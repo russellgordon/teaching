@@ -6,10 +6,10 @@
 
 #### Agenda
 
-1. End-of-module Task: [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Make an Interactive App|Make an Interactive App]]
+1. End-of-module Task: [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Make an Interactive App\|Make an Interactive App]]
 	- We will start class by discussing ideas that would work for this task.
 	- For the remaining time in this period, continue working on the end-of-module task.
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Continue working on your [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Make an Interactive App|end-of-module task]].
+- [ ] Continue working on your [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Make an Interactive App\|end-of-module task]].
