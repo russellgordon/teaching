@@ -3,4 +3,4 @@
 ---
 
 # Algorithms
-- [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Recursion|Recursion]]
+- [[Current Courses/Grade 12 Computer Science/Topics/Algorithms/Recursion\|Recursion]]
