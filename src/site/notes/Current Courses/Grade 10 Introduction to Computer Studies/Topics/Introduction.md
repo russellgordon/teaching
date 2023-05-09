@@ -3,4 +3,4 @@
 ---
 
 # Spreadsheets
-- [[Current Courses/Grade 10 Introduction to Computer Studies/Topics/Spreadsheets/An Introduction to Spreadsheets|An Introduction to Spreadsheets]]
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Topics/Spreadsheets/An Introduction to Spreadsheets\|An Introduction to Spreadsheets]]
