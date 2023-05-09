@@ -5,9 +5,9 @@
 ### Thread 3, Day 3 - Saturday, April 1, 2023
 #### Agenda
 
-1. [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data|Extracting Information From Data]]
+1. [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data\|Extracting Information From Data]]
 	- By our class on Monday morning, be sure you have completed this task and documented that with multiple screenshots on Spaces.
-	- Have your answers to the [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data#Questions to Consider|assigned questions]] ready for a round-table discussion – we will be using a specific protocol for that conversation.
+	- Have your answers to the [[Current Courses/Grade 12 Computer Science/Tasks/Extracting Information From Data#Questions to Consider\|assigned questions]] ready for a round-table discussion – we will be using a specific protocol for that conversation.
 2. Binary Numbers
 	- Comparing the base 10 and base 2 number systems
 	- How to convert from base 10 (decimal) to base 2 (binary)
