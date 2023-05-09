@@ -6,10 +6,10 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases|Introduction to Databases]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases\|Introduction to Databases]]
 	- What is a database?
 	- How to query a database to obtain useful information
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete as many [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise|questions from today's exercise]] as possible.
+- [ ] Complete as many [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise\|questions from today's exercise]] as possible.
