@@ -6,11 +6,11 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|Databases: Making a To-do List app]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App\|Databases: Making a To-do List app]]
 	- Creating a database to hold to-do items
 		- ==Follow-up==: Here is [the video from class where this is explained](https://youtu.be/q_i5_L0wvSs).
 	- Making the app to work with the database
 	  
 #### To-do items
 *Before our class on Wednesday...*
-- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App|today's tutorial]].
+- [ ] Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App\|today's tutorial]].
