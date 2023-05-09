@@ -6,11 +6,11 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|Extending the Jokes App: Saving Data]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database\|Extending the Jokes App: Saving Data]]
 	- Learn how to extend the **Jokes** app so that a user can save jokes to a database for future reference.
-	- Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|one of the assigned exercises]] to further demonstrate your understanding.
+	- Complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises\|one of the assigned exercises]] to further demonstrate your understanding.
 
 #### To-do items
 *Before our next class...*
-- [ ] At a minimum, complete the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database|lesson]].
-- [ ] Attempt to complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises|at least one of the exercises]].
+- [ ] At a minimum, complete the [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database\|lesson]].
+- [ ] Attempt to complete [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Saving Remotely Loaded Data to a Database#Exercises\|at least one of the exercises]].
