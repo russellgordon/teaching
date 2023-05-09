@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/make-an-interactive-app/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/tasks/make-an-interactive-app/","tags":["ics3u"],"dgHomeLink":false}
 ---
 
 # Make an Interactive App
@@ -7,7 +7,7 @@
 Write an app that accepts input, processes it somehow, and shows output; the app should also make use of an array.
 ## What you'll need to begin
 - [ ] Xcode
-- [ ] a copy of the [ Views and Controls App](https://github.com/lcs-rgordon/ViewsAndControls) that has been [[Media/Cloning Views and Controls Project|cloned to your computer]] for [[Media/Using Views and Controls Project|reference]] while you work on this task
+- [ ] a copy of the [ Views and Controls App](https://github.com/lcs-rgordon/ViewsAndControls) that has been [[Media/Cloning Views and Controls Project\|cloned to your computer]] for [[Media/Using Views and Controls Project\|reference]] while you work on this task
 - [ ] the [SF Symbols App](https://developer.apple.com/sf-symbols/) installed on your computer, also for reference
 - [ ] a copy of [SwiftUI Views Quick Start](https://drive.google.com/file/d/19q9TiI0C3TJW7SGUavhA0sezGZceDNBH/view?usp=share_link) downloaded to your computer, so you can look up examples as needed
 ## Success criteria and exemplar
@@ -45,10 +45,10 @@ Prior to the deadline, [on Spaces](https://ca.spacesedu.com/) :
 
 ## Learning goals
 Successful completion of this task is great evidence for these learning goals:
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#1|1]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#2|2]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#3|3]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#4|4]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#5|5]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#7|7]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#10|10]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#1\|1]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#2\|2]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#3\|3]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#4\|4]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#5\|5]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#7\|7]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Learning Goals#10\|10]]
