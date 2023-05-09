@@ -20,13 +20,13 @@
 	- Please have your black hardcover notebook out while you watch *Programming with Purpose* with the class.
 		- As you watch, write down any quotes that speak to you.
 		- When you are finished watching, summarize a bit – what is *one* takeaway that you have from this video?
-5. Continue working on the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Name Plate|Name Plate]] task.
+5. Continue working on the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Name Plate\|Name Plate]] task.
 	- Here is a [short code excerpt](https://gist.githubusercontent.com/russellgordon/88855e828bf8d44be5dac769f5bfc0a2/raw/dbea4fbe4e97679b754d80f049ff3373bbc557e5/main.swift) that illustrates a few techniques you may find useful.
-		- To try this code out, you could [[Media/Trying Out a Code Example|duplicate your existing playground, then copy and paste in this code]].
-	- Remember, you can [[Media/Stepping Through Your Code|step through your code]] to see what line of code produces what visual result.
+		- To try this code out, you could [[Media/Trying Out a Code Example\|duplicate your existing playground, then copy and paste in this code]].
+	- Remember, you can [[Media/Stepping Through Your Code\|step through your code]] to see what line of code produces what visual result.
 	- Sometimes we encounter a *logical error*, which is when the computer does not do what we intended.
 		- We can ["debug" the problem](https://www.youtube.com/embed/SlN1GmxSXkc) by checking the position of the turtle using the `drawSelf()` command.
-	- You can get nicer colours by [[Media/Using the Colour Well|using the colour well]].
+	- You can get nicer colours by [[Media/Using the Colour Well\|using the colour well]].
 	- Aim to complete the Name Plate task today. 💪🏼
 		- If you are already finished drawing your name, could you enhance it?
 			- Change to bubble letters?
@@ -35,4 +35,4 @@
 	
 #### To-do items
 *Before our next class...*
-- [ ] Complete the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Name Plate|Name Plate]] task.
+- [ ] Complete the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Tasks/Name Plate\|Name Plate]] task.
