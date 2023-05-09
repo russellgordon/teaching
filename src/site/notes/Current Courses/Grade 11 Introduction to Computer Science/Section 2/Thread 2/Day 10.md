@@ -12,7 +12,7 @@
 		- globally within a project
 	- Edit all in scope
 	- ==VIDEO==: Here is the [recording from class on Saturday where features of Xcode that make it easy to refactor code for better readability](https://youtu.be/Jm_DQ-pQDEk) were shared.
-2. [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library|Animations]]
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library\|Animations]]
 	- Learn how to add animations to your apps.
 	  
 #### To-do items
