@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library|Animations]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library\|Animations]]
 	- Learn how to add animations to your apps.
 	  
 #### To-do items
