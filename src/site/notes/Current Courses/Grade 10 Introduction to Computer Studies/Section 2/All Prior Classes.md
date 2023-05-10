@@ -82,7 +82,7 @@
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
 	- Continue working on your culminating task
 	- Be sure to add more information when requested on Spaces...
-	> [!NOTE]
+	> [!IMPORTANT]
 	> 
 	> **Please** read the replies to your posts on Spaces.
 	> 
