@@ -82,19 +82,20 @@
 1. [Continuing the Culminating Task](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
 	- Continue working on your culminating task
 	- Be sure to add more information when requested on Spaces...
-	> [!IMPORTANT]
-	> 
-	> **Please** read the replies to your posts on Spaces.
-	> 
-	> Acknowledge that you've read the reply by using an emoji reaction. 👍🏼
-	> 
-	> **Many students have been asked to provide some additional information** (screenshots, video, further explanation). 📝 
-	> 
-	> If that information is not provided, marks will be needlessly lost on the culminating task. 😩
-	> 
-	> Everyone is capable of earning a Level 4 result on the culminating task. 💪🏼
-	> 
-	> You can do it! 🚀
+
+> [!IMPORTANT]
+> 
+> **Please** read the replies to your posts on Spaces.
+> 
+> Acknowledge that you've read the reply by using an emoji reaction. 👍🏼
+> 
+> **Many students have been asked to provide some additional information** (screenshots, video, further explanation). 📝 
+> 
+> If that information is not provided, marks will be needlessly lost on the culminating task. 😩
+> 
+> Everyone is capable of earning a Level 4 result on the culminating task. 💪🏼
+> 
+> You can do it! 🚀
 
 #### To-do items
 *Before our next class...*
