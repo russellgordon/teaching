@@ -66,7 +66,6 @@ If you have a question, **don't hesitate**, come on by!
 
 
 
-* [LCAT Health Check](https://lcat.lcs.on.ca)
 * [Spaces](https://ca.spacesedu.com/)
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Portfolios and Achievement\|Portfolios and Achievement]]
 * [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/Learning Goals\|Learning Goals]] 
