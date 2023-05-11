@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 9 - Thursday, May 11, 2023\|Day 9 - Thursday, May 11, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 8 - Tuesday, May 9, 2023\|Day 8 - Tuesday, May 9, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 7 - Friday, May 5, 2023\|Day 7 - Friday, May 5, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 4, Day 6 - Thursday, May 4, 2023\|Day 6 - Thursday, May 4, 2023]]
@@ -68,6 +69,41 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022\|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022\|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 1/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022\|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 9 - Thursday, May 11, 2023
+#### Agenda
+
+1. [Continuing the Culminating Task](https://drive.google.com/file/d/1rfwPgUBdPFql629WaOHJWa6-I4iEx76t/view?usp=share_link)
+	- Continue working on your culminating task
+	- Be sure to add more information when requested on Spaces...
+
+> [!IMPORTANT]
+> 
+> **Please** read the replies to your posts on Spaces.
+> 
+> Acknowledge that you've read the reply by using an emoji reaction. 👍🏼
+> 
+> **Many students have been asked to provide some additional information** (screenshots, video, further explanation). 📝 
+> 
+> If that information is not provided, marks will be needlessly lost on the culminating task. 😩
+> 
+> Everyone is capable of earning a Level 4 result on the culminating task. 💪🏼
+> 
+> You can do it! 🚀
+
+#### To-do items
+*Before our next class...*
+
+- [ ] Share your progress for the culminating task [on Spaces](https://ca.spacesedu.com/)
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
