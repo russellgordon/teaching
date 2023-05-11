@@ -57,7 +57,6 @@ If you have a question, **don't hesitate**, come on by!
 
 
 
-- [LCAT Health Check](https://lcat.lcs.on.ca)
 - [Spaces](https://ca.spacesedu.com/)
 - [Portfolios and Achievement](https://www.russellgordon.ca/cs/learning-goals/introduction/)
 - [[Current Courses/Grade 12 Computer Science/Learning Goals\|Learning Goals]]
