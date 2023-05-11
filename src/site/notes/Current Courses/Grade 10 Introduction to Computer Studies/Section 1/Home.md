@@ -74,9 +74,3 @@ If you have a question, **don't hesitate**, come on by!
 * [Ministry of Education Course of Study](https://tinyurl.com/lcscs22-g10-mcs)
 
 </div></div>
-
-## Submitting Playgrounds
-If you want to submit overdue playgrounds from module 2, you can find [[Current Courses/Submitting Recent Playgrounds\|links to the Google Forms here]]. 
-
-> [!IMPORTANT]
-> Please message Mr. Gordon or make a post on Spaces to identify that a playground was uploaded to one of these forms – that way he will know to retrieve your work.
