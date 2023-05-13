@@ -5,29 +5,30 @@
 # Grade 10 Introduction to Computer Studies - Section 1
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-4/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-1/thread-4/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 10 - Friday, May 12, 2023
+### Thread 4, Day 11 - Saturday, May 13, 2023
 #### Agenda
 
-1. [Finishing the Culminating Task](https://drive.google.com/file/d/1rfwPgUBdPFql629WaOHJWa6-I4iEx76t/view?usp=share_link)
-	- Keep up the great work! 💪🏼
-	- Today is the **final in-class working period** for the culminating task
-	- Be sure that all evidence you wish to have considered for the culminating task is in your portfolio by ==11 PM this Saturday evening==
-	- Please post sufficient evidence for each sketch:
-		- an initial post with your plan 
-		- a later post with screenshots or a silent video showing **all** the code inside your custom blocks 
-		- photograph of your plotted design (if you have it, otherwise a screenshot of the finished product)
-		- in your written post, do your best to identify how you made use of iteration, abstraction, and (if applicable) selection
+1. [Culminating Task – Preparing for Your Interview](https://drive.google.com/file/d/1rfwPgUBdPFql629WaOHJWa6-I4iEx76t/view?usp=share_link)
+	- First, please [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSdh3yy8ZAoLLpqM98-apPWhCXDaq9kOsJsG82sMsUKrgr3d7A/viewform).
+		- At a minimum, review the prompts in the slide deck so that you can ask clarifying questions about what information to provide.
+	- If you wish, you may continue working on your code in today's class.
+		- However, be sure you are ready for your interview on Monday.
+	- Be sure that all evidence you wish to have considered for the culminating task is in your portfolio by ==11 PM tonight (Saturday)==.
+
+> [!NOTE]
+> Interview slots will be assigned randomly at the end of today's class.
 
 #### To-do items
 *Before our next class...*
 
 - [ ] Share your progress for the culminating task [on Spaces](https://ca.spacesedu.com/)
-	- ==All posts must be completed by 11 PM on Saturday.==
+	- ==All posts must be completed by 11 PM tonight (Saturday).==
+- [ ] Finish preparing for your end-of-year interview.
 
 
 </div></div>
