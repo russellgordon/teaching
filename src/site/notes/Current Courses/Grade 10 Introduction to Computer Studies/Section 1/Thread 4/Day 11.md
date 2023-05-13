@@ -10,6 +10,7 @@
 		- At a minimum, review the prompts in the slide deck so that you can ask clarifying questions about what information to provide.
 	- If you wish, you may continue working on your code in today's class.
 		- However, be sure you are ready for your interview on Monday.
+		- Here is the [[Media/ICS2O-1 Interview Order\|order of interviews on Monday]]
 	- Be sure that all evidence you wish to have considered for the culminating task is in your portfolio by ==11 PM tonight (Saturday)==.
 
 > [!NOTE]
