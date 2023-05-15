@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 11 - Monday, May 15, 2023\|Day 11 - Monday, May 15, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 10 - Thursday, May 11, 2023\|Day 10 - Thursday, May 11, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 9 - Wednesday, May 10, 2023\|Day 9 - Wednesday, May 10, 2023]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 4, Day 8 - Tuesday, May 9, 2023\|Day 8 - Tuesday, May 9, 2023]]
@@ -70,6 +71,31 @@
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 3 - Tuesday, September 20, 2022\|Day 3 - Tuesday, September 20, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 2 - Monday, September 19, 2022\|Day 2 - Monday, September 19, 2022]]
 - [[Current Courses/Grade 10 Introduction to Computer Studies/Section 2/All Prior Classes#Thread 1, Day 1 - Monday, September 12, 2022\|Day 1 - Monday, September 12, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-4/day-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 11 - Monday, May 15, 2023
+#### Agenda
+
+1. [Culminating Task – Preparing for Your Interview](https://drive.google.com/file/d/1u38zFv5pM8oAZX8ToLfufQNDvfuUKy60/view?usp=share_link)
+	- Please [submit a link to your interview slides](https://docs.google.com/forms/d/e/1FAIpQLSdRyqOoVabKuXk-rA2PfRTIF8evYY6_0wHnO1ZIcL2DNL2xVg/viewform).
+	- Review the prompts in the slide deck
+	- Use this period to complete the slide deck, providing responses to the prompts and preparing for tomorrow's interview
+
+> [!NOTE]
+> Interview slots will be assigned randomly at the end of today's class.
+
+#### To-do items
+*Before tomorrow morning...*
+
+- [ ] Finish preparing for your end-of-year interview.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-10-introduction-to-computer-studies/section-2/thread-4/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
