@@ -61,7 +61,7 @@ While search and other tools are useful, a good reference is *really* useful.
 
 Be certain you've downloaded [SwiftUI Views Quick Start](https://drive.google.com/file/d/19q9TiI0C3TJW7SGUavhA0sezGZceDNBH/view?usp=share_link).
 
-Here is a nice tutorial on how to [display content in a grid](https://sarunw.com/posts/swiftui-grid/).
+Here is a nice tutorial on how to [display content in a fixed grid](https://sarunw.com/posts/swiftui-grid/). Here is a tutorial explaining [how to build a flexible, scrolling grid](https://sarunw.com/posts/swiftui-lazyvgrid-lazyhgrid/).
 
 Here is a [visual reference to the built-in fonts in iOS](http://iosfonts.com/).
 
@@ -71,9 +71,9 @@ Here is the [Views and Controls reference app](https://github.com/lcs-rgordon/Vi
 
 Use [SF Symbols](https://developer.apple.com/sf-symbols/) to access commonly used icons. Here is an article that reviews [how to use SF Symbols and access multi-color symbols](https://www.avanderlee.com/swift/sf-symbols-guide/).
 
-### Exercise
+### Exercises
 
-#### Build a Static Layout
+#### A – Build a Static Layout
 
 Build a static layout and *apply abstraction*.
 
@@ -109,3 +109,9 @@ Select a screen from an app in the list below, or show Mr. Gordon a proposal for
 > For those interested, Mr. Gordon will lead a side-lesson on how to get started using the Apple News app as an example:
 > 
 > ![IMG_2355.jpeg|225](/img/user/Attachments/IMG_2355.jpeg)
+
+#### B – Learn How to Use Charts
+
+If you are up for a challenge, [Swift Charts](https://developer.apple.com/documentation/charts) is a great framework that makes it relatively straightforward to build a variety of dadta visualizations into your app.
+
+Here is a [great introduction to using Swift Charts](https://www.kodeco.com/36025169-swift-charts-tutorial-getting-started); this could be completed and added to your portfolio as evidence under the Knowledge evaluation category.
