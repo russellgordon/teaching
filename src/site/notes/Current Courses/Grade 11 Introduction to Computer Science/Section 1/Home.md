@@ -5,24 +5,24 @@
 # Grade 11 Introduction to Computer Science - Section 1
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-1/thread-3/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-1/thread-4/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 12 - Thursday, April 20, 2023
+### Thread 4, Day 1 - Tuesday, May 23, 2023
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App\|End-of-module Task: Model Data in an App]]
-	- In-class time to complete your end-of-module task.
-	- If you are working with online data sources for your end-of-module task, you are encouraged to read [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving a List of Data From a Remote Endpoint\|at least the start of yesterday's tutorial]] where a detailed description of how to decode more complex JSON-encoded data is provided. 
-2. Individual check-ins
-	- Mr. Gordon will call up each student in turn today for a personal check-in.
-
+1. Runway to the Culminating Task: Day 1 of 3
+	- Remembering why we are here
+	- Jordi Bruin's 2-2-2 method
+	- Notes about final portfolio review prior to the culminating task
+	- Revisiting user interfaces
+	  
 #### To-do items
-*Before Saturday at 11 PM...*
-- [ ] If you are not finished, complete your [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App\|end-of-module task]]. ==Please be sure== you have reviewed the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Model Data in an App#Success criteria\|success criteria]] carefully.
+*Before our next class...*
+- [ ] Complete today's and share your progress on Spaces.
 
 
 </div></div>
