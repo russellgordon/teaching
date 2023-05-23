@@ -73,7 +73,7 @@
 
 #### Agenda
 
-1. Runway to the Culminating Task: Day 1 of 3
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task\|Runway to the Culminating Task: Day 1 of 3]]
 	- Remembering why we are here
 	- Jordi Bruin's 2-2-2 method
 	- Notes about final portfolio review prior to the culminating task
