@@ -109,6 +109,8 @@ Select a screen from an app in the list below, or show Mr. Gordon a proposal for
 > For those interested, Mr. Gordon will lead a side-lesson on how to get started using the Apple News app as an example:
 > 
 > ![IMG_2355.jpeg|225](/img/user/Attachments/IMG_2355.jpeg)
+> 
+> **UPDATE**: Here is a [video of the side session I did with a few students on how to reproduce most of this interface](https://www.youtube.com/embed/2DjyXN8E-yw) in the afternoon class today (Tuesday, May 23, 2023). If you were absent, this might be worthwhile to skim.
 
 #### B – Learn How to Use Charts
 
