@@ -9,7 +9,7 @@
 
 ### Thread 4
 
-[[Current Courses/Grade 11 Introduction to Computer Science/Section 1/All Prior Classes#Thread 4, Day 1 - Tuesday, May 23, 2023\|Day 1 - Tuesday, May 23, 2023]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/All Prior Classes#Thread 4, Day 1 - Tuesday, May 23, 2023\|Day 1 - Tuesday, May 23, 2023]]
 
 ### Thread 3
 
