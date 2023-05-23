@@ -19,9 +19,9 @@ We started the course looking at [how Jordi Bruin devloped Cibo](https://drive.g
 What is the 2-2-2 method? Here is how [Jordi](https://bento.me/jordi) describes it:
 
 > **The basic idea is that I need to be able to make the first version of my idea in under 2 hours.** This version is only meant to be used by me, so it can include hardcoded values, an ugly design, decisions that are sub-optimal etc. The goal of this phase is to test out the idea and determine if it's useful. 
-> 
+>  
 > **The next version should take no more than 2 days to build, and this version is something you can share with friends and other people you trust.** No more hard coded data, it should work for them without issue. There might still be clear instructions that you have to tell them as they use the app. You'll get a lot of feedback on how the app operates, which informs what you need to add / remove before launch.
-> 
+>  
 > **Then you take the next 2 weeks to release the app.** The limited time forces you to keep the app small and focus on your main differentiating features. Remove anything that would make it hard to finish in 2 weeks, because you can add those things back later.
 
 When we start the culminating task at the end of this week, know that you will essentially be following Jordi's 2-2-2 method.
