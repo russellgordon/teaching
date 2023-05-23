@@ -14,7 +14,7 @@ Masako Wakamiya [learned to code at 81 years old](https://www.youtube.com/embed/
 
 ## The 2-2-2 method
 
-We started the course looking at [how Jordi Bruin devloped Cibo](https://drive.google.com/file/d/1RkY9vs3dfZLlB20VlV-_8-hnWoZKyLrU/view?usp=share_link), the visual menu translator app.
+We started the course looking at [how Jordi Bruin developed Cibo](https://drive.google.com/file/d/1RkY9vs3dfZLlB20VlV-_8-hnWoZKyLrU/view?usp=share_link), the visual menu translator app.
 
 What is the 2-2-2 method? Here is how [Jordi](https://bento.me/jordi) describes it:
 
