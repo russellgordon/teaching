@@ -81,7 +81,7 @@
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete today's exercise and share your progress on Spaces.
+- [ ] Complete one or more exercises and share your progress on Spaces.
 
 
 </div></div>
