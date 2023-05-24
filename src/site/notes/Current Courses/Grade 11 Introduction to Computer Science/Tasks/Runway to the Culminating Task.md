@@ -4,7 +4,7 @@
 
 # Runway to the Culminating Task
 
-## Table of Contents 
+## Table of Contents
 
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Why are we here?\|Why are we here?]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#The 2-2-2 method\|The 2-2-2 method]]
@@ -15,6 +15,10 @@
 		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|A – Build a Static Layout]]
 		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|B – Learn How to Use Charts]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Day 2: Interactive Apps]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Recap]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Exercise]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercise\|Extend Math Maven]]
+
 
 ## Why are we here?
 
@@ -154,6 +158,8 @@ Here is a [great introduction to using Swift Charts](https://www.kodeco.com/3602
 
 Here is a [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps\|recap or summary of the big ideas introduced in thread 2]] that is recommended reading before proceeding.
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
 ### Exercise
 
 #### Extend Math Maven
@@ -167,4 +173,7 @@ Fork and clone Math Maven, then complete one or more of the following extensions
 - add [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library\|animations]] that vary depending on whether an answer was correct or not
 - looks for ways to apply abstraction (add more helper views)
 
-Here is [a video where this exercise was introduced](https://www.youtube.com/embed/raGKKZjigk4) to one of the sections of Grade 11 Intro to Computer Science. It may be helpful to understand how to get started.
+> [!TIP]
+> Here is [a video where this exercise was introduced](https://www.youtube.com/embed/raGKKZjigk4) to one of the sections of Grade 11 Intro to Computer Science. It may be helpful to understand how to get started.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
