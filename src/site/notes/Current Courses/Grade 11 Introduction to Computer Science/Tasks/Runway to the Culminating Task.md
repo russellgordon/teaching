@@ -174,6 +174,8 @@ Fork and clone Math Maven, then complete one or more of the following extensions
 - looks for ways to apply abstraction (add more helper views)
 
 > [!TIP]
-> Here is [a video where this exercise was introduced](https://www.youtube.com/embed/raGKKZjigk4) to one of the sections of Grade 11 Intro to Computer Science. It may be helpful to understand how to get started.
+> Here is [a video where this exercise was introduced](https://www.youtube.com/embed/raGKKZjigk4) to one of the sections of Grade 11 Intro to Computer Science.
+> 
+> It may be useful to watch this to understand how to get started.
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
