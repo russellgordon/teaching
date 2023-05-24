@@ -4,6 +4,16 @@
 
 # Thread 1 Recap
 
+## Table of Contents
+
+- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Describing Data]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Variables vs. Constants]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Data Types]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Structures]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Computed properties]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing User Interfaces\|Describing User Interfaces]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing User Interfaces\|SwiftUI]]
+
 ## Describing Data
 
 ### Variables vs. Constants
@@ -21,6 +31,8 @@ Use a constant when the information, once stored, will *never* change while your
 ```swift
 let accelerationDueToGravity = 9.8
 ```
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Thread 1 Recap\|Back to top ⬆]]</small>
 
 ### Data Types
 
@@ -44,6 +56,8 @@ When a variable or constant is created, the data type can be *inferred* or guess
 > 1. What data type would be inferred for the `age` variable declared earlier?
 >    
 > 2. What data type would be inferred for the `accelerationDueToGravity` constant declared earlier?
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Thread 1 Recap\|Back to top ⬆]]</small>
 
 ### Structures
 
@@ -120,6 +134,8 @@ Each instance of the `Dog` data type corresponds to an actual physical dog.
 > 
 > 5. Extend the `Dog` stucture. What additional attributes of a dog might it be useful to keep track of? Add properties to your structure to account for those additional attributes.
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Thread 1 Recap\|Back to top ⬆]]</small>
+
 ### Computed properties
 
 Consider the initial `Dog` structure described earlier:
@@ -177,6 +193,8 @@ Remember, **D.R.Y.** – *don't repeat yourself*.
 > 
 > 7. Write an entirely new structure named `Book`. Think of attributes of a book that it would be useful to keep track of. Then create several instances of the `Book` structure within your playground. TIP: If you consider the needs of a large bookstore, the *dimensions* of a physical book would actually be useful to track. What computed property could you add to your structure to help a large bookstore ensure they would have enough shelf space to hold multiple copies of that book?
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Thread 1 Recap\|Back to top ⬆]]</small>
+
 ## Describing User Interfaces
 
 ### SwiftUI
@@ -202,3 +220,5 @@ You will also find this [visual reference to fonts available within an iOS app](
 > [!QUESTION]
 > 
 > 8. To review how to express layouts using SwiftUI, [complete this exercise to reproduce page layouts](https://drive.google.com/file/d/115TicwDBnw2_fh8voV2w8QAoHkn2tvrh/view?usp=share_link). Be sure to [commit and push](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf) your work regularly.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Thread 1 Recap\|Back to top ⬆]]</small>
