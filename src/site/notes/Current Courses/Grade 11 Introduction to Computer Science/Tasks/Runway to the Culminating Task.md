@@ -6,18 +6,18 @@
 
 ## Table of Contents
 
-- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Why are we here?\|Why are we here?]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#The 2-2-2 method\|The 2-2-2 method]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Final Portfolio Reviews\|Final Portfolio Reviews]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Day 1: User Interfaces]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Resources]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Exercises]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|A – Build a Static Layout]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|B – Learn How to Use Charts]]
-- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Day 2: Interactive Apps]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Recap]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Exercise]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercise\|Extend Math Maven]]
+- [Why are we here?](#why-are-we-here)
+- [The 2-2-2 method](#the-2-2-2-method)
+- [Final Portfolio Reviews](#final-portfolio-reviews)
+- [Day 1: User Interfaces](#day-1-user-interfaces)
+	- [Resources](#resources)
+	- [Exercises](#exercises)
+		- [A – Build a Static Layout](#a-%C2%A0build-a-static-layout)
+		- [B – Learn How to Use Charts](#b-%C2%A0learn-how-to-use-charts)
+- [Day 2: Interactive Apps](#day-2-interactive-apps)
+	- [Recap](#recap)
+	- [Exercise](#exercise)
+		- [Extend Math Maven](#extend-math-maven)
 
 ## Why are we here?
 
