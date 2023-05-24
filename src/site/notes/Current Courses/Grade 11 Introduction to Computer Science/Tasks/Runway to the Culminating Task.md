@@ -4,6 +4,18 @@
 
 # Runway to the Culminating Task
 
+## Table of Contents 
+
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Why are we here?\|Why are we here?]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#The 2-2-2 method\|The 2-2-2 method]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Final Portfolio Reviews\|Final Portfolio Reviews]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Day 1: User Interfaces]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Resources]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 1: User Interfaces\|Exercises]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|A – Build a Static Layout]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercises\|B – Learn How to Use Charts]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Day 2: Interactive Apps]]
+
 ## Why are we here?
 
 Masako Wakamiya [learned to code at 81 years old](https://www.youtube.com/embed/UFYJ2DE9wlM).
@@ -11,6 +23,10 @@ Masako Wakamiya [learned to code at 81 years old](https://www.youtube.com/embed/
 [Personal Voice for iOS](https://www.fastcompany.com/90896931/apple-iphone-personal-voice-als-voice-banking) is coming later this year.
 
 *Why are we here?*
+
+We are here to write apps that help others by solving problems.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
 
 ## The 2-2-2 method
 
@@ -28,18 +44,20 @@ When we start the culminating task at the end of this week, know that you will e
 
 You *can* release an app in a short period of time!
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
 ## Final Portfolio Reviews
 
 Your portfolio will be reviewed by Mr. Gordon at the start of next week, one last time, to set your grade for the "term" or year.
 
 Everything you do between now and ==**Sunday at 11 PM**== should be added to your portfolio to better make the case for your understanding of the big ideas of this course:
 
-- **Module 1: User Interfaces**
+- **Thread 1: User Interfaces**
 	- How do we build interfaces using structures, SwiftUI, and by applying abstraction?
-- **Module 2: Interactive Apps**
+- **Thread 2: Interactive Apps**
 	- How do we take input, perform computations, and produce output?
 	- How can lists help us to do that?
-- **Module 3: Modeling Data**
+- **Thread 3: Modeling Data**
 	- How can we store and retrieve data from a database?
 	- How can we retrieve data from online sources?
 
@@ -53,7 +71,9 @@ You must create a new project for each task.
 
 Use source control – **==commit frequently.==**
 
-## User Interfaces
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
+## Day 1: User Interfaces
 
 ### Resources
 
@@ -61,7 +81,9 @@ While search and other tools are useful, a good reference is *really* useful.
 
 Be certain you've downloaded [SwiftUI Views Quick Start](https://drive.google.com/file/d/19q9TiI0C3TJW7SGUavhA0sezGZceDNBH/view?usp=share_link).
 
-Here is a nice tutorial on how to [display content in a fixed grid](https://sarunw.com/posts/swiftui-grid/). Here is a tutorial explaining [how to build a flexible, scrolling grid](https://sarunw.com/posts/swiftui-lazyvgrid-lazyhgrid/).
+Here is a nice tutorial on how to [display content in a fixed grid](https://sarunw.com/posts/swiftui-grid/). 
+
+Here is a tutorial explaining [how to build a flexible, scrolling grid](https://sarunw.com/posts/swiftui-lazyvgrid-lazyhgrid/).
 
 Here is a [visual reference to the built-in fonts in iOS](http://iosfonts.com/).
 
@@ -70,6 +92,10 @@ Here is a visual reference to [font weights and variations](https://daddycoding.
 Here is the [Views and Controls reference app](https://github.com/lcs-rgordon/ViewsAndControls) that shows you how to the most common user interface elements within an app. 
 
 Use [SF Symbols](https://developer.apple.com/sf-symbols/) to access commonly used icons. Here is an article that reviews [how to use SF Symbols and access multi-color symbols](https://www.avanderlee.com/swift/sf-symbols-guide/).
+
+Finally, you may find the [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures\|overall concept recap for module 1 to be a helpful summary]].
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
 
 ### Exercises
 
@@ -112,8 +138,33 @@ Select a screen from an app in the list below, or show Mr. Gordon a proposal for
 > 
 > **UPDATE**: Here is a [video of the side session I did with a few students on how to reproduce most of this interface](https://www.youtube.com/embed/2DjyXN8E-yw) in the afternoon class today (Tuesday, May 23, 2023). If you were absent, this might be worthwhile to skim.
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
 #### B – Learn How to Use Charts
 
 If you are up for a challenge, [Swift Charts](https://developer.apple.com/documentation/charts) is a great framework that makes it relatively straightforward to build a variety of dadta visualizations into your app.
 
 Here is a [great introduction to using Swift Charts](https://www.kodeco.com/36025169-swift-charts-tutorial-getting-started); this could be completed and added to your portfolio as evidence under the Knowledge evaluation category.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
+## Day 2: Interactive Apps
+
+### Recap
+
+Here is a [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps\|recap or summary of the big ideas introduced in thread 2]] that is recommended reading before proceeding.
+
+### Exercise
+
+#### Extend Math Maven
+
+[Math Maven](https://github.com/lcs-rgordon/MathMaven) is an app that is designed to help elementary school students improve at arithmetic – addition, subtraction, multiplication, and division.
+
+Fork and clone Math Maven, then complete one or more of the following extensions to review concepts from thread 2 of this course:
+
+- complete the Multiplication screen
+- complete the Division screen
+- add [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/AirBnB Lottie Animations Library\|animations]] that vary depending on whether an answer was correct or not
+- looks for ways to apply abstraction (add more helper views)
+
+Here is [a video where this exercise was introduced](https://www.youtube.com/embed/raGKKZjigk4) to one of the sections of Grade 11 Intro to Computer Science. It may be helpful to understand how to get started.
