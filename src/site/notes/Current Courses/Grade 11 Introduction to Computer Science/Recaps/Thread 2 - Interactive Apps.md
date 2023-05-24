@@ -4,15 +4,15 @@
 
 # Thread 2 Recap
 
-## Table of contents
+## Table of Contents
 
-- [Interactive Apps](#Interactive%20Apps)
-	- [Background](#Background)
-	- [SwiftUI and Structures](#SwiftUI%20and%20Structures)
-	- [Property Wrappers](#Property%20Wrappers)
-		- [@State](#@State)
-		- [@Binding](#@Binding)
-		- [Deciding what property wrapper to use](#Deciding%20what%20property%20wrapper%20to%20use)
+- [Interactive Apps](#interactive-apps)
+	- [Background](#background)
+	- [SwiftUI and Structures](#swiftui-and-structures)
+	- [Property Wrappers](#property-wrappers)
+		- [@State](#state)
+		- [@Binding](#binding)
+		- [Deciding what property wrapper to use](#deciding-what-property-wrapper-to-use)
 
 ## Interactive Apps
 
