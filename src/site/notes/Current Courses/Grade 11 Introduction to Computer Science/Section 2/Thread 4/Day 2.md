@@ -6,12 +6,11 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task\|Runway to the Culminating Task: Day 1 of 3]]
-	- Remembering why we are here
-	- Jordi Bruin's 2-2-2 method
-	- Notes about final portfolio review prior to the culminating task
-	- Revisiting user interfaces
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Runway to the Culminating Task: Day 2 of 3]]
+	- Recap of key concepts from Thread 2
+	- Exercise
+		- Extend Math Maven in one of the ways suggested
 	  
 #### To-do items
 *Before our next class...*
-- [ ] Complete one or more exercises and share your progress on Spaces.
+- [ ] Complete the items described above before our next class.
