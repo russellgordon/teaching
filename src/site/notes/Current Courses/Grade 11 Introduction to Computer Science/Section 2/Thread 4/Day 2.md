@@ -1,0 +1,17 @@
+---
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-2/thread-4/day-2/","dgHomeLink":false}
+---
+
+### Thread 4, Day 2 - Wednesday, May 24, 2023
+
+#### Agenda
+
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task\|Runway to the Culminating Task: Day 1 of 3]]
+	- Remembering why we are here
+	- Jordi Bruin's 2-2-2 method
+	- Notes about final portfolio review prior to the culminating task
+	- Revisiting user interfaces
+	  
+#### To-do items
+*Before our next class...*
+- [ ] Complete one or more exercises and share your progress on Spaces.
