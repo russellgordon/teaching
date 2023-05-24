@@ -5,28 +5,26 @@
 # Grade 12 Computer Science
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-3/day-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-1/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 3, Day 12 - Thursday, April 20, 2023
-
+### Thread 4, Day 1 - Wednesday, May 24, 2023
 #### Agenda
 
-1. Module 3 Test
-	- This will be graded and returned to you via Edsby later today.
-
+1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
+	- Review the requirements
+	- Forming groups
+	- Graph theory
+		- What is a directed graph?
+	- Starting to design a narrative
+	
 #### To-do items
 
-None – it's the end of the module.
+*Before our next class...*
 
-Enjoy your Quiet Weekend! 💤
-
-Stay tuned for details about a potential optional study session in advance of the AP CSP exam.
-
-
-
+- [ ] Make progress with analyzing or designing your group's narrative.
 
 </div></div>
 
