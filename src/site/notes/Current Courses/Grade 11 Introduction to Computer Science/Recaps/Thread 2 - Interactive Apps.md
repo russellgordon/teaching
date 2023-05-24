@@ -4,16 +4,15 @@
 
 # Thread 2 Recap
 
-## Table of Contents
+## Table of contents
 
-- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Interactive Apps\|Interactive Apps]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Interactive Apps\|Background]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Interactive Apps\|SwiftUI and Structures]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Interactive Apps\|Property Wrappers]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Property Wrappers\|@State]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Property Wrappers\|@Binding]]
-		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Property Wrappers\|Deciding what property wrapper to use]]
-
+- [Interactive Apps](#Interactive%20Apps)
+	- [Background](#Background)
+	- [SwiftUI and Structures](#SwiftUI%20and%20Structures)
+	- [Property Wrappers](#Property%20Wrappers)
+		- [@State](#@State)
+		- [@Binding](#@Binding)
+		- [Deciding what property wrapper to use](#Deciding%20what%20property%20wrapper%20to%20use)
 
 ## Interactive Apps
 
