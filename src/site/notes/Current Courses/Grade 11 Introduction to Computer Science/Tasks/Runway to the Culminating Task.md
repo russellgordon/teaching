@@ -19,7 +19,6 @@
 	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 2: Interactive Apps\|Exercise]]
 		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercise\|Extend Math Maven]]
 
-
 ## Why are we here?
 
 Masako Wakamiya [learned to code at 81 years old](https://www.youtube.com/embed/UFYJ2DE9wlM).
