@@ -6,13 +6,13 @@
 
 ## Table of Contents
 
-- [Interactive Apps](#interactive-apps)
-	- [Background](#background)
-	- [SwiftUI and Structures](#swiftui-and-structures)
-	- [Property Wrappers](#property-wrappers)
-		- [@State](#state)
-		- [@Binding](#binding)
-		- [Deciding what property wrapper to use](#deciding-what-property-wrapper-to-use)
+- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Interactive Apps\|Interactive Apps]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Background\|Background]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#SwiftUI and Structures\|SwiftUI and Structures]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Property Wrappers\|Property Wrappers]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#@State\|@State]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#@Binding\|@Binding]]
+		- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 2 - Interactive Apps#Deciding what property wrapper to use\|Deciding what property wrapper to use]]
 
 ## Interactive Apps
 
