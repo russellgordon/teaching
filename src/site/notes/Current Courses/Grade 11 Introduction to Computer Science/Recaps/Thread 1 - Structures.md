@@ -4,15 +4,13 @@
 
 # Thread 1 Recap
 
-## Table of Contents
-
-- [Describing Data](#describing-data)
-	- [Variables vs. Constants](#variables-vs-constants)
-	- [Data Types](#data-types)
-	- [Structures](#structures)
-	- [Computed properties](#computed-properties)
-- [Describing User Interfaces](#describing-user-interfaces)
-	- [SwiftUI](#swiftui)
+- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing Data\|Describing Data]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Variables vs. Constants\|Variables vs. Constants]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Data Types\|Data Types]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Structures\|Structures]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Computed properties\|Computed properties]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#Describing User Interfaces\|Describing User Interfaces]]
+	- [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures#SwiftUI\|SwiftUI]]
 
 ## Describing Data
 
