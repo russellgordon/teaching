@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 4, Day 3 - Friday, May 26, 2023\|Day 3 - Friday, May 26, 2023]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 4, Day 2 - Wednesday, May 24, 2023\|Day 2 - Wednesday, May 24, 2023]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 4, Day 1 - Tuesday, May 23, 2023\|Day 1 - Tuesday, May 23, 2023]]
 
@@ -63,6 +64,36 @@
 - [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022\|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 1, Day 2 - Wednesday, October 20, 2022\|Day 2 - Wednesday, October 20, 2022]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/All Prior Classes#Thread 1, Day 1 - Wednesday, October 19, 2022\|Day 1 - Wednesday, October 19, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-2/thread-4/day-3/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 3 - Friday, May 26, 2023
+
+#### Agenda
+
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Vocabulary and Concept Review Extravaganza\|Vocabulary and Concept Review Extravaganza]]
+	- Which group will find the Tim's Card?
+	- Which group will enjoy a some other curiousity found from somewhere inside the Gordon household?
+2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 3: Modeling Data\|Runway to the Culminating Task: Day 3 of 3]]
+	- How to model a more complex JSON object
+	- How to set up a database from scratch
+	> [!NOTE]
+	> Coming no later than very early on Sunday morning.
+	
+#### To-do items
+*Before Sunday at 11 PM...*
+- [ ] Work on completing exercises from the [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task\|runway to the culminating task]] to further polish and improve your portfolio [on Spaces](https://ca.spacesedu.com/).
+	> [!NOTE]
+	> You may also return to prior tasks you worked on this year and improve them, rather than completing [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task\|review exercises]].
+	> 
+	> Any effort that provides further evidence of understanding is acceptable – just be sure that when you post on Spaces, you provide screenshots or short video clips, and make use of source control – commit often and use descriptive messages.
+
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-2/thread-4/day-2/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
