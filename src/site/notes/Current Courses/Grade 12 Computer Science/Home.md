@@ -16,8 +16,8 @@
 1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
 	- Fleshing out CYOA narratives
 		- Aim to complete a large segment of writing
-			- A spreadsheet is a good way to organize your work
-				- Connect the node number / page number to a paragraph of writing
+			- A spreadsheet is required for organizing your work today
+			- Check email for the template provided to your group members
 		- Could also work on illustrations
 	
 #### To-do items
