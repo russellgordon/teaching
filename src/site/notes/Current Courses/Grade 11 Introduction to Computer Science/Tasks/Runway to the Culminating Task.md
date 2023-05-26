@@ -176,3 +176,11 @@ Fork and clone Math Maven, then complete one or more of the following extensions
 > It may be useful to watch this to understand how to get started.
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
+## Day 3: Modeling Data
+
+> [!NOTE]
+> 
+> To allow a collaborative review of vocabulary and concepts to occur in class on Friday / Saturday, a recap of modeling data will be provided no later than very early on Sunday morning.
+> 
+> Return to this space on Sunday morning to find a recap of how to work with databases and retrieve data from remote endpoints, and related exercises.
