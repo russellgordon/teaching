@@ -9,6 +9,7 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 3 - Thursday, May 25, 2023\|Day 3 - Thursday, May 25, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 2 - Thursday, May 25, 2023\|Day 2 - Thursday, May 25, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 1 - Wednesday, May 24, 2023\|Day 1 - Wednesday, May 24, 2023]]
 
