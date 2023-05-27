@@ -16,6 +16,7 @@
 	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Recap\|Recap]]
 	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercise\|Exercise]]
 		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Extend Math Maven\|Extend Math Maven]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 3: Modeling Data\|Day 3: Modeling Data]]
 
 ## Why are we here?
 
@@ -179,8 +180,31 @@ Fork and clone Math Maven, then complete one or more of the following extensions
 
 ## Day 3: Modeling Data
 
-> [!NOTE]
-> 
-> To allow a collaborative review of vocabulary and concepts to occur in class on Friday / Saturday, a recap of modeling data will be provided no later than very early on Sunday morning.
-> 
-> Return to this space on Sunday morning to find a recap of how to work with databases and retrieve data from remote endpoints, and related exercises.
+### Resources
+
+Here is the [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases\|initial introduction to the concept of databases]] and how to query a database to obtain useful information. A [reference sheet for running queries](https://learnsql.com/blog/sql-basics-cheat-sheet/sql-basics-cheat-sheet-letter.pdf) was provided. Here are the [[Current Courses/Grade 11 Introduction to Computer Science/Solutions/Databases\|solutions to the query exercises]] given.
+
+Next, we learned about [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Joining Tables\|joins between database tables]], specifically:
+- why it is useful to be able to join tables
+- what actually happens when tables are joined
+... and [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Joining Tables#Exercise\|improved on some of the queries]] originally written in the initial tutorial.
+
+Finally, a [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases - Consolidation\|consolidation and extension of database concepts]] was provided. You learned more about:
+- what is actually happening when a `SELECT` statement runs
+- how to use aliases to rename columns within a query
+- how to use aggregate functions
+- what a sub-query is and how to use one
+
+### Recap
+
+The [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data\|recap for thread 3]] includes summaries, or mini-tutorials, of:
+
+- how to build an app that reads from and writes to a database
+- how to build an app that reads data in JSON format from a remote endpoint
+
+Reviewing and completing those summaries are optional tasks that may be helpful depending on your areas of interest and need.
+
+If you complete either or both of the summaries, be sure to add evidence to your Spaces portfolio prior to Sunday, May 28 at 11 PM.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
+
