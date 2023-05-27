@@ -5,6 +5,15 @@
 
 # Databases
 
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Relationships\|Relationships]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Database Management Systems\|Database Management Systems]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Structured Query Language\|Structured Query Language]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Required Software\|Required Software]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Example Database\|Example Database]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Opening DB Browser\|Opening DB Browser]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Practicing with SQL\|Practicing with SQL]]
+- [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Exercise\|Exercise]]
+
 There are many ways to store, or *persist*, data within an app.
 
 One way to do this is to use a *database*.
@@ -35,6 +44,8 @@ For example, the `Sales` department has a department ID of `7` and exists on row
 > 
 > A department with an ID of `7` does not have to be the seventh row in the table.
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
+
 ## Relationships
 
 What separates a database from a simple spreadsheet is that tables are connected by relationships.
@@ -46,6 +57,8 @@ For example, here is the overall structure of an example database that describes
 We will explore the concept of relationships between tables in a future class.
 
 For now, the structure of this example database is provided for background.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
 
 ## Database Management Systems
 
@@ -79,6 +92,8 @@ To query a database means to obtain information from it.
 
 In this class, we will work with the [SQLite](https://www.sqlite.org/about.html) DBMS. It is open-source, fast, free to use, and importantly, works great as a way to store data for iOS apps made with Swift and SwiftUI.
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
+
 ## Structured Query Language
 
 DBMS software uses *structured query language*  or SQL to permit data to be obtained from a database.
@@ -86,6 +101,8 @@ DBMS software uses *structured query language*  or SQL to permit data to be obta
 We will practice using SQL together to query the `employees` example database described earlier.
 
 First, we must install some software and obtain the example database.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
 
 ## Required Software
 
@@ -108,6 +125,8 @@ And finally delete the disk image file from your **Downloads** folder:
 
 ![Screenshot 2023-03-28 at 6.39.30 AM.png|450](/img/user/Attachments/Screenshot%202023-03-28%20at%206.39.30%20AM.png)
 
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
+
 ## Example Database
 
 Next, please [download the 'employees' database](https://www.russellgordon.ca/lcs/ics3u/databases/employees.zip).
@@ -123,6 +142,8 @@ Open the **employees** folder.
 You can then drag the `employees.sqlite` file to your **Computer Studies** folder.
 
 ![Screenshot 2023-03-28 at 6.54.42 AM.png|375](/img/user/Attachments/Screenshot%202023-03-28%20at%206.54.42%20AM.png)
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
 
 ## Opening DB Browser
 
@@ -150,6 +171,8 @@ Select the **Execute SQL** tab, and you should see something like this:
 
 > [!TIP]
 > At this point, you can optionally make some recommended configuration changes to DB Browser to [[Current Courses/Grade 11 Introduction to Computer Science/Tutorials/Configuring DB Browser\|change the fonts and colours it uses to display results]].
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
 
 ## Practicing with SQL
 
@@ -179,6 +202,8 @@ ORDER BY dept_name ASC
 You should see this result:
 
 ![Screenshot 2023-03-29 at 6.26.33 AM.png|700](/img/user/Attachments/Screenshot%202023-03-29%20at%206.26.33%20AM.png)
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
 
 ## Exercise
 
@@ -212,3 +237,5 @@ Working with a partner, and [referring to this summary sheet](https://learnsql.c
 16.  Find the maximum and minimum salary paid to all employees.  
 17.  Write a query to display the first name and last name of all employees who have both "b" and "c" in their first name.  Order the results by first name, then by last name.
 18.  Find a list of all the job titles held by employee number 499998. List the job titles in alphabetical order.
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Concepts/Databases#Databases\|Back to top ⬆]]</small>
