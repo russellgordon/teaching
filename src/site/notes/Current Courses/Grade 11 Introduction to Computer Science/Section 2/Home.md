@@ -16,10 +16,10 @@
 
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Vocabulary and Concept Review Extravaganza\|Vocabulary and Concept Review Extravaganza]]
 	- Which group will find the Tim's Card?
-	- Which group will enjoy a some other curiousity found from somewhere inside the Gordon household?
+	- Which group will enjoy some other curiousity found from somewhere inside the Gordon household?
 2. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 3: Modeling Data\|Runway to the Culminating Task: Day 3 of 3]]
-	- How to model a more complex JSON object
 	- How to set up a database from scratch
+	- How to model a more complex JSON object
 	> [!NOTE]
 	> Coming no later than very early on Sunday morning.
 	
