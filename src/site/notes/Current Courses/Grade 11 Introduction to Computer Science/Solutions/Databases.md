@@ -140,3 +140,5 @@
 
 18.  Find a list of all the job titles held by employee number 499998. List the job titles in alphabetical order.
 ![Pasted image 20230329204821.png](/img/user/Attachments/Pasted%20image%2020230329204821.png)
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Solutions/Databases#Databases\|Back to top ⬆]]</small>
