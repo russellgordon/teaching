@@ -99,10 +99,7 @@ Finally, we commit and push our work to this point, with the following message:
 
 	Initialized the database and added it to our Xcode project.
 
-<span style="opacity: 0.0;">.</span>
-
 > [!IMPORTANT]
-> 
 > Be certain that you select the **Model** group and/or the `db.sqlite` file to ensure they are included in the commit.
 > 
 > ![Screenshot 2023-05-27 at 7.17.09 AM.png](/img/user/Attachments/Screenshot%202023-05-27%20at%207.17.09%20AM.png)
@@ -146,7 +143,6 @@ We should commit and push our work at this point:
 	Added example data to the database.
 
 > [!NOTE]
-> 
 > When committing changes, the `db.sqlite` file should be included, but the `db.sqlite-journal` file should *not* be included:
 > 
 > ![Screenshot 2023-05-27 at 7.42.59 AM.png](/img/user/Attachments/Screenshot%202023-05-27%20at%207.42.59%20AM.png)
@@ -235,7 +231,6 @@ Next we modify `MoviesListView` to read from the database, instead of showing th
 ![Screenshot 2023-05-27 at 8.14.17 AM.png](/img/user/Attachments/Screenshot%202023-05-27%20at%208.14.17%20AM.png)
 
 > [!IMPORTANT]
-> 
 > If you wish to see data from the database within the Xcode Previews window (as opposed to running the app through the app entry point, in the full-fledged, separate iOS Simulator) you must be certain to *also* make an instance of the database file available to the Xcode Previews simulator. Take note the code that exists on line 37 in the screenshot above.
 
 This is great progress – the app is now reading from the database – so commit and push your work with this message:
@@ -271,7 +266,6 @@ Commit your work at this point, so it will be easier to see future changes to th
 	Created a user interface that will be used to add a new movie.
 
 > [!NOTE]
-> 
 > [SwiftUI Views Quick Start](https://drive.google.com/file/d/19q9TiI0C3TJW7SGUavhA0sezGZceDNBH/view?usp=share_link) describes picker views on page 192; they are also included in the [Views and Controls](https://github.com/lcs-rgordon/ViewsAndControls) reference app shared earlier this year.
 > 
 > Text field style customizations are described in SwiftUI Views Quick Start beginning on page 232.
