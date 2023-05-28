@@ -82,7 +82,9 @@
 	- How to set up a database from scratch
 	- How to model a more complex JSON object
 	> [!NOTE]
-	> Thread 3 recap is partially complete; will be finished no later than very early on Sunday morning.
+	> ~~Thread 3 recap is partially complete; will be finished no later than very early on Sunday morning.~~
+	> **UDPATE (Sunday, 10:30 AM):** A little later than hoped, but this has now been published.
+
 	
 #### To-do items
 *Before Sunday at 11 PM...*
