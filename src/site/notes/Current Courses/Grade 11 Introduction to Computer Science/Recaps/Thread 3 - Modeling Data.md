@@ -99,6 +99,8 @@ Finally, we commit and push our work to this point, with the following message:
 
 	Initialized the database and added it to our Xcode project.
 
+
+
 > [!IMPORTANT]
 > 
 > Be certain that you select the **Model** group and/or the `db.sqlite` file to ensure they are included in the commit.
