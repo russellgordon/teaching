@@ -48,6 +48,26 @@ body {
 
     }
 
+    div.callout-important {
+
+        .admonition-title::before {
+
+            content: 'Important '
+
+        }
+
+    }
+
+    div.callout-note {
+
+        .admonition-title::before {
+
+            content: 'Note '
+
+        }
+
+    }
+    
     div.callout-discussion {
 
         .admonition-title::before {
