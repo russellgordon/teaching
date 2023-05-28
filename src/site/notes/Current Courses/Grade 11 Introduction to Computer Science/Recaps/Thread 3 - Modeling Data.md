@@ -99,7 +99,7 @@ Finally, we commit and push our work to this point, with the following message:
 
 	Initialized the database and added it to our Xcode project.
 
-
+<span style="opacity: 0.0;">.</span>
 
 > [!IMPORTANT]
 > 
