@@ -457,7 +457,7 @@ The error message tells us exactly what is wrong. Our Swift data structure is de
 
 So, we can fix this by putting the code in the `Song` structure back the way it was – and when we run **Song Finder**, it now works as expected:
 
-![Screenshot 2023-05-28 at 10.15.53 AM.png](/img/user/Attachments/Screenshot%202023-05-28%20at%2010.15.53%20AM.png)
+![Screenshot 2023-05-28 at 10.15.53 AM copy.png](/img/user/Attachments/Screenshot%202023-05-28%20at%2010.15.53%20AM%20copy.png)
 
 This concludes the recap for the third module of the course, on how to model data by using a database or by decoding JSON retrieved from a remote endpoint.
 
