@@ -4,6 +4,8 @@
 
 # Runway to the Culminating Task
 
+## Table of Contents
+
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Why are we here?\|Why are we here?]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#The 2-2-2 method\|The 2-2-2 method]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Final Portfolio Reviews\|Final Portfolio Reviews]]
@@ -194,6 +196,8 @@ Finally, a [[Current Courses/Grade 11 Introduction to Computer Science/Concepts/
 - how to use aliases to rename columns within a query
 - how to use aggregate functions
 - what a sub-query is and how to use one
+
+<small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
 
 ### Recap
 
