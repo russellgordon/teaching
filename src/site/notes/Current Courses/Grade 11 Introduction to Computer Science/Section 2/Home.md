@@ -5,23 +5,23 @@
 # Grade 11 Introduction to Computer Science - Section 2
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-2/thread-4/day-4/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-11-introduction-to-computer-science/section-2/thread-4/day-5/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 4 - Monday, May 29, 2023
+### Thread 4, Day 5 - Tuesday, May 30, 2023
 
 #### Agenda
 
 1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task\|The Culminating Task]]
-	- Understanding the requirements
-	- Deciding on an app to make
-	- Getting started on your paper prototype
+	- Finish the **Thinking** section of the task
+		- Complete both rounds of paper prototyping
+		- Identify the inputs and outputs to your app
 	
 #### To-do items
 *Before our next class...*
-- [ ] Make progress on [the first steps of the culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
+- [ ] Complete [the Thinking portion of the culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
 
 </div></div>
 
