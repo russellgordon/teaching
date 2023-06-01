@@ -10,7 +10,7 @@
 	- If you haven't yet, finish the **Thinking** section of the task
 		- Complete both rounds of paper prototyping
 		- Identify the inputs and outputs to your app
-	- **Then** begin working on code for your 
+	- **Then** begin working on code for your app.
 	
 #### To-do items
 *Before our next class...*
