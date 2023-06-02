@@ -9,6 +9,11 @@ Please carefully review [the formal requirements of the culminating task](https:
 ## Table of Contents
 
 - [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Database Population\|Database Population]]
+- [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Understanding the simulator and the database relationship\|Understanding the simulator and the database relationship]]
+	- [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Two simulators\|Two simulators]]
+	- [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#App bundle vs. app sandbox\|App bundle vs. app sandbox]]
+	- [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Pushing the updated database into the sandbox\|Pushing the updated database into the sandbox]]
+	- [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Updating the database helper code\|Updating the database helper code]]
 
 ## Database Population
 
