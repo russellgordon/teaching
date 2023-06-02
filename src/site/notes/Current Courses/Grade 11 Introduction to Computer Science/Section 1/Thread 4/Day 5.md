@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task\|Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task\|The Culminating Task]]
 	- Finish the **Thinking** section of the task
 		- Complete both rounds of paper prototyping
 		- Identify the inputs and outputs to your app
