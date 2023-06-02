@@ -14,6 +14,8 @@
 #### Agenda
 
 1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
+	- How to update information in the database
+		- For example, how to track basic statistics
 	- Working period to make progress on your group's app
 	> [!NOTE]
 	> If you are working to populate your group's database, see [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Database Population\|these notes documenting the necessary steps]].
