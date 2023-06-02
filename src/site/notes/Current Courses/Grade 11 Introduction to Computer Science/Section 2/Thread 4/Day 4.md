@@ -6,7 +6,7 @@
 
 #### Agenda
 
-1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task\|The Culminating Task]]
+1. [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task\|Current Courses/Grade 11 Introduction to Computer Science/Tasks/The Culminating Task]]
 	- Understanding the requirements
 	- Deciding on an app to make
 	- Getting started on your paper prototype
