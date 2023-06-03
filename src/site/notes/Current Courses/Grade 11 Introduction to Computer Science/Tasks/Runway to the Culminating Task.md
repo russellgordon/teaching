@@ -19,8 +19,6 @@
 	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Exercise\|Exercise]]
 		- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Extend Math Maven\|Extend Math Maven]]
 - [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Day 3: Modeling Data\|Day 3: Modeling Data]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Resources\|Resources]]
-	- [[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Recap\|Recap]]
 
 ## Why are we here?
 
