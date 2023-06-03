@@ -86,7 +86,7 @@
 	- **Then** begin working on code for your app.
 
 > [!TIP]
-> If you are building an app that relies on user entry of data, and you wish let the user categorize that data, you may be interested in learning how to build an extension **Favourite Movies** that looks like this:
+> If you are building an app that relies on user entry of data, and you wish let the user categorize that data, you may be interested in learning how to build an extension to **Favourite Movies**, from [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#1 – Databases\|the thread 3 databases recap]], that looks like this:
 > 
 > ![RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif|200](/img/user/Attachments/RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif)
 > 
