@@ -404,7 +404,7 @@ Commit and push your work with this message:
 And with that, this recap is complete. We have created a minimal app that uses a database to permanently save information and display that information in a list.
 
 > [!TIP]
-> If you are building an app that relies on user entry of data, and you wish let the user categorize that data, you may be interested in learning how to build an extension **Favourite Movies** that looks like this:
+> If you are building an app that relies on user entry of data, and you wish let the user categorize that data, you may be interested in learning how to build an extension to **Favourite Movies** that looks like this:
 > 
 > ![RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif|200](/img/user/Attachments/RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif)
 > 
