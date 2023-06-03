@@ -99,6 +99,8 @@ Use [SF Symbols](https://developer.apple.com/sf-symbols/) to access commonly use
 
 Finally, you may find the [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 1 - Structures\|overall concept recap for module 1 to be a helpful summary]].
 
+If you need to format numbers, dates, and things of that nature, be sure to [consult Gosh Darn Format Style](https://goshdarnformatstyle.com).
+
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Tasks/Runway to the Culminating Task#Runway to the Culminating Task\|Back to top ⬆]]</small>
 
 ### Exercises
