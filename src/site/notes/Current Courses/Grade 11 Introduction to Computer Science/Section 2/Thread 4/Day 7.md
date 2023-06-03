@@ -18,7 +18,7 @@
 > 
 > ![RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif|200](/img/user/Attachments/RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif)
 > 
-> To learn how to do that, please [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data\|review this short tutorial]].
+> To learn how to extend **Favourite Movies** to have that functionality, please [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data\|review this short tutorial]].
 	
 #### To-do items
 *Before our next class...*
