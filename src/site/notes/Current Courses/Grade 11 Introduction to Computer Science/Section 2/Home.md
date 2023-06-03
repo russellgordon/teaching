@@ -20,6 +20,13 @@
 		- Identify the inputs and outputs to your app
 	- **Then** begin working on code for your app.
 	- If you are working on an app where the user categorizes data they are entering, [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data\|this tutorial will be useful]]
+
+> [!TIP]
+> If you are building an app that relies on user entry of data, and you wish let the user categorize that data, you may be interested in learning how to build an extension to **Favourite Movies**, from [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#1 – Databases\|the thread 3 databases recap]] that looks like this:
+> 
+> ![RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif|200](/img/user/Attachments/RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif)
+> 
+> To learn how to do that, please [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data\|review this short tutorial]].
 	
 #### To-do items
 *Before our next class...*
