@@ -4,7 +4,7 @@
 
 # Making a To-do List App (Part 4)
 
-This is part 4 of a tutorial on how to create a to-do list app backed by a database. You [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3\|can access part 3 of the tutorial here]].
+This is part 4 of a tutorial on how to create a to-do list app backed by a database. You [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Making a Todo List App, Part 3\|can access part 3 of the tutorial here]]. 
 
 In this final part of the tutorial, you will learn how to add search to the to-do list.
 
