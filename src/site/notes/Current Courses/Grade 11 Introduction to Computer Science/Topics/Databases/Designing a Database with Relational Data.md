@@ -51,7 +51,7 @@ Read on to find out how to modify **Favourite Movies** so that it's database has
 
 ### Avoiding duplication and inconsistent data
 
-If you are picking up with **Favourite Movies** at the end of the Thread 3 recap of databases, the contents of the `Movie` table in your database will look something like this:
+If you are picking up with **Favourite Movies** at the end of the [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data\|Thread 3 recap of databases]], the contents of the `Movie` table in your database will look something like this:
 
 ![Pasted image 20230603061418.png](/img/user/Attachments/Pasted%20image%2020230603061418.png)
 
@@ -59,7 +59,7 @@ That is less than ideal, as text is duplicated in the `genre`column.
 
 Databases are generally faster at comparing and working with numbers as opposed to text.
 
-Worse than that, since the user has to type the genre name when they enter a new favourite movie, they might make a typo.
+Worse than that, since the user has to type the genre name each time they enter a new favourite movie, they might make a typo.
 
 That could result our our `Movie` table having data like this:
 
@@ -232,7 +232,7 @@ When you are done, be sure to press the **Write Changes** button to save the cha
 
 ![Screenshot 2023-06-03 at 7.29.48 AM.png](/img/user/Attachments/Screenshot%202023-06-03%20at%207.29.48%20AM.png)
 
-We are finished making changes to the database – now all we need to do is update our app's user interface to use the new database scheam.
+We are finished making changes to the database – now all we need to do is update our app's user interface to use the new database schema.
 
 Before continuing, switch over to Xcode, and commit your work with this message:
 
@@ -272,6 +272,9 @@ For example, here `MoviesListView` is being previewed in Xcode Previews:
 ![Screenshot 2023-06-03 at 7.48.46 AM.png](/img/user/Attachments/Screenshot%202023-06-03%20at%207.48.46%20AM.png)
 
 We see the list of movies (without genres showing) and that the old database file was removed. 💫
+
+> [!NOTE]
+> Being able to see debug output when using **Xcode Previews** was a new feature of Xcode 14.3. If you don't see the debug output, but want to – it is useful – then use the [[Software Setup/Xcodes\|Xcodes]] app to update the version of Xcode on your computer.
 
 With that complete, put the comments back in place within `AppDatabase`:
 
@@ -319,25 +322,27 @@ Let's examine that change:
 
 However, we have an error on line 26. 
 
-When reading from a database view, we must tell the `List` structure to use the contents of each row returned from the database as the unique identifier. 
-
-The reason for this will be made clear momentarily. 
+Recall that when a `List` structure iterates over an array, each element within that array must be uniquely identifiable.
 
 Please make this change on line 26, adding `, id: \.self` to the `List` structure:
 
 ![Screenshot 2023-06-03 at 8.20.24 AM.png](/img/user/Attachments/Screenshot%202023-06-03%20at%208.20.24%20AM.png)
 
-Reading from the database view provides a different data type for the `results` array that is contained within the `movies` stored property:
+That tells the`List` structure to use the contents of each row returned from the database to uniquely identify that row.
+
+The reason for why we needed to make that change will be made clear momentarily. 
+
+It is important to note that reading from the database view provides a different data type for the `results` array that is contained within the `movies` stored property:
 
 ![Screenshot 2023-06-03 at 8.19.40 AM.png|500](/img/user/Attachments/Screenshot%202023-06-03%20at%208.19.40%20AM.png)
 
-When reading from the `Movies` table directly, `movies.result` had a data type of `[Movie]`. It was an array of instances of the `Movie` structure.
+When reading from the `Movies` table directly, `movies.results` had a data type of `[Movie]`. It was an array of instances of the `Movie` structure.
 
-When reading from the `MoviesWithGenreNames` database view, `movies.result` has a data type of `[Blackbird.Row]`. It is an array of instances of rows that Blackbird has returned from the view.
+When reading from the `MoviesWithGenreNames` database view, `movies.results` has a data type of `[Blackbird.Row]`. It is an array of instances of rows that Blackbird has returned from the view.
 
 Why the difference?
 
-It's because when reading from a database table directly, we help out Blackbird by telling it *exactly what columns and data types to expect*.
+It's because when reading from a database table directly, we help Blackbird out by telling it *exactly what columns and data types to expect*.
 
 How did we do that?
 
@@ -359,9 +364,7 @@ That is why we still have errors remaining in our code:
 
 ![Screenshot 2023-06-03 at 8.31.11 AM.png](/img/user/Attachments/Screenshot%202023-06-03%20at%208.31.11%20AM.png)
 
-To access the information we want, we need to tell Blackbird what to look for.
-
-Please make these changes to the code – to save time and reduce the potential for syntax errors, you can [copy and paste the modified code from here](https://gist.githubusercontent.com/lcs-rgordon/16ad14a9c835da32d5fb3b6376557cb5/raw/11967979757882499e79fdb97af4495531cd581f/main.swift) – replace the `List` structure in your existing code as shown:
+To fix those errors, please make these changes to the code – to save time and reduce the potential for syntax errors, you can [copy and paste the modified code from here](https://gist.githubusercontent.com/lcs-rgordon/16ad14a9c835da32d5fb3b6376557cb5/raw/11967979757882499e79fdb97af4495531cd581f/main.swift) – replace the `List` structure in your existing code as shown:
 
 ![Screenshot 2023-06-03 at 8.39.01 AM.png](/img/user/Attachments/Screenshot%202023-06-03%20at%208.39.01%20AM.png)
 
@@ -483,7 +486,7 @@ Finally, update the code that defines what options are shown in the picker:
 
 The list of genres is not longer "hard-coded".
 
-Instead, the picker is populated by iterating over the contents of the `Genre` table.
+Instead, the picker is populated by iterating over the rows of data returned from the `Genre` table.
 
 Save your progress with this message:
 
@@ -493,7 +496,7 @@ Save your progress with this message:
 
 ## Exercise
 
-The only thing left to do now is provide the user with a way to add genres.
+The only thing left to do now is provide the user with a way to add new genres.
 
 This is left as an exercise for you to check your understanding. 
 
@@ -502,11 +505,11 @@ As a hint to get started, you should add two new views:
 - `AddGenreView`
 - `GenreListView`
 
-Where you present `GenreListView`, but it could be shown via a tab.
+Where you present `GenreListView` within your app is up to you – but – it could be shown via a tab.
 
-Then, you are essentially following the steps given in the [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#1 – Databases\|earlier recap]], except instead of adding movies to a list, you are adding genres to a list.
+To complete this exercise, you are essentially following the steps given in the [[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#1 – Databases\|earlier recap]], except instead of adding movies to a list, you are adding genres to a list.
 
-When you are all done, the result would look something like this:
+When you are all done, the result might look something like this:
 
 ![RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif|200](/img/user/Attachments/RocketSim_Recording_iPhone_14_Pro_2023-06-03_05.55.41.gif)
 
