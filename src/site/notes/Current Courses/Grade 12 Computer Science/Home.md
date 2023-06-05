@@ -5,21 +5,16 @@
 # Grade 12 Computer Science
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-6/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 6 - Friday, June 2, 2023
+### Thread 4, Day 7 - Monday, June 5, 2023
 #### Agenda
 
 1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
-	- How to update information in the database
-	- For example, how to track statistics during game play
-	> [!TIP]
-	> Here is the video recording of side session where we looked at [how to add statistics tracking to the CYOA template](https://www.youtube.com/embed/Qdir7jp9o-8).
-	> It is not recommended to watch this entire video as it is quite long, but may be useful as a reference to review a particular part of the process.
-	- A useful [tutorial introducing Swift Charts](https://www.kodeco.com/36025169-swift-charts-tutorial-getting-started)
+	- Finishing our look at how to track statistics during game play
 	- Working period to make progress on your group's app
 	> [!NOTE]
 	> If you are working to populate your group's database, see [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Database Population\|these notes documenting the necessary steps]].
