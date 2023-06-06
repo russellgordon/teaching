@@ -27,6 +27,7 @@
 *Before our next class...*
 - [ ] Continue making progress on [the culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
 	- Aim to have your code complete **by the end of day Wednesday**.
-	- Through Grove Time dedicated only to this section of Grade 11 Introduction to Computer Science, you would then supervised time to complete [[Media/Requirement 8\|step 8]] of the [culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
+	- Through Grove Time dedicated only to this section of Grade 11 Introduction to Computer Science, you would then have supervised time to complete [[Media/Requirement 8\|step 8]] of the [culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
 		- Grove Times for this section are:
-			- **Thursday June 8**: 12-30
+			- **Thursday June 8**: 12:30 PM to 2:00 PM
+			- **Friday June 9**: 12:30 PM to 2:00 PM
