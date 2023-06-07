@@ -515,4 +515,22 @@ When you are all done, the result might look something like this:
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data#Table of Contents\|Back to top ⬆]]</small>
 
+## Next steps
 
+Now that you have completed this tutorial, you might be interested in learning how to further extend **Favourite Movies** with some additional functionality based on sorting and *grouping* data in the database and obtaining summary statistics (totals, averages, et cetera) to show the user.
+
+For example:
+
+1. Sorting results.
+   
+   ![RocketSim_Screenshot_iPhone_14_Pro_2023-06-06_09.34.15.png|300](/img/user/Attachments/RocketSim_Screenshot_iPhone_14_Pro_2023-06-06_09.34.15.png)
+   
+2. Grouping results by genre, with summary statistics.
+   
+   ![RocketSim_Screenshot_iPhone_14_2023-06-06_18.31.21.png|300](/img/user/Attachments/RocketSim_Screenshot_iPhone_14_2023-06-06_18.31.21.png)
+   
+3. Adding navigation to view movies within a genre.
+   
+   ![RocketSim_Screenshot_iPhone_14_Pro_2023-06-06_09.02.39.png|650](/img/user/Attachments/RocketSim_Screenshot_iPhone_14_Pro_2023-06-06_09.02.39.png)
+
+If this is of interest, review the tutorial on [[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data\|grouping and sorting data]].
