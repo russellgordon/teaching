@@ -5,30 +5,23 @@
 # Grade 12 Computer Science
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 7 - Monday, June 5, 2023
+### Thread 4, Day 9 - Thursday, June 8, 2023
 #### Agenda
 
 1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
-	- Finishing our look at how to track statistics during game play
-	> [!TIP]
-	> Here is the video recording from this side session where we [finished looking at how to add statistics tracking](https://www.youtube.com/embed/Qdir7jp9o-8) – solving the problem where visits were not tracked on all pages.
-	> No need to watch the entire video, but may be useful as a reference to review a particular part of the process.
-	- Working period to make progress on your group's app
-	> [!NOTE]
-	> If you are working to populate your group's database, see [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Database Population\|these notes documenting the necessary steps]].
-	> 
-	> If you are making regular updates to your group's database structure or the data it contains, [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Understanding the simulator and the database relationship\|see these notes on how to ensure your new database is being used within the iOS simulator]].
-	
+	- Final working period to make progress on your group's culminating task.
+
 #### To-do items
 
 *Before our next class...*
 
 - [ ] Divide work among your group members as needed and make progress on your culminating task.
+  ==**All commits for your group's work must be made by tomorrow – Friday June 9 – at 11 PM.**==
 
 </div></div>
 
