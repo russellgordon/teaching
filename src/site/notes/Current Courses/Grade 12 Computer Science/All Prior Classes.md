@@ -9,6 +9,8 @@
 
 ### Thread 4
 
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 9 - Thursday, June 8, 2023\|Day 9 - Thursday, June 8, 2023]]
+- [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 8 - Wednesday, June 7, 2023\|Day 8 - Wednesday, June 7, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 7 - Monday, June 5, 2023\|Day 7 - Monday, June 5, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 6 - Friday, June 2, 2023\|Day 6 - Friday, June 2, 2023]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 4, Day 5 - Thursday, June 1, 2023\|Day 5 - Thursday, June 1, 2023]]
@@ -69,6 +71,50 @@
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 3 - Friday, October 21, 2022\|Day 3 - Friday, October 21, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 2 - Thursday, October 20, 2022\|Day 2 - Thursday, October 20, 2022]]
 - [[Current Courses/Grade 12 Computer Science/All Prior Classes#Thread 1, Day 1 - Tuesday, October 18, 2022\|Day 1 - Tuesday, October 18, 2022]]
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 9 - Thursday, June 8, 2023
+#### Agenda
+
+1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
+	- Final working period to make progress on your group's culminating task.
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Divide work among your group members as needed and make progress on your culminating task.
+  ==**All commits for your group's work must be made by tomorrow – Friday June 9 – at 11 PM.**==
+
+</div></div>
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-8/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+### Thread 4, Day 8 - Wednesday, June 7, 2023
+#### Agenda
+
+1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
+	- Working period to make progress on your group's culminating task
+	> [!TIP]
+	> The [RetroText Swift package](https://github.com/russellgordon/RetroText) authored by Mr. Gordon *might* be useful for your group.
+	> ![Pasted image 20230608090511.png|200](/img/user/Attachments/Pasted%20image%2020230608090511.png)
+
+#### To-do items
+
+*Before our next class...*
+
+- [ ] Divide work among your group members as needed and make progress on your culminating task.
+
+</div></div>
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-7/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
