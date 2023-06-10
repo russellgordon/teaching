@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/portfolios/initial-portfolio-review/","tags":["ics2o"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/portfolios/initial-portfolio-review/","tags":["ics3u"],"dgHomeLink":false}
 ---
 
 # Initial Portfolio Review
