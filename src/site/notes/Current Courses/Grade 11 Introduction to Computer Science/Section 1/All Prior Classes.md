@@ -93,7 +93,11 @@
 - [ ] Finish steps 1 to 8 of [the culminating task](https://drive.google.com/file/d/1FcuQ33zGVQgGnEi4tEz-kbtQWrdZOgp0/view?usp=share_link).
 
 > [!TIP]
-> Tomorrow, Saturday, there is an optional period for interview prep 12:30 PM and 2:00 PM. You are encouraged to attend to set aside time to prepare for your interview, which occurs on Monday. Please review these notes on how to prepare for the interview.
+> Tomorrow, Saturday, there is an optional period for interview prep 12:30 PM and 2:00 PM. You are encouraged to attend to set aside time to prepare for your interview, which occurs on Monday. 
+> 
+> ==Please== [[Current Courses/Grade 11 Introduction to Computer Science/Section 1/Miscellaneous/Preparing for the End of Year Interview\|review these notes]] on how to prepare for the interview.
+
+
 
 </div></div>
 
