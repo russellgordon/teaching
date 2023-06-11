@@ -62,7 +62,7 @@ My apologies in advance for a long message, but since we may not all be present 
 
 8. If you have a later interview, you cannot arrive later in the morning – you must still arrive by 9:20 AM.
 
-9. Here is the order of interviews.
+9. Here is the [[Media/ICS3U-1 Interview Order 2022-23\|order of interviews]].
    
    If you wish, you can watch [[Media/Randomly Selecting Interview Order - ICS3U-1 - 2022-23\|this 20-second animation showing how I determined the order of presentations]]. As you can see – it was random.
 
