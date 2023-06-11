@@ -12,7 +12,7 @@
 		- One member of your group should make and [submit a silent video](https://docs.google.com/forms/d/e/1FAIpQLSd9VzvXkeUZuZf5B5pesLiSyEtgmBJvc7gTQVHoSz-1PT8xXg/viewform), no longer than 1 minute, that demonstrates your group's app's best features – use the [**Command-R** keyboard shortcut in the iOS simulator](https://developer.apple.com/documentation/xcode/capturing-screenshots-and-videos-from-simulator) to do this
 		  ![Screenshot 2023-06-11 at 10.00.46 AM.png](/img/user/Attachments/Screenshot%202023-06-11%20at%2010.00.46%20AM.png)
 	- End of year interview prep
-		- make a copy of the provided template
+		- make a copy of [the provided template](https://docs.google.com/presentation/d/1s2cOIdcSdpdGBn9mpxPBmNhGdZVwZx6ZaYtzk1ioVf0/copy)
 		- [submit a link to your slides](https://docs.google.com/forms/d/e/1FAIpQLSeI2fj5btve10esQADv1x_pSOfA_mmyirXIkat9064Lx3gJFw/viewform) so that Mr. Gordon can have everyone's slides pre-loaded tomorrow, for the interviews
 		> [!NOTE]
 		> Order of interviews for tomorrow morning will be determined at the end of today's class
