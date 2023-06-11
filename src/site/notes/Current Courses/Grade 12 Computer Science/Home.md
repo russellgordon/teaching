@@ -5,31 +5,31 @@
 # Grade 12 Computer Science
 ## Most Recent Class
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-9/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/current-courses/grade-12-computer-science/thread-4/day-10/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-### Thread 4, Day 9 - Thursday, June 8, 2023
+### Thread 4, Day 10 - Tuesday, June 13, 2023
 #### Agenda
 
 1. [Culminating Task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link)
-	- Final working period to make progress on your group's culminating task.
-	- Please be sure to:
-		- post a photo of your group's paper-based directed graph to the Class space [on Spaces](https://ca.spacesedu.com/)
-		- be sure to collect feedback from peers and document that in the Class space [on Spaces](https://ca.spacesedu.com/)
-		- categorize ending nodes, as discussed in class and illustrated here:
-		  ![Screenshot 2023-06-08 at 9.51.50 AM.png](/img/user/Attachments/Screenshot%202023-06-08%20at%209.51.50%20AM.png)
-		  ![Screenshot 2023-06-08 at 9.51.56 AM.png](/img/user/Attachments/Screenshot%202023-06-08%20at%209.51.56%20AM.png)
-		> [!TIP]
-		> Be sure to [[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#Understanding the simulator and the database relationship\|update your group's database]] in the app sandbox after categorizing your ending nodes.
+	- App demo
+		- In less than five minutes, share the part(s) of your app that your group is most proud of authoring, and take questions from the class.
+	- Video demo submission
+		- One member of your group should make and [submit a silent video](https://docs.google.com/forms/d/e/1FAIpQLSd9VzvXkeUZuZf5B5pesLiSyEtgmBJvc7gTQVHoSz-1PT8xXg/viewform), no longer than 1 minute, that demonstrates your group's app's best features – use the [**Command-R** keyboard shortcut in the iOS simulator](https://developer.apple.com/documentation/xcode/capturing-screenshots-and-videos-from-simulator) to do this
+		  ![Screenshot 2023-06-11 at 10.00.46 AM.png](/img/user/Attachments/Screenshot%202023-06-11%20at%2010.00.46%20AM.png)
+	- End of year interview prep
+		- make a copy of [the provided template](https://docs.google.com/presentation/d/1s2cOIdcSdpdGBn9mpxPBmNhGdZVwZx6ZaYtzk1ioVf0/copy)
+		- [submit a link to your slides](https://docs.google.com/forms/d/e/1FAIpQLSeI2fj5btve10esQADv1x_pSOfA_mmyirXIkat9064Lx3gJFw/viewform) so that Mr. Gordon can have everyone's slides pre-loaded tomorrow, for the interviews
+		> [!NOTE]
+		> Order of interviews for tomorrow morning will be determined at the end of today's class
 
 #### To-do items
 
-*Before our next class...*
+*Before tomorrow morning...*
 
-- [ ] Divide work among your group members as needed and make progress on your culminating task.
-  ==**All commits for your group's work must be made by tomorrow – Friday June 9 – at 11 PM.**==
+- [ ] Finish preparing for your end-of-year interview.
 
 </div></div>
 
