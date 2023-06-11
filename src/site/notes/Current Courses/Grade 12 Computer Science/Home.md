@@ -22,6 +22,8 @@
 	- End of year interview prep
 		- make a copy of [the provided template](https://docs.google.com/presentation/d/1s2cOIdcSdpdGBn9mpxPBmNhGdZVwZx6ZaYtzk1ioVf0/copy)
 		- [submit a link to your slides](https://docs.google.com/forms/d/e/1FAIpQLSeI2fj5btve10esQADv1x_pSOfA_mmyirXIkat9064Lx3gJFw/viewform) so that Mr. Gordon can have everyone's slides pre-loaded tomorrow, for the interviews
+		- here are the [[Current Courses/Grade 12 Computer Science/Miscellaneous/Preparing for the End of Year Interview\|key points to keep in mind]] for interviews 
+		- this puts in writing what Mr. Gordon has told you verbally today in class
 		> [!NOTE]
 		> Order of interviews for tomorrow morning will be determined at the end of today's class
 
