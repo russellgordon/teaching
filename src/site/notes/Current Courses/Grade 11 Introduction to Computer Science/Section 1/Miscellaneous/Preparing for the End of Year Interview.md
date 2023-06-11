@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/miscellaneous/preparing-for-the-end-of-year-interview/","tags":["ics2o"],"dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/section-1/miscellaneous/preparing-for-the-end-of-year-interview/","tags":["ics3u"],"dgHomeLink":false}
 ---
 
 # Preparing for the End of Year Interview
