@@ -12,7 +12,7 @@ My apologies in advance for a long message, but since we may not all be present 
    
    [Interview Slides Template](https://docs.google.com/presentation/d/1qAFP06Eo9HtRPmi3hooNaTk1vjx7jjfDbs2uFpaJGsc/copy)
    
-   Then, please **immediately** share your slide deck with me.
+   Then, please **immediately** [submit a link to your interview slide deck here](https://docs.google.com/forms/d/e/1FAIpQLSeExD2kF0LFNWs4eduxnWk_UsI79FnWC4zzaK-26wqqnwpdug/viewform).
    
    Replace the placeholder images with images from your Spaces portfolio.
    
