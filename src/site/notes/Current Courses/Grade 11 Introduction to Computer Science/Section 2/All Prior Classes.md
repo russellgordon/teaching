@@ -88,8 +88,12 @@
 		- [submit a link to your slides](https://docs.google.com/forms/d/e/1FAIpQLSemOOKRYl9T2lNXfCjxhiQXOuOJlsYRI2eEtEGBDQ4OnQT76w/viewform) so that Mr. Gordon can have everyone's slides pre-loaded tomorrow, for the interviews
 	- here are the [[Current Courses/Grade 11 Introduction to Computer Science/Section 2/Miscellaneous/Preparing for the End of Year Interview\|key points to keep in mind]] for interviews 
 		- this puts in writing what Mr. Gordon has told you verbally today in class
-		> [!NOTE]
-		> Order of interviews for tomorrow morning will be determined at the end of today's class
+		> [!IMPORTANT]
+		> Please arrive to **Upper Hadden Hall** by 9:25 AM on Tuesday morning.
+		> 
+		> Here is the order of interviews:
+		> 
+		> ![Screenshot 2023-06-12 at 3.32.53 PM.png](/img/user/Attachments/Screenshot%202023-06-12%20at%203.32.53%20PM.png)
 #### To-do items
 *Before tomorrow morning...*
 
