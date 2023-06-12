@@ -26,6 +26,9 @@
 
 - [ ] Finish preparing for your end-of-year interview.
 
+> [!NOTE]
+> Your interview panel tomorrow will be composed of myself, as well as Rick Hopper and Sarah Frank from [Starcam](https://apps.apple.com/us/app/starcam/id1109085525).
+
 </div></div>
 
 ## All Prior Classes
