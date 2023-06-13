@@ -17,7 +17,7 @@
 	- App demo
 		- In less than five minutes, share the part(s) of your app that your group is most proud of authoring, and take questions from the class.
 	- Video demo submission
-		- One member of your group should make and [submit a silent video](https://docs.google.com/forms/d/e/1FAIpQLSd9VzvXkeUZuZf5B5pesLiSyEtgmBJvc7gTQVHoSz-1PT8xXg/viewform), no longer than 1 minute, that demonstrates your group's app's best features – use the [**Command-R** keyboard shortcut in the iOS simulator](https://developer.apple.com/documentation/xcode/capturing-screenshots-and-videos-from-simulator) to do this
+		- One member of your group should make and [submit a silent video](https://docs.google.com/forms/d/e/1FAIpQLSd9VzvXkeUZuZf5B5pesLiSyEtgmBJvc7gTQVHoSz-1PT8xXg/viewform), no longer than 1 minute, that demonstrates the functionality of your group's app – use the [**Command-R** keyboard shortcut in the iOS simulator](https://developer.apple.com/documentation/xcode/capturing-screenshots-and-videos-from-simulator) to do this
 		  ![Screenshot 2023-06-11 at 10.00.46 AM.png](/img/user/Attachments/Screenshot%202023-06-11%20at%2010.00.46%20AM.png)
 	- End of year interview prep
 		- make a copy of [the provided template](https://docs.google.com/presentation/d/1s2cOIdcSdpdGBn9mpxPBmNhGdZVwZx6ZaYtzk1ioVf0/copy)
