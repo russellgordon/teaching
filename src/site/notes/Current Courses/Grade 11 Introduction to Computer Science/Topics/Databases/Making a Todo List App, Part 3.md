@@ -132,7 +132,9 @@ If you run the app, you should find that it works identically to how it did befo
 
 Now would be a good time to commit with this message:
 
-	Added ForEach to iterate over results from database table.
+```
+Added ForEach to iterate over results from database table.
+```
 
 ## Add the .onDelete modifier
 
