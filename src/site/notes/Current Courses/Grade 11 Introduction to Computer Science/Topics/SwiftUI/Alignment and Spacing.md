@@ -66,7 +66,9 @@ That forces the `HStack` to be larger, and a result, the `VStack` (green border)
 
 It would be good to [commit and push your work](https://www.russellgordon.ca/cs/source-control/introduction/using-source-control.pdf) at this point – these code changes nicely illustrate how alignment and spacing within stacks are related:
 
-	Fixed inconsistent leading and trailing gaps around photo caption. Changes illustrated by adding borders around Text structures.
+```
+Fixed inconsistent leading and trailing gaps around photo caption. Changes illustrated by adding borders around Text structures.
+```
 
 By commtting and pushing at this point you will have an example that you can refer to in the future if you want to review how this works.
 
@@ -93,4 +95,6 @@ Now, the gaps at the leading and trailing edges of all your pages that use `Phot
 
 Commit and push your work one more time, with this message:
 
-	Added some horizontal padding to the photo caption and credit and removed borders.
+```
+Added some horizontal padding to the photo caption and credit and removed borders.
+```
