@@ -18,7 +18,7 @@ const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
-    formats: ["webp", "jpeg"],
+    formats: ["auto"],
     outputDir: "./dist/img/optimized",
     urlPath: "/img/optimized",
   };
