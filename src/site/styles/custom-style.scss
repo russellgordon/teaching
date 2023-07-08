@@ -90,6 +90,10 @@ body {
         background-position-y: 0px !important;
         cursor: auto !important;
     }
+
+    .markdown-rendered ol {
+        padding-inline-start: 2em;
+    }
     
 }
 
