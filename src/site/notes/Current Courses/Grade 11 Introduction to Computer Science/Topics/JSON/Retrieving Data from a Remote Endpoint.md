@@ -140,7 +140,9 @@ Delete `ContentView` and create a `JokeView` file within a `Views` group:
 
 Commit and push your work with this message:
 
-	Re-organized to add View group.
+```
+Re-organized to add View group.
+```
 
 ### Lay out the static interface
 
@@ -160,7 +162,9 @@ First, let's show the set up for the joke and a navigation title:
 
 Commit and push your work now with this message:
 
-	Added joke setup and nav title.
+```
+Added joke setup and nav title.
+```
 
 > [!TIP]
 > Committing frequently will make it easier to follow along with the tutorial. Don't skip this! 👀
@@ -175,7 +179,9 @@ That gives us the general structure of our user interface.
 
 Commit and push your work with this message:
 
-	Added button placeholder and view to show the punchline.
+```
+Added button placeholder and view to show the punchline.
+```
 
 #### Make button operational
 
@@ -211,7 +217,9 @@ If you then tap the button in the user interface, the punchline appears instantl
 
 Commit your work now with this message:
 
-	Button now works to show the punchline.
+```
+Button now works to show the punchline.
+```
 
 #### Use a subtle animation
 
@@ -241,7 +249,9 @@ As a result, we see the punchline "fade in" from being invisible to becoming vis
 
 Commit and push your work with this message:
 
-	Got the punchline to fade in using an animation.
+```
+Got the punchline to fade in using an animation.
+```
 
 ### Create the model 
 
@@ -268,7 +278,9 @@ This is helpful when converting our static user interface to use our newly creat
 
 Commit and push your work now with this message:
 
-	Added a model to match the structure of the JSON object received from our endpoint.
+```
+Added a model to match the structure of the JSON object received from our endpoint.
+```
 
 ### Make the view use the model
 
@@ -289,7 +301,9 @@ After making the edits and refreshing the preview window by pressing **Option-Co
 
 Commit and push your work now with this message:
 
-	Made the view use the model.
+```
+Made the view use the model.
+```
 
 ### Using the Codable protocol
 
@@ -408,7 +422,9 @@ If instead `currentJoke` contains `nil`, because no joke has yet been loaded, we
 
 Commit and push your work with this message:
 
-	Added a network service helper to load a joke from an endpoint, and displayed it in the user interface.
+```
+Added a network service helper to load a joke from an endpoint, and displayed it in the user interface.
+```
 
 ### Fetch another joke
 
@@ -440,7 +456,9 @@ Let's examine key parts of that code...
 
 Commit and push your work with this message:
 
-	Can now use a button to fetch another joke.
+```
+Can now use a button to fetch another joke.
+```
 
 ## Exercise
 
