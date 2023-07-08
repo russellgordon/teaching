@@ -96,7 +96,7 @@ body {
     }
 
     .markdown-preview-view img, .markdown-rendered img {
-        image-rendering: unset;
+        image-rendering: auto !important;
     }
     
 }
