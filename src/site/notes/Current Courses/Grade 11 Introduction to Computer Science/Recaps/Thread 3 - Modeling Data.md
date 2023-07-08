@@ -124,7 +124,9 @@ Since we know the same information is going to be repeated several times, it mak
 
 We should commit and push our work at this point:
 
-	Created a static layout for the app.
+```
+Created a static layout for the app.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -140,7 +142,9 @@ Back in Xcode, you will note that the `db.sqlite` file now has an `M` beside it,
 
 We should commit and push our work at this point:
 
-	Added example data to the database.
+```
+Added example data to the database.
+```
 
 > [!NOTE]
 > When committing changes, the `db.sqlite` file should be included, but the `db.sqlite-journal` file should *not* be included:
@@ -181,7 +185,9 @@ Into that file, copy and paste [the code found here](https://gist.githubusercont
 
 At this point, commit and push with this message:
 
-	Added the Blackbird package and the boilerplate code needed to copy the database file into our app's sandbox on a device.
+```
+Added the Blackbird package and the boilerplate code needed to copy the database file into our app's sandbox on a device.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -206,7 +212,9 @@ This was added to a new file named `Movie.swift` created within the **Model** gr
 
 Commit and push changes with this message:
 
-	Added a Swift structure to mirror the columns of the `Movie` table in our database.
+```
+Added a Swift structure to mirror the columns of the `Movie` table in our database.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -220,7 +228,9 @@ We must make the following additions to the app entry point file:
 
 Commit and push your work with this message:
 
-	Used the AppDatabase helper code to establish the database connection and make it available within the app.
+```
+Used the AppDatabase helper code to establish the database connection and make it available within the app.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -235,7 +245,9 @@ Next we modify `MoviesListView` to read from the database, instead of showing th
 
 This is great progress – the app is now reading from the database – so commit and push your work with this message:
 
-	Made the list of movies read from the database instead of using a static layout.
+```
+Made the list of movies read from the database instead of using a static layout.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -263,8 +275,9 @@ Create a new view named `AddMovieView` and add the following code to it:
 
 Commit your work at this point, so it will be easier to see future changes to this file. Use this commit message:
 
-	Created a user interface that will be used to add a new movie.
-
+```
+Created a user interface that will be used to add a new movie.
+```
 > [!NOTE]
 > [SwiftUI Views Quick Start](https://drive.google.com/file/d/19q9TiI0C3TJW7SGUavhA0sezGZceDNBH/view?usp=share_link) describes picker views on page 192; they are also included in the [Views and Controls](https://github.com/lcs-rgordon/ViewsAndControls) reference app shared earlier this year.
 > 
@@ -310,7 +323,9 @@ If you then navigate back to `MoviesListView` you should see the newly-added mov
 
 There are more changes to be made, but we should save our progress – commit and push your work with this message:
 
-	Can now add a new movie to the list.
+```
+Can now add a new movie to the list.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -343,7 +358,9 @@ Then verify that the movie shows up in the list:
 
 Commit and push your work with this message:
 
-	Refactored (cleaned up) the code in AddMovieView so that the logic to add a movie is kept in a function.
+```
+Refactored (cleaned up) the code in AddMovieView so that the logic to add a movie is kept in a function.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Recaps/Thread 3 - Modeling Data#Thread 3 Recap\|Back to top ⬆]]</small>
 
@@ -399,7 +416,9 @@ All of that looks like this, in practice:
 
 Commit and push your work with this message:
 
-	Can add a movie from within a sheet.
+```
+Can add a movie from within a sheet.
+```
 
 And with that, this recap is complete. We have created a minimal app that uses a database to permanently save information and display that information in a list.
 
