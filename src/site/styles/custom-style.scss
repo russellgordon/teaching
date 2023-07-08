@@ -94,6 +94,10 @@ body {
     .markdown-rendered ol {
         padding-inline-start: 2em;
     }
+
+    .markdown-preview-view img, .markdown-rendered img {
+        image-rendering: auto;
+    }
     
 }
 
