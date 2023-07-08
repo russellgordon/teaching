@@ -102,5 +102,9 @@ body {
     }
 
     // --callout-title-size: 1.2em;
+
+    code[class*=language-], pre[class*=language-] {
+        text-shadow: none;
+    }
 }
 
