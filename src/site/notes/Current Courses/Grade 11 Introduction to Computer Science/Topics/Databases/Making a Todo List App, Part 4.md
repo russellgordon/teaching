@@ -293,7 +293,7 @@ At this point, although we do not have code that is functional, commit your work
 Use this message when you commit:
 
 ```
-Started to separate ListView and ListItemsView to allow search to work.
+Started to separate ListView and ListItemsView to allow search to work...
 ```
 
 Now import the Blackbird framework and then add a stored property to pull a reference to the database from the environment, like this – note the blue bars at right where code was added:
