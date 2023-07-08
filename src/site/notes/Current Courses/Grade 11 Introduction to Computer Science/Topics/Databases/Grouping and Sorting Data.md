@@ -45,7 +45,9 @@ To eliminate potential for problems when deleting the database from the app sand
 
 To see the next edits more easily it will help to commit at this point. Do so with the message:
 
-	Uncommented block of code in database helper file.
+```
+Uncommented block of code in database helper file.
+```
 
 Next, add `do-catch` blocks around the `try` statements that delete old database files. In this way, if an error occurs, the app will report the error, rather than crashing:
 
@@ -59,7 +61,9 @@ Finally, comment out the block of code again:
 
 Commit your work with this message:
 
-	Improved error handling in database helper code.
+```
+Improved error handling in database helper code.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
@@ -89,7 +93,9 @@ Then preview the list of movies, and you should see the following:
 
 Commit your work with this message:
 
-	Added more example data to the database.
+```
+Added more example data to the database.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
@@ -147,7 +153,9 @@ Now movies are more easily found within their genre. For example, **Amadeus** is
 
 This is great progress, so commit with this message:
 
-	Movies are now sorted by genre and then by name in alphabetical order.
+```
+Movies are now sorted by genre and then by name in alphabetical order.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
@@ -267,7 +275,9 @@ Finally, be sure to press the **Write Changes** button:
 
 This is great progress, so return to **Xcode**, and commit and push your work with this message:
 
-	Added new view, 'GenresWithStatistics', to summarize information for movies within each genre.
+```
+Added new view, 'GenresWithStatistics', to summarize information for movies within each genre.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
@@ -309,7 +319,9 @@ You can press the **Done** button to dismiss the **Find and Replace** interface,
 
 To make the following edits easier to see, please commit your work now with this message:
 
-	Duplicated the MoviesListView code into a new view named MoviesGroupedByGenreListView.
+```
+Duplicated the MoviesListView code into a new view named MoviesGroupedByGenreListView.
+```
 
 Now replace the existing `List` structure with the following new code, highlighted in blue:
 
@@ -317,7 +329,9 @@ Now replace the existing `List` structure with the following new code, highlight
 
 Again, to make further edits easier to see, please commit now with this message:
 
-	Replaced list drawing from database with a static list.
+```
+Replaced list drawing from database with a static list.
+```
 
 We now have a simple list of items: **A**, **B**, and **C**.
 
@@ -336,7 +350,9 @@ We can alter the appearance of the list using the `.listStyle` view modifier, as
 
 Please commit your work now with this message:
 
-	Static list items are now grouped into two sections.
+```
+Static list items are now grouped into two sections.
+```
 
 We will now modify the page to draw sections – genres – from the database.
 
@@ -356,7 +372,9 @@ Remember, this is the data the `GenresWithStatistics` database view generates:
 
 This is great progress, so commit your work with this message:
 
-	Now drawing genres from the database to create sections with the list.
+```
+Now drawing genres from the database to create sections with the list.
+```
 
 At this point, hopefully you see how sections work within a list. We can remove the static sections:
 
@@ -370,7 +388,9 @@ Please make the following edit – we are unwrapping more values from the inform
 
 Really great progress here, so, please commit and push your work with this message:
 
-	Now showing statistics for each genre in the header for each section within the group, pulled from the `GenresWithStatistics` database view.
+```
+Now showing statistics for each genre in the header for each section within the group, pulled from the `GenresWithStatistics` database view.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
@@ -418,7 +438,9 @@ We can work around this by adding an *initializer* function – the same techniq
 
 Even though we currently have an error, to better see the next few edits, please commit with this message:
 
-	Attempting to limit movies shown to those that match the provided genre ID.
+```
+Attempting to limit movies shown to those that match the provided genre ID.
+```
 
 Instead of directly defining the stored property named `movies` we will only tell Swift to expect that property to be populated with a set of rows that Blackbird will return from the database – please make these edits:
 
@@ -448,7 +470,9 @@ Notice, importantly, that in the preview window, we now only see movies for the 
 
 Commit your work with the message:
 
-	Made MoviesListView only show movies for a specific genre by using a custom initializer.
+```
+Made MoviesListView only show movies for a specific genre by using a custom initializer.
+```
 
 Now, all we need to do is use this new view within the grouped list on `MoviesGroupedByGenreListView`:
 
@@ -582,7 +606,9 @@ To summarize what is now happening:
 
 Please commit and push your work now with this message:
 
-	Now showing movies within each genre!
+```
+Now showing movies within each genre!
+```
 
 One last improvement. This was our original goal:
 
@@ -646,7 +672,9 @@ And you should see a result that matches our original goal:
 
 Commit your work with this message:
 
-	Adjusted the helper view that shows an individual movie so that it does not list the genre.
+```
+Adjusted the helper view that shows an individual movie so that it does not list the genre.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Grouping and Sorting Data#Grouping and Sorting Data\|Back to top ⬆]]</small>
 
