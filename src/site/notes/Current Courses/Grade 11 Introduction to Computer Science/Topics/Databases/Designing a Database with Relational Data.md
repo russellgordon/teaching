@@ -236,7 +236,9 @@ We are finished making changes to the database – now all we need to do is upda
 
 Before continuing, switch over to Xcode, and commit your work with this message:
 
-	Modified database schema to allow user to define custom genres that are used to categorize movies. Created a view to join Movie and Genre tables and show genre names.
+```
+Modified database schema to allow user to define custom genres that are used to categorize movies. Created a view to join Movie and Genre tables and show genre names.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data#Table of Contents\|Back to top ⬆]]</small>
 
@@ -380,7 +382,9 @@ Again, that is required since Blackbird doesn't have a model – a Swift structu
 
 This is solid progress, so please commit and push your work now with this message:
 
-	Updated Swift view that shows the list of movies to read from the database view MoviesWithGenreNames rather that directly from the Movie database table.
+```
+Updated Swift view that shows the list of movies to read from the database view MoviesWithGenreNames rather that directly from the Movie database table.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data#Table of Contents\|Back to top ⬆]]</small>
 
@@ -462,7 +466,9 @@ In turn, the correct number is written to the database table for the selected ge
 
 We are not quite done, but this is good progress, so commit and push your work with this message:
 
-	Got the interface to add movies to use a picker rather than a text field.
+```
+Got the interface to add movies to use a picker rather than a text field.
+```
 
 <small>[[Current Courses/Grade 11 Introduction to Computer Science/Topics/Databases/Designing a Database with Relational Data#Table of Contents\|Back to top ⬆]]</small>
 
