@@ -91,7 +91,7 @@ body {
         cursor: auto !important;
     }
 
-    .markdown-rendered ul, .markdown-rendered ol, .markdown-preview-view ul, .markdown-preview-view ol {
+    ul.markdown-rendered, ol.markdown-rendered, ul.markdown-preview-view, ol.markdown-preview-view {
         padding-inline-start: 2em !important;
     }
 
