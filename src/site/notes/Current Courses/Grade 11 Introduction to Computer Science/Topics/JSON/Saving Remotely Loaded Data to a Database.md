@@ -83,7 +83,9 @@ Now, commit and push your work – be certain that you enable the checkmark so 
 
 Use this commit message:
 
-	Created the database and added to the project.
+```
+Created the database and added to the project.
+```
 
 ## Add some example data
 
@@ -141,7 +143,9 @@ Be sure to press the **Write Changes** button again to save the change to the `d
 
 Commit and push your work with this message:
 
-	Added an example joke to the database.
+```
+Added an example joke to the database.
+```
 
 ## Add the helper code
 
@@ -163,7 +167,9 @@ When this step is finished, your project should look like this:
 
 Commit and push your work with this message:
 
-	Added the helper code that copies the database into the app's sandbox when the app is run.
+```
+Added the helper code that copies the database into the app's sandbox when the app is run.
+```
 
 ## Add code to establish connection to database
 
@@ -181,7 +187,9 @@ Make this addition now:
 
 Commit and push your work with this message:
 
-	Invoking helper code that copies the database into the app's sandbox and establishes a connection to the database.
+```
+Invoking helper code that copies the database into the app's sandbox and establishes a connection to the database.
+```
 
 ## Adjust the model
 
@@ -200,7 +208,9 @@ Next, change the definition of the `Joke` structure so that it serves as a model
 
 Commit and push your work with this message:
 
-	Adjusted the model so that a joke can be read from or written to the database.
+```
+Adjusted the model so that a joke can be read from or written to the database.
+```
 
 ## Read saved jokes from the database
 
@@ -214,7 +224,9 @@ Add a new file named `FavouritesView` as part of the **Views** group in your pro
 
 We have more work to do in this file, but it will be easier to see changes if we commit and push now, so please do so with this message:
 
-	Started to add view to see the list of saved / favourite jokes.
+```
+Started to add view to see the list of saved / favourite jokes.
+```
 
 We'll want to preview the appearance of *just this new file* at first, without running the entire app, so... we should immediately add the following code to the preview structure, so that the database can be accessed:
 
@@ -245,7 +257,9 @@ The `List` structure iterates over `favouriteJokes.results`, placing each row fo
 
 Commit and push your work now with this message:
 
-	Now reading contents of Joke table and displaying all rows found in a list.
+```
+Now reading contents of Joke table and displaying all rows found in a list.
+```
 
 Finally, we will want a title on this page, so let's add a `NavigationView` around the `List` – old code is in grey, new code is in blue:
 
@@ -257,7 +271,9 @@ Then, add a navigation title, attached to the `List` view:
 
 Commit and push your work one more time with this message:
 
-	Added a title to the Favourites view.
+```
+Added a title to the Favourites view.
+```
 
 ## Add the ability to save a joke
 
@@ -305,7 +321,9 @@ If you then press the **Save for later** button in the Xcode Previews window, an
 
 This is good progress, so commit and push your work with this message:
 
-	Can now save a favourite joke to the list of favourites.
+```
+Can now save a favourite joke to the list of favourites.
+```
 
 However, the user experience is not quite as good as it could be. Change back to the `JokeView` file:
 
@@ -337,7 +355,9 @@ Now it's easier to tell one button from the next. 👍🏼
 
 Commit and push your work with this message:
 
-	Ensured joke can only be saved after showing punchline; made button easier to distinguish from existing button.
+```
+Ensured joke can only be saved after showing punchline; made button easier to distinguish from existing button.
+```
 
 ## Add a tab bar
 
@@ -367,7 +387,9 @@ That is because there is a different sandbox, or location, for the database used
 
 You've made good progress, so please commit and push your work with this message:
 
-	Added initial support for switching between views using a tab bar.
+```
+Added initial support for switching between views using a tab bar.
+```
 
 ## Fixing a minor issue
 
@@ -393,7 +415,9 @@ We know that it is only when the view is shown for the first time that there wil
 
 Commit and push your work with this message:
 
-	Made it so that a new joke is loaded automatically only when the app is first launched.
+```
+Made it so that a new joke is loaded automatically only when the app is first launched.
+```
 
 ## Fixing a second minor issue
 
@@ -457,7 +481,9 @@ Then, when a new joke is retrieved *and* we've shown the punchline the **Save fo
 
 Commit and push your work with this message:
 
-	Made it impossible to save a joke more than once. Ensured that we can save a new joke once it is has been loaded.
+```
+Made it impossible to save a joke more than once. Ensured that we can save a new joke once it is has been loaded.
+```
 
 ## Title edits
 
@@ -473,7 +499,9 @@ Then, on `FavouritesView`:
 
 Commit and push your work with this message:
 
-	Updated navigation titles for each view.
+```
+Updated navigation titles for each view.
+```
 
 ## Summary
 
