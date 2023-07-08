@@ -98,6 +98,9 @@ body {
     .community-item-screenshot, .markdown-preview-view img, .markdown-rendered img {
         image-rendering: auto !important;
     }
-    
+
+    .callout-title-inner {
+        --callout-title-size: 1.5em;
+    }
 }
 
