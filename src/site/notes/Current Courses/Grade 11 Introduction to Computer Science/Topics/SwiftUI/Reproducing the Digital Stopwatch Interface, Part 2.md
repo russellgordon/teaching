@@ -142,8 +142,9 @@ Well done!
 
 Commit and push your work with this message:
 
-	Created and used new color sets to match buttons to our goal.
-
+```
+Created and used new color sets to match buttons to our goal.
+```
 ## Adding the Tab Bar
 
 The next section we'll tackle is adding the tabs at the bottom of the interface:
@@ -232,7 +233,9 @@ id1 --> id6["Timer\n(.tabItem)"]
 
 Now, despite some issues to fix with colors, we've made significant progress, so please commit and push your work with this message:
 
-	Added a tab bar to the preview window for ContentView.
+```
+Added a tab bar to the preview window for ContentView.
+```
 
 Before we continue, you might be wondering about the `Image` structures that accept a `String` for the `systemName` parameter, like this:
 
@@ -277,7 +280,9 @@ Now, the preview window shows each screen in **Dark** mode, and the SwiftUI fram
 
 Although these edits are small, they are worth saving, so commit and push your work now with this message:
 
-	Made interface show in Dark mode at all times and changed accent color for active tab item.
+```
+Made interface show in Dark mode at all times and changed accent color for active tab item.
+```
 
 Finally, you may have noticed that the preview window always defaults to showing the first tab item.
 
@@ -301,7 +306,9 @@ To recap:
 
 Let's not lose this progress, so please commit and push your work with this message:
 
-	Made the selected tab item default to the Stopwatch.
+```
+Made the selected tab item default to the Stopwatch.
+```
 
 > [!TIP]
 > Now continue with [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Reproducing the Digital Stopwatch Interface, Part 3\|part 3 of this lesson]].
