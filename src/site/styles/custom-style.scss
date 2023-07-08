@@ -68,7 +68,7 @@ body {
     */
 
     .internal-embed, .markdown-embed {
-        border-left: none;
+        border-left: none !important;
     }
 
     div.transclusion .markdown-embed-link {
