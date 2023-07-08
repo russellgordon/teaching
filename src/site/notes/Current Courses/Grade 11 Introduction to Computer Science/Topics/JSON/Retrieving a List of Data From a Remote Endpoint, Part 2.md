@@ -97,7 +97,9 @@ If you then return to `SearchView` you will note that we now see results for the
 
 Commit and push your work with this message:
 
-	Made the `fetch` function accept a song name to search for.
+```
+Made the `fetch` function accept a song name to search for.
+```
 
 ### Allow the user to provide a search term
 
@@ -135,7 +137,9 @@ While we are not quite done, we've made a lot of edits.
 
 So, please commit and push your work now with this message:
 
-	Nearly finished adding a search bar; interface is there but search not yet functional.
+```
+Nearly finished adding a search bar; interface is there but search not yet functional.
+```
 
 You may have noticed that if you type something into the search bar, the results do not update.
 
@@ -179,7 +183,9 @@ At this point, if you try typing something in the search bar, you should see res
 
 Commit and push your work with this message:
 
-	Search works! We now get song name results from the Apple Music endpoint. 🎉
+```
+Search works! We now get song name results from the Apple Music endpoint. 🎉
+```
 
 
 > [!NOTE]
@@ -264,7 +270,9 @@ This is simply a wrapper around `AsyncImage` which is a structure provided by Ap
 
 Commit and push your work with this message:
 
-	Added helper code to play audio files and display images from online sources.
+```
+Added helper code to play audio files and display images from online sources.
+```
 
 ### Add an example song
 
@@ -346,7 +354,9 @@ You should now be able to open the app in the full simulator, or load it on your
 
 Commit and push your work with this message:
 
-	Added navigation to the detail view.
+```
+Added navigation to the detail view.
+```
 
 Terrific work! 🎉
 
