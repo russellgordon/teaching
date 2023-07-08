@@ -70,6 +70,10 @@ body {
     .markdown-embed {
         border-left: none;
     }
+
+    div.transclusion .markdown-embed-link {
+        display: none;
+    }
     
 }
 
