@@ -18,7 +18,7 @@ const Image = require("@11ty/eleventy-img");
 function transformImage(src, cls, alt, sizes, widths = ["500", "700", "auto"]) {
   let options = {
     widths: widths,
-    formats: ["png"],
+    formats: ["webp", "jpeg"],
     outputDir: "./dist/img/optimized",
     urlPath: "/img/optimized",
   };
@@ -382,7 +382,7 @@ module.exports = function (eleventyConfig) {
     const parsed = parse(str);
     for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
       const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg")) {
+      if (src && src.startsWith("/") && !src.endsWith(".svg") && !src.endsWith(".png") && !src.endsWith(".gif")) {
         const cls = imageTag.classList.value;
         const alt = imageTag.getAttribute("alt");
         const width = imageTag.getAttribute("width") || '';
