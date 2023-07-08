@@ -92,7 +92,7 @@ body {
     }
 
     .markdown-rendered ul, .markdown-rendered ol, .markdown-preview-view ul, .markdown-preview-view ol {
-        padding-inline-start: 2em;
+        padding-inline-start: 2em !important;
     }
 
     .community-item-screenshot, .markdown-preview-view img, .markdown-rendered img {
