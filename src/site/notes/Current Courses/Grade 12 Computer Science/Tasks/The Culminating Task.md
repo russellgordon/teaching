@@ -4,7 +4,7 @@
 
 # The Culminating Task
 
-Please carefully review [the formal requirements of the culminating task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link). As your group completes the task, be sure that requirements are being met.
+Please carefully review [the formal requirements of the culminating task](https://drive.google.com/file/d/1GwghXQoAbWKPtktJqnWASLAaNNkgSr4l/view?usp=share_link). As your group completes the task, be sure that requirements are being met. 
 
 ## Table of Contents
 
@@ -214,6 +214,6 @@ However, if having your **Xcode Previews** window crash due to this error is bot
 
 ![Screenshot 2023-06-02 at 7.01.41 AM.png|700](/img/user/Attachments/Screenshot%202023-06-02%20at%207.01.41%20AM.png)
 
-With these edits, the file deletion operations are wrapped inside `do-catch` blocks, and any resulting errors are printed to the console. This will ensure that Xcode Previews does not crash when trying to delete a file that has already been deleted.
+With these edits, the file deletion operations are wrapped inside `do-catch` blocks, and any resulting errors are printed to the console. This will ensure that Xcode Previews does not crash when trying to delete a file that has already been deleted. 💪🏼
 
 <small>[[Current Courses/Grade 12 Computer Science/Tasks/The Culminating Task#The Culminating Task\|Back to top ⬆]]</small>
