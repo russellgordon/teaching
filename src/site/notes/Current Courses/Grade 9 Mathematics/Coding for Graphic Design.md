@@ -7,7 +7,7 @@
 
 --- 
 
-# Coding for Graphic Design
+# Coding for Graphic Design 
 
 We can create posters with eye-catching designs by combining:
 
