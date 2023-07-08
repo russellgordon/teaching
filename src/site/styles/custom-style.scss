@@ -75,11 +75,9 @@ body {
         display: none;
     }
 
-    * {
-        --accent-h: 211;
-        --accent-s: 100%;
-        --accent-l: 50%;   
-    }
+    --accent-h: 211;
+    --accent-s: 100%;
+    --accent-l: 50%;   
 
     div.transclusion {
         padding: 0px;
