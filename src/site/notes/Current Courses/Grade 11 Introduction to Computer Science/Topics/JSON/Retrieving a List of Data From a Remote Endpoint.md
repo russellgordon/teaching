@@ -58,7 +58,9 @@ Your project should look like this:
 
 Commit and push your work with this message:
 
-	Created project and completed initial organization of views.
+```
+Created project and completed initial organization of views.
+```
 
 ## Create the model
 
@@ -129,7 +131,9 @@ When we decode the JSON from the endpoint, we will decode into the `SearchResult
 
 Commit and push your work with this message:
 
-	Created a model to match the response from the endpoint.
+```
+Created a model to match the response from the endpoint.
+```
 
 ## Create a search view
 
@@ -139,7 +143,9 @@ Make a new SwiftUI view named `SearchView` in the **Views** group:
 
 To make upcoming edits easier to see, immediately commit and push your work with this message:
 
-	Starting to create search view.
+```
+Starting to create search view.
+```
 
 Add a stored property that will hold songs returned by the search:
 
@@ -160,7 +166,9 @@ Let's examine some key parts of that code.
 
 Commit and push your work with this message:
 
-	Created a scrollable list to display found songs.
+```
+Created a scrollable list to display found songs.
+```
 
 ## Obtain the search results
 
@@ -243,7 +251,9 @@ We return an empty array, rather than a `nil`.
 
 Before continuing, commit and push your work with this message:
 
-	Added the `fetch` function as part of the NetworkService structure to go out and get the data from the endpoint.
+```
+Added the "fetch" function as part of the NetworkService structure to go out and get the data from the endpoint.
+```
 
 ## Use the search results
 
@@ -286,7 +296,9 @@ We can fix this by changing the alignment of all views in the `VStack` to be ali
 
 Remove the purple border (line 33) and then commit and push your work with this message:
 
-	Showing search results from the endpoint based on search term "anti-hero".
+```
+Showing search results from the endpoint based on search term "anti-hero".
+```
 
 ### Handling duplicate results
 
@@ -318,7 +330,9 @@ Then, we can make use of the new property in our view. Make this edit as well:
 
 Commit and push your work with this message:
 
-	Now showing album name to help user make sense of what would otherwise appear to be duplicate results.
+```
+Now showing album name to help user make sense of what would otherwise appear to be duplicate results.
+```
 
 > [!TIP]
 > Now continue with [[Current Courses/Grade 11 Introduction to Computer Science/Topics/JSON/Retrieving a List of Data From a Remote Endpoint, Part 2\|part 2 of this tutorial]].
