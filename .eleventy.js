@@ -376,35 +376,6 @@ module.exports = function (eleventyConfig) {
       />`;
       imageTag.innerHTML = html;
     }
-    
-
-  eleventyConfig.addTransform("picture", function (str) {
-    const parsed = parse(str);
-    for (const imageTag of parsed.querySelectorAll(".cm-s-obsidian img")) {
-      const src = imageTag.getAttribute("src");
-      if (src && src.startsWith("/") && !src.endsWith(".svg") && !src.endsWith(".png") && !src.endsWith(".gif")) {
-        const cls = imageTag.classList.value;
-        const alt = imageTag.getAttribute("alt");
-        const width = imageTag.getAttribute("width") || '';
-
-        try {
-          const meta = transformImage(
-            "./src/site" + decodeURI(imageTag.getAttribute("src")),
-            cls.toString(),
-            alt,
-            ["(max-width: 480px)", "(max-width: 1024px)"]
-          );
-
-          if (meta) {
-            fillPictureSourceSets(src, cls, alt, meta, width, imageTag);
-          }
-        } catch {
-          // Make it fault tolarent.
-        }
-      }
-    }
-    return str && parsed.innerHTML;
-  });
 
   eleventyConfig.addTransform("table", function (str) {
     const parsed = parse(str);
