@@ -106,5 +106,9 @@ body {
     code[class*=language-], pre[class*=language-] {
         text-shadow: none;
     }
+
+    a {
+        text-decoration: underline !important;
+    }
 }
 
