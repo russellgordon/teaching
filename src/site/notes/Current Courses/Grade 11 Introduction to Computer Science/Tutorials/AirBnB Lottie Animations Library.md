@@ -65,7 +65,9 @@ When you are all done, your project should look like this:
 
 At this point, commit and push your work to your remote, with the message:
 
-	Organized project and created a list view to show interesting animations.
+```
+Organized project and created a list view to show interesting animations.
+```
 
 ## Add the third-party package
 
@@ -99,7 +101,9 @@ If things worked correctly, you should see `Lottie` listed under **Package Depen
 
 At this point, commit and push your work to your remote, with the message:
 
-	Added the third-party lottie-ios library.
+```
+Added the third-party lottie-ios library.
+```
 
 ## Add Mr. Gordon's helper view
 
@@ -117,7 +121,9 @@ While you are welcome to review this code, it's not necessary for you to know ho
 
 At this point, commit and push your work to your remote, with the message:
 
-	Added Mr. Gordon's helper view.
+```
+Added Mr. Gordon's helper view.
+```
 
 ## Download an animation
 
@@ -143,7 +149,9 @@ Repeat this process until you have several animations that you like in your proj
 
 At this point, commit and push your work to your remote, with the message:
 
-	Added several animations that I like.
+```
+Added several animations that I like.
+```
 
 ## Write a structure to describe the animations
 
@@ -165,7 +173,9 @@ If you wish, you can [use this code](https://gist.githubusercontent.com/lcs-rgor
 
 At this point, commit and push your work to your remote, with the message:
 
-	Added a structure and an array to describe my favourite animations.
+```
+Added a structure and an array to describe my favourite animations.
+```
 
 ## Allow for navigation with a list
 
