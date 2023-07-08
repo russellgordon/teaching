@@ -47,7 +47,9 @@ This is a case where a `Spacer` structure is helpful. Add one above the `Text` v
 
 This is pretty good – we still have some work to do – but let's commit and push at this point, with the following message:
 
-	Added a simple list and made the position of user interface elements mostly match the goal.
+```
+Added a simple list and made the position of user interface elements mostly match the goal.
+```
 
 Now, compared to the goal:
 
@@ -89,7 +91,9 @@ This is great progress – our app better matches the goal.
 
 So, save your work now by committing and pushing with this message:
 
-	Made list style better match our goal; also adjusted list item insets.
+```
+Made list style better match our goal; also adjusted list item insets.
+```
 
 ### Mini-Exercise: Complete the list
 
