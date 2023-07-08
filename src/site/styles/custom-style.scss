@@ -77,7 +77,9 @@ body {
 
     --accent-h: 211;
     --accent-s: 100%;
-    --accent-l: 50%;   
+    --accent-l: 50%;
+
+    --nested-padding: 0em;
 
     div.transclusion {
         padding: 0px;
@@ -99,6 +101,6 @@ body {
         image-rendering: auto !important;
     }
 
-    --callout-title-size: 1.2em;
+    // --callout-title-size: 1.2em;
 }
 
