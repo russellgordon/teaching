@@ -104,7 +104,9 @@ The first step of this lesson is complete.
 
 Commit and push your work using `Option-Command-C` and use the commit message:
 
-	Made the background color.
+```
+Made the background color.
+```
 
 # Showing the time
 
@@ -151,7 +153,9 @@ Finally, change the background color on line 15 to black:
 
 This is good progress, so commit and push your work using `Option-Command-C` with this commit message:
 
-	Got the typeface for the time and the colours set up.
+```
+Got the typeface for the time and the colours set up.
+```
 
 ## Creating the buttons
 
@@ -207,7 +211,9 @@ We have successfully described the form of the button!
 
 This is good work, so let's commit and push with this message:
 
-	Got the basic structure of the first circular button completed.
+```
+Got the basic structure of the first circular button completed.
+```
 
 ## Creating a Custom Structure
 
@@ -253,7 +259,9 @@ If all goes well, after hiding the Project Navigator on the left, and showing th
 
 It may not feel like this accomplished much, but it has – let's commit and save this progress, using the message:
 
-	Created CircleButtonView as a helper to make ContentView shorter.
+```
+Created CircleButtonView as a helper to make ContentView shorter.
+```
 
 ## Making the custom structure more useful
 
@@ -363,7 +371,9 @@ We've made a lot of progress here that we don't want to lose.
 
 Commit and push your work with this message:
 
-	Added stored properties to CircleButtonView so we can use it to show multiple buttons. We do this by providing different arguments for the parameters when an instance of CircleButtonView is created.
+```
+Added stored properties to CircleButtonView so we can use it to show multiple buttons. We do this by providing different arguments for the parameters when an instance of CircleButtonView is created.
+```
 
 > [!TIP]
 > Now continue with [[Current Courses/Grade 11 Introduction to Computer Science/Topics/SwiftUI/Reproducing the Digital Stopwatch Interface, Part 2\|part 2 of this lesson]].
