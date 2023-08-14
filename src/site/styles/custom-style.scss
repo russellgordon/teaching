@@ -134,16 +134,7 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-  :root {
-      filter: invert(100%);
-    }
-
-    img, .callout { 
-        filter: invert(100%);
-    }
-
-    img {
-        filter: brightness(50%);
-    }
-    
+    --background-primary: rgb(223, 224, 224);
+    --background-secondary: rgb(198, 199, 199);
+    --text-normal: rgb(35, 34, 33);
 }
