@@ -138,12 +138,8 @@ body {
         filter: invert(100%);
     }
 
-    html body img, html body iframe, html body video {
+    html body img, html body iframe, html body video, html div.callout {
         filter: invert(100%);
         filter: brightness(50%);
-    }
-
-    div.callout {
-        filter: invert(100%);
     }
 }
