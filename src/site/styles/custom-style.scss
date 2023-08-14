@@ -130,10 +130,11 @@ body {
     --background-primary: rgb(32, 31, 31);
     --background-secondary: rgb(57, 56, 56);
     --text-normal: #dcddde;
+    }
 }
 
 @media (prefers-color-scheme: light) {
   :root {
       filter: invert(100%);
+    }
 }
-
