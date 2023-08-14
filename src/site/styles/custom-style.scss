@@ -137,4 +137,13 @@ body {
   :root {
       filter: invert(100%);
     }
+
+    img, .callout { 
+        filter: invert(0%);
+    }
+
+    img {
+        filter: brightness(50%);
+    }
+    
 }
