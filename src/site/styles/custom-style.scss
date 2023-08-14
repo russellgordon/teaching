@@ -145,7 +145,7 @@ body {
     }
 
     html > body > main > div.callout {
-        filter: brightness(150%);
+        filter: invert(25%);
     }
 
 }
