@@ -135,10 +135,6 @@ body {
 
 @media (prefers-color-scheme: dark) {
 
-    :root {
-        --callout-color: rgba(var(--callout-color), 0.4);
-    }
-    
     html {
         filter: invert(100%);
     }
@@ -149,4 +145,8 @@ body {
         transition: opacity .25s ease-in-out;
     }
 
+    .callout {
+        background-color: rgba(var(--callout-color), 0.4);
+    }
+    
 }
