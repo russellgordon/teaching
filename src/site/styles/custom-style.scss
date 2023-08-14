@@ -136,16 +136,13 @@ body {
 @media (prefers-color-scheme: dark) {
     html {
         filter: invert(100%);
+        --callout-color: rgba(var(--callout-color), 0.4);
     }
 
     html body img, html body iframe, html body video {
         filter: invert(100%);
         opacity: .75;
         transition: opacity .25s ease-in-out;
-    }
-
-    html > body > main > div.callout {
-        filter: invert(25%);
     }
 
 }
