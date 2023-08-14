@@ -142,8 +142,10 @@ body {
         filter: invert(100%);
     }
 
-    html body div.callout {
-        filter: invert(100%);
-        filter: brightness(50%);
+    body {
+        div.callout {            
+            filter: invert(100%);
+            filter: brightness(50%);
+        }
     }
 }
