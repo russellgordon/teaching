@@ -125,7 +125,7 @@ body {
     
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
   :root {
     --background-primary: rgb(32, 31, 31);
     --background-secondary: rgb(57, 56, 56);
@@ -133,7 +133,7 @@ body {
     }
 }
 
-@media (prefers-color-scheme: light) {
+@media (prefers-color-scheme: dark) {
   :root {
       filter: invert(100%);
     }
