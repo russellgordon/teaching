@@ -125,7 +125,7 @@ body {
     
 }
 
-@media (prefers-color-scheme: dark) {
+@media (prefers-color-scheme: light) {
     :root {
         --background-primary: rgb(32, 31, 31);
         --background-secondary: rgb(57, 56, 56);
@@ -133,10 +133,16 @@ body {
     }
 }
 
-@media (prefers-color-scheme: light) {
-    :root {
-        --background-primary: rgb(223, 224, 224);
-        --background-secondary: rgb(198, 199, 199);
-        --text-normal: rgb(35, 34, 33);
+@media (prefers-color-scheme: dark) {
+    body {
+        filter: invert(100%);
+    }
+
+    body img, body iframe, body video {
+        filter: invert(100%);
+    }
+
+    .callout {
+        filter: invert(100%);
     }
 }
