@@ -134,15 +134,15 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
-    body {
+    html {
         filter: invert(100%);
     }
 
-    body img, body iframe, body video {
+    html body img, html body iframe, html body video {
         filter: invert(100%);
     }
 
-    .callout {
+    .callout, .callout>img {
         filter: invert(100%);
     }
 }
