@@ -140,9 +140,10 @@ body {
 
     html body img, html body iframe, html body video {
         filter: invert(100%);
+        filter: brightness(50%);
     }
 
-    .callout, .callout>img {
+    div.callout {
         filter: invert(100%);
     }
 }
