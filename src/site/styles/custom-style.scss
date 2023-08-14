@@ -138,7 +138,7 @@ body {
         filter: invert(100%);
     }
 
-    html body img, html body iframe, html body video {
+    html body img, html body iframe, html body video, html > body > main > div.callout {
         filter: invert(100%);
         opacity: .75;
         transition: opacity .25s ease-in-out;
