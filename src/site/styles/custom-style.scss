@@ -134,9 +134,13 @@ body {
 }
 
 @media (prefers-color-scheme: dark) {
+
+    :root {
+        --callout-color: rgba(var(--callout-color), 0.4);
+    }
+    
     html {
         filter: invert(100%);
-        --callout-color: rgba(var(--callout-color), 0.4);
     }
 
     html body img, html body iframe, html body video {
