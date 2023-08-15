@@ -24,5 +24,5 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 - Creating a course website:
 	1. [[CEMC/SCCST2023/Initial Setup\|Initial Setup]]
 	2. [[CEMC/SCCST2023/Theming\|Theming]]
-	3. [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|Diagrams, Screenshots, and Animations]]
+	3. [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]]
 	4. [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]]
