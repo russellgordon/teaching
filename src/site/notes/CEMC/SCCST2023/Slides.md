@@ -3,6 +3,10 @@
 ---
 
 
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]]
+
+---
+
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
