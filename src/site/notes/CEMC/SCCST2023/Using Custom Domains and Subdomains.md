@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/cemc/sccst-2023/using-custom-domains-and-subdomains/","dgHomeLink":false}
 ---
 
-← [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|Diagrams, Screenshots, and Animations]]
+← [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]]
 
 ---
 
@@ -10,6 +10,6 @@
 
 ---
 
-← [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|Diagrams, Screenshots, and Animations]]
+← [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]]
 
 
