@@ -48,7 +48,8 @@ Here is an example of a site built using this workflow – feel free to poke aro
    
    ![Screenshot 2023-08-15 at 3.06.18 PM.png|400](/img/user/Attachments/Screenshot%202023-08-15%20at%203.06.18%20PM.png)
    
-   > [!NOTE]
+> [!NOTE]
+> 
 > Vaults published through Digital Garden to a website can optionally include built-in site-wide search functionality.
 > 
 > If you wish to limit search results to those for a specific course, create one vault (and therefore, one website) per course.
@@ -58,10 +59,10 @@ Here is an example of a site built using this workflow – feel free to poke aro
 > This tutorial will assume you are using a single vault per course.
 > 
 > Note that it is possible to create subdomains for each vault you publish. For example, this year, the author plans to publish the following sites for use by his students:
-> 
+>  
 > - `icd2o-2023-24.russellgordon.ca`
 > - `ics3u-2023-24.russellgordon.ca`
-> - `icd4u-2023-24.russellgordon.ca`
+> - `ics4u-2023-24.russellgordon.ca`
 
 4. Obsidian may default to using a dark theme. This can be adjusted:
    
@@ -118,11 +119,11 @@ Here is an example of a site built using this workflow – feel free to poke aro
    You will arrive at your site overview page – please keep this page open for future use:
    
    ![Screenshot 2023-08-15 at 2.50.34 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%202.50.34%20PM.png)
+   
+   At this point, GitHub can now "speak to" Netlify. 🎉
+   
+   Visually:
       
-    At this point, GitHub can now "speak to" Netlify. 🎉
-    
-    Visually:
-	   
 	```mermaid
 	flowchart LR
 	
@@ -142,15 +143,16 @@ Here is an example of a site built using this workflow – feel free to poke aro
    ![Installing the Digital Garden plugin.gif](/img/user/Attachments/Installing%20the%20Digital%20Garden%20plugin.gif)
    
 9. Now we provide the Digital Garden plugin in Obsidian the information it requires to write changes to the remote repository on GitHub. Visually:   
-   ```mermaid
+      ```mermaid
    flowchart LR
    id1["GitHub\n(remote repository)"]
    id3["Obsidian\n(local vault of Markdown-formatted text files)"]
    id3 --> id1
    ```   
 
-   Quoting from the plugin author's instructions:
-> Create an *access token* to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page.
+   Quoting from the plugin author's instructions:  
+   
+   > Create an *access token* to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page.
    
    When creating your token, given it a descriptive name – I choose to enable the "No expiration" option so that I never have to think about this again after setting up a course website:
    
