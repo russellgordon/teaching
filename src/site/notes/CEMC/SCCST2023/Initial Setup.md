@@ -3,7 +3,7 @@
 ---
 
 
-[[CEMC/SCCST2023/Theming\|Theming]] → 
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]] | [[CEMC/SCCST2023/Theming\|Theming]] → 
 
 ---
 
@@ -239,6 +239,4 @@ In part four of the tutorial series, you can optionally set up your course websi
 
 ---
 
-[[CEMC/SCCST2023/Theming\|Theming]] → 
-
-
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]] | [[CEMC/SCCST2023/Theming\|Theming]] → 
