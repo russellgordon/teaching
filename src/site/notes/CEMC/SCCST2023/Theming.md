@@ -60,7 +60,7 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
 
 4. Now, press `Command-P` on a Mac or `Control-P` on a Windows machine to open the *command palette* in Obsidian. Find the **Digital Garden: Publish Multiple Notes** option, then press the Enter or Return key.
    
-   You should see a status message indicating that a note has been published to your garden. If you visit Vercel, you can track deployment progress – which should only take a matter of seconds.
+   You should see a status message indicating that a note has been published to your garden. If you visit [Vercel](https://vercel.com/), you can track deployment progress – which should only take a matter of seconds.
    
    Now open the *command palette* again and find the **Digital Garden: Copy Garden URL** command, then press Enter or Return.
     
@@ -68,7 +68,11 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
     
     ![Screenshot 2023-08-15 at 12.01.25 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.01.25%20PM.png)
 
-
+5. This step can be considered optional, but is recommended. In short, there are some behaviours and appearances in the **Minimal** theme that are sub-optimal.
+   
+```swift
+let x = 1   
+```
    
    
 
