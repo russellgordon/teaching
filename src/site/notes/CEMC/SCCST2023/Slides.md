@@ -35,6 +35,8 @@ Satisfy 80/20 rule.
 
 Meet the needs of English language learners.
 
+![Screenshot 2023-08-15 at 11.23.25 AM.png|700](/img/user/Attachments/Screenshot%202023-08-15%20at%2011.23.25%20AM.png)
+
 ---
 
 ### Benefits
@@ -113,5 +115,14 @@ Dependencies on:
 - [Digital Garden](https://dg-docs.ole.dev) plugin.
 - [GitHub](https://github.com)
 - [Netlify](https://www.netlify.com) or [Vercel](https://vercel.com)
+
+---
+
+### Personal Conclusion
+
+Benefits outweigh potential for software failure.
+
+Better than manually writing HTML, using a word processor, or a proprietary content management system.
+
 
 </div></div>
