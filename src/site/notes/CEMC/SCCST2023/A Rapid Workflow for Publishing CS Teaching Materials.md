@@ -21,8 +21,9 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 
 - [[CEMC/SCCST2023/Slides\|Presentation slides]]
 	- A sparse introduction to the motivation for using this workflow, its benefits, and its drawbacks.
-- Creating a course website:
-	1. [[CEMC/SCCST2023/Initial Setup\|Initial Setup]]
+- Creating a course website by completing these mini-modules:
+	1. [[CEMC/SCCST2023/Publishing Setup\|Publishing Setup]]
 	2. [[CEMC/SCCST2023/Theming\|Theming]]
-	3. [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]]
-	4. [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]]
+	3. [[CEMC/SCCST2023/Screenshots\|Screenshots]]
+	4. [[CEMC/SCCST2023/Diagrams\|Diagrams]]
+	5. [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]]
