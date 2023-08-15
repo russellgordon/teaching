@@ -13,7 +13,7 @@
 
 Improve the legibility and appearance of the default theme for a Digital Garden. Learn how to control the publishing pipeline so that high-quality images are not automatically downsampled.
 
-The default appearance of a published Digital Garden not particularly appealing:
+The default appearance of a published Digital Garden is not particularly appealing:
 
 ![Screenshot 2023-08-15 at 3.50.26 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%203.50.26%20PM.png)
 
