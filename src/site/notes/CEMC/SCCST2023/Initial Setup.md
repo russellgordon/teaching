@@ -233,7 +233,7 @@ id3 --> id1 --> id2
 
 In part two of this tutorial series, you will [[CEMC/SCCST2023/Theming\|learn how to select a theme]] in Obsidian and have the Digital Garden plugin apply this theme to your published website.
 
-In part three of the tutorial series, you will learn how to [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|create diagrams, add screenshots, and insert animations]].
+In part three of the tutorial series, you will learn how to [[CEMC/SCCST2023/Diagrams and Animations\|create diagrams, add screenshots, and insert animations]].
 
 In part four of the tutorial series, you can optionally set up your course websites to be [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|accessed from a custom domain or subdomain]].
 
