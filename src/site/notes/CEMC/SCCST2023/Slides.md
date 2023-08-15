@@ -35,7 +35,7 @@ Satisfy 80/20 rule.
 
 Meet the needs of English language learners.
 
-![Screenshot 2023-08-15 at 11.23.25 AM.png|700](/img/user/Attachments/Screenshot%202023-08-15%20at%2011.23.25%20AM.png)
+![Screenshot 2023-08-15 at 2.31.25 PM.png|700](/img/user/Attachments/Screenshot%202023-08-15%20at%202.31.25%20PM.png)
 
 ---
 
