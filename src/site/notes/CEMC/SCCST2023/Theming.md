@@ -3,7 +3,7 @@
 ---
 
 
-← [[CEMC/SCCST2023/Initial Setup\|Initial Setup]] | [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|Diagrams, Screenshots, and Animations]] →
+← [[CEMC/SCCST2023/Initial Setup\|Initial Setup]] | [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]] →
 
 ---
 
@@ -68,15 +68,73 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
     
     ![Screenshot 2023-08-15 at 12.01.25 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.01.25%20PM.png)
 
-5. This step can be considered optional, but is recommended. In short, there are some behaviours and appearances in the **Minimal** theme that are sub-optimal.
+5. This step can be considered optional, but is recommended.
    
-```swift
-let x = 1   
-```
+   In short, there are some behaviours and appearances in the **Minimal** theme that are sub-optimal when published to a website through the Digital Garden plugin.
    
+   For example, you can include code blocks in a page – and within Obsidian, the appearance is reasonable:
    
+	```swift
+	let x = 1   
+	```
+   
+   However, when published via the Digital Garden plugin, for some reason a shadow is applied to the code:
+   
+   ![Screenshot 2023-08-15 at 12.20.33 PM.png|250](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.20.33%20PM.png)
+   
+   Over the course of the past school year, I have found several rough edges like the one described above.
+   
+   Fortunately, you can tweak the appearance of the published site using custom CSS code. This custom CSS just needs to be applied within the correct file within your GitHub repository.
+   
+   If you wish to adopt the tweaks that I use, you can [access the CSS code here](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/23d7874ae5608d85da82e71766164dd9030900fd/custom-style.css).
+   
+   Then, navigate to [GitHub](https://github.com/), and into the repository holding your course website:
+   
+   ![Screenshot 2023-08-15 at 12.34.00 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.34.00%20PM.png)
+   
+   Navigate to the following path: `src > site > styles`
+   
+   Open the `custom-style.scss` file by clicking the filename.
+   
+   Edit the file by pressing the pencil icon:
+   
+   ![Pasted image 20230815123558.png](/img/user/Attachments/Pasted%20image%2020230815123558.png)
+   
+   Replace the existing contents of the file with the [custom CSS provided earlier](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/23d7874ae5608d85da82e71766164dd9030900fd/custom-style.css), then press the green **Commit changes...** button. 
+   
+   In the dialog that appears, you may wish to provide a reasonable commit message, then press the green **Commit changes** button:
+   
+   ![Screenshot 2023-08-15 at 12.37.44 PM.png|450](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.37.44%20PM.png)
+   
+   After committing, if you refresh the web page in GitHub, you will see the new changes. If you visit [your Vercel dashboard](https://vercel.com/dashboard), you will note that a new deployment has been started, since the GitHub repository was updated.
+   
+   Now switch back to Obsidian, and try adding a short code block to your **My first note** page:
+   
+		```swift
+		let x = 1
+		let y = 2
+		let z = x * y
+		```
+	... like this:
+	
+	 ![Screenshot 2023-08-15 at 12.43.46 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.43.46%20PM.png)
+	 
+	 Then, use `Command-P` on a Mac or `Control-P` on a Windows machine to open the *command palette* in Obsidian.
+	 
+	 This time, search for and activate the **Quick Publish and Share Note** command. This is the same as manually triggering the commands `Add Publish Flag --> Publish Single Note --> Copy Garden URL` in sequence.
+	 
+	 After giving Vercel a few seconds to publish your changes, paste the address of the page into a web browser window, and verify that the note was updated on the website:
+	 
+	 ![Screenshot 2023-08-15 at 12.49.54 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.49.54%20PM.png)
+	 
+	 You can verify that the custom CSS code is working if you zoom in and see no shadows on the code.
+	 
+	 Additionally, if you change the appearance of your operating system or web browser to dark mode, you should see that the course website adopts a reasonable color scheme:
+	 
+	 ![Screenshot 2023-08-15 at 12.50.26 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2012.50.26%20PM.png)
+	
 
 ---
 
-← [[CEMC/SCCST2023/Initial Setup\|Initial Setup]] | [[CEMC/SCCST2023/Diagrams, Screenshots, and Animations\|Diagrams, Screenshots, and Animations]] →
+← [[CEMC/SCCST2023/Initial Setup\|Initial Setup]] | [[CEMC/SCCST2023/Diagrams and Animations\|Diagrams and Animations]] →
 
