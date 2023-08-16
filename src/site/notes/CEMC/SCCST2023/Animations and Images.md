@@ -11,3 +11,6 @@
 
 << **TODO:** Talk about using Screenflow and ImageOptim to create and optimize animations >> 
 
+---
+
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]]
