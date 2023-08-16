@@ -79,7 +79,7 @@ Learn how to manage screenshots and attachments in Obsidian, and control the pub
    
    Add this commit message:
    
-		   Ensure that PNG and GIF files are not optimized when published.
+	 `Ensure that PNG and GIF files are not optimized when published.`
   
    Then press the green **Commit changes** button.
    
