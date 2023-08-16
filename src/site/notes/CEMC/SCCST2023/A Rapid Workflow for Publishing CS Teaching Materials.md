@@ -23,7 +23,7 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 
 An [end-of-module task](https://ics3u-2023.mrgordon.tech/tasks/reproduce-an-interface/) for students to complete to demonstrate learning goal mastery.
 
-A [complete course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
+A [course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
 
 ## Resources
 
