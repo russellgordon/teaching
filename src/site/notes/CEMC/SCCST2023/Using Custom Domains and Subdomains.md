@@ -11,7 +11,7 @@
 
 ## Goals
 
-Learn how to publish your site at a custom domain, and optionally use a sub-domain.
+Learn how to publish your site at a custom domain and optionally use a sub-domain.
 
 ## Steps to Complete
 
