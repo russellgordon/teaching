@@ -124,7 +124,11 @@ body {
     --radius-xl: 4px;
 
     blockquote > p {
-        padding-left: 20em;
+        padding-left: 20px;
+    }
+
+    blockquote {
+        padding-left: 20px;
     }
     
 }
