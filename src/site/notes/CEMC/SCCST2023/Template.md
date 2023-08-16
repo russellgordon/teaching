@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/cemc/sccst-2023/template/","dgHomeLink":false}
 ---
 
+
 [[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]]
 
 ---
