@@ -122,6 +122,10 @@ body {
     --radius-m: 2px;
     --radius-l: 3px;
     --radius-xl: 4px;
+
+    blockquote > p {
+        padding-left: 20em;
+    }
     
 }
 
