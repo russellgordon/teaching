@@ -17,13 +17,26 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 > [!NOTE]
 > This material was initially shared on Thursday, August 17, 2023 at the [Summer Conference for Computer Studies Teachers](https://cemc2.math.uwaterloo.ca/events/sinstitute/), organized by the  [Centre for Education in Mathematics and Computing](https://www.cemc.uwaterloo.ca).
 
+## Output examples
+
+Here is an example of [a longer tutorial](https://ics3u-2023.mrgordon.tech/tutorials/air-bn-b-lottie-animations-library/) that the author, in the past, might have conveyed using a PDF file (exported from presentation software) or with a video.
+
+Here is a [complete course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
+
 ## Resources
+
+> [!IMPORTANT]
+> All illustrations were made using macOS, but this is an entirely cross-platform workflow that has also been tested on Windows. 
+> 
+> Obsidian is the key piece of software, and it also supports Linux, but this has not been tested by the author.
 
 - [[CEMC/SCCST2023/Slides\|Presentation slides]]
 	- A sparse introduction to the motivation for using this workflow, its benefits, and its drawbacks.
-- Create a course website by completing these mini-modules:
+- Configure a publishing workflow for a course website:
 	1. [[CEMC/SCCST2023/Publishing Setup\|Publishing Setup]]
 	2. [[CEMC/SCCST2023/Theming\|Theming]]
 	3. [[CEMC/SCCST2023/Screenshots\|Screenshots]]
 	4. [[CEMC/SCCST2023/Diagrams\|Diagrams]]
 	5. [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]]
+- Optionally use an [[CEMC/SCCST2023/Template\|existing site template]] and enable features like site search.
+- Explore [other features offered](https://dg-docs.ole.dev/features/) by the Digital Garden plugin.
