@@ -21,7 +21,7 @@ Russell Gordon
 
 ###  Motivation
 
-Avoid fiddling with page layout or slides.
+Avoid fiddling with GUI-based page layout, slides, and diagramming software.
 
 ---
 
@@ -41,7 +41,41 @@ Meet the needs of English language learners.
 
 ### Benefits
 
-Diagrams and flowcharts using Mermaid.
+Syntax-highlighted code blocks for most languages.
+
+```python
+# Greet the world using a function in Python
+def hello_world():
+  return "Hello, world!"
+```
+
+---
+
+### Benefits
+
+Math notation using LaTeX: single-line.
+
+$x=\frac{-b \pm\sqrt{b^2-4ac}}{2a}$
+
+---
+
+### Benefits
+
+Math notation using LaTeX: multi-line.
+
+$
+\begin{aligned}
+a &= -0.25 \\
+b &= 2 \\
+c &= 1.5
+\end{aligned}
+$
+
+---
+
+### Benefits
+
+Mermaid: left-right [flowchart](https://mermaid.js.org/syntax/flowchart.html).
 
 ```mermaid
 flowchart LR
@@ -53,6 +87,164 @@ id2 --> id5[Claire]
 id2 --> id6[Jen]
 id2 --> id7[Lasagna]
 id2 --> id8[Piper]
+```
+
+---
+
+### Benefits
+
+Mermaid: top-down [flowchart](https://mermaid.js.org/syntax/flowchart.html).
+
+```mermaid
+flowchart TD
+
+id1["App Entry Point\n(NavigationView)"] --> id2["List\n(NavigationLink)"]
+id2 --> id3[Blue Jays]
+id2 --> id4[Cheesecake]
+id2 --> id5[Claire]
+id2 --> id6[Jen]
+id2 --> id7[Lasagna]
+id2 --> id8[Piper]
+```
+
+---
+
+### Benefits
+
+Mermaid: [sequence](https://mermaid.js.org/syntax/sequenceDiagram.html) diagram.
+
+```mermaid
+sequenceDiagram
+    Alice->>John: Hello John, how are you?
+    John-->>Alice: Great!
+    Alice-)John: See you later!
+```
+
+---
+
+### Benefits
+
+Mermaid: [class](https://mermaid.js.org/syntax/classDiagram.html) diagram.
+
+```mermaid
+classDiagram
+    Animal <|-- Duck
+    Animal <|-- Fish
+    Animal <|-- Zebra
+    Animal : +int age
+    Animal : +String gender
+    Animal: +isMammal()
+    Animal: +mate()
+    class Duck{
+        +String beakColor
+        +swim()
+        +quack()
+    }
+    class Fish{
+        -int sizeInFeet
+        -canEat()
+    }
+    class Zebra{
+        +bool is_wild
+        +run()
+    }
+```
+
+---
+
+### Benefits
+
+Mermaid: [state](https://mermaid.js.org/syntax/stateDiagram.html) diagram.
+
+```mermaid
+stateDiagram-v2
+    [*] --> Still
+    Still --> [*]
+
+    Still --> Moving
+    Moving --> Still
+    Moving --> Crash
+    Crash --> [*]
+```
+
+---
+
+### Benefits
+
+Mermaid: [entity-relationship](https://mermaid.js.org/syntax/entityRelationshipDiagram.html) diagram.
+
+```mermaid
+erDiagram
+    CUSTOMER ||--o{ ORDER : places
+    ORDER ||--|{ LINE-ITEM : contains
+    CUSTOMER }|..|{ DELIVERY-ADDRESS : uses
+```
+
+---
+
+### Benefits
+
+Mermaid: [user journey](https://mermaid.js.org/syntax/userJourney.html) diagrams.
+
+```mermaid
+journey
+    title My working day
+    section Go to work
+      Make tea: 5: Me
+      Go upstairs: 3: Me
+      Do work: 1: Me, Cat
+    section Go home
+      Go downstairs: 5: Me
+      Sit down: 5: Me
+```
+
+---
+
+### Benefits
+
+Mermaid: [Gantt](https://mermaid.js.org/syntax/gantt.html) charts.
+
+```mermaid
+gantt
+    title A Gantt Diagram
+    dateFormat YYYY-MM-DD
+    section Section
+        A task          :a1, 2014-01-01, 30d
+        Another task    :after a1, 20d
+    section Another
+        Task in Another :2014-01-12, 12d
+        another task    :24d
+```
+---
+
+### Benefits
+
+Mermaid: [pie](https://mermaid.js.org/syntax/pie.html) charts.
+
+```mermaid
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 30
+```
+---
+
+### Benefits
+
+Mermaid: [git graph](https://mermaid.js.org/syntax/gitgraph.html) diagrams.
+
+```mermaid
+gitGraph
+   commit
+   commit
+   branch develop
+   checkout develop
+   commit
+   commit
+   checkout main
+   merge develop
+   commit
+   commit
 ```
 
 ---
