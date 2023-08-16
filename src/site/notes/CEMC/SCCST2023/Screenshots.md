@@ -96,4 +96,3 @@ Next, see how Mermaid can be used within Obsidian to [[CEMC/SCCST2023/Diagrams\|
 ---
 
 ← [[CEMC/SCCST2023/Publishing Setup\|Publishing Setup]] | [[CEMC/SCCST2023/Diagrams\|Diagrams]] →
-
