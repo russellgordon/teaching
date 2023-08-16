@@ -289,7 +289,7 @@ Link quickly to existing content.
 
 Publish a searchable site.
 
-<< Show search with Digital Garden >>
+![Screenshot 2023-08-16 at 1.04.00 PM 1.png](/img/user/Attachments/Screenshot%202023-08-16%20at%201.04.00%20PM%201.png)
 
 ---
 
