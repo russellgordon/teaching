@@ -53,8 +53,8 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
    
    ![Screenshot 2023-08-15 at 3.58.48 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%203.58.48%20PM.png)
    
-   > [!TIP]
-   > It's possible to use one theme for Obsidian and then select a different theme for what gets published on the website that your students will use. In practice, I find this to be a suboptimal workflow – I want to see, locally as I author content, presentation of information that is as close to what students will see as possible.
+   > [!NOTE]
+   > It's possible to use one theme for Obsidian and then select a different theme for what gets published on the website that your students will use. In practice, the author finds this to be a suboptimal workflow.  When writing content for the consumption of a target audience, it is best to see a preview of that content that is as close as possible to what the audience will see.
 
 4. Make one small addition to the page content:
    
@@ -112,12 +112,14 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
    
    Now switch back to Obsidian, and try adding a short code block to your **My first note** page:
    
-		```swift
-		let x = 1
-		let y = 2
-		let z = x * y
-		print(z)
-		```
+   <pre>
+	```swift
+	let x = 1
+	let y = 2
+	let z = x * y
+	print(z)
+	```
+	</pre>
 	... like this:
 	
 	 ![Screenshot 2023-08-15 at 4.17.46 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%204.17.46%20PM.png)
