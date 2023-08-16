@@ -318,3 +318,8 @@ Better than manually writing HTML, using a word processor, or a proprietary cont
 
 
 </div></div>
+
+
+---
+
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]]
