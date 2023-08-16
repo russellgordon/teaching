@@ -43,4 +43,4 @@ A [complete course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (h
 - Optionally use an [[CEMC/SCCST2023/Template\|existing site template]] and enable features like site search.
 - Explore [other features offered](https://dg-docs.ole.dev/features/) by the Digital Garden plugin.
 - Things to [[CEMC/SCCST2023/Site Maintenance\|watch out for over time]].
-- Authoring and optimizing [[CEMC/SCCST2023/Animations and Images\|animations and images]].
+- Authoring and optimizing [[CEMC/SCCST2023/Animations and Optimization\|animations and images]].
