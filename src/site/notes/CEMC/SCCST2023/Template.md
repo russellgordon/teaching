@@ -55,4 +55,6 @@ And navigate search results, using the keyboard:
 
 You can review and try out [other note settings described here](https://dg-docs.ole.dev/getting-started/03-note-settings/).
 
+---
 
+[[CEMC/SCCST2023/A Rapid Workflow for Publishing CS Teaching Materials\|🏡 Home]]
