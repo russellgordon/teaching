@@ -75,6 +75,14 @@ $
 
 ### Benefits
 
+Inline math notation using LaTeX:
+
+> Videos take at least $3x$ units of time to author where $x$ is the length of the video in question.
+
+---
+
+### Benefits
+
 Mermaid: left-right [flowchart](https://mermaid.js.org/syntax/flowchart.html).
 
 ```mermaid
