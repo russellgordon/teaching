@@ -63,7 +63,7 @@ On the next dialog, press the **Create PR** button:
 
 ![Screenshot 2023-08-16 at 2.25.18 PM.png](/img/user/Attachments/Screenshot%202023-08-16%20at%202.25.18%20PM.png)
 
-"Create PR" stands for "create pull request" which essentially creates a branch of your main repository on GitHub.
+"Create PR" stands for "create pull request" which is essentially a new branch of your main repository on GitHub that contains the updates to the site template.
 
 Details on how this is handled are [described well on the plugin author's website](https://dg-docs.ole.dev/getting-started/06-updating-the-template/).
 
