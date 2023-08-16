@@ -25,10 +25,6 @@ The [Digital Garden plugin](https://dg-docs.ole.dev) is used to commit changes f
 
 In turn, any changes made to the GitHub repository are deployed on Netlify.
 
-Here is an example of a site built using this workflow – feel free to poke around!
-
-==**TODO:** Insert link to ICS2O course==
-
 ## Steps to Complete
 
 > [!TIP]
@@ -67,12 +63,18 @@ Here is an example of a site built using this workflow – feel free to poke aro
 4. Obsidian may default to using a dark theme. This can be adjusted:
    
    ![Changing Obsidian Colour Scheme.gif](/img/user/Attachments/Changing%20Obsidian%20Colour%20Scheme.gif)
+   
+   > [!TIP]
+   > 
+   > If you are working on Windows, you can access Obsidian settings via the gear icon in the lower left corner of the user interface.
+   > 
+   > ![Screenshot 2023-08-16 at 9.44.49 AM.png|150](/img/user/Attachments/Screenshot%202023-08-16%20at%209.44.49%20AM.png)
 
-5. You will need a GitHub account.
+5. You will need a [GitHub](https://github.com) account.
    
    If you do not have one, you can [create a GitHub account here](https://github.com/signup).
 
-6. You will need Netlify account.
+6. You will need [Netlify](https://www.netlify.com) account.
    
    If you do not have one, you can [create a Netlify account here](https://app.netlify.com/signup) using your GitHub credentials: 
    
@@ -153,6 +155,9 @@ Here is an example of a site built using this workflow – feel free to poke aro
    Quoting from the plugin author's instructions:  
    
    > Create an *access token* to your GitHub Account. This acts as a sort of password so that the plugin can add new notes to your GitHub repository on your behalf. Go to [this page](https://github.com/settings/tokens/new?scopes=repo) while logged in to GitHub. The correct settings should already be applied. (If you don't want to generate this every few months, choose the "No expiration" option.) Click the "Generate token" button, and copy the token you are presented with on the next page.
+   
+   > [!TIP]
+   > If you are creating more than one course website site while following these instructions, you can use the same GitHub access token that you created for your first website that was published through the Digital Garden plugin.
    
    When creating your token, given it a descriptive name – I choose to enable the "No expiration" option so that I never have to think about this again after setting up a course website:
    
