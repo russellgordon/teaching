@@ -19,9 +19,11 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 
 ## Output examples
 
-Here is an example of [a longer tutorial](https://ics3u-2023.mrgordon.tech/tutorials/air-bn-b-lottie-animations-library/) that the author, in the past, might have conveyed using a PDF file (exported from presentation software) or with a video.
+[A lesson](https://ics3u-2023.mrgordon.tech/concepts/lists/) that the author, in the past, might have conveyed using a PDF file (exported from presentation software) or with a video.
 
-Here is a [complete course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
+An [end-of-module task](https://ics3u-2023.mrgordon.tech/tasks/reproduce-an-interface/) for students to complete to demonstrate learning goal mastery.
+
+A [complete course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
 
 ## Resources
 
@@ -40,3 +42,5 @@ Here is a [complete course website](https://ics3u-2023.mrgordon.tech/section-1/h
 	5. [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]]
 - Optionally use an [[CEMC/SCCST2023/Template\|existing site template]] and enable features like site search.
 - Explore [other features offered](https://dg-docs.ole.dev/features/) by the Digital Garden plugin.
+- Things to [[CEMC/SCCST2023/Site Maintenance\|watch out for over time]].
+- Authoring and optimizing [[CEMC/SCCST2023/Animations and Images\|animations and images]].
