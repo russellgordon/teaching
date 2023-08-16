@@ -57,5 +57,5 @@ I can describe a computing innovation (in artificial intelligence, cryptography,
 ## 10
 
 I can maintain a public-facing portfolio of my work in this class to facilitate applications to post-secondary programs of study and summer employment.
-<small>Ontario: [[Introduction to Computer Science, Grade 11#D3.|D3]</small>
+<small>Ontario: [[Curriculum/Introduction to Computer Science, Grade 11#D3.\|D3]]</small>
 
