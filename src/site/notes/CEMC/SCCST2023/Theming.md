@@ -88,7 +88,7 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
    
    Fortunately, you can tweak the appearance of the published site using custom CSS code. This custom CSS just needs to be applied within the correct file within your GitHub repository.
    
-   If you wish to adopt the tweaks that I use, you can [access the CSS code here](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/08eae4a4ff436100a4717561bbdf4f9186bc6626/custom-style.css).
+   If you wish to adopt the tweaks that I use, you can [access the CSS code here](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/117e22c59b009d864c50859e520fc8df25c06242/custom-style.css).
    
    Then, navigate to [GitHub](https://github.com/), and into the repository holding your course website:
    
@@ -102,7 +102,7 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
    
    ![Screenshot 2023-08-15 at 4.08.54 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%204.08.54%20PM.png)
    
-   Replace the existing contents of the file with the [custom CSS provided earlier](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/08eae4a4ff436100a4717561bbdf4f9186bc6626/custom-style.css), then press the green **Commit changes...** button. 
+   Replace the existing contents of the file with the [custom CSS provided earlier](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/117e22c59b009d864c50859e520fc8df25c06242/custom-style.css), then press the green **Commit changes...** button. 
    
    In the dialog that appears, you may wish to provide a reasonable commit message, then press the green **Commit changes** button:
    
