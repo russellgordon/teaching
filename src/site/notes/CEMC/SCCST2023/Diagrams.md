@@ -3,7 +3,7 @@
 ---
 
 
-← [[CEMC/SCCST2023/Theming\|Theming]] | [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]] →
+← [[CEMC/SCCST2023/Screenshots\|Screenshots]] | [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]] →
 
 ---
 
@@ -69,4 +69,4 @@ Next, learn how to publish notes at a [[CEMC/SCCST2023/Using Custom Domains and 
 
 ---
 
-← [[CEMC/SCCST2023/Theming\|Theming]] | [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]] →
+← [[CEMC/SCCST2023/Screenshots\|Screenshots]] | [[CEMC/SCCST2023/Using Custom Domains and Subdomains\|Using Custom Domains and Subdomains]] →
