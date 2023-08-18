@@ -30,7 +30,7 @@ A [course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of th
 > [!IMPORTANT]
 > All illustrations were made using macOS, but this is an entirely cross-platform workflow that has also been tested on Windows. 
 > 
-> Obsidian is the key piece of software, and it also supports Linux, but this has not been tested by the author.
+> Obsidian is a key piece of the workflow. Obsidian runs on Linux, but publishing from that operating system has not been tested by the author.
 
 - [[CEMC/SCCST2023/Slides\|Presentation slides]]
 	- A sparse introduction to the motivation for using this workflow, its benefits, and its drawbacks.
@@ -44,3 +44,6 @@ A [course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of th
 - Explore [other features offered](https://dg-docs.ole.dev/features/) by the Digital Garden plugin.
 - Things to [[CEMC/SCCST2023/Site Maintenance\|watch out for over time]].
 - Authoring and optimizing [[CEMC/SCCST2023/Animations and Optimization\|animations and images]].
+
+> [!TODO]
+> Please consider [supporting Ole Eskild Steensen](https://ko-fi.com/oleeskild), the author of the [Digital Garden plugin](https://dg-docs.ole.dev).
