@@ -11,7 +11,7 @@
 
 ## Goals
 
-Improve the legibility and appearance of the default theme for a Digital Garden. Learn how to control the publishing pipeline so that high-quality images are not automatically downsampled.
+Improve the legibility and appearance of the default theme for a Digital Garden. 
 
 The default appearance of a published Digital Garden is not particularly appealing:
 
