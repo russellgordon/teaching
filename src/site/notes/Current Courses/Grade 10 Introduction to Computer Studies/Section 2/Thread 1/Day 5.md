@@ -18,7 +18,7 @@
 	- When a friend is not nearby, [use your duck](https://rubberduckdebugging.com)! 🦆
 4. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Sequence\|Sequence]]
 	- Does sequence of statements matter? Yes.
-5. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration\|Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration]]
+5. [[Current Courses/Grade 10 Introduction to Computer Studies/Concepts/Iteration\|Iteration]]
 	- A computer is very good at repeatedly doing the same thing.
 	- We can use a loop to describe what instructions should be repeated.
 	- We say that a computer *iterates* when it repeatedly runs a set of instructions.
