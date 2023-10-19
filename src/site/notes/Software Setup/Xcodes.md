@@ -8,7 +8,7 @@ Xcodes is an app to manage the installation of different versions of Xcode:
 
 ![Screenshot 2023-01-17 at 6.23.33 AM.png|400](/img/user/Attachments/Screenshot%202023-01-17%20at%206.23.33%20AM.png)
 
-You can directly [download Xcodes](https://github.com/RobotsAndPencils/XcodesApp/releases/download/v1.9.0b17/Xcodes.zip) here; an [overview of the app can be found here](https://www.xcodes.app).
+You can directly [download Xcodes](https://github.com/XcodesOrg/xcodesapp/releases/latest.zip) here; an [overview of the app can be found here](https://www.xcodes.app).
 
 Once downloaded, you will have a compressed file:
 
