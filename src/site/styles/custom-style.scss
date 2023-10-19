@@ -1,73 +1,14 @@
 body {
+
     /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
-    /*
-    ul, ol {
-        margin-left: 25px !important;
-    }
-    img {
-        margin-top: 20px;
-    }
-    .external-link {
-        background-image: none !important;
-        background-size: 0px !important;
-        padding-right: 0px !important;
-        background-position-y: 0px !important;
-        cursor: auto !important;
-    }
-    
-    .callout-extension {
-        background-color: CornflowerBlue;
-        --callout-color: 158, 158, 158;
-        --callout-icon: '<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50 50"> <path style="text-indent:0;text-align:start;line-height:normal;text-transform:none;block-progression:tb;-inkscape-font-specification:Bitstream Vera Sans" d="M 16 5 C 13.250484 5 11 7.2504839 11 10 L 11 22 A 1.0001 1.0001 0 0 0 11.6875 22.9375 L 11.875 23 L 11.6875 23.0625 A 1.0001 1.0001 0 0 0 11 24 L 11 36 L 6 36 A 1.0001 1.0001 0 0 0 5.90625 36 A 1.0001 1.0001 0 0 0 5 37 L 5 40 C 5 42.749516 7.2504839 45 10 45 L 32 45 C 34.749516 45 37 42.749516 37 40 L 37 35 A 1.0001 1.0001 0 0 0 36.25 34.03125 L 36.125 34 L 36.25 33.96875 A 1.0001 1.0001 0 0 0 37 33 L 37 23 A 1.0001 1.0001 0 0 0 36.71875 22.28125 L 36.4375 22 L 36.71875 21.71875 A 1.0001 1.0001 0 0 0 37 21 L 37 20 A 1.0001 1.0001 0 0 0 36.3125 19.0625 L 36.125 19 L 36.3125 18.9375 A 1.0001 1.0001 0 0 0 37 18 L 37 14 L 44 14 A 1.0001 1.0001 0 0 0 45 13 L 45 10 C 45 7.3039764 42.832584 5.0852138 40.15625 5 C 40.14563 4.9996619 40.135636 5.0002709 40.125 5 A 1.0001 1.0001 0 0 0 40 5 L 39.8125 5 L 16 5 z M 16 7 L 36.125 7 C 35.468136 7.8464167 35 8.8522948 35 10 L 35 12.8125 A 1.0001 1.0001 0 0 0 35 13.21875 L 35 17.28125 L 32.6875 18.0625 A 1.0001 1.0001 0 0 0 32.6875 19.9375 L 34.875 20.6875 L 34.28125 21.28125 A 1.0001 1.0001 0 0 0 34.28125 22.71875 L 35 23.4375 L 35 32.21875 L 31.75 33.03125 A 1.0001 1.0001 0 0 0 31.75 34.96875 L 35 35.78125 L 35 40 C 35 41.668484 33.668484 43 32 43 C 30.331516 43 29 41.668484 29 40 L 29 37 A 1.0001 1.0001 0 0 0 28 36 L 13 36 L 13 24.71875 L 15.3125 23.9375 A 1.0001 1.0001 0 0 0 15.3125 22.0625 L 13 21.28125 L 13 10 C 13 8.3315161 14.331516 7 16 7 z M 39.84375 7 A 1.001098 1.001098 0 0 0 40 7 A 1.0001 1.0001 0 0 0 40.09375 7 C 41.716394 7.0505975 43 8.3640858 43 10 L 43 12 L 37 12 L 37 10 C 37 8.385799 38.25178 7.0828025 39.84375 7 z M 18.71875 16 A 1.0043849 1.0043849 0 0 0 19 18 L 29 18 A 1.0001 1.0001 0 1 0 29 16 L 19 16 A 1.0001 1.0001 0 0 0 18.90625 16 A 1.001098 1.001098 0 0 0 18.8125 16 A 1.0043849 1.0043849 0 0 0 18.71875 16 z M 18.71875 20 A 1.0043849 1.0043849 0 0 0 19 22 L 25 22 A 1.0001 1.0001 0 1 0 25 20 L 19 20 A 1.0001 1.0001 0 0 0 18.90625 20 A 1.001098 1.001098 0 0 0 18.8125 20 A 1.0043849 1.0043849 0 0 0 18.71875 20 z M 18.71875 24 A 1.0043849 1.0043849 0 0 0 19 26 L 29 26 A 1.0001 1.0001 0 1 0 29 24 L 19 24 A 1.0001 1.0001 0 0 0 18.90625 24 A 1.001098 1.001098 0 0 0 18.8125 24 A 1.0043849 1.0043849 0 0 0 18.71875 24 z M 18.71875 28 A 1.0043849 1.0043849 0 0 0 19 30 L 25 30 A 1.0001 1.0001 0 1 0 25 28 L 19 28 A 1.0001 1.0001 0 0 0 18.90625 28 A 1.001098 1.001098 0 0 0 18.8125 28 A 1.0043849 1.0043849 0 0 0 18.71875 28 z M 7 38 L 27 38 L 27 40 C 27 41.147705 27.468136 42.153583 28.125 43 L 10 43 C 8.3315161 43 7 41.668484 7 40 L 7 38 z"/> </svg>' ;
-    }
-    
-    .img-grid img[alt*="."], .image-embed[alt*=grid], img[alt*=grid], .image-embed[src*="#grid"] {
-        max-height: none;
-    }
-    
-    .img-grid img[alt*="."]:hover, .image-embed[src*="#grid"]:hover, .image-embed[src*="#grid"]:hover, img[alt*=grid]:hover {
-        transform: none;
-    }
-    
-    div.language-ad-question, div.callout-question {
 
-        .admonition-title::before {
 
-            content: '❓ Exercise(s) '
-
-        }
-
-    }
-    
-    div.callout-discussion {
-
-        .admonition-title::before {
-
-            content: '💬 '
-
-        }
-
-    }
-    
-    div.callout-discussion {
-
-        background-color: CornflowerBlue;
-        --callout-color: 158, 158, 158;
-        
-    }
-    */
-
-    .internal-embed, .markdown-embed {
+    /* No border on transcluded content */
+    .internal-embed,
+    .markdown-embed {
         border-left: none !important;
     }
 
@@ -75,9 +16,12 @@ body {
         display: none;
     }
 
+    /* Change accent color to blue */
     --accent-h: 211;
     --accent-s: 100%;
     --accent-l: 50%;
+
+    /* Do not pad transcluded content */
 
     --nested-padding: 0em;
 
@@ -85,6 +29,7 @@ body {
         padding: 0px;
     }
 
+    /* No icon (arrow coming out box) when linking to off-site content */
     .external-link {
         background-image: none !important;
         background-size: 0px !important;
@@ -93,24 +38,42 @@ body {
         cursor: auto !important;
     }
 
-    ul.markdown-rendered, ol.markdown-rendered, ul.markdown-preview-view, ol.markdown-preview-view {
+    /* Slightly indent code blocks */
+    ul.markdown-rendered,
+    ol.markdown-rendered,
+    ul.markdown-preview-view,
+    ol.markdown-preview-view {
         padding-inline-start: 2em !important;
     }
 
-    .community-item-screenshot, .markdown-preview-view img, .markdown-rendered img {
+    /* Ensure images and GIFs in Safari are not pixelated */
+    img {
         image-rendering: auto !important;
     }
 
     // --callout-title-size: 1.2em;
 
-    code[class*=language-], pre[class*=language-] {
+    /* No shadow for code blocks */
+    code[class*=language-],
+    pre[class*=language-] {
         text-shadow: none;
     }
 
+    /* Links must be underlined */
     a {
         text-decoration: underline !important;
     }
 
+    /* Navbar title size and color */
+    div.navbar-inner > a {
+        text-decoration: none !important;
+        color: #6A8695;
+    }
+    div.navbar-inner > a > h1 {
+        font-size: 1.4em !important;
+    }
+
+    /* Set sizes for headings */
     --h1-size: 2em;
     --h2-size: 1.8em;
     --h3-size: 1.6em;
@@ -118,11 +81,13 @@ body {
     --h5-size: 1.2em;
     --h6-size: 1.1em;
 
+    /* Not sure about this one either... */
     --radius-s: 1px;
     --radius-m: 2px;
     --radius-l: 3px;
     --radius-xl: 4px;
-
+    
+    /* Ensure that quotes get indented just a bit */
     blockquote > p {
         padding-left: 20px;
     }
@@ -130,9 +95,21 @@ body {
     blockquote {
         padding-left: 20px;
     }
+
+    /* Ensure indent is consistent for lists (multiple lines are aligned) */
+    ul > li.task-list-item {
+        list-style: square;
+        list-style-type: "\25A2";
+        padding-left: 0.5em;
+    }
     
+    li.task-list-item > input {
+        display: none;
+    }
+
 }
 
+/* The remaining sections provide reasonable light/dark mode support */
 @media (prefers-color-scheme: light) {
     :root {
         --background-primary: rgb(32, 31, 31);
@@ -147,7 +124,9 @@ body {
         filter: invert(100%);
     }
 
-    html body img, html body iframe, html body video {
+    html body img,
+    html body iframe,
+    html body video {
         filter: invert(100%);
         opacity: .75;
     }
@@ -155,5 +134,5 @@ body {
     .callout {
         background-color: rgba(var(--callout-color), 0.4);
     }
-    
+
 }
