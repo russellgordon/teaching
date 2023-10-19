@@ -88,7 +88,7 @@ In this second part of the tutorial series, our goal will be to set up Obsidian 
    
    Fortunately, you can tweak the appearance of the published site using custom CSS code. This custom CSS just needs to be applied within the correct file within your GitHub repository.
    
-   If you wish to adopt the tweaks that I use, you can [access the CSS code here](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/117e22c59b009d864c50859e520fc8df25c06242/custom-style.css).
+   If you wish to adopt the tweaks that I use, you can [access the CSS code here](https://gist.githubusercontent.com/russellgordon/f58d88f5a3aad819d1fcd371e534ab95/raw/f45c1434d54271e2eb313b13cf98f9db045026f9/custom-style.css).
    
    Then, navigate to [GitHub](https://github.com/), and into the repository holding your course website:
    
