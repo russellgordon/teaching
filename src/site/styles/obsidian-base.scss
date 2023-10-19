@@ -2397,7 +2397,7 @@ body {
     object-fit: cover;
     border-radius: var(--radius-s);
     aspect-ratio: 16/9;
-    // image-rendering: -webkit-optimize-contrast;
+    image-rendering: -webkit-optimize-contrast;
   }
   .community-item-screenshot.mod-unavailable {
     text-align: center;
@@ -5829,7 +5829,7 @@ body {
   .callout[data-callout="question"],
   .callout[data-callout="help"],
   .callout[data-callout="faq"] {
-    --callout-color: 100, 221, 23;
+    --callout-color: 224, 172, 0;
     --callout-icon: help-circle;
   }
   .callout[data-callout="warning"],
@@ -6662,7 +6662,7 @@ body {
   .markdown-preview-view img,
   .markdown-rendered img {
     -webkit-touch-callout: default;
-    // image-rendering: -webkit-optimize-contrast;
+    image-rendering: -webkit-optimize-contrast;
   }
   .markdown-preview-view img:not([width]),
   .markdown-rendered img:not([width]) {
