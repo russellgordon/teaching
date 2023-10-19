@@ -20,9 +20,7 @@
 5. Download Xcode
 	- You can download the [current version, 14.0.1, here](https://developer.apple.com/services-account/download?path=/Developer_Tools/Xcode_14.0.1/Xcode_14.0.1.xip).
 	- This will require logging in with your Apple Developer ID that was set up last year.
-	- You may not have set up your Apple Developer ID last year; if you have not, please do so now using your LCS email address.
-> [!TIP]
-> Do not install Xcode via the App Store, as using this method means that it will automatically get upgraded when a new version is released (which is not always ideal).
+	- You may not have set up your Apple Developer ID last year; if 
 6. Sorting Algorithms
 	- With your group members, identify a method for sorting a list of numbers.
 	- Be clear about the steps of your algorithm.
