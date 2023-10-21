@@ -107,6 +107,73 @@ body {
         display: none;
     }
 
+    /* Change header for Table of Contents section */
+    div.toc-title {
+        position: absolute;
+        visibility: hidden;
+    }
+
+    div.toc-title:before {
+        font-size: 0.95rem !important;
+        font-weight: bold;
+        content: 'Navigate within this page:';
+        visibility: visible;
+    }
+
+    /* Change bullets for TOC section */
+    .toc-container li::before {
+        content: "⏺ " !important;
+        color: hsl(0, 0, 41);
+        font-size: .6rem;
+    }
+
+    /* Padding above list and below TOC title */
+    div.toc-container > nav.toc > ol > li {
+        padding-top: 20px;
+    }
+
+    /* No scrolling or side border */
+    .toc-container {
+        max-height: none;
+        border-left: none;
+        /* No margin at all */
+        margin: 0px;
+        font-size: 0.9em;
+    }
+
+    /* Remove TOC padding */
+    .toc {
+        padding: 0px;
+        padding-left: 10px;
+        padding-right: 10px;
+        background-color: var(--background-secondary);
+    }
+
+    /* Shift TOC down */
+    div.toc {
+        margin-top: 45px;
+    }
+
+    /* Shrink sidebar */
+    div.sidebar {
+        height: auto !important;
+    }
+
+    /* Less of an indent for TOC items */
+    nav.toc ol {
+        padding-inline-start: 20px;
+    }
+
+    nav.toc > ol {
+        padding-inline-start: 5px;
+    }
+
+    /* Change color of links in TOC section */
+    nav.toc a {
+        color: hsl(0, 0, 41);
+    }
+
+
 }
 
 /* The remaining sections provide reasonable light/dark mode support */
