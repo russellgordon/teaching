@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/concepts/dynamic-lists/","dgHomeLink":false}
+{"dg-publish":true,"permalink":"/current-courses/grade-11-introduction-to-computer-science/concepts/dynamic-lists/","dgHomeLink":false,"dgShowToc":true}
 ---
 
 # Dynamic Lists
