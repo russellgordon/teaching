@@ -122,7 +122,7 @@ body {
 
     /* Change bullets for TOC section */
     .toc-container li::before {
-        content: "• " !important;
+        content: "" !important;
         color: hsl(0, 0, 41);
         font-size: 0.9rem;
     }
@@ -173,6 +173,12 @@ body {
     /* Change color of links in TOC section */
     nav.toc a {
         color: hsl(0, 0, 41);
+    }
+
+    /* Change bullet type for TOC */
+    .toc-container li {
+        list-style-type: circle;
+        margin-left: 2px;
     }
 
     /* Let content scroll under navbar */
