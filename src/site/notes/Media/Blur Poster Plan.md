@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/media/blur-poster-plan/","dgHomeLink":false}
 ---
 
-## Blur Poster
+# Blur Poster
 
 ## Overall plan
 
