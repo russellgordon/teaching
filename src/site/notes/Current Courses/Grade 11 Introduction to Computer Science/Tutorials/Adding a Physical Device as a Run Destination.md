@@ -63,7 +63,7 @@ Now build the application:
 
 Next, will likely see a message indicating that Xcode cannot run the application on the device, because, essentially, your iPhone or iPad currently does not "trust" the Mac that you are developing on to install applications upon it:
 
-![Screen Shot 2022-10-31 at 7.39.02 AM.png](/img/user/Attachments/Screen%20Shot%202022-10-31%20at%207.39.02%20AM.png)
+![Screen Shot 2022-10-31 at 7.39.02 AM.png|300](/img/user/Attachments/Screen%20Shot%202022-10-31%20at%207.39.02%20AM.png)
 
 On your phone, you will see a message like this:
 
