@@ -8,7 +8,11 @@ Writing code is an abstract task.
 
 Seeing graphical output from the code you write as a beginning programmer helps to make the abstract *concrete* – that is to to say – more easily understood.
 
-So while in one sense we create graphical output in this course as a *means to an end* – learning to program a computer – it turns out that programming a computer to express yourself creatively is something that many people do professionally.
+We create graphical output in this course as a *means to an end* –that end is learning how to program a computer.
+
+It turns out that programming a computer to express yourself creatively is something that many people do professionally.
+
+In other words, making art with a computer can be not just the *means*, but the *end* – the entire point – as well.
 
 Jamie Haberman is a past student of mine, a graduate of [The Bishop Strachan School](https://www.bss.on.ca), who attended the [Iovine and Young Academy at the University of Southern California](https://iovine-young.usc.edu/discover/founders) after finishing high school.
 
