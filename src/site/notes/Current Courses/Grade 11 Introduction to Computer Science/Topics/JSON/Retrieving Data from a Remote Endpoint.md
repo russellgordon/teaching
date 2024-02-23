@@ -20,7 +20,9 @@ That is where *JavaScript Object Notation*, or JSON, is often used.
 
 JSON provides information in name-value pairs, like this:
 
-	"color":"green"
+```json
+"color":"green"
+```
 
 In this case, the *field*  or *property* name is `color`.
 
@@ -28,11 +30,13 @@ The associated *value* is `green`.
 
 Several name-value pairs can be grouped together into an object:
 
-	{
+```json
+{
 	"name":"triangle",
 	"color":"green",
 	"sides": 3
-	}
+}
+```
 
 Curly braces mark the start and end of a JSON object.
 
