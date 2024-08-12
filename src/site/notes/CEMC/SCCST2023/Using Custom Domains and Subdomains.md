@@ -48,13 +48,13 @@ Learn how to publish your site at a custom domain and optionally use a sub-domai
    
    ![Screenshot 2023-08-15 at 9.59.58 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%209.59.58%20PM.png)
    
-2. Your domain name is now fully propagated. In this example, the site is now accessible at [mrgordon.tech](https://mrgordon.tech):
+2. Your domain name is now fully propagated. In this example, the site is now accessible at [mrgordon.tech](https://russellgordon.dev):
 
    ![Screenshot 2023-08-15 at 10.02.32 PM.png](/img/user/Attachments/Screenshot%202023-08-15%20at%2010.02.32%20PM.png)
    
 3. Using sub-domains is a great way to organize courses.
    
-   The apex domain, such as [mrgordon.tech](https://mrgordon.tech), might instead be a simple placeholder:
+   The apex domain, such as [mrgordon.tech](https://russellgordon.dev), might instead be a simple placeholder:
    
    ![Screenshot 2023-08-16 at 11.15.37 AM.png](/img/user/Attachments/Screenshot%202023-08-16%20at%2011.15.37%20AM.png)
    
