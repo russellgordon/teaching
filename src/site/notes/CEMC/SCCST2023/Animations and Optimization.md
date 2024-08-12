@@ -17,7 +17,7 @@ Video creation seems to take, at best, $3x$ units of time where $x$ is the lengt
 
 Videos are often published [on a website](https://www.youtube.com) that does its level-best to distract our students from the task at hand.
 
-To explain a given concept, the author has found that short-form animations – 30 seconds at most – combined with [long-form writing and ample screenshots](https://ics3u-2023.mrgordon.tech/concepts/dynamic-lists/) – works well for about 80% of his students. This allows him to spend more time 1:1 or in small groups with the remainder of the students of his class.
+To explain a given concept, the author has found that short-form animations – 30 seconds at most – combined with [long-form writing and ample screenshots](https://ics3u-2023.russellgordon.ca/concepts/dynamic-lists/) – works well for about 80% of his students. This allows him to spend more time 1:1 or in small groups with the remainder of the students of his class.
 
 ## Animations
 
