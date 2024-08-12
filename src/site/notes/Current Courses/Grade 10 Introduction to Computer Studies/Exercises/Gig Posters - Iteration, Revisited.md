@@ -34,7 +34,7 @@ All of this is illustrated in the following animation:
 
 ## Going loopy
 
-One loop is great, so why not have two? ☺️
+One loop is great, so why not have two? 🙂
 
 Consider the following gig poster for Refused:
 
