@@ -19,11 +19,11 @@ Teacher, [Lakefield College School](https://www.lcs.on.ca)
 
 ## Output examples
 
-[A lesson](https://ics3u-2023.mrgordon.tech/concepts/lists/) that the author, in the past, might have conveyed using a PDF file (exported from presentation software) or with a video.
+[A lesson](https://ics3u-2023.russellgordon.dev/concepts/lists/) that the author, in the past, might have conveyed using a PDF file (exported from presentation software) or with a video.
 
-An [end-of-module task](https://ics3u-2023.mrgordon.tech/tasks/reproduce-an-interface/) for students to complete to demonstrate learning goal mastery.
+An [end-of-module task](https://ics3u-2023.russellgordon.dev/tasks/reproduce-an-interface/) for students to complete to demonstrate learning goal mastery.
 
-A [course website](https://ics3u-2023.mrgordon.tech/section-1/home/) (half of the author's ICS3U course from 2022-23).
+A [course website](https://ics3u-2023.russellgordon.dev/section-1/home/) (half of the author's ICS3U course from 2022-23).
 
 ## Resources
 
