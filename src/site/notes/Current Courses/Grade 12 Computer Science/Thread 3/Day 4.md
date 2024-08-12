@@ -23,7 +23,6 @@
 	- ==Follow-up:==
 		- Here is a [video of the introduction to these topics](https://youtu.be/yf6tKstyqDc) from today's class.
 
-   
 #### To-do items
 
 *Before our next class...*
