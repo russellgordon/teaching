@@ -17,7 +17,7 @@ Assuming that you have followed the [[CEMC/SCCST2023/Publishing Setup\|steps to 
 
 1. Download [this compressed file](https://russellgordon.ca/SiteTemplate.zip) and de-compress it.
    
-   It contains the structure of the [example site provided here](https://ics3u-2023.mrgordon.tech/section-1/home/), with all attachments (images and animations) removed – these add up to more than 800 MB of data that you will not need.
+   It contains the structure of the [example site provided here](https://ics3u-2023.russellgordon.ca/section-1/home/), with all attachments (images and animations) removed – these add up to more than 800 MB of data that you will not need.
    
    Navigate to the vault folder for a course website that you have set up and move or copy the de-compressed files into the vault folder – you can optionally choose whether to over-write the existing **Attachments** folder:
    
