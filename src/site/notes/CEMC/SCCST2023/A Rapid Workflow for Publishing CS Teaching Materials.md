@@ -33,7 +33,7 @@ A [course website](https://ics3u-2023.russellgordon.dev/section-1/home/) (half o
 > Obsidian is a key piece of the workflow. Obsidian runs on Linux, but publishing from that operating system has not been tested by the author.
 
 - [[CEMC/SCCST2023/Slides\|Presentation slides]]
-	- A sparse introduction to the motivation for using this workflow, its benefits, and its drawbacks.
+	- A sparse introduction to the motivation for using this workflow, its benefits, and drawbacks.
 - Configure a publishing workflow for a course website:
 	1. [[CEMC/SCCST2023/Publishing Setup\|Publishing Setup]]
 	2. [[CEMC/SCCST2023/Theming\|Theming]]
